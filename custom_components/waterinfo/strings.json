@@ -1,0 +1,14 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "data": {
+          "station": "afkorting van de locatie",
+          "code": "code van de grootheid"
+        },
+        "description": "Voer RWS-gegevens in.",
+        "title": "Waterinfo"
+      }
+    }
+  }
+}
