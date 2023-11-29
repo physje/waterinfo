@@ -1,11 +1,10 @@
 [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | Q | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
 
-#Locations with the letter Q#
+# Locations with the letter Q #
 
 
-##Platform Hoorn Q1-A##
-Code : Q1
+### Platform Hoorn Q1-A ###
+location-code : Q1
 
 Possible measurements :
-* Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm (Code : WATHTBRKD)
-* Getijextreemtype Oppervlaktewater  (Code : NVT)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm (measurement-code : WATHTBRKD)

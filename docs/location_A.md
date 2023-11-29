@@ -1,128 +1,125 @@
 A | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
 
-#Locations with the letter A#
+# Locations with the letter A #
 
 
-##A12 platform##
-Code : A12
-
-Possible measurements :
-* Windrichting Lucht t.o.v. ware Noorden in graad (Code : WINDRTG)
-* 10' scalair genmiddelde van de windsnelheid Lucht m/s (Code : WS10)
-* Getijextreemtype Oppervlaktewater  (Code : NVT)
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSHD)
-* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSTOOT)
-* Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm (Code : WATHTBRKD)
-
-##Schijndelse loop##
-Code : AA03
+### A12 platform ###
+location-code : A12
 
 Possible measurements :
-* Debiet Oppervlaktewater m3/s (Code : Q)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
+* 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
+* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm (measurement-code : WATHTBRKD)
 
-##Aadorp##
-Code : AADP
-
-Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
-
-##Alblasserdam##
-Code : ALBL
+### Schijndelse loop ###
+location-code : AA03
 
 Possible measurements :
-* Stroomsnelheid Oppervlaktewater m/s (Code : STROOMSHD)
+* Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-##Almen##
-Code : ALME
-
-Possible measurements :
-* Debiet Oppervlaktewater m3/s (Code : Q)
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
-
-##Amaliahaven##
-Code : AMHV
+### Aadorp ###
+location-code : AADP
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Amaliahaven##
-Code : AMLAHVN
-
-Possible measurements :
-* Getijextreemtype Oppervlaktewater  (Code : NVT)
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTBRKD)
-
-##Amerongen boven##
-Code : AMRB
+### Alblasserdam ###
+location-code : ALBL
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
-* Temperatuur Oppervlaktewater oC (Code : T)
+* Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-##Amerongen beneden##
-Code : AMRO
-
-Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
-
-##Antwerps kanaalpand##
-Code : ANKA
+### Almen ###
+location-code : ALME
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Debiet Oppervlaktewater m3/s (measurement-code : Q)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Antwerps kanaalpand (b)##
-Code : ANKAb
-
-Possible measurements :
-* Geleidendheid Oppervlaktewater S/m (Code : GELDHD)
-* Saliniteit Oppervlaktewater  (Code : SALNTT)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (Code : CONCTTE)
-* Temperatuur Oppervlaktewater oC (Code : T)
-
-##Antwerps kanaalpand (o)##
-Code : ANKAo
+### Amaliahaven ###
+location-code : AMHV
 
 Possible measurements :
-* Temperatuur Oppervlaktewater oC (Code : T)
-* Saliniteit Oppervlaktewater  (Code : SALNTT)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (Code : CONCTTE)
-* Geleidendheid Oppervlaktewater S/m (Code : GELDHD)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Antwerpen##
-Code : ANTW
+### Amaliahaven ###
+location-code : AMLAHVN
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-##Arnhem##
-Code : ARNH
-
-Possible measurements :
-* Debiet Oppervlaktewater m3/s (Code : Q)
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
-
-##AWG platform##
-Code : AWG
+### Amerongen boven ###
+location-code : AMRB
 
 Possible measurements :
-* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (Code : Tm02)
-* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (Code : HTE3)
-* Temperatuur Lucht oC (Code : T)
-* Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm (Code : WATHTE)
-* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (Code : T1/3)
-* 10' scalair genmiddelde van de windsnelheid Lucht m/s (Code : WS10)
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSHD)
-* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSTOOT)
-* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (Code : Fp)
-* Windrichting Lucht t.o.v. ware Noorden in graad (Code : WINDRTG)
-* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (Code : H1/3)
-* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (Code : TE3)
-* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (Code : Hm0)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
 
-##Amelander Westgat platform##
-Code : AWGPFM
+### Amerongen beneden ###
+location-code : AMRO
 
 Possible measurements :
-* Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm (Code : WATHTBRKD)
-* Getijextreemtype Oppervlaktewater  (Code : NVT)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+
+### Antwerps kanaalpand ###
+location-code : ANKA
+
+Possible measurements :
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+
+### Antwerps kanaalpand (b) ###
+location-code : ANKAb
+
+Possible measurements :
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
+
+### Antwerps kanaalpand (o) ###
+location-code : ANKAo
+
+Possible measurements :
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
+* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+
+### Antwerpen ###
+location-code : ANTW
+
+Possible measurements :
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+
+### Arnhem ###
+location-code : ARNH
+
+Possible measurements :
+* Debiet Oppervlaktewater m3/s (measurement-code : Q)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+
+### AWG platform ###
+location-code : AWG
+
+Possible measurements :
+* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
+* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
+* Temperatuur Lucht oC (measurement-code : T)
+* Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm (measurement-code : WATHTE)
+* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
+* 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
+* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
+* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
+* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
+* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
+* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
+
+### Amelander Westgat platform ###
+location-code : AWGPFM
+
+Possible measurements :
+* Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm (measurement-code : WATHTBRKD)

@@ -1,186 +1,189 @@
 [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | W | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
 
-#Locations with the letter W#
+# Locations with the letter W #
 
 
-##Walsoorden##
-Code : WALS
-
-Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
-
-##Walsoorden##
-Code : WALSODN
+### Walsoorden ###
+location-code : WALS
 
 Possible measurements :
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTBRKD)
-* Getijextreemtype Oppervlaktewater  (Code : NVT)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Weesp##
-Code : WEES
-
-Possible measurements :
-* Stroomsnelheid Oppervlaktewater m/s (Code : STROOMSHD)
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
-* Debiet Oppervlaktewater m3/s (Code : Q)
-
-##Westereems Oost boei##
-Code : WEO1
+### Walsoorden ###
+location-code : WALSODN
 
 Possible measurements :
-* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (Code : Tm02)
-* Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad (Code : Th0)
-* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (Code : Fp)
-* Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad (Code : Th3)
-* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (Code : TE3)
-* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (Code : Hm0)
-* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (Code : HTE3)
-* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (Code : H1/3)
-* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (Code : T1/3)
-* Temperatuur Oppervlaktewater oC (Code : T)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-##Werkendam buiten##
-Code : WERK
+### Weesp ###
+location-code : WEES
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+* Debiet Oppervlaktewater m3/s (measurement-code : Q)
+* Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-##Werkendam buiten##
-Code : WERKDBTN
-
-Possible measurements :
-* Getijextreemtype Oppervlaktewater  (Code : NVT)
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTBRKD)
-
-##Westervoort##
-Code : WEST
+### Well Dorp ###
+location-code : WELL
 
 Possible measurements :
-* Debiet Oppervlaktewater m3/s (Code : Q)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Westkapelle##
-Code : WESTKPLE
-
-Possible measurements :
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTBRKD)
-* Getijextreemtype Oppervlaktewater  (Code : NVT)
-
-##West-Terschelling##
-Code : WESTTSLG
+### Westereems Oost boei ###
+location-code : WEO1
 
 Possible measurements :
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTBRKD)
+* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
+* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
+* Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad (measurement-code : Th0)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
+* Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad (measurement-code : Th3)
+* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
+* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
+* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
+* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
+* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
 
-##Westervoort IJsseldijkerw##
-Code : WESTV
-
-Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
-
-##Inlaat Weurt##
-Code : WEUR
-
-Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
-
-##Westereems West boei##
-Code : WEW1
+### Werkendam buiten ###
+location-code : WERK
 
 Possible measurements :
-* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (Code : Hm0)
-* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (Code : H1/3)
-* Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad (Code : Th0)
-* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (Code : Tm02)
-* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (Code : TE3)
-* Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad (Code : Th3)
-* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (Code : HTE3)
-* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (Code : Fp)
-* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (Code : T1/3)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Wieldrecht##
-Code : WIED
+### Werkendam buiten ###
+location-code : WERKDBTN
 
 Possible measurements :
-* Stroomsnelheid Oppervlaktewater m/s (Code : STROOMSHD)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-##Wielingen Noord##
-Code : WIEL
-
-Possible measurements :
-* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (Code : Fp)
-* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (Code : Tm02)
-* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (Code : TE3)
-* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (Code : H1/3)
-* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (Code : T1/3)
-* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (Code : Hm0)
-* Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad (Code : Th0)
-* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (Code : HTE3)
-
-##Wierumergronden##
-Code : WIER
+### Westervoort ###
+location-code : WEST
 
 Possible measurements :
-* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSTOOT)
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSHD)
-* Temperatuur Lucht oC (Code : T)
-* Windrichting Lucht t.o.v. ware Noorden in graad (Code : WINDRTG)
-* 10' scalair genmiddelde van de windsnelheid Lucht m/s (Code : WS10)
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-##Wierumergronden##
-Code : WIERMGDN
+### Westkapelle ###
+location-code : WESTKPLE
 
 Possible measurements :
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTBRKD)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-##Wijdenes##
-Code : WIJD
-
-Possible measurements :
-* Windrichting Lucht t.o.v. ware Noorden in graad (Code : WINDRTG)
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSHD)
-
-##Wijhe##
-Code : WIJH
+### West-Terschelling ###
+location-code : WESTTSLG
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-##Wijk bij Duurstede##
-Code : WIJK
-
-Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
-
-##Wijk aan Zee##
-Code : WIJZ
+### Westervoort IJsseldijkerw ###
+location-code : WESTV
 
 Possible measurements :
-* Temperatuur Lucht oC (Code : T)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Wilhelminadorp##
-Code : WILH
-
-Possible measurements :
-* Temperatuur Lucht oC (Code : T)
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSHD)
-* Windrichting Lucht t.o.v. ware Noorden in graad (Code : WINDRTG)
-
-##Westkapelle##
-Code : WKAP
+### Inlaat Weurt ###
+location-code : WEUR
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Waalwijk##
-Code : WLWK
-
-Possible measurements :
-* Debiet Oppervlaktewater m3/s (Code : Q)
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
-
-##West-Terschelling##
-Code : WTER
+### Westereems West boei ###
+location-code : WEW1
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
+* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
+* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
+* Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad (measurement-code : Th0)
+* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
+* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
+* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
+* Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad (measurement-code : Th3)
+* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
+
+### Wieldrecht ###
+location-code : WIED
+
+Possible measurements :
+* Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
+
+### Wielingen Noord ###
+location-code : WIEL
+
+Possible measurements :
+* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
+* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
+* Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad (measurement-code : Th0)
+* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
+* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
+* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
+* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
+* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
+
+### Wierumergronden ###
+location-code : WIER
+
+Possible measurements :
+* Temperatuur Lucht oC (measurement-code : T)
+* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
+* 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+
+### Wierumergronden ###
+location-code : WIERMGDN
+
+Possible measurements :
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
+
+### Wijdenes ###
+location-code : WIJD
+
+Possible measurements :
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
+
+### Wijhe ###
+location-code : WIJH
+
+Possible measurements :
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+
+### Wijk bij Duurstede ###
+location-code : WIJK
+
+Possible measurements :
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+
+### Wijk aan Zee ###
+location-code : WIJZ
+
+Possible measurements :
+* Temperatuur Lucht oC (measurement-code : T)
+
+### Wilhelminadorp ###
+location-code : WILH
+
+Possible measurements :
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
+* Temperatuur Lucht oC (measurement-code : T)
+
+### Westkapelle ###
+location-code : WKAP
+
+Possible measurements :
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+
+### Waalwijk ###
+location-code : WLWK
+
+Possible measurements :
+* Debiet Oppervlaktewater m3/s (measurement-code : Q)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+
+### West-Terschelling ###
+location-code : WTER
+
+Possible measurements :
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)

@@ -1,564 +1,556 @@
 [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | H | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
 
-#Locations with the letter H#
+# Locations with the letter H #
 
 
-##Haringvliet 10##
-Code : HA10
+### Haringvliet 10 ###
+location-code : HA10
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Haringvliet 10 (b)##
-Code : HA10b
+### Haringvliet 10 (b) ###
+location-code : HA10b
 
 Possible measurements :
-* Geleidendheid Oppervlaktewater S/m (Code : GELDHD)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (Code : CONCTTE)
-* Temperatuur Oppervlaktewater oC (Code : T)
-* Saliniteit Oppervlaktewater  (Code : SALNTT)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
+* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
-##Haringvliet 10 (e)##
-Code : HA10e
+### Haringvliet 10 (e) ###
+location-code : HA10e
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Haringvliet 10 (f)##
-Code : HA10f
+### Haringvliet 10 (f) ###
+location-code : HA10f
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Haringvliet 10 (o)##
-Code : HA10o
+### Haringvliet 10 (o) ###
+location-code : HA10o
 
 Possible measurements :
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (Code : CONCTTE)
-* Temperatuur Oppervlaktewater oC (Code : T)
-* Geleidendheid Oppervlaktewater S/m (Code : GELDHD)
-* Saliniteit Oppervlaktewater  (Code : SALNTT)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
 
-##Haandrik Kruisbrug##
-Code : HAAN
+### Haandrik Kruisbrug ###
+location-code : HAAN
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Hagestein boven##
-Code : HAGB
+### Hagestein boven ###
+location-code : HAGB
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
-* Stroomsnelheid Oppervlaktewater m/s (Code : STROOMSHD)
-* Temperatuur Oppervlaktewater oC (Code : T)
-* Debiet Oppervlaktewater m3/s (Code : Q)
+* Debiet Oppervlaktewater m3/s (measurement-code : Q)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
+* Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Hagestein beneden##
-Code : HAGO
+### Hagestein beneden ###
+location-code : HAGO
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Hagestein beneden##
-Code : HAGSBNDN
+### Hagestein beneden ###
+location-code : HAGSBNDN
 
 Possible measurements :
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTBRKD)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-##Hansweert##
-Code : HANS
+### Hansweert ###
+location-code : HANS
 
 Possible measurements :
-* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (Code : TE3)
-* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (Code : Tm02)
-* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (Code : H1/3)
-* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (Code : HTE3)
-* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (Code : T1/3)
-* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (Code : Hm0)
-* Temperatuur Lucht oC (Code : T)
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
-* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (Code : Fp)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
+* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
+* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
+* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
+* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
+* Temperatuur Lucht oC (measurement-code : T)
+* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
+* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
 
-##Hansweert##
-Code : HANSWT
+### Hansweert ###
+location-code : HANSWT
 
 Possible measurements :
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTBRKD)
-* Getijextreemtype Oppervlaktewater  (Code : NVT)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-##Harlingen##
-Code : HARL
+### Harlingen ###
+location-code : HARL
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Harlingen##
-Code : HARLGN
+### Harlingen ###
+location-code : HARLGN
 
 Possible measurements :
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTBRKD)
-* Getijextreemtype Oppervlaktewater  (Code : NVT)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-##Harmsenbrug##
-Code : HARMSBG
+### Harmsenbrug ###
+location-code : HARMSBG
 
 Possible measurements :
-* Getijextreemtype Oppervlaktewater  (Code : NVT)
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTBRKD)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-##Hartelbrug##
-Code : HARTBG
+### Hartelbrug ###
+location-code : HARTBG
 
 Possible measurements :
-* Getijextreemtype Oppervlaktewater  (Code : NVT)
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTBRKD)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-##Hartelhaven##
-Code : HARTHVN
+### Hartelhaven ###
+location-code : HARTHVN
 
 Possible measurements :
-* Getijextreemtype Oppervlaktewater  (Code : NVT)
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTBRKD)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-##Haringvliet 10##
-Code : HARVT10
+### Haringvliet 10 ###
+location-code : HARVT10
 
 Possible measurements :
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTBRKD)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-##Hansweert wind##
-Code : HAWI
+### Hansweert wind ###
+location-code : HAWI
 
 Possible measurements :
-* Windrichting Lucht t.o.v. ware Noorden in graad (Code : WINDRTG)
-* 10' scalair genmiddelde van de windsnelheid Lucht m/s (Code : WS10)
-* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSTOOT)
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSHD)
+* 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
+* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 
-##Hansweert wind (b)##
-Code : HAWIb
+### Hansweert wind (b) ###
+location-code : HAWIb
 
 Possible measurements :
-* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (Code : Fp)
-* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (Code : H1/3)
-* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (Code : HTE3)
-* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (Code : Tm02)
-* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (Code : TE3)
-* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (Code : Hm0)
-* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (Code : T1/3)
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
+* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
+* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
+* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
+* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
+* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
+* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
 
-##Heel boven##
-Code : HEEB
+### Heel boven ###
+location-code : HEEB
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Heel beneden##
-Code : HEEO
+### Heel beneden ###
+location-code : HEEO
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Heesbeen##
-Code : HEES
+### Heesbeen ###
+location-code : HEES
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Heesbeen##
-Code : HEESBN
+### Heesbeen ###
+location-code : HEESBN
 
 Possible measurements :
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTBRKD)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-##Hellevoetsluis##
-Code : HELL
+### Hellevoetsluis ###
+location-code : HELL
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Hellevoetsluis##
-Code : HELLVSS
+### Hellevoetsluis ###
+location-code : HELLVSS
 
 Possible measurements :
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTBRKD)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-##Hengelo boven##
-Code : HENB
+### Hengelo boven ###
+location-code : HENB
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
-* Temperatuur Oppervlaktewater oC (Code : T)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
 
-##Hengelo Koppelleiding##
-Code : HENK
+### Hengelo Koppelleiding ###
+location-code : HENK
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Hengelo beneden##
-Code : HENO
+### Hengelo beneden ###
+location-code : HENO
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
-* Temperatuur Oppervlaktewater oC (Code : T)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##gemaal Hoogland buiten##
-Code : HGLD
+### gemaal Hoogland buiten ###
+location-code : HGLD
 
 Possible measurements :
-* Debiet Oppervlaktewater m3/s (Code : Q)
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
-* Temperatuur Oppervlaktewater oC (Code : T)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (Code : CONCTTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-##gemaal Hoogland inlaat##
-Code : HGLDI
+### gemaal Hoogland inlaat ###
+location-code : HGLDI
 
 Possible measurements :
-* Debiet Oppervlaktewater m3/s (Code : Q)
+* Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-##Hintham boven##
-Code : HHMB
+### Hintham boven ###
+location-code : HHMB
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Hintham beneden##
-Code : HHMO
+### Hintham beneden ###
+location-code : HHMO
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Platform HKZA##
-Code : HKZA
+### Platform HKZA ###
+location-code : HKZA
 
 Possible measurements :
-* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (Code : T1/3)
-* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (Code : Tm02)
-* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (Code : HTE3)
-* Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m (Code : ZICHT)
-* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (Code : H1/3)
-* Temperatuur Oppervlaktewater oC (Code : T)
-* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (Code : Hm0)
-* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (Code : TE3)
-* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (Code : Fp)
-* Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm (Code : WATHTE)
-* Luchtdruk Lucht hPa (Code : LUCHTDK)
+* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
+* Temperatuur Lucht oC (measurement-code : T)
+* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
+* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
+* Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm (measurement-code : WATHTE)
+* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
+* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
+* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
+* Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m (measurement-code : ZICHT)
+* Luchtdruk Lucht hPa (measurement-code : LUCHTDK)
+* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
 
-##Platform HKZA 1##
-Code : HKZA1
+### Platform HKZA 1 ###
+location-code : HKZA1
 
 Possible measurements :
-* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSTOOT)
-* Windrichting Lucht t.o.v. ware Noorden in graad (Code : WINDRTG)
-* 10' scalair genmiddelde van de windsnelheid Lucht m/s (Code : WS10)
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSHD)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
+* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
+* 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
 
-##Platform HKZA 2##
-Code : HKZA2
+### Platform HKZA 2 ###
+location-code : HKZA2
 
 Possible measurements :
-* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSTOOT)
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSHD)
-* 10' scalair genmiddelde van de windsnelheid Lucht m/s (Code : WS10)
-* Windrichting Lucht t.o.v. ware Noorden in graad (Code : WINDRTG)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
+* 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
+* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
 
-##Honte nabij Sloehaven##
-Code : HNTE
+### Honte nabij Sloehaven ###
+location-code : HNTE
 
 Possible measurements :
-* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (Code : T1/3)
-* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (Code : Hm0)
-* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (Code : Tm02)
-* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (Code : TE3)
-* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (Code : H1/3)
-* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (Code : Fp)
-* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (Code : HTE3)
+* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
+* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
+* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
+* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
+* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
+* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
+* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
 
-##Honte 2 (Back-up)##
-Code : HNTE2
+### Honte 2 (Back-up) ###
+location-code : HNTE2
 
 Possible measurements :
-* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (Code : T1/3)
-* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (Code : H1/3)
-* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (Code : Hm0)
-* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (Code : TE3)
-* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (Code : Fp)
-* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (Code : Tm02)
-* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (Code : HTE3)
+* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
+* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
+* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
+* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
+* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
+* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
+* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
 
-##Hoek van Holland##
-Code : HOEK
+### Hoek van Holland ###
+location-code : HOEK
 
 Possible measurements :
-* Windrichting Lucht t.o.v. ware Noorden in graad (Code : WINDRTG)
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSHD)
-* Temperatuur Lucht oC (Code : T)
+* Temperatuur Lucht oC (measurement-code : T)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 
-##Hoek van Holland##
-Code : HOEKVHLD
+### Hoek van Holland ###
+location-code : HOEKVHLD
 
 Possible measurements :
-* Getijextreemtype Oppervlaktewater  (Code : NVT)
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTBRKD)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-##Hollandse brug##
-Code : HOLB
+### Hollandse brug ###
+location-code : HOLB
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Holwerd##
-Code : HOLW
+### Holwerd ###
+location-code : HOLW
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Holwerd##
-Code : HOLWD
+### Holwerd ###
+location-code : HOLWD
 
 Possible measurements :
-* Getijextreemtype Oppervlaktewater  (Code : NVT)
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTBRKD)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-##Hoorn Terschelling##
-Code : HOTE
+### Hoorn Terschelling ###
+location-code : HOTE
 
 Possible measurements :
-* Temperatuur Lucht oC (Code : T)
-* Windrichting Lucht t.o.v. ware Noorden in graad (Code : WINDRTG)
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSHD)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
+* Temperatuur Lucht oC (measurement-code : T)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 
-##Houtribdijk##
-Code : HOUD
+### Houtribdijk ###
+location-code : HOUD
 
 Possible measurements :
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSHD)
-* Windrichting Lucht t.o.v. ware Noorden in graad (Code : WINDRTG)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 
-##Houtrib Noord##
-Code : HOUN
+### Houtrib Noord ###
+location-code : HOUN
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Houtrib Zuid##
-Code : HOUZ
+### Houtrib Zuid ###
+location-code : HOUZ
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Happen Hennip##
-Code : HPHP
+### Happen Hennip ###
+location-code : HPHP
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Hondsbroekse Pleij hwgeul##
-Code : HPHW
+### Hondsbroekse Pleij hwgeul ###
+location-code : HPHW
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Hondsbroekse Pleij IJssel##
-Code : HPIJ
+### Hondsbroekse Pleij IJssel ###
+location-code : HPIJ
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Herenlaak##
-Code : HRNLK
+### Herenlaak ###
+location-code : HRNLK
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Helmond RWZI - boven##
-Code : HRWB
+### Helmond RWZI - boven ###
+location-code : HRWB
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-##Helmond RWZI##
-Code : HRWZ
+### Helmond RWZI ###
+location-code : HRWZ
 
 Possible measurements :
-* Debiet Oppervlaktewater m3/s (Code : Q)
+* Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-##Huibertgat##
-Code : HUIB
+### Huibertgat ###
+location-code : HUIB
 
 Possible measurements :
-* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSTOOT)
-* Windrichting Lucht t.o.v. ware Noorden in graad (Code : WINDRTG)
-* 10' scalair genmiddelde van de windsnelheid Lucht m/s (Code : WS10)
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTE)
-* Temperatuur Lucht oC (Code : T)
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSHD)
+* Temperatuur Lucht oC (measurement-code : T)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
+* 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
+* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
 
-##Huibertgat##
-Code : HUIBGT
+### Huibertgat ###
+location-code : HUIBGT
 
 Possible measurements :
-* Getijextreemtype Oppervlaktewater  (Code : NVT)
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (Code : WATHTBRKD)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-##Hoek v Holland NAP -2.5m##
-Code : HVH25
+### Hoek v Holland NAP -2.5m ###
+location-code : HVH25
 
 Possible measurements :
-* Geleidendheid Oppervlaktewater S/m (Code : GELDHD)
-* Saliniteit Oppervlaktewater  (Code : SALNTT)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (Code : CONCTTE)
-* Temperatuur Oppervlaktewater oC (Code : T)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
 
-##Hoek v Holland NAP -4.5m##
-Code : HVH45
+### Hoek v Holland NAP -4.5m ###
+location-code : HVH45
 
 Possible measurements :
-* Saliniteit Oppervlaktewater  (Code : SALNTT)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (Code : CONCTTE)
-* Geleidendheid Oppervlaktewater S/m (Code : GELDHD)
-* Temperatuur Oppervlaktewater oC (Code : T)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
-##Hoek v Holland NAP -9.0m##
-Code : HVH90
+### Hoek v Holland NAP -9.0m ###
+location-code : HVH90
 
 Possible measurements :
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (Code : CONCTTE)
-* Saliniteit Oppervlaktewater  (Code : SALNTT)
-* Temperatuur Oppervlaktewater oC (Code : T)
-* Geleidendheid Oppervlaktewater S/m (Code : GELDHD)
+* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
-##Haringvliet West WS-2m##
-Code : HVL02
+### Haringvliet West WS-2m ###
+location-code : HVL02
 
 Possible measurements :
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (Code : CONCTTE)
-* Temperatuur Oppervlaktewater oC (Code : T)
-* Geleidendheid Oppervlaktewater S/m (Code : GELDHD)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
-##Haringvliet West WS-8m##
-Code : HVL08
+### Haringvliet West WS-8m ###
+location-code : HVL08
 
 Possible measurements :
-* Geleidendheid Oppervlaktewater S/m (Code : GELDHD)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (Code : CONCTTE)
-* Temperatuur Oppervlaktewater oC (Code : T)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
-##Haringvliet West WS-13m##
-Code : HVL13
+### Haringvliet West WS-13m ###
+location-code : HVL13
 
 Possible measurements :
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (Code : CONCTTE)
-* Geleidendheid Oppervlaktewater S/m (Code : GELDHD)
-* Temperatuur Oppervlaktewater oC (Code : T)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 
-##Haringvlietsluizen sch 1##
-Code : HVS01
+### Haringvlietsluizen sch 1 ###
+location-code : HVS01
 
 Possible measurements :
-* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (Code : HEFHTE)
-* 10' scalair genmiddelde van de windsnelheid Lucht m/s (Code : WS10)
-* Windrichting Lucht t.o.v. ware Noorden in graad (Code : WINDRTG)
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSHD)
-* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (Code : WINDSTOOT)
+* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (measurement-code : HEFHTE)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
+* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
+* 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
 
-##Haringvlietsluizen sch 2##
-Code : HVS02
+### Haringvlietsluizen sch 2 ###
+location-code : HVS02
 
 Possible measurements :
-* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (Code : HEFHTE)
+* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (measurement-code : HEFHTE)
 
-##Haringvlietsluizen sch 3##
-Code : HVS03
+### Haringvlietsluizen sch 3 ###
+location-code : HVS03
 
 Possible measurements :
-* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (Code : HEFHTE)
+* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (measurement-code : HEFHTE)
 
-##Haringvlietsluizen sch 4##
-Code : HVS04
+### Haringvlietsluizen sch 4 ###
+location-code : HVS04
 
 Possible measurements :
-* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (Code : HEFHTE)
+* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (measurement-code : HEFHTE)
 
-##Haringvlietsluizen sch 5##
-Code : HVS05
+### Haringvlietsluizen sch 5 ###
+location-code : HVS05
 
 Possible measurements :
-* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (Code : HEFHTE)
+* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (measurement-code : HEFHTE)
 
-##Haringvlietsluizen sch 6##
-Code : HVS06
+### Haringvlietsluizen sch 6 ###
+location-code : HVS06
 
 Possible measurements :
-* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (Code : HEFHTE)
+* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (measurement-code : HEFHTE)
 
-##Haringvlietsluizen sch 7##
-Code : HVS07
+### Haringvlietsluizen sch 7 ###
+location-code : HVS07
 
 Possible measurements :
-* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (Code : HEFHTE)
+* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (measurement-code : HEFHTE)
 
-##Haringvlietsluizen sch 8##
-Code : HVS08
+### Haringvlietsluizen sch 8 ###
+location-code : HVS08
 
 Possible measurements :
-* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (Code : HEFHTE)
+* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (measurement-code : HEFHTE)
 
-##Haringvlietsluizen sch 9##
-Code : HVS09
+### Haringvlietsluizen sch 9 ###
+location-code : HVS09
 
 Possible measurements :
-* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (Code : HEFHTE)
+* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (measurement-code : HEFHTE)
 
-##Haringvlietsluizen sch 10##
-Code : HVS10
+### Haringvlietsluizen sch 10 ###
+location-code : HVS10
 
 Possible measurements :
-* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (Code : HEFHTE)
+* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (measurement-code : HEFHTE)
 
-##Haringvlietsluizen sch 11##
-Code : HVS11
+### Haringvlietsluizen sch 11 ###
+location-code : HVS11
 
 Possible measurements :
-* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (Code : HEFHTE)
+* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (measurement-code : HEFHTE)
 
-##Haringvlietsluizen sch 12##
-Code : HVS12
+### Haringvlietsluizen sch 12 ###
+location-code : HVS12
 
 Possible measurements :
-* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (Code : HEFHTE)
+* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (measurement-code : HEFHTE)
 
-##Haringvlietsluizen sch 13##
-Code : HVS13
+### Haringvlietsluizen sch 13 ###
+location-code : HVS13
 
 Possible measurements :
-* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (Code : HEFHTE)
+* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (measurement-code : HEFHTE)
 
-##Haringvlietsluizen sch 14##
-Code : HVS14
+### Haringvlietsluizen sch 14 ###
+location-code : HVS14
 
 Possible measurements :
-* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (Code : HEFHTE)
+* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (measurement-code : HEFHTE)
 
-##Haringvlietsluizen sch 15##
-Code : HVS15
+### Haringvlietsluizen sch 15 ###
+location-code : HVS15
 
 Possible measurements :
-* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (Code : HEFHTE)
+* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (measurement-code : HEFHTE)
 
-##Haringvlietsluizen sch 16##
-Code : HVS16
+### Haringvlietsluizen sch 16 ###
+location-code : HVS16
 
 Possible measurements :
-* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (Code : HEFHTE)
+* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (measurement-code : HEFHTE)
 
-##Haringvlietsluizen sch 17##
-Code : HVS17
+### Haringvlietsluizen sch 17 ###
+location-code : HVS17
 
 Possible measurements :
-* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (Code : HEFHTE)
+* Hefhoogte t.o.v. Normaal Amsterdams Peil in cm (measurement-code : HEFHTE)
