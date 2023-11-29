@@ -3,11 +3,10 @@
     "step": {
       "user": {
         "data": {
-          "station": "afkorting van de locatie",
-          "code": "code van de grootheid"
+          "code": "Code for the location",
+          "grootheid": "Code for the measurement"
         },
-        "description": "Voer RWS-gegevens in.",
-        "title": "Waterinfo"
+        "description": "Enter the location and measurement-codes. See [GitHub](https://github.com/physje/waterinfo) for codes"
       }
     }
   }

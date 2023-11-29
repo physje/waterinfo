@@ -1,0 +1,13 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "data": {
+                    "code": "Code voor de locatie",
+                    "grootheid": "Code voor de meting"
+                },
+                "description": "Geef de locatie en meting-code. Kijk op [GitHub](https://github.com/physje/waterinfo) voor de juiste codes"
+            }
+        }
+    }
+}

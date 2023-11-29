@@ -3,7 +3,11 @@ from __future__ import annotations
 import logging
 from datetime import timedelta
 
-from homeassistant.components.sensor import SensorDeviceClass, SensorEntity
+from homeassistant.components.sensor import (
+    SensorDeviceClass,
+    SensorEntity,
+    SensorStateClass,
+)
 from homeassistant.config_entries import ConfigEntry
 from homeassistant.core import HomeAssistant
 from homeassistant.helpers.device_registry import DeviceEntryType, DeviceInfo
@@ -13,7 +17,7 @@ from homeassistant.helpers.typing import ConfigType, DiscoveryInfoType
 from .const import (
     DOMAIN,
     CONST_CODE,
-    CONST_STATION,
+    CONST_MEASUREMENT_DESCR,
     CONST_MEASUREMENT,
     CONST_UNIT,
     CONST_NAME,
@@ -23,7 +27,6 @@ from .const import (
 )
 
 import ddlpy2
-import urllib.parse
 
 # Time between updating data from Webservice
 SCAN_INTERVAL = timedelta(minutes=10)
@@ -62,19 +65,35 @@ class WaterInfoSensor(SensorEntity):
     def __init__(self, client: Waterinfo, entry: ConfigEntry) -> None:
         """Initialize a Waterinfo device."""
 
+        # Code -> _code -> CONST_CODE
+        # X -> _X -> CONST_X
+        # Y -> _Y -> CONST_Y
+        # Eenheid.Code -> _unit -> CONST_UNIT
+        # Grootheid.Code -> _grotheid -> CONST_MEASUREMENT
+        # Hoedanigheid.Code -> _property -> CONST_PROPERTY
+        #
+        # Grootheid.Omschrijving -> CONST_MEASUREMENT_DESCR
+
         self._client = client
-        # self._location = entry.data[CONST_LOCATION]
-        self._station = entry.data[CONST_STATION]
+        self._code = entry.data[CONST_CODE]
         self._X = entry.data[CONST_X]
         self._Y = entry.data[CONST_Y]
         self._unit = entry.data[CONST_UNIT]
-        self._code = entry.data[CONST_CODE]
+        self._grootheid = entry.data[CONST_MEASUREMENT]
         self._property = entry.data[CONST_PROPERTY]
+
         self._attr_unique_id = entry.entry_id
-        self._attr_name = entry.data[CONST_MEASUREMENT]
-        # native_value
-        self._attr_native_unit_of_measurement = entry.data[CONST_UNIT]
-        self._attr_icon = "mdi:water-circle"
+        self._attr_name = entry.data[CONST_MEASUREMENT_DESCR]
+        self._attr_state_class = SensorStateClass.MEASUREMENT
+
+        if self._grootheid == "T":
+            self._attr_native_unit_of_measurement = "°C"
+            self._attr_icon = "mdi:water-thermometer"
+            self._attr_device_class = SensorDeviceClass.TEMPERATURE
+        else:
+            self._attr_native_unit_of_measurement = entry.data[CONST_UNIT]
+            self._attr_icon = "mdi:water-circle"
+
         self._attr_device_info = DeviceInfo(
             identifiers={(DOMAIN, f"{entry.entry_id}")},
             name=entry.data[CONST_NAME],
@@ -84,39 +103,37 @@ class WaterInfoSensor(SensorEntity):
     async def async_update(self) -> None:
         """Get the time and updates the states."""
 
-        # print("async_update")
-        # print(location)
-
-        # location = urllib.parse.parse_qsl(self._location)
-        # observation = ddlpy2.last_observation(location)
-
-        # Code -> CONST_STATION
-        # X -> CONST_X
-        # Y -> CONST_Y
-        # Eenheid.Code -> CONST_UNIT
-        # Grootheid.Code -> CONST_CODE
-        # Hoedanigheid.Code -> CONST_PROPERTY
+        # Code -> _code -> CONST_CODE
+        # X -> _X -> CONST_X
+        # Y -> _Y -> CONST_Y
+        # Eenheid.Code -> _unit -> CONST_UNIT
+        # Grootheid.Code -> _grotheid -> CONST_MEASUREMENT
+        # Hoedanigheid.Code -> _property -> CONST_PROPERTY
+        #
+        # Grootheid.Omschrijving -> CONST_MEASUREMENT_DESCR
 
         location = {
-            "Code": self._station,
+            "Eenheid.Code": self._unit,
+            "Grootheid.Code": self._grootheid,
+            "Hoedanigheid.Code": self._property,
+            "Code": self._code,
             "X": self._X,
             "Y": self._Y,
-            "Eenheid.Code": self._unit,
-            "Grootheid.Code": self._code,
-            "Hoedanigheid.Code": self._property,
         }
 
         await self.hass.async_add_executor_job(collectObservation, location)
 
-        if location["observation"] == None:
-            self._attr_native_value = 1
-        else:
+        if location["observation"] is not None:
             self._attr_native_value = location["observation"]
 
 
 def collectObservation(data) -> dict:
     observation = ddlpy2.last_observation(data)
-    meetwaarde = observation["Meetwaarde.Waarde_Numeriek"][0]
+
+    if "Meetwaarde.Waarde_Numeriek" in observation.columns:
+        meetwaarde = observation["Meetwaarde.Waarde_Numeriek"][0]
+    else:
+        meetwaarde = observation["Meetwaarde.Waarde_Alfanumeriek"][0]
 
     data["observation"] = meetwaarde
 

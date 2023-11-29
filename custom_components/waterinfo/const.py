@@ -2,10 +2,10 @@
 
 DOMAIN = "waterinfo"
 
-CONST_STATION = "station"
 CONST_CODE = "code"
-CONST_NAME = "plaats"
 CONST_MEASUREMENT = "grootheid"
+CONST_NAME = "plaats"
+CONST_MEASUREMENT_DESCR = "grootheiddescr"
 CONST_UNIT = "eenheid"
 CONST_DESCR = "omschrijving"
 CONST_LOCATION = "location"
