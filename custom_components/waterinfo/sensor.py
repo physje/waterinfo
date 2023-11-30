@@ -90,13 +90,21 @@ class WaterInfoSensor(SensorEntity):
             self._attr_native_unit_of_measurement = "°C"
             self._attr_icon = "mdi:water-thermometer"
             self._attr_device_class = SensorDeviceClass.TEMPERATURE
+        elif self._grootheid == "WINDSHD":
+            self._attr_native_unit_of_measurement = entry.data[CONST_UNIT]
+            self._attr_icon = "mdi:windsock"
+            self._attr_device_class = SensorDeviceClass.WIND_SPEED
+        elif self._grootheid == "STROOMSHD":
+            self._attr_native_unit_of_measurement = entry.data[CONST_UNIT]
+            self._attr_icon = "mdi:speedometer"
+            self._attr_device_class = SensorDeviceClass.SPEED
         else:
             self._attr_native_unit_of_measurement = entry.data[CONST_UNIT]
             self._attr_icon = "mdi:water-circle"
 
         self._attr_device_info = DeviceInfo(
             identifiers={(DOMAIN, f"{entry.entry_id}")},
-            name=entry.data[CONST_NAME],
+            name=DOMAIN + "_" + entry.data[CONST_NAME],
             entry_type=DeviceEntryType.SERVICE,
         )
 
@@ -107,7 +115,7 @@ class WaterInfoSensor(SensorEntity):
         # X -> _X -> CONST_X
         # Y -> _Y -> CONST_Y
         # Eenheid.Code -> _unit -> CONST_UNIT
-        # Grootheid.Code -> _grotheid -> CONST_MEASUREMENT
+        # Grootheid.Code -> _grootheid -> CONST_MEASUREMENT
         # Hoedanigheid.Code -> _property -> CONST_PROPERTY
         #
         # Grootheid.Omschrijving -> CONST_MEASUREMENT_DESCR
