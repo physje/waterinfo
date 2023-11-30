@@ -7,22 +7,22 @@
 location-code : D15
 
 Possible measurements :
-* Luchtdruk Lucht hPa (measurement-code : LUCHTDK)
-* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
-* Temperatuur Lucht oC (measurement-code : T)
-* 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
-* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
-* Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm (measurement-code : WATHTE)
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m (measurement-code : ZICHT)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
+* Luchtdruk Lucht hPa (measurement-code : LUCHTDK)
+* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
+* 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 * Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm (measurement-code : WATHTBRKD)
+* Temperatuur Lucht oC (measurement-code : T)
+* Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm (measurement-code : WATHTE)
 
 ### De Kooy ###
 location-code : DEKO
 
 Possible measurements :
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * Temperatuur Lucht oC (measurement-code : T)
 
 ### Delden boven ###
@@ -41,15 +41,15 @@ Possible measurements :
 location-code : DELO
 
 Possible measurements :
-* Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
 
 ### Den Helder ###
 location-code : DENH
 
 Possible measurements :
-* Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
 
 ### Den Helder ###
 location-code : DENHDR
@@ -67,15 +67,15 @@ Possible measurements :
 location-code : DEUR
 
 Possible measurements :
-* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
-* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
 * Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
-* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
-* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
-* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
-* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
-* Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad (measurement-code : Th0)
 * Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad (measurement-code : Th3)
+* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
+* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
+* Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad (measurement-code : Th0)
+* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
+* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
+* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
+* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
 
 ### Deventer ###
 location-code : DEVE
@@ -87,19 +87,19 @@ Possible measurements :
 location-code : DIE14
 
 Possible measurements :
-* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
-* Temperatuur Oppervlaktewater oC (measurement-code : T)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
 
 ### Diemen (NAP -6.5m) ###
 location-code : DIE65
 
 Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
-* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 
 ### Delfzijl ###
 location-code : DLFZ
@@ -153,13 +153,13 @@ Possible measurements :
 location-code : DORA
 
 Possible measurements :
-* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
-* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
-* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
-* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
-* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
 * Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
+* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
+* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
+* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
 * Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
+* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
+* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
 
 ### Dordrecht ###
 location-code : DORD
@@ -183,10 +183,10 @@ Possible measurements :
 location-code : DRIB
 
 Possible measurements :
-* Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
-* Temperatuur Oppervlaktewater oC (measurement-code : T)
+* Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
 
 ### Driel beneden ###
 location-code : DRIO
@@ -198,8 +198,8 @@ Possible measurements :
 location-code : DU000
 
 Possible measurements :
-* Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
+* Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 
 ### Duivelseiland 015 ###
 location-code : DU015
@@ -212,8 +212,8 @@ Possible measurements :
 location-code : DU030
 
 Possible measurements :
-* Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
+* Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 
 ### Duivelseiland 045 ###
 location-code : DU045
@@ -226,8 +226,8 @@ Possible measurements :
 location-code : DU060
 
 Possible measurements :
-* Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
+* Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 
 ### Duivelseiland 075 ###
 location-code : DU075
@@ -268,8 +268,8 @@ Possible measurements :
 location-code : DU150
 
 Possible measurements :
-* Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
+* Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 
 ### Duivelseiland  165 ###
 location-code : DU165
@@ -303,8 +303,8 @@ Possible measurements :
 location-code : DU225
 
 Possible measurements :
-* Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
+* Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 
 ### Duivelseiland  240 ###
 location-code : DU240
@@ -331,8 +331,8 @@ Possible measurements :
 location-code : DU285
 
 Possible measurements :
-* Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
+* Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
 ### Duivelseiland  300 ###
 location-code : DU300
@@ -346,9 +346,12 @@ location-code : DWE1
 
 Possible measurements :
 * Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
-* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
 * Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
-* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
+* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
+* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
 * Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
 * Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
-* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
+* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
+
+
+_generated on 30-11-2023_

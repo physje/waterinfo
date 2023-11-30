@@ -7,8 +7,8 @@
 location-code : TEHO
 
 Possible measurements :
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 
 ### Tennesseehaven ###
 location-code : TENN
@@ -44,12 +44,12 @@ Possible measurements :
 location-code : TERS
 
 Possible measurements :
-* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 * Temperatuur Lucht oC (measurement-code : T)
-* 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
-* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
 * Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+* 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
+* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 
 ### Terschelling Noordzee ###
 location-code : TERSLNZE
@@ -94,20 +94,14 @@ Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-### t Kooike ###
-location-code : TKKE
-
-Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
-
 ### Terneuzen Westsluis ###
 location-code : TNWS
 
 Possible measurements :
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
-* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 
 ### Inlaat Teersesluispolder ###
 location-code : TPOL
@@ -131,25 +125,28 @@ Possible measurements :
 location-code : TWZZb
 
 Possible measurements :
-* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
-* Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
 
 ### Terneuzen Westsluis ZZ (o ###
 location-code : TWZZo
 
 Possible measurements :
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
-* Temperatuur Oppervlaktewater oC (measurement-code : T)
 
 ### Trintelzand ###
 location-code : TZND
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 * Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+
+
+_generated on 30-11-2023_

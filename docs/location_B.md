@@ -19,9 +19,9 @@ Possible measurements :
 location-code : BAALb
 
 Possible measurements :
-* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 
 ### Baalhoek (o) ###
@@ -30,18 +30,21 @@ location-code : BAALo
 Possible measurements :
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
 ### Bath ###
 location-code : BATH
 
 Possible measurements :
+* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
+* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
+* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
+* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
 * Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
 * Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m (measurement-code : ZICHT)
-* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
-* Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
-* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
 
 ### Bathse brug Deltanuts ###
 location-code : BBDT
@@ -53,16 +56,16 @@ Possible measurements :
 location-code : BBDTb
 
 Possible measurements :
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
-* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
 ### Bathse brug Deltanuts (o) ###
 location-code : BBDTo
 
 Possible measurements :
-* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
 ### Bergsediepsluis ###
@@ -75,17 +78,17 @@ Possible measurements :
 location-code : BDWI
 
 Possible measurements :
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 * Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
 
 ### Belfeld boven ###
 location-code : BELB
 
 Possible measurements :
-* Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
 
 ### Belfeld beneden ###
 location-code : BELF
@@ -98,8 +101,8 @@ location-code : BER30
 
 Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
-* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 
 ### Bergse Diepsluis west ###
 location-code : BERGSDSWT
@@ -111,8 +114,8 @@ Possible measurements :
 location-code : BERK
 
 Possible measurements :
-* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 * Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 * Temperatuur Lucht oC (measurement-code : T)
 
 ### Bernisse Zuidland ###
@@ -125,34 +128,34 @@ Possible measurements :
 location-code : BG2
 
 Possible measurements :
-* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
-* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 * Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
-* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
-* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
+* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
 * Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
-* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
+* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
 * 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
-* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
+* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
+* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
 
 ### Brouwershavense Gat 2 (b) ###
 location-code : BG2b
 
 Possible measurements :
-* Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 
 ### Brouwershavense Gat 2 (o) ###
 location-code : BG2o
 
 Possible measurements :
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
-* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 
 ### Brouwershavense Gat 8 ###
@@ -165,19 +168,19 @@ Possible measurements :
 location-code : BG8b
 
 Possible measurements :
-* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
-* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 
 ### Brouwershavense Gat 8 (o) ###
 location-code : BG8o
 
 Possible measurements :
-* Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
 
 ### Berghaven H v Holland ###
 location-code : BGH1
@@ -227,25 +230,25 @@ location-code : BOM1b
 Possible measurements :
 * Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
-* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 
 ### Bommenede 1 (o) ###
 location-code : BOM1o
 
 Possible measurements :
-* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 
 ### Beerenplaat NAP -2m ###
 location-code : BOM20
 
 Possible measurements :
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
 ### Borgharen boven ###
 location-code : BORB
@@ -257,8 +260,8 @@ Possible measurements :
 location-code : BORD
 
 Possible measurements :
-* Debiet Oppervlaktewater m3/s (measurement-code : Q)
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+* Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
 ### Borgharen Julianakanaal ###
 location-code : BORJ
@@ -284,9 +287,9 @@ Possible measurements :
 location-code : BRB65
 
 Possible measurements :
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
 ### Breskens Handelshaven ###
 location-code : BRES
@@ -340,28 +343,28 @@ Possible measurements :
 location-code : BSA
 
 Possible measurements :
-* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
-* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
-* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
-* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
-* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
-* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
-* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
-* Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm (measurement-code : WATHTE)
-* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
-* Luchtdruk Lucht hPa (measurement-code : LUCHTDK)
-* Temperatuur Lucht oC (measurement-code : T)
-* 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
-* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
 * Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m (measurement-code : ZICHT)
+* Temperatuur Lucht oC (measurement-code : T)
+* Luchtdruk Lucht hPa (measurement-code : LUCHTDK)
+* Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
+* Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
+* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
+* Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
+* Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm (measurement-code : WATHTE)
+* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
+* 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
+* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
+* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
+* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
 
 ### Benedensas Sluis ###
 location-code : BSASS
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
 ### Bathse spuisluis D ###
 location-code : BSBSD
@@ -385,18 +388,18 @@ Possible measurements :
 location-code : BUBW
 
 Possible measurements :
-* Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
-* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
-* Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
-* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
-* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
 * Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad (measurement-code : Th0)
 * Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz (measurement-code : Fp)
-* Temperatuur Oppervlaktewater oC (measurement-code : T)
-* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
 * Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad (measurement-code : Th3)
-* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
+* Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
 * Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
+* Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
+* Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
+* Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
+* Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
+* Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
+* Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
 ### Buggenum ###
 location-code : BUGG
@@ -414,6 +417,9 @@ Possible measurements :
 location-code : BUND
 
 Possible measurements :
-* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
+* Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
+
+
+_generated on 30-11-2023_

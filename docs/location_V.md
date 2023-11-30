@@ -38,17 +38,17 @@ Possible measurements :
 location-code : VKb
 
 Possible measurements :
-* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 
 ### Volkerak Galathee (o) ###
 location-code : VKo
 
 Possible measurements :
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
 ### Vlaardingen ###
 location-code : VLAA
@@ -72,9 +72,9 @@ Possible measurements :
 location-code : VLI1
 
 Possible measurements :
+* Temperatuur Lucht oC (measurement-code : T)
 * Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
-* Temperatuur Lucht oC (measurement-code : T)
 
 ### Vlieland haven ###
 location-code : VLIE
@@ -92,10 +92,10 @@ Possible measurements :
 location-code : VLIS
 
 Possible measurements :
-* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
-* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
+* Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+* Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 
 ### Vlissingen ###
 location-code : VLISSGN
@@ -107,27 +107,27 @@ Possible measurements :
 location-code : VLSKb
 
 Possible measurements :
-* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
 ### Velserkom m WS3 -6 ###
 location-code : VLSKm
 
 Possible measurements :
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 
 ### Velserkom o WS3 -8 ###
 location-code : VLSKo
 
 Possible measurements :
-* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 
 ### VM3 Zandkreeksluis ###
@@ -146,19 +146,19 @@ Possible measurements :
 location-code : VM4b
 
 Possible measurements :
+* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
-* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 
 ### VM4 Oranjeplaat (o) ###
 location-code : VM4o
 
 Possible measurements :
 * Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
 ### Veersemeer 5 Schotsman ###
 location-code : VM5
@@ -172,33 +172,33 @@ location-code : VM5b
 Possible measurements :
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
-* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
+* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 
 ### VM5 Schotsman (o) ###
 location-code : VM5o
 
 Possible measurements :
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
-* Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
 
 ### Volkerak Noord (b) ###
 location-code : VOLKb
 
 Possible measurements :
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
-* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 
 ### Volkerak Noord (o) ###
 location-code : VOLKo
 
 Possible measurements :
-* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 
 ### Vossenbeemd Helmond ###
 location-code : VOSB
@@ -217,24 +217,24 @@ location-code : VOSMb
 
 Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
 ### Nieuw Vossemeer (o) ###
 location-code : VOSMo
 
 Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
-* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
+* (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
 ### Vlakte v/d Raan ###
 location-code : VR
 
 Possible measurements :
+* 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 * Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
-* 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
 * Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 * Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 
@@ -242,9 +242,9 @@ Possible measurements :
 location-code : VRb
 
 Possible measurements :
-* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
-* Temperatuur Oppervlaktewater oC (measurement-code : T)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
+* Temperatuur Oppervlaktewater oC (measurement-code : T)
+* Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 
 ### Vlakte v/d Raan (o) ###
 location-code : VRo
@@ -271,3 +271,6 @@ location-code : VZNG
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
+
+
+_generated on 30-11-2023_

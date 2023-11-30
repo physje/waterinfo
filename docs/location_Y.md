@@ -14,3 +14,6 @@ location-code : YERSKE
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
+
+
+_generated on 30-11-2023_
