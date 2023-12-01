@@ -1,9 +1,10 @@
-[A](location_A.md) | [B](location_B.md) | [C](location_C.md) | D | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | D | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [L](measurement_L.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | [T](measurement_T.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
 
 # Locations with the letter D #
 
 
-### D15 platform ###
+## D15 platform ##
 location-code : D15
 
 Possible measurements :
@@ -17,7 +18,7 @@ Possible measurements :
 * Temperatuur Lucht oC (measurement-code : T)
 * Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm (measurement-code : WATHTE)
 
-### De Kooy ###
+## De Kooy ##
 location-code : DEKO
 
 Possible measurements :
@@ -25,45 +26,45 @@ Possible measurements :
 * Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * Temperatuur Lucht oC (measurement-code : T)
 
-### Delden boven ###
+## Delden boven ##
 location-code : DELB
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Delfzijl ###
+## Delfzijl ##
 location-code : DELFZL
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Delden beneden ###
+## Delden beneden ##
 location-code : DELO
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 
-### Den Helder ###
+## Den Helder ##
 location-code : DENH
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 
-### Den Helder ###
+## Den Helder ##
 location-code : DENHDR
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Den Oever buiten ###
+## Den Oever buiten ##
 location-code : DENOVBTN
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Deurloo ###
+## Deurloo ##
 location-code : DEUR
 
 Possible measurements :
@@ -77,13 +78,13 @@ Possible measurements :
 * Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
 * Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
 
-### Deventer ###
+## Deventer ##
 location-code : DEVE
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Diemen (NAP -1.4m) ###
+## Diemen (NAP -1.4m) ##
 location-code : DIE14
 
 Possible measurements :
@@ -92,7 +93,7 @@ Possible measurements :
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 
-### Diemen (NAP -6.5m) ###
+## Diemen (NAP -6.5m) ##
 location-code : DIE65
 
 Possible measurements :
@@ -101,55 +102,55 @@ Possible measurements :
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 
-### Delfzijl ###
+## Delfzijl ##
 location-code : DLFZ
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Drielandenpunt ###
+## Drielandenpunt ##
 location-code : DLPT
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Inlaat Son en Breugel ###
+## Inlaat Son en Breugel ##
 location-code : DM13
 
 Possible measurements :
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-### Inlaat Beekse Waterloop ###
+## Inlaat Beekse Waterloop ##
 location-code : DM14
 
 Possible measurements :
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-### Den Helder Veersteiger 2 ###
+## Den Helder Veersteiger 2 ##
 location-code : DNHV
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Dodewaard ###
+## Dodewaard ##
 location-code : DODE
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Doesburg brug ###
+## Doesburg brug ##
 location-code : DOES
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Doorslag ###
+## Doorslag ##
 location-code : DOOR
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Domburger Rassen ###
+## Domburger Rassen ##
 location-code : DORA
 
 Possible measurements :
@@ -161,25 +162,25 @@ Possible measurements :
 * Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
 * Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
 
-### Dordrecht ###
+## Dordrecht ##
 location-code : DORD
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Dordrecht ###
+## Dordrecht ##
 location-code : DORDT
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Dorkwerd ###
+## Dorkwerd ##
 location-code : DORK
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Driel boven ###
+## Driel boven ##
 location-code : DRIB
 
 Possible measurements :
@@ -188,160 +189,160 @@ Possible measurements :
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 
-### Driel beneden ###
+## Driel beneden ##
 location-code : DRIO
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Duivelseiland 000 ###
+## Duivelseiland 000 ##
 location-code : DU000
 
 Possible measurements :
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 
-### Duivelseiland 015 ###
+## Duivelseiland 015 ##
 location-code : DU015
 
 Possible measurements :
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-### Duivelseiland 030 ###
+## Duivelseiland 030 ##
 location-code : DU030
 
 Possible measurements :
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 
-### Duivelseiland 045 ###
+## Duivelseiland 045 ##
 location-code : DU045
 
 Possible measurements :
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 
-### Duivelseiland 060 ###
+## Duivelseiland 060 ##
 location-code : DU060
 
 Possible measurements :
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 
-### Duivelseiland 075 ###
+## Duivelseiland 075 ##
 location-code : DU075
 
 Possible measurements :
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-### Duivelseiland 090 ###
+## Duivelseiland 090 ##
 location-code : DU090
 
 Possible measurements :
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 
-### Duivelseiland  105 ###
+## Duivelseiland  105 ##
 location-code : DU105
 
 Possible measurements :
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-### Duivelseiland  120 ###
+## Duivelseiland  120 ##
 location-code : DU120
 
 Possible measurements :
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-### Duivelseiland  135 ###
+## Duivelseiland  135 ##
 location-code : DU135
 
 Possible measurements :
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-### Duivelseiland  150 ###
+## Duivelseiland  150 ##
 location-code : DU150
 
 Possible measurements :
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 
-### Duivelseiland  165 ###
+## Duivelseiland  165 ##
 location-code : DU165
 
 Possible measurements :
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-### Duivelseiland  180 ###
+## Duivelseiland  180 ##
 location-code : DU180
 
 Possible measurements :
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-### Duivelseiland  195 ###
+## Duivelseiland  195 ##
 location-code : DU195
 
 Possible measurements :
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-### Duivelseiland  210 ###
+## Duivelseiland  210 ##
 location-code : DU210
 
 Possible measurements :
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 
-### Duivelseiland  225 ###
+## Duivelseiland  225 ##
 location-code : DU225
 
 Possible measurements :
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 
-### Duivelseiland  240 ###
+## Duivelseiland  240 ##
 location-code : DU240
 
 Possible measurements :
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-### Duivelseiland  255 ###
+## Duivelseiland  255 ##
 location-code : DU255
 
 Possible measurements :
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-### Duivelseiland  270 ###
+## Duivelseiland  270 ##
 location-code : DU270
 
 Possible measurements :
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-### Duivelseiland  285 ###
+## Duivelseiland  285 ##
 location-code : DU285
 
 Possible measurements :
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-### Duivelseiland  300 ###
+## Duivelseiland  300 ##
 location-code : DU300
 
 Possible measurements :
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-### Eurogeul DWE ###
+## Eurogeul DWE ##
 location-code : DWE1
 
 Possible measurements :
@@ -354,4 +355,4 @@ Possible measurements :
 * Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
 
 
-_generated on 30-11-2023_
+_generated on 01-12-2023_

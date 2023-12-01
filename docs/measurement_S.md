@@ -1,226 +1,236 @@
-[C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [I](measurement_I.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | [T](measurement_T.md) | [W](measurement_W.md) | [Z](measurement_Z.md) | 
+Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [L](measurement_L.md) | [Q](measurement_Q.md) | S | [T](measurement_T.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
 
 # Measurements with the letter S #
 
-### Stroomsnelheid Oppervlaktewater m/s ###
+## Stroomsnelheid Oppervlaktewater m/s ##
 measurement-code : STROOMSHD
 
-* Alblasserdam (location-code : ALBL)
-* Buitenbanken west (location-code : BUBW)
-* Bunde (location-code : BUND)
-* Driel boven (location-code : DRIB)
-* Duivelseiland 000 (location-code : DU000)
-* Duivelseiland 015 (location-code : DU015)
-* Duivelseiland 030 (location-code : DU030)
-* Duivelseiland 045 (location-code : DU045)
-* Duivelseiland 060 (location-code : DU060)
-* Duivelseiland 075 (location-code : DU075)
-* Duivelseiland 090 (location-code : DU090)
-* Duivelseiland  105 (location-code : DU105)
-* Duivelseiland  120 (location-code : DU120)
-* Duivelseiland  135 (location-code : DU135)
-* Duivelseiland  150 (location-code : DU150)
-* Duivelseiland  165 (location-code : DU165)
-* Duivelseiland  180 (location-code : DU180)
-* Duivelseiland  195 (location-code : DU195)
-* Duivelseiland  210 (location-code : DU210)
-* Duivelseiland  225 (location-code : DU225)
-* Duivelseiland  240 (location-code : DU240)
-* Duivelseiland  255 (location-code : DU255)
-* Duivelseiland  270 (location-code : DU270)
-* Duivelseiland  285 (location-code : DU285)
-* Duivelseiland  300 (location-code : DU300)
-* Eemdijk (location-code : EEMDK)
-* Genemuiden (location-code : GENE)
-* Hagestein boven (location-code : HAGB)
-* Loozen (location-code : LOOZ)
-* Megen (location-code : MEGE)
-* Meppelerdiep km 2.5 (location-code : MEP25)
-* Monding Nieuwe Haven (location-code : MNHV)
-* Moerdijkbrug 000 (location-code : MO000)
-* Moerdijkbrug 015 (location-code : MO015)
-* Moerdijkbrug 030 (location-code : MO030)
-* Moerdijkbrug 045 (location-code : MO045)
-* Moerdijkbrug 060 (location-code : MO060)
-* Moerdijkbrug 075 (location-code : MO075)
-* Moerdijkbrug 090 (location-code : MO090)
-* Moerdijkbrug 105 (location-code : MO105)
-* Moerdijkbrug 120 (location-code : MO120)
-* Moerdijkbrug 135 (location-code : MO135)
-* Moerdijkbrug 150 (location-code : MO150)
-* Moerdijkbrug 165 (location-code : MO165)
-* Moerdijkbrug 180 (location-code : MO180)
-* Moerdijkbrug 195 (location-code : MO195)
-* Moerdijkbrug 210 (location-code : MO210)
-* Moerdijkbrug 225 (location-code : MO225)
-* Moerdijkbrug 240 (location-code : MO240)
-* Moerdijkbrug 255 (location-code : MO255)
-* Moerdijkbrug 270 (location-code : MO270)
-* Moerdijkbrug 285 (location-code : MO285)
-* Moerdijkbrug 300 (location-code : MO300)
-* Nieuwegein (location-code : NWGN)
-* Ommen Hesselmulertbrug (location-code : OMMH)
-* Ommen Ommerkanaal (location-code : OMMK)
-* Schouwenbank Stroomgat (location-code : SCHS)
-* Smeermaas (location-code : SMEE)
-* Spijkenisserbrug West (location-code : SPBR)
-* Stroommeetpaal Eemshaven (location-code : SPE)
-* IJgeul stroommeetpaal (location-code : SPY)
-* Weesp (location-code : WEES)
-* Wieldrecht (location-code : WIED)
+|Possible location|location-code|
+|---|---|
+|Alblasserdam|ALBL|
+|Buitenbanken west|BUBW|
+|Bunde|BUND|
+|Driel boven|DRIB|
+|Duivelseiland 000|DU000|
+|Duivelseiland 015|DU015|
+|Duivelseiland 030|DU030|
+|Duivelseiland 045|DU045|
+|Duivelseiland 060|DU060|
+|Duivelseiland 075|DU075|
+|Duivelseiland 090|DU090|
+|Duivelseiland  105|DU105|
+|Duivelseiland  120|DU120|
+|Duivelseiland  135|DU135|
+|Duivelseiland  150|DU150|
+|Duivelseiland  165|DU165|
+|Duivelseiland  180|DU180|
+|Duivelseiland  195|DU195|
+|Duivelseiland  210|DU210|
+|Duivelseiland  225|DU225|
+|Duivelseiland  240|DU240|
+|Duivelseiland  255|DU255|
+|Duivelseiland  270|DU270|
+|Duivelseiland  285|DU285|
+|Duivelseiland  300|DU300|
+|Eemdijk|EEMDK|
+|Genemuiden|GENE|
+|Hagestein boven|HAGB|
+|Loozen|LOOZ|
+|Megen|MEGE|
+|Meppelerdiep km 2.5|MEP25|
+|Monding Nieuwe Haven|MNHV|
+|Moerdijkbrug 000|MO000|
+|Moerdijkbrug 015|MO015|
+|Moerdijkbrug 030|MO030|
+|Moerdijkbrug 045|MO045|
+|Moerdijkbrug 060|MO060|
+|Moerdijkbrug 075|MO075|
+|Moerdijkbrug 090|MO090|
+|Moerdijkbrug 105|MO105|
+|Moerdijkbrug 120|MO120|
+|Moerdijkbrug 135|MO135|
+|Moerdijkbrug 150|MO150|
+|Moerdijkbrug 165|MO165|
+|Moerdijkbrug 180|MO180|
+|Moerdijkbrug 195|MO195|
+|Moerdijkbrug 210|MO210|
+|Moerdijkbrug 225|MO225|
+|Moerdijkbrug 240|MO240|
+|Moerdijkbrug 255|MO255|
+|Moerdijkbrug 270|MO270|
+|Moerdijkbrug 285|MO285|
+|Moerdijkbrug 300|MO300|
+|Nieuwegein|NWGN|
+|Ommen Hesselmulertbrug|OMMH|
+|Ommen Ommerkanaal|OMMK|
+|Schouwenbank Stroomgat|SCHS|
+|Smeermaas|SMEE|
+|Spijkenisserbrug West|SPBR|
+|Stroommeetpaal Eemshaven|SPE|
+|IJgeul stroommeetpaal|SPY|
+|Weesp|WEES|
+|Wieldrecht|WIED|
 
 
-### Saliniteit Oppervlaktewater  ###
+## Saliniteit Oppervlaktewater  ##
 measurement-code : SALNTT
 
-* Antwerps kanaalpand (b) (location-code : ANKAb)
-* Antwerps kanaalpand (o) (location-code : ANKAo)
-* Baalhoek (b) (location-code : BAALb)
-* Baalhoek (o) (location-code : BAALo)
-* Brouwershavense Gat 2 (b) (location-code : BG2b)
-* Brouwershavense Gat 2 (o) (location-code : BG2o)
-* Brouwershavense Gat 8 (b) (location-code : BG8b)
-* Brouwershavense Gat 8 (o) (location-code : BG8o)
-* Bommenede 1 (b) (location-code : BOM1b)
-* Bommenede 1 (o) (location-code : BOM1o)
-* Diemen (NAP -1.4m) (location-code : DIE14)
-* Diemen (NAP -6.5m) (location-code : DIE65)
-* Rotterdamse hoek (location-code : FL02)
-* Friese kust (location-code : FL09)
-* Andijk (location-code : FL38)
-* Wieringen Oost (location-code : FL48)
-* Haringvliet 10 (b) (location-code : HA10b)
-* Haringvliet 10 (o) (location-code : HA10o)
-* Hoek v Holland NAP -2.5m (location-code : HVH25)
-* Hoek v Holland NAP -4.5m (location-code : HVH45)
-* Hoek v Holland NAP -9.0m (location-code : HVH90)
-* Sluiskil brug (b) (location-code : KGTBb)
-* Sluiskil brug (o) (location-code : KGTBo)
-* Sas van Gent (b) (location-code : KGTSb)
-* Sas van Gent (o) (location-code : KGTSo)
-* KrammersluisOZ1b -1.5mWS (location-code : KO1b)
-* KrammersluisOZ1mb -3.5mWS (location-code : KO1m)
-* KrammersluisOZ1m -2.5mWS (location-code : KO1mb)
-* KrammersluisOZ1mo -4.5mWS (location-code : KO1mo)
-* KrammersluisOZ1o -5.5mWS (location-code : KO1o)
-* Kwdznd Mg b(-2mWS) (location-code : KOMb)
-* Kwdznd Mg mb(-5mWS) (location-code : KOMmb)
-* Kwdznd Mg mo(-6mWS) (location-code : KOMmo)
-* Kwdznd mg o(-7mWS) (location-code : KOMo)
-* Kwdznd sp b(-1,5mNAP) (location-code : KOSb)
-* Kwdznd sp m(-6mNAP) (location-code : KOSm)
-* Kwdznd sp mb(-4,5mNAP) (location-code : KOSmb)
-* Kwdznd sp mo(-10,25mNAP) (location-code : KOSmo)
-* Kwdznd sp o(-12mNAP) (location-code : KOSo)
-* Kwdznd vg b(-2mNAP) (location-code : KOVb)
-* Kwdznd vg mb(-5mNAP) (location-code : KOVmb)
-* Kwdznd vg mo(-7mNAP) (location-code : KOVmo)
-* Kwdznd vg o(-8,5mNAP) (location-code : KOVo)
-* Krammerput Boven -1,5m (location-code : KPTb)
-* Krammerput Midden_b -8,0m (location-code : KPTmb)
-* Krammerput Midden_o -10,0 (location-code : KPTmo)
-* Krammerput Onder -15,0m (location-code : KPTo)
-* Krammer Laagbekken  (b) (location-code : KRBLb)
-* Krammer Laagbekken (o) (location-code : KRBLo)
-* Krammer Noord (location-code : KRND)
-* Krammersluis volkerakzijd (location-code : KV1b)
-* Krammersluis volkerakzijd (location-code : KV1o)
-* Krammersluis volkerakzijd (location-code : KV2b)
-* Krammersluis volkerakzijd (location-code : KV2o)
-* Marollegat (b) (location-code : MRGb)
-* Marollegat (o) (location-code : MRGo)
-* Muiden brug (location-code : MUIB)
-* NDSM-werf (o) (location-code : NDS1)
-* NDSM-werf (b) (location-code : NDS2)
-* Den Oever sp b(-1,5mWS) (location-code : OESb)
-* Den Oever sp mb(-4,5mWS) (location-code : OESmb)
-* Den Oever sp mo(-5,6mWS) (location-code : OESmo)
-* Den Oever sp o(-6,7mWS) (location-code : OESo)
-* Den Oever vg b(-2mNAP) (location-code : OEVb)
-* Den Oever vg mb(-4mNAP) (location-code : OEVmb)
-* Den Oever vg mo(-5,5mNAP) (location-code : OEVmo)
-* Den Oever vg o(-7m NAP) (location-code : OEVo)
-* Oosterschelde 4 (b) (location-code : OS4b)
-* Oosterschelde 4 (o) (location-code : OS4o)
-* Overloop v. Hansweert (b) (location-code : OVHAb)
-* Overloop v. Hansweert (o) (location-code : OVHAo)
-* Plaat van Oude Tonge (b) (location-code : PLOTb)
-* Plaat van Oude Tonge (o) (location-code : PLOTo)
-* Slaak Noord boven (location-code : SKNDb)
-* Slaak Noord midden (location-code : SKNDm)
-* Slaak Noord onder (location-code : SKNDo)
-* Slaak Oost (location-code : SKOT)
-* Slaak Zuid (location-code : SKZD)
-* Spaarnd.polder NAP -1.4m (location-code : SPA14)
-* Spaarnd.polder NAP -6.4m (location-code : SPA64)
-* Stroommeetpaal Eemshaven (location-code : SPE)
-* Stellendam buiten boven (location-code : STBUb)
-* Stellendam buiten onder (location-code : STBUo)
-* Schellingw.brug NAP -2.8m (location-code : SWB28)
-* Terneuzen Westsluis ZZ (b (location-code : TWZZb)
-* Terneuzen Westsluis ZZ (o (location-code : TWZZo)
-* Velserkom b WS3 -1 (location-code : VLSKb)
-* Velserkom m WS3 -6 (location-code : VLSKm)
-* Velserkom o WS3 -8 (location-code : VLSKo)
-* VM4 Oranjeplaat (b) (location-code : VM4b)
-* VM4 Oranjeplaat (o) (location-code : VM4o)
-* VM5 Schotsman (b) (location-code : VM5b)
-* VM5 Schotsman (o) (location-code : VM5o)
-* Vlakte v/d Raan (b) (location-code : VRb)
-* Vlakte v/d Raan (o) (location-code : VRo)
-* Zijkanaal C (NAP -140) (location-code : ZC14)
-* Zijkanaal C (NAP -440) (location-code : ZC44)
+|Possible location|location-code|
+|---|---|
+|Antwerps kanaalpand (b)|ANKAb|
+|Antwerps kanaalpand (o)|ANKAo|
+|Baalhoek (b)|BAALb|
+|Baalhoek (o)|BAALo|
+|Brouwershavense Gat 2 (b)|BG2b|
+|Brouwershavense Gat 2 (o)|BG2o|
+|Brouwershavense Gat 8 (b)|BG8b|
+|Brouwershavense Gat 8 (o)|BG8o|
+|Bommenede 1 (b)|BOM1b|
+|Bommenede 1 (o)|BOM1o|
+|Diemen (NAP -1.4m)|DIE14|
+|Diemen (NAP -6.5m)|DIE65|
+|Rotterdamse hoek|FL02|
+|Friese kust|FL09|
+|Andijk|FL38|
+|Wieringen Oost|FL48|
+|Haringvliet 10 (b)|HA10b|
+|Haringvliet 10 (o)|HA10o|
+|Hoek v Holland NAP -2.5m|HVH25|
+|Hoek v Holland NAP -4.5m|HVH45|
+|Hoek v Holland NAP -9.0m|HVH90|
+|Sluiskil brug (b)|KGTBb|
+|Sluiskil brug (o)|KGTBo|
+|Sas van Gent (b)|KGTSb|
+|Sas van Gent (o)|KGTSo|
+|KrammersluisOZ1b -1.5mWS|KO1b|
+|KrammersluisOZ1mb -3.5mWS|KO1m|
+|KrammersluisOZ1m -2.5mWS|KO1mb|
+|KrammersluisOZ1mo -4.5mWS|KO1mo|
+|KrammersluisOZ1o -5.5mWS|KO1o|
+|Kwdznd Mg b(-2mWS)|KOMb|
+|Kwdznd Mg mb(-5mWS)|KOMmb|
+|Kwdznd Mg mo(-6mWS)|KOMmo|
+|Kwdznd mg o(-7mWS)|KOMo|
+|Kwdznd sp b(-1,5mNAP)|KOSb|
+|Kwdznd sp m(-6mNAP)|KOSm|
+|Kwdznd sp mb(-4,5mNAP)|KOSmb|
+|Kwdznd sp mo(-10,25mNAP)|KOSmo|
+|Kwdznd sp o(-12mNAP)|KOSo|
+|Kwdznd vg b(-2mNAP)|KOVb|
+|Kwdznd vg mb(-5mNAP)|KOVmb|
+|Kwdznd vg mo(-7mNAP)|KOVmo|
+|Kwdznd vg o(-8,5mNAP)|KOVo|
+|Krammerput Boven -1,5m|KPTb|
+|Krammerput Midden_b -8,0m|KPTmb|
+|Krammerput Midden_o -10,0|KPTmo|
+|Krammerput Onder -15,0m|KPTo|
+|Krammer Laagbekken  (b)|KRBLb|
+|Krammer Laagbekken (o)|KRBLo|
+|Krammer Noord|KRND|
+|Krammersluis volkerakzijd|KV1b|
+|Krammersluis volkerakzijd|KV1o|
+|Krammersluis volkerakzijd|KV2b|
+|Krammersluis volkerakzijd|KV2o|
+|Marollegat (b)|MRGb|
+|Marollegat (o)|MRGo|
+|Muiden brug|MUIB|
+|NDSM-werf (o)|NDS1|
+|NDSM-werf (b)|NDS2|
+|Den Oever sp b(-1,5mWS)|OESb|
+|Den Oever sp mb(-4,5mWS)|OESmb|
+|Den Oever sp mo(-5,6mWS)|OESmo|
+|Den Oever sp o(-6,7mWS)|OESo|
+|Den Oever vg b(-2mNAP)|OEVb|
+|Den Oever vg mb(-4mNAP)|OEVmb|
+|Den Oever vg mo(-5,5mNAP)|OEVmo|
+|Den Oever vg o(-7m NAP)|OEVo|
+|Oosterschelde 4 (b)|OS4b|
+|Oosterschelde 4 (o)|OS4o|
+|Overloop v. Hansweert (b)|OVHAb|
+|Overloop v. Hansweert (o)|OVHAo|
+|Plaat van Oude Tonge (b)|PLOTb|
+|Plaat van Oude Tonge (o)|PLOTo|
+|Slaak Noord boven|SKNDb|
+|Slaak Noord midden|SKNDm|
+|Slaak Noord onder|SKNDo|
+|Slaak Oost|SKOT|
+|Slaak Zuid|SKZD|
+|Spaarnd.polder NAP -1.4m|SPA14|
+|Spaarnd.polder NAP -6.4m|SPA64|
+|Stroommeetpaal Eemshaven|SPE|
+|Stellendam buiten boven|STBUb|
+|Stellendam buiten onder|STBUo|
+|Schellingw.brug NAP -2.8m|SWB28|
+|Terneuzen Westsluis ZZ (b|TWZZb|
+|Terneuzen Westsluis ZZ (o|TWZZo|
+|Velserkom b WS3 -1|VLSKb|
+|Velserkom m WS3 -6|VLSKm|
+|Velserkom o WS3 -8|VLSKo|
+|VM4 Oranjeplaat (b)|VM4b|
+|VM4 Oranjeplaat (o)|VM4o|
+|VM5 Schotsman (b)|VM5b|
+|VM5 Schotsman (o)|VM5o|
+|Vlakte v/d Raan (b)|VRb|
+|Vlakte v/d Raan (o)|VRo|
+|Zijkanaal C (NAP -140)|ZC14|
+|Zijkanaal C (NAP -440)|ZC44|
 
 
-### Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad ###
+## Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad ##
 measurement-code : STROOMRTG
 
-* Buitenbanken west (location-code : BUBW)
-* Duivelseiland 000 (location-code : DU000)
-* Duivelseiland 015 (location-code : DU015)
-* Duivelseiland 030 (location-code : DU030)
-* Duivelseiland 045 (location-code : DU045)
-* Duivelseiland 060 (location-code : DU060)
-* Duivelseiland 075 (location-code : DU075)
-* Duivelseiland 090 (location-code : DU090)
-* Duivelseiland  105 (location-code : DU105)
-* Duivelseiland  120 (location-code : DU120)
-* Duivelseiland  135 (location-code : DU135)
-* Duivelseiland  150 (location-code : DU150)
-* Duivelseiland  165 (location-code : DU165)
-* Duivelseiland  180 (location-code : DU180)
-* Duivelseiland  195 (location-code : DU195)
-* Duivelseiland  210 (location-code : DU210)
-* Duivelseiland  225 (location-code : DU225)
-* Duivelseiland  240 (location-code : DU240)
-* Duivelseiland  255 (location-code : DU255)
-* Duivelseiland  270 (location-code : DU270)
-* Duivelseiland  285 (location-code : DU285)
-* Duivelseiland  300 (location-code : DU300)
-* Monding Nieuwe Haven (location-code : MNHV)
-* Moerdijkbrug 000 (location-code : MO000)
-* Moerdijkbrug 015 (location-code : MO015)
-* Moerdijkbrug 030 (location-code : MO030)
-* Moerdijkbrug 045 (location-code : MO045)
-* Moerdijkbrug 060 (location-code : MO060)
-* Moerdijkbrug 075 (location-code : MO075)
-* Moerdijkbrug 090 (location-code : MO090)
-* Moerdijkbrug 105 (location-code : MO105)
-* Moerdijkbrug 120 (location-code : MO120)
-* Moerdijkbrug 135 (location-code : MO135)
-* Moerdijkbrug 150 (location-code : MO150)
-* Moerdijkbrug 165 (location-code : MO165)
-* Moerdijkbrug 180 (location-code : MO180)
-* Moerdijkbrug 195 (location-code : MO195)
-* Moerdijkbrug 210 (location-code : MO210)
-* Moerdijkbrug 225 (location-code : MO225)
-* Moerdijkbrug 240 (location-code : MO240)
-* Moerdijkbrug 255 (location-code : MO255)
-* Moerdijkbrug 270 (location-code : MO270)
-* Moerdijkbrug 285 (location-code : MO285)
-* Moerdijkbrug 300 (location-code : MO300)
-* Schouwenbank Stroomgat (location-code : SCHS)
-* Stroommeetpaal Eemshaven (location-code : SPE)
-* IJgeul stroommeetpaal (location-code : SPY)
+|Possible location|location-code|
+|---|---|
+|Buitenbanken west|BUBW|
+|Duivelseiland 000|DU000|
+|Duivelseiland 015|DU015|
+|Duivelseiland 030|DU030|
+|Duivelseiland 045|DU045|
+|Duivelseiland 060|DU060|
+|Duivelseiland 075|DU075|
+|Duivelseiland 090|DU090|
+|Duivelseiland  105|DU105|
+|Duivelseiland  120|DU120|
+|Duivelseiland  135|DU135|
+|Duivelseiland  150|DU150|
+|Duivelseiland  165|DU165|
+|Duivelseiland  180|DU180|
+|Duivelseiland  195|DU195|
+|Duivelseiland  210|DU210|
+|Duivelseiland  225|DU225|
+|Duivelseiland  240|DU240|
+|Duivelseiland  255|DU255|
+|Duivelseiland  270|DU270|
+|Duivelseiland  285|DU285|
+|Duivelseiland  300|DU300|
+|Monding Nieuwe Haven|MNHV|
+|Moerdijkbrug 000|MO000|
+|Moerdijkbrug 015|MO015|
+|Moerdijkbrug 030|MO030|
+|Moerdijkbrug 045|MO045|
+|Moerdijkbrug 060|MO060|
+|Moerdijkbrug 075|MO075|
+|Moerdijkbrug 090|MO090|
+|Moerdijkbrug 105|MO105|
+|Moerdijkbrug 120|MO120|
+|Moerdijkbrug 135|MO135|
+|Moerdijkbrug 150|MO150|
+|Moerdijkbrug 165|MO165|
+|Moerdijkbrug 180|MO180|
+|Moerdijkbrug 195|MO195|
+|Moerdijkbrug 210|MO210|
+|Moerdijkbrug 225|MO225|
+|Moerdijkbrug 240|MO240|
+|Moerdijkbrug 255|MO255|
+|Moerdijkbrug 270|MO270|
+|Moerdijkbrug 285|MO285|
+|Moerdijkbrug 300|MO300|
+|Schouwenbank Stroomgat|SCHS|
+|Stroommeetpaal Eemshaven|SPE|
+|IJgeul stroommeetpaal|SPY|
 
 
+
+
+_generated on 01-12-2023_

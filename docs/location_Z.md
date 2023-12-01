@@ -1,15 +1,16 @@
-[A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | Z
+Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | Z
+Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [L](measurement_L.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | [T](measurement_T.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
 
 # Locations with the letter Z #
 
 
-### Zaltbommel ###
+## Zaltbommel ##
 location-code : ZALT
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Zeelandbrug wind ###
+## Zeelandbrug wind ##
 location-code : ZBWI
 
 Possible measurements :
@@ -18,7 +19,7 @@ Possible measurements :
 * 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
 * Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 
-### Zijkanaal C (NAP -140) ###
+## Zijkanaal C (NAP -140) ##
 location-code : ZC14
 
 Possible measurements :
@@ -27,7 +28,7 @@ Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
-### Zijkanaal C (NAP -440) ###
+## Zijkanaal C (NAP -440) ##
 location-code : ZC44
 
 Possible measurements :
@@ -36,31 +37,31 @@ Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
-### Zandkreekdam ###
+## Zandkreekdam ##
 location-code : ZKD
 
 Possible measurements :
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-### Zandkreekdam OS ###
+## Zandkreekdam OS ##
 location-code : ZKO
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Zandkreekdam VM ###
+## Zandkreekdam VM ##
 location-code : ZKV
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Zutphen Noord ###
+## Zutphen Noord ##
 location-code : ZUTP
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Zwartsluis buiten ###
+## Zwartsluis buiten ##
 location-code : ZWBU
 
 Possible measurements :
@@ -68,4 +69,4 @@ Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
 
-_generated on 30-11-2023_
+_generated on 01-12-2023_

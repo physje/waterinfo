@@ -1,15 +1,16 @@
-[A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | F | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | F | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [L](measurement_L.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | [T](measurement_T.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
 
 # Locations with the letter F #
 
 
-### Platform F16-A ###
+## Platform F16-A ##
 location-code : F16
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm (measurement-code : WATHTBRKD)
 
-### F3 platform ###
+## F3 platform ##
 location-code : F3
 
 Possible measurements :
@@ -29,13 +30,13 @@ Possible measurements :
 * Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 * Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
 
-### F3 platform ###
+## F3 platform ##
 location-code : F3PFM
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm (measurement-code : WATHTBRKD)
 
-### Rotterdamse hoek ###
+## Rotterdamse hoek ##
 location-code : FL02
 
 Possible measurements :
@@ -56,7 +57,7 @@ Possible measurements :
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
 
-### Friese kust ###
+## Friese kust ##
 location-code : FL09
 
 Possible measurements :
@@ -65,7 +66,7 @@ Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 
-### Andijk ###
+## Andijk ##
 location-code : FL38
 
 Possible measurements :
@@ -74,7 +75,7 @@ Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
-### Markermeer Midden -b ###
+## Markermeer Midden -b ##
 location-code : FL42b
 
 Possible measurements :
@@ -82,7 +83,7 @@ Possible measurements :
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 
-### Markermeer Midden -o ###
+## Markermeer Midden -o ##
 location-code : FL42o
 
 Possible measurements :
@@ -94,7 +95,7 @@ Possible measurements :
 * Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 * Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 
-### Wieringen Oost ###
+## Wieringen Oost ##
 location-code : FL48
 
 Possible measurements :
@@ -104,4 +105,4 @@ Possible measurements :
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
 
-_generated on 30-11-2023_
+_generated on 01-12-2023_

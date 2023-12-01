@@ -1,226 +1,227 @@
-[A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | S | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | S | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [L](measurement_L.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | [T](measurement_T.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
 
 # Locations with the letter S #
 
 
-### Sluis 4 boven ###
+## Sluis 4 boven ##
 location-code : S04B
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 4 beneden ###
+## Sluis 4 beneden ##
 location-code : S04O
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 5 boven ###
+## Sluis 5 boven ##
 location-code : S05B
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 5 beneden ###
+## Sluis 5 beneden ##
 location-code : S05O
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 6 boven ###
+## Sluis 6 boven ##
 location-code : S06B
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 6 beneden ###
+## Sluis 6 beneden ##
 location-code : S06O
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 7 spuiduiker ###
+## Sluis 7 spuiduiker ##
 location-code : S07S
 
 Possible measurements :
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-### Sluis 9 boven ###
+## Sluis 9 boven ##
 location-code : S09B
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 9 spuiduiker ###
+## Sluis 9 spuiduiker ##
 location-code : S09S
 
 Possible measurements :
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-### Sluis 10 boven ###
+## Sluis 10 boven ##
 location-code : S10B
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 10 beneden ###
+## Sluis 10 beneden ##
 location-code : S10O
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 11 boven ###
+## Sluis 11 boven ##
 location-code : S11B
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 11 beneden ###
+## Sluis 11 beneden ##
 location-code : S11O
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 12 boven ###
+## Sluis 12 boven ##
 location-code : S12B
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 12 beneden ###
+## Sluis 12 beneden ##
 location-code : S12O
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 13 ###
+## Sluis 13 ##
 location-code : S131
 
 Possible measurements :
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-### Sluis 13 ADM ###
+## Sluis 13 ADM ##
 location-code : S13A
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 13 boven ###
+## Sluis 13 boven ##
 location-code : S13B
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 13 beneden ###
+## Sluis 13 beneden ##
 location-code : S13O
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 15 boven ###
+## Sluis 15 boven ##
 location-code : S15B
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 15 voedingskanaal ###
+## Sluis 15 voedingskanaal ##
 location-code : S15V
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 16 boven ###
+## Sluis 16 boven ##
 location-code : S16B
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 16 beneden ###
+## Sluis 16 beneden ##
 location-code : S16O
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 21 boven ###
+## Sluis 21 boven ##
 location-code : S21B
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 21 spuikanaal ###
+## Sluis 21 spuikanaal ##
 location-code : S21S
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 22 boven ###
+## Sluis 22 boven ##
 location-code : S22B
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 22 beneden ###
+## Sluis 22 beneden ##
 location-code : S22O
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 23 boven ###
+## Sluis 23 boven ##
 location-code : S23B
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 23 beneden ###
+## Sluis 23 beneden ##
 location-code : S23O
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 24 boven ###
+## Sluis 24 boven ##
 location-code : S24B
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 24 beneden ###
+## Sluis 24 beneden ##
 location-code : S24O
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis 24 spuikanaal ###
+## Sluis 24 spuikanaal ##
 location-code : S24S
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sambeek boven ###
+## Sambeek boven ##
 location-code : SAMB
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 
-### Sambeek beneden ###
+## Sambeek beneden ##
 location-code : SAMO
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Schabbert boven ###
+## Schabbert boven ##
 location-code : SCAB
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Schabbert beneden ###
+## Schabbert beneden ##
 location-code : SCAO
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Schouwenbank 2 boei ###
+## Schouwenbank 2 boei ##
 location-code : SCB2
 
 Possible measurements :
@@ -234,31 +235,31 @@ Possible measurements :
 * Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
 * Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
 
-### Schaar van de Noord ###
+## Schaar van de Noord ##
 location-code : SCHAARVDND
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Scheveningen ###
+## Scheveningen ##
 location-code : SCHE
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Scheveningen ###
+## Scheveningen ##
 location-code : SCHEVNGN
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Schoonhoven ###
+## Schoonhoven ##
 location-code : SCHH
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Schiermonnikoog ###
+## Schiermonnikoog ##
 location-code : SCHI
 
 Possible measurements :
@@ -271,19 +272,19 @@ Possible measurements :
 * Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
 * Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
 
-### Schiermonnikoog ###
+## Schiermonnikoog ##
 location-code : SCHIERMNOG
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Schoonhoven ###
+## Schoonhoven ##
 location-code : SCHOONHVN
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Schouwenbank Stroomgat ###
+## Schouwenbank Stroomgat ##
 location-code : SCHS
 
 Possible measurements :
@@ -300,19 +301,19 @@ Possible measurements :
 * Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
 * Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad (measurement-code : STROOMRTG)
 
-### Schellingwouderbrug ###
+## Schellingwouderbrug ##
 location-code : SCHWB
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Scheeresluis beneden ###
+## Scheeresluis beneden ##
 location-code : SCSO
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Schulpengat ###
+## Schulpengat ##
 location-code : SGAT
 
 Possible measurements :
@@ -327,26 +328,26 @@ Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad (measurement-code : Th0)
 
-### Sluis Helmond boven ###
+## Sluis Helmond boven ##
 location-code : SHMB
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sint Pieter noord ###
+## Sint Pieter noord ##
 location-code : SINT
 
 Possible measurements :
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sint Annaland Haven Steiger ###
+## Sint Annaland Haven Steiger ##
 location-code : SINTANLHVSGR
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Slaak Noord boven ###
+## Slaak Noord boven ##
 location-code : SKNDb
 
 Possible measurements :
@@ -355,7 +356,7 @@ Possible measurements :
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 
-### Slaak Noord midden ###
+## Slaak Noord midden ##
 location-code : SKNDm
 
 Possible measurements :
@@ -364,7 +365,7 @@ Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
-### Slaak Noord onder ###
+## Slaak Noord onder ##
 location-code : SKNDo
 
 Possible measurements :
@@ -373,7 +374,7 @@ Possible measurements :
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 
-### Slaak Oost ###
+## Slaak Oost ##
 location-code : SKOT
 
 Possible measurements :
@@ -382,7 +383,7 @@ Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 
-### Slaak Zuid ###
+## Slaak Zuid ##
 location-code : SKZD
 
 Possible measurements :
@@ -391,43 +392,43 @@ Possible measurements :
 * Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
-### Slochtersluis boven ###
+## Slochtersluis boven ##
 location-code : SLBV
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Zwartsluis gemaal pomp mi ###
+## Zwartsluis gemaal pomp mi ##
 location-code : SLGPM
 
 Possible measurements :
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-### Zwartsluis gemaal pomp O ###
+## Zwartsluis gemaal pomp O ##
 location-code : SLGPO
 
 Possible measurements :
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-### Zwartsluis gemaal pomp W ###
+## Zwartsluis gemaal pomp W ##
 location-code : SLGPW
 
 Possible measurements :
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-### Marksluis boven - WHK ###
+## Marksluis boven - WHK ##
 location-code : SMAB
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Marksluis beneden - Mark ###
+## Marksluis beneden - Mark ##
 location-code : SMAO
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Smeermaas ###
+## Smeermaas ##
 location-code : SMEE
 
 Possible measurements :
@@ -435,7 +436,7 @@ Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-### Schiermonnikoog Noord boe ###
+## Schiermonnikoog Noord boe ##
 location-code : SMN1
 
 Possible measurements :
@@ -450,7 +451,7 @@ Possible measurements :
 * Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
 * Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
 
-### Schiermonnikoog Westgat b ###
+## Schiermonnikoog Westgat b ##
 location-code : SMWG
 
 Possible measurements :
@@ -464,13 +465,13 @@ Possible measurements :
 * Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
 * Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
 
-### Spuisluis Oude Eemskanaal ###
+## Spuisluis Oude Eemskanaal ##
 location-code : SOEB
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Spaarnd.polder NAP -1.4m ###
+## Spaarnd.polder NAP -1.4m ##
 location-code : SPA14
 
 Possible measurements :
@@ -479,7 +480,7 @@ Possible measurements :
 * Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
-### Spaarnd.polder NAP -6.4m ###
+## Spaarnd.polder NAP -6.4m ##
 location-code : SPA64
 
 Possible measurements :
@@ -488,19 +489,19 @@ Possible measurements :
 * Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 
-### Spooldersluis binnen ###
+## Spooldersluis binnen ##
 location-code : SPBI
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Spijkenisserbrug West ###
+## Spijkenisserbrug West ##
 location-code : SPBR
 
 Possible measurements :
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-### Stroommeetpaal Eemshaven ###
+## Stroommeetpaal Eemshaven ##
 location-code : SPE
 
 Possible measurements :
@@ -523,13 +524,13 @@ Possible measurements :
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
 
-### Panheel boven - ZWV ###
+## Panheel boven - ZWV ##
 location-code : SPHB
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Spijkenisserbrug NAP-2.5m ###
+## Spijkenisserbrug NAP-2.5m ##
 location-code : SPI25
 
 Possible measurements :
@@ -537,13 +538,13 @@ Possible measurements :
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 
-### Spijkenisserbrug NAP-4.5m ###
+## Spijkenisserbrug NAP-4.5m ##
 location-code : SPI45
 
 Possible measurements :
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
-### Spijkenisserbrug NAP-9.0m ###
+## Spijkenisserbrug NAP-9.0m ##
 location-code : SPI90
 
 Possible measurements :
@@ -551,25 +552,25 @@ Possible measurements :
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
-### Spijkenisse ###
+## Spijkenisse ##
 location-code : SPIJ
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Spijkenisse ###
+## Spijkenisse ##
 location-code : SPIJKNSE
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Spaanjerd ###
+## Spaanjerd ##
 location-code : SPNJD
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Middelharnis Spui NAP -1m ###
+## Middelharnis Spui NAP -1m ##
 location-code : SPU10
 
 Possible measurements :
@@ -577,7 +578,7 @@ Possible measurements :
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 
-### Middelharnis Spui NAP -5m ###
+## Middelharnis Spui NAP -5m ##
 location-code : SPU50
 
 Possible measurements :
@@ -585,13 +586,13 @@ Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
-### Bathse spuikanaal Inloop ###
+## Bathse spuikanaal Inloop ##
 location-code : SPUI
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Bathse spuikan. Inloop (b ###
+## Bathse spuikan. Inloop (b ##
 location-code : SPUIb
 
 Possible measurements :
@@ -599,7 +600,7 @@ Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 
-### Bathse spuikan. Inloop (o ###
+## Bathse spuikan. Inloop (o ##
 location-code : SPUIo
 
 Possible measurements :
@@ -607,7 +608,7 @@ Possible measurements :
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
-### IJgeul stroommeetpaal ###
+## IJgeul stroommeetpaal ##
 location-code : SPY
 
 Possible measurements :
@@ -626,37 +627,37 @@ Possible measurements :
 * Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
 * Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 
-### Sluis Schijndel boven ###
+## Sluis Schijndel boven ##
 location-code : SSHB
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis Schijndel beneden ###
+## Sluis Schijndel beneden ##
 location-code : SSHO
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Sluis Schijndel spuik ###
+## Sluis Schijndel spuik ##
 location-code : SSHS
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Scheepstal ###
+## Scheepstal ##
 location-code : SSTL
 
 Possible measurements :
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-### Sint Annaland ###
+## Sint Annaland ##
 location-code : STAN
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Stavenisse ###
+## Stavenisse ##
 location-code : STAV
 
 Possible measurements :
@@ -666,13 +667,13 @@ Possible measurements :
 * 10' scalair genmiddelde van de windsnelheid Lucht m/s (measurement-code : WS10)
 * Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 
-### Stavenisse ###
+## Stavenisse ##
 location-code : STAVNSE
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Stellendam binnen WS-2m ###
+## Stellendam binnen WS-2m ##
 location-code : STB02
 
 Possible measurements :
@@ -680,7 +681,7 @@ Possible measurements :
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 
-### Stellendam binnen WS-6m ###
+## Stellendam binnen WS-6m ##
 location-code : STB06
 
 Possible measurements :
@@ -688,7 +689,7 @@ Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
-### Stellendam binnen WS-11m ###
+## Stellendam binnen WS-11m ##
 location-code : STB11
 
 Possible measurements :
@@ -696,7 +697,7 @@ Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
-### Stellendam buiten boven ###
+## Stellendam buiten boven ##
 location-code : STBUb
 
 Possible measurements :
@@ -705,7 +706,7 @@ Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 
-### Stellendam buiten onder ###
+## Stellendam buiten onder ##
 location-code : STBUo
 
 Possible measurements :
@@ -714,37 +715,37 @@ Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * (massa)Concentratie chloride in Oppervlaktewater mg/l (measurement-code : CONCTTE)
 
-### De Steeg ###
+## De Steeg ##
 location-code : STEE
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Stellendam buiten ###
+## Stellendam buiten ##
 location-code : STEL
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Stellendam buiten ###
+## Stellendam buiten ##
 location-code : STELLDBTN
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Stevensweert ###
+## Stevensweert ##
 location-code : STEV
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Steurgat ###
+## Steurgat ##
 location-code : STGT
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Stortemelk boei ###
+## Stortemelk boei ##
 location-code : STM1
 
 Possible measurements :
@@ -758,7 +759,7 @@ Possible measurements :
 * Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
 * Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
 
-### Stortemelk Oost ###
+## Stortemelk Oost ##
 location-code : STMO1
 
 Possible measurements :
@@ -772,13 +773,13 @@ Possible measurements :
 * Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
 * Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
 
-### Steenenmuur ###
+## Steenenmuur ##
 location-code : STMR
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Stavoren ###
+## Stavoren ##
 location-code : STVO
 
 Possible measurements :
@@ -786,25 +787,25 @@ Possible measurements :
 * Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 * Temperatuur Lucht oC (measurement-code : T)
 
-### Surinamekade ###
+## Surinamekade ##
 location-code : SURI
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Suurhofbrug noordzijde ###
+## Suurhofbrug noordzijde ##
 location-code : SUURHBNZDE
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Schaar v/d Noord ###
+## Schaar v/d Noord ##
 location-code : SVDN
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Schellingw.brug NAP -2.8m ###
+## Schellingw.brug NAP -2.8m ##
 location-code : SWB28
 
 Possible measurements :
@@ -814,4 +815,4 @@ Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 
 
-_generated on 30-11-2023_
+_generated on 01-12-2023_

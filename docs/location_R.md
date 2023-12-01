@@ -1,51 +1,52 @@
-[A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | R | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | R | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [L](measurement_L.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | [T](measurement_T.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
 
 # Locations with the letter R #
 
 
-### Rak Noord ###
+## Rak Noord ##
 location-code : RAKN
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Rak noord ###
+## Rak noord ##
 location-code : RAKND
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Rak Zuid ###
+## Rak Zuid ##
 location-code : RAKZ
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Ramspolkering Ketelmeerzi ###
+## Ramspolkering Ketelmeerzi ##
 location-code : RAMK
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Ramspolbrug ###
+## Ramspolbrug ##
 location-code : RAMS
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Roermond boven temp ###
+## Roermond boven temp ##
 location-code : ROEB
 
 Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 
-### Roermond boven ###
+## Roermond boven ##
 location-code : ROER
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Roggenplaat ###
+## Roggenplaat ##
 location-code : ROGP
 
 Possible measurements :
@@ -59,25 +60,25 @@ Possible measurements :
 * Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
 * Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm (measurement-code : HTE3)
 
-### Roggebotsluis Zuid ###
+## Roggebotsluis Zuid ##
 location-code : ROGZ
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Roompot binnen ###
+## Roompot binnen ##
 location-code : ROOMPBNN
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Roompot buiten ###
+## Roompot buiten ##
 location-code : ROOMPBTN
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Rotterdam Luchthaven ###
+## Rotterdam Luchthaven ##
 location-code : ROT1
 
 Possible measurements :
@@ -85,68 +86,68 @@ Possible measurements :
 * Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * Temperatuur Lucht oC (measurement-code : T)
 
-### Rotterdam Geulhaven ###
+## Rotterdam Geulhaven ##
 location-code : ROT2
 
 Possible measurements :
 * Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 
-### Rotterdam ###
+## Rotterdam ##
 location-code : ROTT
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Rotterdam ###
+## Rotterdam ##
 location-code : ROTTDM
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Rozenburgsesluis noordzijde ###
+## Rozenburgsesluis noordzijde ##
 location-code : ROZBSSNZDE
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Rozenburgsesluis zuidzijde ###
+## Rozenburgsesluis zuidzijde ##
 location-code : ROZBSSZZDE
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Rozenburgse Sluis ###
+## Rozenburgse Sluis ##
 location-code : ROZS
 
 Possible measurements :
 * Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m (measurement-code : ZICHT)
 
-### Beergat Radarpost 4 ###
+## Beergat Radarpost 4 ##
 location-code : RP04
 
 Possible measurements :
 * Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m (measurement-code : ZICHT)
 
-### Caland West Radarpost 5 ###
+## Caland West Radarpost 5 ##
 location-code : RP05
 
 Possible measurements :
 * Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m (measurement-code : ZICHT)
 
-### Caland Midden Radarpost 6 ###
+## Caland Midden Radarpost 6 ##
 location-code : RP06
 
 Possible measurements :
 * Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m (measurement-code : ZICHT)
 
-### Rozenburg Radarpost 8 ###
+## Rozenburg Radarpost 8 ##
 location-code : RP08
 
 Possible measurements :
 * Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m (measurement-code : ZICHT)
 
-### Geulhaven Radarpost 10 ###
+## Geulhaven Radarpost 10 ##
 location-code : RP10
 
 Possible measurements :
@@ -155,37 +156,37 @@ Possible measurements :
 * Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Waalhaven Radarpost 19 ###
+## Waalhaven Radarpost 19 ##
 location-code : RP19
 
 Possible measurements :
 * Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m (measurement-code : ZICHT)
 
-### Kuip2 Radarpost 23 ###
+## Kuip2 Radarpost 23 ##
 location-code : RP23
 
 Possible measurements :
 * Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m (measurement-code : ZICHT)
 
-### Caland Oost Radarpost 32 ###
+## Caland Oost Radarpost 32 ##
 location-code : RP32
 
 Possible measurements :
 * Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m (measurement-code : ZICHT)
 
-### Roompot binnen (SVKO) ###
+## Roompot binnen (SVKO) ##
 location-code : RPBI
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Roompot buiten (SVKO) ###
+## Roompot buiten (SVKO) ##
 location-code : RPBU
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Roompotsluis (SVKO) ###
+## Roompotsluis (SVKO) ##
 location-code : RPSL
 
 Possible measurements :
@@ -198,23 +199,23 @@ Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 * Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
 
-### Rotem Maas ###
+## Rotem Maas ##
 location-code : RTEM
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Reevesluis noord ###
+## Reevesluis noord ##
 location-code : RVN
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Reevesluis zuid ###
+## Reevesluis zuid ##
 location-code : RVZ
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
 
-_generated on 30-11-2023_
+_generated on 01-12-2023_

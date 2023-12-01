@@ -1,654 +1,670 @@
-[C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [I](measurement_I.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | [T](measurement_T.md) | [W](measurement_W.md) | [Z](measurement_Z.md) | 
+Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [L](measurement_L.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | [T](measurement_T.md) | W | [Z](measurement_Z.md)
 
 # Measurements with the letter W #
 
-### 10' scalair genmiddelde van de windsnelheid Lucht m/s ###
+## 10' scalair genmiddelde van de windsnelheid Lucht m/s ##
 measurement-code : WS10
 
-* A12 platform (location-code : A12)
-* AWG platform (location-code : AWG)
-* Bergsediepsluis wind (location-code : BDWI)
-* Brouwershavense Gat 2 (location-code : BG2)
-* Borssele Alpha (location-code : BSA)
-* Cadzand wind (location-code : CAWI)
-* D15 platform (location-code : D15)
-* Europlatform (location-code : EPL)
-* F3 platform (location-code : F3)
-* Rotterdamse hoek (location-code : FL02)
-* Grevelingensluis wind (location-code : GRWI)
-* Hansweert wind (location-code : HAWI)
-* Platform HKZA 1 (location-code : HKZA1)
-* Platform HKZA 2 (location-code : HKZA2)
-* Huibertgat (location-code : HUIB)
-* Haringvlietsluizen sch 1 (location-code : HVS01)
-* IJmuiden Zuid havenhoofd (location-code : IJZ1)
-* J6 platform (location-code : J6)
-* K14 platform (location-code : K14)
-* Kats Zandkreeksluis (location-code : KATS)
-* L9 platform (location-code : L9)
-* Lichteiland Goeree (location-code : LEG)
-* Lage Licht (location-code : LGL1)
-* Maeslantkering geleidetor (location-code : MLKZ)
-* Marollegat (location-code : MRG)
-* Nes (location-code : NES)
-* Oosterschelde 4 (location-code : OS4)
-* P11 platform (location-code : P11)
-* Stroommeetpaal Eemshaven (location-code : SPE)
-* IJgeul stroommeetpaal (location-code : SPY)
-* Stavenisse (location-code : STAV)
-* Terschelling Noordzee (location-code : TERS)
-* Terneuzen Westsluis (location-code : TNWS)
-* Uithuizerwad (location-code : UHWD)
-* Vlakte v/d Raan (location-code : VR)
-* Wierumergronden (location-code : WIER)
-* Zeelandbrug wind (location-code : ZBWI)
+|Possible location|location-code|
+|---|---|
+|A12 platform|A12|
+|AWG platform|AWG|
+|Bergsediepsluis wind|BDWI|
+|Brouwershavense Gat 2|BG2|
+|Borssele Alpha|BSA|
+|Cadzand wind|CAWI|
+|D15 platform|D15|
+|Europlatform|EPL|
+|F3 platform|F3|
+|Rotterdamse hoek|FL02|
+|Grevelingensluis wind|GRWI|
+|Hansweert wind|HAWI|
+|Platform HKZA 1|HKZA1|
+|Platform HKZA 2|HKZA2|
+|Huibertgat|HUIB|
+|Haringvlietsluizen sch 1|HVS01|
+|IJmuiden Zuid havenhoofd|IJZ1|
+|J6 platform|J6|
+|K14 platform|K14|
+|Kats Zandkreeksluis|KATS|
+|L9 platform|L9|
+|Lichteiland Goeree|LEG|
+|Lage Licht|LGL1|
+|Maeslantkering geleidetor|MLKZ|
+|Marollegat|MRG|
+|Nes|NES|
+|Oosterschelde 4|OS4|
+|P11 platform|P11|
+|Stroommeetpaal Eemshaven|SPE|
+|IJgeul stroommeetpaal|SPY|
+|Stavenisse|STAV|
+|Terschelling Noordzee|TERS|
+|Terneuzen Westsluis|TNWS|
+|Uithuizerwad|UHWD|
+|Vlakte v/d Raan|VR|
+|Wierumergronden|WIER|
+|Zeelandbrug wind|ZBWI|
 
 
-### Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s ###
+## Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s ##
 measurement-code : WINDSTOOT
 
-* A12 platform (location-code : A12)
-* AWG platform (location-code : AWG)
-* Bergsediepsluis wind (location-code : BDWI)
-* Brouwershavense Gat 2 (location-code : BG2)
-* Borssele Alpha (location-code : BSA)
-* Cadzand wind (location-code : CAWI)
-* D15 platform (location-code : D15)
-* Europlatform (location-code : EPL)
-* Europlatform 2 (location-code : EPL2)
-* F3 platform (location-code : F3)
-* Rotterdamse hoek (location-code : FL02)
-* Grevelingensluis wind (location-code : GRWI)
-* Hansweert wind (location-code : HAWI)
-* Platform HKZA 1 (location-code : HKZA1)
-* Platform HKZA 2 (location-code : HKZA2)
-* Huibertgat (location-code : HUIB)
-* Haringvlietsluizen sch 1 (location-code : HVS01)
-* IJmuiden Zuid havenhoofd (location-code : IJZ1)
-* J6 platform (location-code : J6)
-* K14 platform (location-code : K14)
-* Kats Zandkreeksluis (location-code : KATS)
-* L9 platform (location-code : L9)
-* Lichteiland Goeree (location-code : LEG)
-* Lage Licht (location-code : LGL1)
-* Maeslantkering geleidetor (location-code : MLKZ)
-* Nes (location-code : NES)
-* Oosterschelde 4 (location-code : OS4)
-* P11 platform (location-code : P11)
-* Stroommeetpaal Eemshaven (location-code : SPE)
-* IJgeul stroommeetpaal (location-code : SPY)
-* Stavenisse (location-code : STAV)
-* Terschelling Noordzee (location-code : TERS)
-* Terneuzen Westsluis (location-code : TNWS)
-* Uithuizerwad (location-code : UHWD)
-* Vlakte v/d Raan (location-code : VR)
-* Wierumergronden (location-code : WIER)
-* Zeelandbrug wind (location-code : ZBWI)
+|Possible location|location-code|
+|---|---|
+|A12 platform|A12|
+|AWG platform|AWG|
+|Bergsediepsluis wind|BDWI|
+|Brouwershavense Gat 2|BG2|
+|Borssele Alpha|BSA|
+|Cadzand wind|CAWI|
+|D15 platform|D15|
+|Europlatform|EPL|
+|Europlatform 2|EPL2|
+|F3 platform|F3|
+|Rotterdamse hoek|FL02|
+|Grevelingensluis wind|GRWI|
+|Hansweert wind|HAWI|
+|Platform HKZA 1|HKZA1|
+|Platform HKZA 2|HKZA2|
+|Huibertgat|HUIB|
+|Haringvlietsluizen sch 1|HVS01|
+|IJmuiden Zuid havenhoofd|IJZ1|
+|J6 platform|J6|
+|K14 platform|K14|
+|Kats Zandkreeksluis|KATS|
+|L9 platform|L9|
+|Lichteiland Goeree|LEG|
+|Lage Licht|LGL1|
+|Maeslantkering geleidetor|MLKZ|
+|Nes|NES|
+|Oosterschelde 4|OS4|
+|P11 platform|P11|
+|Stroommeetpaal Eemshaven|SPE|
+|IJgeul stroommeetpaal|SPY|
+|Stavenisse|STAV|
+|Terschelling Noordzee|TERS|
+|Terneuzen Westsluis|TNWS|
+|Uithuizerwad|UHWD|
+|Vlakte v/d Raan|VR|
+|Wierumergronden|WIER|
+|Zeelandbrug wind|ZBWI|
 
 
-### Windsnelheid Lucht t.o.v. Mean Sea Level in m/s ###
+## Windsnelheid Lucht t.o.v. Mean Sea Level in m/s ##
 measurement-code : WINDSHD
 
-* A12 platform (location-code : A12)
-* AWG platform (location-code : AWG)
-* Bergsediepsluis wind (location-code : BDWI)
-* Berkhout (location-code : BERK)
-* Brouwershavense Gat 2 (location-code : BG2)
-* Borssele Alpha (location-code : BSA)
-* Cadzand wind (location-code : CAWI)
-* D15 platform (location-code : D15)
-* De Kooy (location-code : DEKO)
-* Europlatform (location-code : EPL)
-* Europlatform 2 (location-code : EPL2)
-* F3 platform (location-code : F3)
-* Rotterdamse hoek (location-code : FL02)
-* Markermeer Midden -o (location-code : FL42o)
-* Gannet platform 1 (location-code : GAN1)
-* Grevelingensluis wind (location-code : GRWI)
-* Hansweert wind (location-code : HAWI)
-* Platform HKZA 1 (location-code : HKZA1)
-* Platform HKZA 2 (location-code : HKZA2)
-* Hoek van Holland (location-code : HOEK)
-* Hoorn Terschelling (location-code : HOTE)
-* Houtribdijk (location-code : HOUD)
-* Huibertgat (location-code : HUIB)
-* Haringvlietsluizen sch 1 (location-code : HVS01)
-* IJmuiden Buitenhaven (location-code : IJMH)
-* IJmuiden Zuid havenhoofd (location-code : IJZ1)
-* J6 platform (location-code : J6)
-* K14 platform (location-code : K14)
-* Kats Zandkreeksluis (location-code : KATS)
-* L9 platform (location-code : L9)
-* Lauwersoog (location-code : LAUW)
-* Lichteiland Goeree (location-code : LEG)
-* Lage Licht (location-code : LGL1)
-* Marknesse (location-code : MARK)
-* Maeslantkering geleidetor (location-code : MLKZ)
-* Marollegat (location-code : MRG)
-* North Cormorant (location-code : NC1)
-* Nes (location-code : NES)
-* Nieuw Beerta (location-code : NIBE)
-* Nelson platform1 (location-code : NLS1)
-* Oosterschelde 4 (location-code : OS4)
-* P11 platform (location-code : P11)
-* Rotterdam Luchthaven (location-code : ROT1)
-* Rotterdam Geulhaven (location-code : ROT2)
-* Geulhaven Radarpost 10 (location-code : RP10)
-* Stroommeetpaal Eemshaven (location-code : SPE)
-* IJgeul stroommeetpaal (location-code : SPY)
-* Stavenisse (location-code : STAV)
-* Stavoren (location-code : STVO)
-* Texelhors (location-code : TEHO)
-* Terschelling Noordzee (location-code : TERS)
-* Terneuzen Westsluis (location-code : TNWS)
-* Trintelzand (location-code : TZND)
-* Uithuizerwad (location-code : UHWD)
-* Vlieland (location-code : VLI1)
-* Vlissingen (location-code : VLIS)
-* Vlakte v/d Raan (location-code : VR)
-* Wierumergronden (location-code : WIER)
-* Wijdenes (location-code : WIJD)
-* Wilhelminadorp (location-code : WILH)
-* Zeelandbrug wind (location-code : ZBWI)
+|Possible location|location-code|
+|---|---|
+|A12 platform|A12|
+|AWG platform|AWG|
+|Bergsediepsluis wind|BDWI|
+|Berkhout|BERK|
+|Brouwershavense Gat 2|BG2|
+|Borssele Alpha|BSA|
+|Cadzand wind|CAWI|
+|D15 platform|D15|
+|De Kooy|DEKO|
+|Europlatform|EPL|
+|Europlatform 2|EPL2|
+|F3 platform|F3|
+|Rotterdamse hoek|FL02|
+|Markermeer Midden -o|FL42o|
+|Gannet platform 1|GAN1|
+|Grevelingensluis wind|GRWI|
+|Hansweert wind|HAWI|
+|Platform HKZA 1|HKZA1|
+|Platform HKZA 2|HKZA2|
+|Hoek van Holland|HOEK|
+|Hoorn Terschelling|HOTE|
+|Houtribdijk|HOUD|
+|Huibertgat|HUIB|
+|Haringvlietsluizen sch 1|HVS01|
+|IJmuiden Buitenhaven|IJMH|
+|IJmuiden Zuid havenhoofd|IJZ1|
+|J6 platform|J6|
+|K14 platform|K14|
+|Kats Zandkreeksluis|KATS|
+|L9 platform|L9|
+|Lauwersoog|LAUW|
+|Lichteiland Goeree|LEG|
+|Lage Licht|LGL1|
+|Marknesse|MARK|
+|Maeslantkering geleidetor|MLKZ|
+|Marollegat|MRG|
+|North Cormorant|NC1|
+|Nes|NES|
+|Nieuw Beerta|NIBE|
+|Nelson platform1|NLS1|
+|Oosterschelde 4|OS4|
+|P11 platform|P11|
+|Rotterdam Luchthaven|ROT1|
+|Rotterdam Geulhaven|ROT2|
+|Geulhaven Radarpost 10|RP10|
+|Stroommeetpaal Eemshaven|SPE|
+|IJgeul stroommeetpaal|SPY|
+|Stavenisse|STAV|
+|Stavoren|STVO|
+|Texelhors|TEHO|
+|Terschelling Noordzee|TERS|
+|Terneuzen Westsluis|TNWS|
+|Trintelzand|TZND|
+|Uithuizerwad|UHWD|
+|Vlieland|VLI1|
+|Vlissingen|VLIS|
+|Vlakte v/d Raan|VR|
+|Wierumergronden|WIER|
+|Wijdenes|WIJD|
+|Wilhelminadorp|WILH|
+|Zeelandbrug wind|ZBWI|
 
 
-### Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm ###
+## Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm ##
 measurement-code : WATHTBRKD
 
-* A12 platform (location-code : A12)
-* Amaliahaven (location-code : AMLAHVN)
-* Amelander Westgat platform (location-code : AWGPFM)
-* Baalhoek (location-code : BAALHK)
-* Bath (location-code : BATH)
-* Bergse Diepsluis west (location-code : BERGSDSWT)
-* Breskens Veerhaven (location-code : BRESKVHVN)
-* Brouwershavensche Gat, punt 02 (location-code : BROUWHVSGT02)
-* Brouwershavensche Gat 08 (location-code : BROUWHVSGT08)
-* Cadzand (location-code : CADZD)
-* D15 platform (location-code : D15)
-* Delfzijl (location-code : DELFZL)
-* Den Helder (location-code : DENHDR)
-* Den Oever buiten (location-code : DENOVBTN)
-* Dordrecht (location-code : DORDT)
-* Eemhaven (location-code : EEMHVN)
-* Eemshaven (location-code : EEMSHVN)
-* Euro platform (location-code : EURPFM)
-* Europahaven (location-code : EURPHVN)
-* Platform F16-A (location-code : F16)
-* F3 platform (location-code : F3PFM)
-* Gat van Borssele (location-code : GATVBSLE)
-* Geulhaven (location-code : GEULHVN)
-* Goidschalxoord (location-code : GOIDSOD)
-* Gouda brug (location-code : GOUDBG)
-* Hagestein beneden (location-code : HAGSBNDN)
-* Hansweert (location-code : HANSWT)
-* Harlingen (location-code : HARLGN)
-* Harmsenbrug (location-code : HARMSBG)
-* Hartelbrug (location-code : HARTBG)
-* Hartelhaven (location-code : HARTHVN)
-* Haringvliet 10 (location-code : HARVT10)
-* Heesbeen (location-code : HEESBN)
-* Hellevoetsluis (location-code : HELLVSS)
-* Hoek van Holland (location-code : HOEKVHLD)
-* Holwerd (location-code : HOLWD)
-* Huibertgat (location-code : HUIBGT)
-* IJmuiden buitenhaven (location-code : IJMDBTHVN)
-* IJmuiden stroommeetpaal (location-code : IJMDSMPL)
-* J6 platform (location-code : J6)
-* K13a platform (location-code : K13APFM)
-* K14 platform (location-code : K14PFM)
-* Kats buiten (location-code : KATSBTN)
-* Keizersveer (location-code : KEIZVR)
-* Kornwerderzand buiten (location-code : KORNWDZBTN)
-* Krammersluizen west (location-code : KRAMMSZWT)
-* Krimpen a/d IJssel (location-code : KRIMPADIJSL)
-* Krimpen a/d Lek (location-code : KRIMPADLK)
-* L9 platform (location-code : L9PFM)
-* Lauwersoog (location-code : LAUWOG)
-* Lichteiland Goeree (location-code : LICHTELGRE)
-* Lith dorp (location-code : LITHDP)
-* Maassluis (location-code : MAASSS)
-* Maeslantkering zeezijde (location-code : MAESLKRZZDE)
-* Marollegat (location-code : MARLGT)
-* Moerdijk (location-code : MOERDK)
-* Nes (location-code : NES)
-* Nieuwe Statenzijl (location-code : NIEUWSTZL)
-* North Cormorant (location-code : NORTHCMRT)
-* Oosterschelde 04 (location-code : OOSTSDE04)
-* Oosterschelde 11 (location-code : OOSTSDE11)
-* Oosterschelde 14 (location-code : OOSTSDE14)
-* Oudeschild (location-code : OUDSD)
-* Overloop van Hansweert (location-code : OVLVHWT)
-* Parksluis (location-code : PARKSS)
-* Platform Hoorn Q1-A (location-code : Q1)
-* Rak noord (location-code : RAKND)
-* Roompot binnen (location-code : ROOMPBNN)
-* Roompot buiten (location-code : ROOMPBTN)
-* Rotterdam (location-code : ROTTDM)
-* Rozenburgsesluis noordzijde (location-code : ROZBSSNZDE)
-* Rozenburgsesluis zuidzijde (location-code : ROZBSSZZDE)
-* Schaar van de Noord (location-code : SCHAARVDND)
-* Scheveningen (location-code : SCHEVNGN)
-* Schiermonnikoog (location-code : SCHIERMNOG)
-* Schoonhoven (location-code : SCHOONHVN)
-* Sint Annaland Haven Steiger (location-code : SINTANLHVSGR)
-* Spijkenisse (location-code : SPIJKNSE)
-* Stavenisse (location-code : STAVNSE)
-* Stellendam buiten (location-code : STELLDBTN)
-* Suurhofbrug noordzijde (location-code : SUURHBNZDE)
-* Tennesseehaven (location-code : TENNSHVN)
-* Terneuzen (location-code : TERNZN)
-* Terschelling Noordzee (location-code : TERSLNZE)
-* Texel Noordzee (location-code : TEXNZE)
-* Vlaardingen (location-code : VLAARDGN)
-* Vlakte van de Raan (location-code : VLAKTVDRN)
-* Vlieland haven (location-code : VLIELHVN)
-* Vlissingen (location-code : VLISSGN)
-* Vuren (location-code : VURN)
-* Walsoorden (location-code : WALSODN)
-* Werkendam buiten (location-code : WERKDBTN)
-* Westkapelle (location-code : WESTKPLE)
-* West-Terschelling (location-code : WESTTSLG)
-* Wierumergronden (location-code : WIERMGDN)
-* Yerseke (location-code : YERSKE)
+|Possible location|location-code|
+|---|---|
+|A12 platform|A12|
+|Amaliahaven|AMLAHVN|
+|Amelander Westgat platform|AWGPFM|
+|Baalhoek|BAALHK|
+|Bath|BATH|
+|Bergse Diepsluis west|BERGSDSWT|
+|Breskens Veerhaven|BRESKVHVN|
+|Brouwershavensche Gat, punt 02|BROUWHVSGT02|
+|Brouwershavensche Gat 08|BROUWHVSGT08|
+|Cadzand|CADZD|
+|D15 platform|D15|
+|Delfzijl|DELFZL|
+|Den Helder|DENHDR|
+|Den Oever buiten|DENOVBTN|
+|Dordrecht|DORDT|
+|Eemhaven|EEMHVN|
+|Eemshaven|EEMSHVN|
+|Euro platform|EURPFM|
+|Europahaven|EURPHVN|
+|Platform F16-A|F16|
+|F3 platform|F3PFM|
+|Gat van Borssele|GATVBSLE|
+|Geulhaven|GEULHVN|
+|Goidschalxoord|GOIDSOD|
+|Gouda brug|GOUDBG|
+|Hagestein beneden|HAGSBNDN|
+|Hansweert|HANSWT|
+|Harlingen|HARLGN|
+|Harmsenbrug|HARMSBG|
+|Hartelbrug|HARTBG|
+|Hartelhaven|HARTHVN|
+|Haringvliet 10|HARVT10|
+|Heesbeen|HEESBN|
+|Hellevoetsluis|HELLVSS|
+|Hoek van Holland|HOEKVHLD|
+|Holwerd|HOLWD|
+|Huibertgat|HUIBGT|
+|IJmuiden buitenhaven|IJMDBTHVN|
+|IJmuiden stroommeetpaal|IJMDSMPL|
+|J6 platform|J6|
+|K13a platform|K13APFM|
+|K14 platform|K14PFM|
+|Kats buiten|KATSBTN|
+|Keizersveer|KEIZVR|
+|Kornwerderzand buiten|KORNWDZBTN|
+|Krammersluizen west|KRAMMSZWT|
+|Krimpen a/d IJssel|KRIMPADIJSL|
+|Krimpen a/d Lek|KRIMPADLK|
+|L9 platform|L9PFM|
+|Lauwersoog|LAUWOG|
+|Lichteiland Goeree|LICHTELGRE|
+|Lith dorp|LITHDP|
+|Maassluis|MAASSS|
+|Maeslantkering zeezijde|MAESLKRZZDE|
+|Marollegat|MARLGT|
+|Moerdijk|MOERDK|
+|Nes|NES|
+|Nieuwe Statenzijl|NIEUWSTZL|
+|North Cormorant|NORTHCMRT|
+|Oosterschelde 04|OOSTSDE04|
+|Oosterschelde 11|OOSTSDE11|
+|Oosterschelde 14|OOSTSDE14|
+|Oudeschild|OUDSD|
+|Overloop van Hansweert|OVLVHWT|
+|Parksluis|PARKSS|
+|Platform Hoorn Q1-A|Q1|
+|Rak noord|RAKND|
+|Roompot binnen|ROOMPBNN|
+|Roompot buiten|ROOMPBTN|
+|Rotterdam|ROTTDM|
+|Rozenburgsesluis noordzijde|ROZBSSNZDE|
+|Rozenburgsesluis zuidzijde|ROZBSSZZDE|
+|Schaar van de Noord|SCHAARVDND|
+|Scheveningen|SCHEVNGN|
+|Schiermonnikoog|SCHIERMNOG|
+|Schoonhoven|SCHOONHVN|
+|Sint Annaland Haven Steiger|SINTANLHVSGR|
+|Spijkenisse|SPIJKNSE|
+|Stavenisse|STAVNSE|
+|Stellendam buiten|STELLDBTN|
+|Suurhofbrug noordzijde|SUURHBNZDE|
+|Tennesseehaven|TENNSHVN|
+|Terneuzen|TERNZN|
+|Terschelling Noordzee|TERSLNZE|
+|Texel Noordzee|TEXNZE|
+|Vlaardingen|VLAARDGN|
+|Vlakte van de Raan|VLAKTVDRN|
+|Vlieland haven|VLIELHVN|
+|Vlissingen|VLISSGN|
+|Vuren|VURN|
+|Walsoorden|WALSODN|
+|Werkendam buiten|WERKDBTN|
+|Westkapelle|WESTKPLE|
+|West-Terschelling|WESTTSLG|
+|Wierumergronden|WIERMGDN|
+|Yerseke|YERSKE|
 
 
-### Windrichting Lucht t.o.v. ware Noorden in graad ###
+## Windrichting Lucht t.o.v. ware Noorden in graad ##
 measurement-code : WINDRTG
 
-* A12 platform (location-code : A12)
-* AWG platform (location-code : AWG)
-* Bergsediepsluis wind (location-code : BDWI)
-* Berkhout (location-code : BERK)
-* Brouwershavense Gat 2 (location-code : BG2)
-* Borssele Alpha (location-code : BSA)
-* Cadzand wind (location-code : CAWI)
-* D15 platform (location-code : D15)
-* De Kooy (location-code : DEKO)
-* Europlatform (location-code : EPL)
-* Europlatform 2 (location-code : EPL2)
-* F3 platform (location-code : F3)
-* Rotterdamse hoek (location-code : FL02)
-* Markermeer Midden -o (location-code : FL42o)
-* Gannet platform 1 (location-code : GAN1)
-* Grevelingensluis wind (location-code : GRWI)
-* Hansweert wind (location-code : HAWI)
-* Platform HKZA 1 (location-code : HKZA1)
-* Platform HKZA 2 (location-code : HKZA2)
-* Hoek van Holland (location-code : HOEK)
-* Hoorn Terschelling (location-code : HOTE)
-* Houtribdijk (location-code : HOUD)
-* Huibertgat (location-code : HUIB)
-* Haringvlietsluizen sch 1 (location-code : HVS01)
-* IJmuiden Buitenhaven (location-code : IJMH)
-* IJmuiden Zuid havenhoofd (location-code : IJZ1)
-* J6 platform (location-code : J6)
-* K13 Alpha (location-code : K13)
-* K14 platform (location-code : K14)
-* Kats Zandkreeksluis (location-code : KATS)
-* L9 platform (location-code : L9)
-* Lauwersoog (location-code : LAUW)
-* Lichteiland Goeree (location-code : LEG)
-* Lage Licht (location-code : LGL1)
-* Marknesse (location-code : MARK)
-* Maeslantkering geleidetor (location-code : MLKZ)
-* Marollegat (location-code : MRG)
-* North Cormorant (location-code : NC1)
-* Nes (location-code : NES)
-* Nieuw Beerta (location-code : NIBE)
-* Nelson platform1 (location-code : NLS1)
-* Oosterschelde 4 (location-code : OS4)
-* P11 platform (location-code : P11)
-* Rotterdam Luchthaven (location-code : ROT1)
-* Rotterdam Geulhaven (location-code : ROT2)
-* Geulhaven Radarpost 10 (location-code : RP10)
-* Stroommeetpaal Eemshaven (location-code : SPE)
-* IJgeul stroommeetpaal (location-code : SPY)
-* Stavenisse (location-code : STAV)
-* Stavoren (location-code : STVO)
-* Texelhors (location-code : TEHO)
-* Terschelling Noordzee (location-code : TERS)
-* Terneuzen Westsluis (location-code : TNWS)
-* Trintelzand (location-code : TZND)
-* Uithuizerwad (location-code : UHWD)
-* Vlieland (location-code : VLI1)
-* Vlissingen (location-code : VLIS)
-* Vlakte v/d Raan (location-code : VR)
-* Wierumergronden (location-code : WIER)
-* Wijdenes (location-code : WIJD)
-* Wilhelminadorp (location-code : WILH)
-* Zeelandbrug wind (location-code : ZBWI)
+|Possible location|location-code|
+|---|---|
+|A12 platform|A12|
+|AWG platform|AWG|
+|Bergsediepsluis wind|BDWI|
+|Berkhout|BERK|
+|Brouwershavense Gat 2|BG2|
+|Borssele Alpha|BSA|
+|Cadzand wind|CAWI|
+|D15 platform|D15|
+|De Kooy|DEKO|
+|Europlatform|EPL|
+|Europlatform 2|EPL2|
+|F3 platform|F3|
+|Rotterdamse hoek|FL02|
+|Markermeer Midden -o|FL42o|
+|Gannet platform 1|GAN1|
+|Grevelingensluis wind|GRWI|
+|Hansweert wind|HAWI|
+|Platform HKZA 1|HKZA1|
+|Platform HKZA 2|HKZA2|
+|Hoek van Holland|HOEK|
+|Hoorn Terschelling|HOTE|
+|Houtribdijk|HOUD|
+|Huibertgat|HUIB|
+|Haringvlietsluizen sch 1|HVS01|
+|IJmuiden Buitenhaven|IJMH|
+|IJmuiden Zuid havenhoofd|IJZ1|
+|J6 platform|J6|
+|K13 Alpha|K13|
+|K14 platform|K14|
+|Kats Zandkreeksluis|KATS|
+|L9 platform|L9|
+|Lauwersoog|LAUW|
+|Lichteiland Goeree|LEG|
+|Lage Licht|LGL1|
+|Marknesse|MARK|
+|Maeslantkering geleidetor|MLKZ|
+|Marollegat|MRG|
+|North Cormorant|NC1|
+|Nes|NES|
+|Nieuw Beerta|NIBE|
+|Nelson platform1|NLS1|
+|Oosterschelde 4|OS4|
+|P11 platform|P11|
+|Rotterdam Luchthaven|ROT1|
+|Rotterdam Geulhaven|ROT2|
+|Geulhaven Radarpost 10|RP10|
+|Stroommeetpaal Eemshaven|SPE|
+|IJgeul stroommeetpaal|SPY|
+|Stavenisse|STAV|
+|Stavoren|STVO|
+|Texelhors|TEHO|
+|Terschelling Noordzee|TERS|
+|Terneuzen Westsluis|TNWS|
+|Trintelzand|TZND|
+|Uithuizerwad|UHWD|
+|Vlieland|VLI1|
+|Vlissingen|VLIS|
+|Vlakte v/d Raan|VR|
+|Wierumergronden|WIER|
+|Wijdenes|WIJD|
+|Wilhelminadorp|WILH|
+|Zeelandbrug wind|ZBWI|
 
 
-### Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm ###
+## Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm ##
 measurement-code : WATHTE
 
-* Almen (location-code : ALME)
-* Amaliahaven (location-code : AMHV)
-* Amerongen boven (location-code : AMRB)
-* Amerongen beneden (location-code : AMRO)
-* Antwerps kanaalpand (location-code : ANKA)
-* Antwerpen (location-code : ANTW)
-* Arnhem (location-code : ARNH)
-* AWG platform (location-code : AWG)
-* Baalhoek (location-code : BAAL)
-* Bath (location-code : BATH)
-* Bathse brug Deltanuts (location-code : BBDT)
-* Bergsediepsluis (location-code : BDSL)
-* Belfeld boven (location-code : BELB)
-* Belfeld beneden (location-code : BELF)
-* Bernisse Zuidland (location-code : BERN)
-* Brouwershavense Gat 2 (location-code : BG2)
-* Brouwershavense Gat 8 (location-code : BG8)
-* Berghaven H v Holland (location-code : BGH1)
-* Borgharen Julianakanaal 2 (location-code : BHJE)
-* Binnen Kievitswaard (location-code : BKWD)
-* Beuningengemaal (location-code : BNGG)
-* Bommenede 1 (location-code : BOM1)
-* Borgharen Dorp (location-code : BORD)
-* Borgharen Julianakanaal (location-code : BORJ)
-* Borssele (location-code : BORS)
-* Breskens Handelshaven (location-code : BRES)
-* Burgumerdaam Boezem (location-code : BRGD)
-* Brouwersdam 2 buiten Zuid (location-code : BRO2)
-* Brouwersdam 6 binnen Zuid (location-code : BRO6)
-* Borssele Alpha (location-code : BSA)
-* Benedensas Sluis (location-code : BSASS)
-* Bathse spuisluis Ws (location-code : BSBSW)
-* Bathse spuisluis kanaal (location-code : BSBSZ)
-* Buggenum (location-code : BUGG)
-* Buitenhuizen (location-code : BUIT)
-* Bunde (location-code : BUND)
-* Cadzand (location-code : CADZ)
-* Geul Cotessen (location-code : COTS)
-* Crevecoeur (location-code : CREV)
-* Crevecoeur boven (location-code : CREVB)
-* Culemborg brug (location-code : CULB)
-* D15 platform (location-code : D15)
-* Delden boven (location-code : DELB)
-* Delden beneden (location-code : DELO)
-* Den Helder (location-code : DENH)
-* Deventer (location-code : DEVE)
-* Delfzijl (location-code : DLFZ)
-* Drielandenpunt (location-code : DLPT)
-* Den Helder Veersteiger 2 (location-code : DNHV)
-* Dodewaard (location-code : DODE)
-* Doesburg brug (location-code : DOES)
-* Doorslag (location-code : DOOR)
-* Dordrecht (location-code : DORD)
-* Dorkwerd (location-code : DORK)
-* Driel boven (location-code : DRIB)
-* Driel beneden (location-code : DRIO)
-* Echt (location-code : ECHT)
-* Edam (location-code : EDAM)
-* Eefde boven (location-code : EEFB)
-* Eefde beneden (location-code : EEFD)
-* Eibersburen (location-code : EIBN)
-* Eijsden grens (location-code : EIJS)
-* Elburgerbrug (location-code : ELBB)
-* Elsloo (location-code : ELSL)
-* Empel sluis (location-code : EMP2)
-* Empel boven (location-code : EMPB)
-* Empel beneden (location-code : EMPO)
-* Eemshaven (location-code : EMSH)
-* Europlatform (location-code : EPL)
-* Europlatform 2 (location-code : EPL2)
-* F3 platform (location-code : F3)
-* Rotterdamse hoek (location-code : FL02)
-* Markermeer Midden -o (location-code : FL42o)
-* Gaarkeuken Oost (location-code : GAKO)
-* Gaarkeuken West (location-code : GAKW)
-* Galgenkampsbrug (location-code : GALG)
-* Gannet platform 1 (location-code : GAN1)
-* Genemuiden (location-code : GENE)
-* Gennep (location-code : GENN)
-* Goidschalxoord (location-code : GOID)
-* Gouda brug (location-code : GOUD)
-* Grave boven (location-code : GRAB)
-* Grave beneden (location-code : GRAV)
-* Grebbe (location-code : GREB)
-* Groene Riv Pannerden bov (location-code : GRPB)
-* Groene Riv Pannerden ben (location-code : GRPO)
-* Haringvliet 10 (location-code : HA10)
-* Haringvliet 10 (e) (location-code : HA10e)
-* Haringvliet 10 (f) (location-code : HA10f)
-* Haandrik Kruisbrug (location-code : HAAN)
-* Hagestein boven (location-code : HAGB)
-* Hagestein beneden (location-code : HAGO)
-* Hansweert (location-code : HANS)
-* Harlingen (location-code : HARL)
-* Hansweert wind (b) (location-code : HAWIb)
-* Heel boven (location-code : HEEB)
-* Heel beneden (location-code : HEEO)
-* Heesbeen (location-code : HEES)
-* Hellevoetsluis (location-code : HELL)
-* Hengelo boven (location-code : HENB)
-* Hengelo Koppelleiding (location-code : HENK)
-* Hengelo beneden (location-code : HENO)
-* gemaal Hoogland buiten (location-code : HGLD)
-* Hintham boven (location-code : HHMB)
-* Hintham beneden (location-code : HHMO)
-* Platform HKZA (location-code : HKZA)
-* Hoek van Holland (location-code : HOEK)
-* Hollandse brug (location-code : HOLB)
-* Holwerd (location-code : HOLW)
-* Houtrib Noord (location-code : HOUN)
-* Houtrib Zuid (location-code : HOUZ)
-* Happen Hennip (location-code : HPHP)
-* Hondsbroekse Pleij hwgeul (location-code : HPHW)
-* Hondsbroekse Pleij IJssel (location-code : HPIJ)
-* Herenlaak (location-code : HRNLK)
-* Helmond RWZI - boven (location-code : HRWB)
-* Huibertgat (location-code : HUIB)
-* IJmuiden Buitenhaven (location-code : IJMH)
-* IJmuiden Noordersluis O (location-code : IJMO)
-* IJmuiden Noordersluis W (location-code : IJMW)
-* IJsselkop (location-code : IJSS)
-* J6 platform (location-code : J6)
-* K13 Alpha (location-code : K13)
-* K14 platform (location-code : K14)
-* Kadoelen (location-code : KADL)
-* Kallo (location-code : KALO)
-* Kamperhoek (location-code : KAMH)
-* Kampen (location-code : KAMP)
-* Katsberg boven (location-code : KATB)
-* Katsberg beneden (location-code : KATO)
-* Kats Zandkreeksluis (location-code : KATS)
-* Katerveer (location-code : KATV)
-* Keizersveer (location-code : KEIZ)
-* Keteldiep (location-code : KETD)
-* Ketelhaven (location-code : KETH)
-* Sluiskil brug (location-code : KGTB)
-* Sas van Gent (location-code : KGTS)
-* Kornwerderzand binnen (location-code : KOBI)
-* Kornwerderzand buiten (location-code : KOBU)
-* Krabbersgat Noord (location-code : KRAN)
-* Krabbersgat Zuid (location-code : KRAZ)
-* Krimpen a/d Lek (location-code : KRIL)
-* Krimpen a/d IJssel (location-code : KRIY)
-* Krammersluizen West (location-code : KRSL)
-* Kleine Zalm (location-code : KZLM)
-* L9 platform (location-code : L9)
-* Lanaken (location-code : LANAK)
-* Lauwersoog (location-code : LAUW)
-* Lemmer Boezem (location-code : LBOE)
-* Lichteiland Goeree (location-code : LEG)
-* Lemmer (location-code : LEMM)
-* Liefkenshoek (location-code : LIEF)
-* Lemmer IJsselmeer (location-code : LIJM)
-* Linne beneden (location-code : LINN)
-* Lith boven (location-code : LITB)
-* Lith Dorp (location-code : LITO)
-* Inlaat Landsweijer (location-code : LNDW)
-* Lobith Haven (location-code : LOBH)
-* Lobith (location-code : LOBI)
-* Looveer Huissen (location-code : LOOV)
-* Loozen (location-code : LOOZ)
-* Maaseik (location-code : MAAE)
-* Maarssen (location-code : MAAR)
-* Maassluis (location-code : MAAS)
-* Markelose brug (location-code : MARKB)
-* Meeswijk veer (location-code : MEESW)
-* Megen (location-code : MEGE)
-* Meppelerdiep km 2.5 (location-code : MEP25)
-* Middelste Kievitswaard (location-code : MKWD)
-* Maeslantkering zeezijde N (location-code : MLK1)
-* Maeslantkering zeezijde Z (location-code : MLK2)
-* Moerdijk (location-code : MOER)
-* Mond der Vecht (location-code : MOND)
-* Marollegat (location-code : MRG)
-* Mauriksewetering (location-code : MRSW)
-* North Cormorant (location-code : NC1)
-* Neer (location-code : NEER)
-* Negenoord-Oost (location-code : NEGO)
-* Negenoord-West (location-code : NEGW)
-* Nijmegen haven (location-code : NIJM)
-* Nijkerk Oost (location-code : NIJO)
-* Nijkerk West (location-code : NIJW)
-* Nelson platform1 (location-code : NLS1)
-* ADM Noordervaart (location-code : NVAA)
-* Nieuwegein (location-code : NWGN)
-* Nieuwe Statenzijl (location-code : NWST)
-* Den Oever binnen (location-code : OEBI)
-* Den Oever buiten (location-code : OEBU)
-* Olst (location-code : OLST)
-* Ommen Hesselmulertbrug (location-code : OMMH)
-* Ommen Ommerkanaal (location-code : OMMK)
-* Oostersluis (location-code : OOSS)
-* Oosterschelde 11 (location-code : OS11)
-* Oosterschelde 11 (b) (location-code : OS11b)
-* Oosterschelde 14 (location-code : OS14)
-* Oosterschelde 4 (location-code : OS4)
-* Oosterschelde 4 (b) (location-code : OS4b)
-* Oudeschild (location-code : OUDE)
-* Overloop van Hansweert (location-code : OVHA)
-* Pannerdense kop (location-code : PANN)
-* Sint Pieter Noord 2 (location-code : PIET)
-* Poeldonk beneden - Aa (location-code : POEO)
-* Rak Noord (location-code : RAKN)
-* Rak Zuid (location-code : RAKZ)
-* Ramspolkering Ketelmeerzi (location-code : RAMK)
-* Ramspolbrug (location-code : RAMS)
-* Roermond boven (location-code : ROER)
-* Roggebotsluis Zuid (location-code : ROGZ)
-* Rotterdam (location-code : ROTT)
-* Geulhaven Radarpost 10 (location-code : RP10)
-* Roompot binnen (SVKO) (location-code : RPBI)
-* Roompot buiten (SVKO) (location-code : RPBU)
-* Roompotsluis (SVKO) (location-code : RPSL)
-* Rotem Maas (location-code : RTEM)
-* Reevesluis noord (location-code : RVN)
-* Reevesluis zuid (location-code : RVZ)
-* Sluis 4 boven (location-code : S04B)
-* Sluis 4 beneden (location-code : S04O)
-* Sluis 5 boven (location-code : S05B)
-* Sluis 5 beneden (location-code : S05O)
-* Sluis 6 boven (location-code : S06B)
-* Sluis 6 beneden (location-code : S06O)
-* Sluis 9 boven (location-code : S09B)
-* Sluis 10 boven (location-code : S10B)
-* Sluis 10 beneden (location-code : S10O)
-* Sluis 11 boven (location-code : S11B)
-* Sluis 11 beneden (location-code : S11O)
-* Sluis 12 boven (location-code : S12B)
-* Sluis 12 beneden (location-code : S12O)
-* Sluis 13 ADM (location-code : S13A)
-* Sluis 13 boven (location-code : S13B)
-* Sluis 13 beneden (location-code : S13O)
-* Sluis 15 boven (location-code : S15B)
-* Sluis 15 voedingskanaal (location-code : S15V)
-* Sluis 16 boven (location-code : S16B)
-* Sluis 16 beneden (location-code : S16O)
-* Sluis 21 boven (location-code : S21B)
-* Sluis 21 spuikanaal (location-code : S21S)
-* Sluis 22 boven (location-code : S22B)
-* Sluis 22 beneden (location-code : S22O)
-* Sluis 23 boven (location-code : S23B)
-* Sluis 23 beneden (location-code : S23O)
-* Sluis 24 boven (location-code : S24B)
-* Sluis 24 beneden (location-code : S24O)
-* Sluis 24 spuikanaal (location-code : S24S)
-* Sambeek boven (location-code : SAMB)
-* Sambeek beneden (location-code : SAMO)
-* Schabbert boven (location-code : SCAB)
-* Schabbert beneden (location-code : SCAO)
-* Scheveningen (location-code : SCHE)
-* Schoonhoven (location-code : SCHH)
-* Schiermonnikoog (location-code : SCHI)
-* Schellingwouderbrug (location-code : SCHWB)
-* Scheeresluis beneden (location-code : SCSO)
-* Sluis Helmond boven (location-code : SHMB)
-* Sint Pieter noord (location-code : SINT)
-* Slochtersluis boven (location-code : SLBV)
-* Marksluis boven - WHK (location-code : SMAB)
-* Marksluis beneden - Mark (location-code : SMAO)
-* Smeermaas (location-code : SMEE)
-* Spuisluis Oude Eemskanaal (location-code : SOEB)
-* Spooldersluis binnen (location-code : SPBI)
-* Stroommeetpaal Eemshaven (location-code : SPE)
-* Panheel boven - ZWV (location-code : SPHB)
-* Spijkenisse (location-code : SPIJ)
-* Spaanjerd (location-code : SPNJD)
-* Bathse spuikanaal Inloop (location-code : SPUI)
-* IJgeul stroommeetpaal (location-code : SPY)
-* Sluis Schijndel boven (location-code : SSHB)
-* Sluis Schijndel beneden (location-code : SSHO)
-* Sluis Schijndel spuik (location-code : SSHS)
-* Sint Annaland (location-code : STAN)
-* Stavenisse (location-code : STAV)
-* De Steeg (location-code : STEE)
-* Stellendam buiten (location-code : STEL)
-* Stevensweert (location-code : STEV)
-* Steurgat (location-code : STGT)
-* Steenenmuur (location-code : STMR)
-* Surinamekade (location-code : SURI)
-* Schaar v/d Noord (location-code : SVDN)
-* Tennesseehaven (location-code : TENN)
-* Termunterzijl (location-code : TERM)
-* Terneuzen (location-code : TERN)
-* Terschelling Noordzee (location-code : TERS)
-* Texel Noordzee (location-code : TEXE)
-* Terherne Boezem Oostzijde (location-code : THBO)
-* Terherne Boezem Westzijde (location-code : THBW)
-* Tiel Kanaal (location-code : TIEK)
-* Tiel Waal (location-code : TIEW)
-* Inlaat Teersesluispolder (location-code : TPOL)
-* Breda Trambrug (location-code : TRMB)
-* Terneuzen Westsluis ZZ (location-code : TWZZ)
-* Trintelzand (location-code : TZND)
-* Uithuizerwad 2 (location-code : UHW2)
-* Uikhoven (location-code : UIKHV)
-* Vechterweerd beneden (location-code : VECO)
-* Veessen - Wapenveld (location-code : VEES)
-* Venlo (location-code : VENL)
-* Volkerak Galathee (location-code : VK)
-* Vlaardingen (location-code : VLAA)
-* Vlieland haven (location-code : VLIE)
-* Vlissingen (location-code : VLIS)
-* VM3 Zandkreeksluis (location-code : VM3)
-* Veersemeer 4 Oranjeplaat (location-code : VM4)
-* Veersemeer 5 Schotsman (location-code : VM5)
-* Vossenbeemd Helmond (location-code : VOSB)
-* Nieuw Vossemeer (location-code : VOSM)
-* Vlakte v/d Raan (location-code : VR)
-* Vuren (location-code : VURE)
-* Vogelenzang (location-code : VZNG)
-* Walsoorden (location-code : WALS)
-* Weesp (location-code : WEES)
-* Werkendam buiten (location-code : WERK)
-* Westervoort IJsseldijkerw (location-code : WESTV)
-* Inlaat Weurt (location-code : WEUR)
-* Wierumergronden (location-code : WIER)
-* Wijhe (location-code : WIJH)
-* Wijk bij Duurstede (location-code : WIJK)
-* Westkapelle (location-code : WKAP)
-* Waalwijk (location-code : WLWK)
-* West-Terschelling (location-code : WTER)
-* Yerseke (location-code : YE)
-* Zaltbommel (location-code : ZALT)
-* Zandkreekdam OS (location-code : ZKO)
-* Zandkreekdam VM (location-code : ZKV)
-* Zutphen Noord (location-code : ZUTP)
-* Zwartsluis buiten (location-code : ZWBU)
+|Possible location|location-code|
+|---|---|
+|Almen|ALME|
+|Amaliahaven|AMHV|
+|Amerongen boven|AMRB|
+|Amerongen beneden|AMRO|
+|Antwerps kanaalpand|ANKA|
+|Antwerpen|ANTW|
+|Arnhem|ARNH|
+|AWG platform|AWG|
+|Baalhoek|BAAL|
+|Bath|BATH|
+|Bathse brug Deltanuts|BBDT|
+|Bergsediepsluis|BDSL|
+|Belfeld boven|BELB|
+|Belfeld beneden|BELF|
+|Bernisse Zuidland|BERN|
+|Brouwershavense Gat 2|BG2|
+|Brouwershavense Gat 8|BG8|
+|Berghaven H v Holland|BGH1|
+|Borgharen Julianakanaal 2|BHJE|
+|Binnen Kievitswaard|BKWD|
+|Beuningengemaal|BNGG|
+|Bommenede 1|BOM1|
+|Borgharen Dorp|BORD|
+|Borgharen Julianakanaal|BORJ|
+|Borssele|BORS|
+|Breskens Handelshaven|BRES|
+|Burgumerdaam Boezem|BRGD|
+|Brouwersdam 2 buiten Zuid|BRO2|
+|Brouwersdam 6 binnen Zuid|BRO6|
+|Borssele Alpha|BSA|
+|Benedensas Sluis|BSASS|
+|Bathse spuisluis Ws|BSBSW|
+|Bathse spuisluis kanaal|BSBSZ|
+|Buggenum|BUGG|
+|Buitenhuizen|BUIT|
+|Bunde|BUND|
+|Cadzand|CADZ|
+|Geul Cotessen|COTS|
+|Crevecoeur|CREV|
+|Crevecoeur boven|CREVB|
+|Culemborg brug|CULB|
+|D15 platform|D15|
+|Delden boven|DELB|
+|Delden beneden|DELO|
+|Den Helder|DENH|
+|Deventer|DEVE|
+|Delfzijl|DLFZ|
+|Drielandenpunt|DLPT|
+|Den Helder Veersteiger 2|DNHV|
+|Dodewaard|DODE|
+|Doesburg brug|DOES|
+|Doorslag|DOOR|
+|Dordrecht|DORD|
+|Dorkwerd|DORK|
+|Driel boven|DRIB|
+|Driel beneden|DRIO|
+|Echt|ECHT|
+|Edam|EDAM|
+|Eefde boven|EEFB|
+|Eefde beneden|EEFD|
+|Eibersburen|EIBN|
+|Eijsden grens|EIJS|
+|Elburgerbrug|ELBB|
+|Elsloo|ELSL|
+|Empel sluis|EMP2|
+|Empel boven|EMPB|
+|Empel beneden|EMPO|
+|Eemshaven|EMSH|
+|Europlatform|EPL|
+|Europlatform 2|EPL2|
+|F3 platform|F3|
+|Rotterdamse hoek|FL02|
+|Markermeer Midden -o|FL42o|
+|Gaarkeuken Oost|GAKO|
+|Gaarkeuken West|GAKW|
+|Galgenkampsbrug|GALG|
+|Gannet platform 1|GAN1|
+|Genemuiden|GENE|
+|Gennep|GENN|
+|Goidschalxoord|GOID|
+|Gouda brug|GOUD|
+|Grave boven|GRAB|
+|Grave beneden|GRAV|
+|Grebbe|GREB|
+|Groene Riv Pannerden bov|GRPB|
+|Groene Riv Pannerden ben|GRPO|
+|Haringvliet 10|HA10|
+|Haringvliet 10 (e)|HA10e|
+|Haringvliet 10 (f)|HA10f|
+|Haandrik Kruisbrug|HAAN|
+|Hagestein boven|HAGB|
+|Hagestein beneden|HAGO|
+|Hansweert|HANS|
+|Harlingen|HARL|
+|Hansweert wind (b)|HAWIb|
+|Heel boven|HEEB|
+|Heel beneden|HEEO|
+|Heesbeen|HEES|
+|Hellevoetsluis|HELL|
+|Hengelo boven|HENB|
+|Hengelo Koppelleiding|HENK|
+|Hengelo beneden|HENO|
+|gemaal Hoogland buiten|HGLD|
+|Hintham boven|HHMB|
+|Hintham beneden|HHMO|
+|Platform HKZA|HKZA|
+|Hoek van Holland|HOEK|
+|Hollandse brug|HOLB|
+|Holwerd|HOLW|
+|Houtrib Noord|HOUN|
+|Houtrib Zuid|HOUZ|
+|Happen Hennip|HPHP|
+|Hondsbroekse Pleij hwgeul|HPHW|
+|Hondsbroekse Pleij IJssel|HPIJ|
+|Herenlaak|HRNLK|
+|Helmond RWZI - boven|HRWB|
+|Huibertgat|HUIB|
+|IJmuiden Buitenhaven|IJMH|
+|IJmuiden Noordersluis O|IJMO|
+|IJmuiden Noordersluis W|IJMW|
+|IJsselkop|IJSS|
+|J6 platform|J6|
+|K13 Alpha|K13|
+|K14 platform|K14|
+|Kadoelen|KADL|
+|Kallo|KALO|
+|Kamperhoek|KAMH|
+|Kampen|KAMP|
+|Katsberg boven|KATB|
+|Katsberg beneden|KATO|
+|Kats Zandkreeksluis|KATS|
+|Katerveer|KATV|
+|Keizersveer|KEIZ|
+|Keteldiep|KETD|
+|Ketelhaven|KETH|
+|Sluiskil brug|KGTB|
+|Sas van Gent|KGTS|
+|Kornwerderzand binnen|KOBI|
+|Kornwerderzand buiten|KOBU|
+|Krabbersgat Noord|KRAN|
+|Krabbersgat Zuid|KRAZ|
+|Krimpen a/d Lek|KRIL|
+|Krimpen a/d IJssel|KRIY|
+|Krammersluizen West|KRSL|
+|Kleine Zalm|KZLM|
+|L9 platform|L9|
+|Lanaken|LANAK|
+|Lauwersoog|LAUW|
+|Lemmer Boezem|LBOE|
+|Lichteiland Goeree|LEG|
+|Lemmer|LEMM|
+|Liefkenshoek|LIEF|
+|Lemmer IJsselmeer|LIJM|
+|Linne beneden|LINN|
+|Lith boven|LITB|
+|Lith Dorp|LITO|
+|Inlaat Landsweijer|LNDW|
+|Lobith Haven|LOBH|
+|Lobith|LOBI|
+|Looveer Huissen|LOOV|
+|Loozen|LOOZ|
+|Maaseik|MAAE|
+|Maarssen|MAAR|
+|Maassluis|MAAS|
+|Markelose brug|MARKB|
+|Meeswijk veer|MEESW|
+|Megen|MEGE|
+|Meppelerdiep km 2.5|MEP25|
+|Middelste Kievitswaard|MKWD|
+|Maeslantkering zeezijde N|MLK1|
+|Maeslantkering zeezijde Z|MLK2|
+|Moerdijk|MOER|
+|Mond der Vecht|MOND|
+|Marollegat|MRG|
+|Mauriksewetering|MRSW|
+|North Cormorant|NC1|
+|Neer|NEER|
+|Negenoord-Oost|NEGO|
+|Negenoord-West|NEGW|
+|Nijmegen haven|NIJM|
+|Nijkerk Oost|NIJO|
+|Nijkerk West|NIJW|
+|Nelson platform1|NLS1|
+|ADM Noordervaart|NVAA|
+|Nieuwegein|NWGN|
+|Nieuwe Statenzijl|NWST|
+|Den Oever binnen|OEBI|
+|Den Oever buiten|OEBU|
+|Olst|OLST|
+|Ommen Hesselmulertbrug|OMMH|
+|Ommen Ommerkanaal|OMMK|
+|Oostersluis|OOSS|
+|Oosterschelde 11|OS11|
+|Oosterschelde 11 (b)|OS11b|
+|Oosterschelde 14|OS14|
+|Oosterschelde 4|OS4|
+|Oosterschelde 4 (b)|OS4b|
+|Oudeschild|OUDE|
+|Overloop van Hansweert|OVHA|
+|Pannerdense kop|PANN|
+|Sint Pieter Noord 2|PIET|
+|Poeldonk beneden - Aa|POEO|
+|Rak Noord|RAKN|
+|Rak Zuid|RAKZ|
+|Ramspolkering Ketelmeerzi|RAMK|
+|Ramspolbrug|RAMS|
+|Roermond boven|ROER|
+|Roggebotsluis Zuid|ROGZ|
+|Rotterdam|ROTT|
+|Geulhaven Radarpost 10|RP10|
+|Roompot binnen (SVKO)|RPBI|
+|Roompot buiten (SVKO)|RPBU|
+|Roompotsluis (SVKO)|RPSL|
+|Rotem Maas|RTEM|
+|Reevesluis noord|RVN|
+|Reevesluis zuid|RVZ|
+|Sluis 4 boven|S04B|
+|Sluis 4 beneden|S04O|
+|Sluis 5 boven|S05B|
+|Sluis 5 beneden|S05O|
+|Sluis 6 boven|S06B|
+|Sluis 6 beneden|S06O|
+|Sluis 9 boven|S09B|
+|Sluis 10 boven|S10B|
+|Sluis 10 beneden|S10O|
+|Sluis 11 boven|S11B|
+|Sluis 11 beneden|S11O|
+|Sluis 12 boven|S12B|
+|Sluis 12 beneden|S12O|
+|Sluis 13 ADM|S13A|
+|Sluis 13 boven|S13B|
+|Sluis 13 beneden|S13O|
+|Sluis 15 boven|S15B|
+|Sluis 15 voedingskanaal|S15V|
+|Sluis 16 boven|S16B|
+|Sluis 16 beneden|S16O|
+|Sluis 21 boven|S21B|
+|Sluis 21 spuikanaal|S21S|
+|Sluis 22 boven|S22B|
+|Sluis 22 beneden|S22O|
+|Sluis 23 boven|S23B|
+|Sluis 23 beneden|S23O|
+|Sluis 24 boven|S24B|
+|Sluis 24 beneden|S24O|
+|Sluis 24 spuikanaal|S24S|
+|Sambeek boven|SAMB|
+|Sambeek beneden|SAMO|
+|Schabbert boven|SCAB|
+|Schabbert beneden|SCAO|
+|Scheveningen|SCHE|
+|Schoonhoven|SCHH|
+|Schiermonnikoog|SCHI|
+|Schellingwouderbrug|SCHWB|
+|Scheeresluis beneden|SCSO|
+|Sluis Helmond boven|SHMB|
+|Sint Pieter noord|SINT|
+|Slochtersluis boven|SLBV|
+|Marksluis boven - WHK|SMAB|
+|Marksluis beneden - Mark|SMAO|
+|Smeermaas|SMEE|
+|Spuisluis Oude Eemskanaal|SOEB|
+|Spooldersluis binnen|SPBI|
+|Stroommeetpaal Eemshaven|SPE|
+|Panheel boven - ZWV|SPHB|
+|Spijkenisse|SPIJ|
+|Spaanjerd|SPNJD|
+|Bathse spuikanaal Inloop|SPUI|
+|IJgeul stroommeetpaal|SPY|
+|Sluis Schijndel boven|SSHB|
+|Sluis Schijndel beneden|SSHO|
+|Sluis Schijndel spuik|SSHS|
+|Sint Annaland|STAN|
+|Stavenisse|STAV|
+|De Steeg|STEE|
+|Stellendam buiten|STEL|
+|Stevensweert|STEV|
+|Steurgat|STGT|
+|Steenenmuur|STMR|
+|Surinamekade|SURI|
+|Schaar v/d Noord|SVDN|
+|Tennesseehaven|TENN|
+|Termunterzijl|TERM|
+|Terneuzen|TERN|
+|Terschelling Noordzee|TERS|
+|Texel Noordzee|TEXE|
+|Terherne Boezem Oostzijde|THBO|
+|Terherne Boezem Westzijde|THBW|
+|Tiel Kanaal|TIEK|
+|Tiel Waal|TIEW|
+|Inlaat Teersesluispolder|TPOL|
+|Breda Trambrug|TRMB|
+|Terneuzen Westsluis ZZ|TWZZ|
+|Trintelzand|TZND|
+|Uithuizerwad 2|UHW2|
+|Uikhoven|UIKHV|
+|Vechterweerd beneden|VECO|
+|Veessen - Wapenveld|VEES|
+|Venlo|VENL|
+|Volkerak Galathee|VK|
+|Vlaardingen|VLAA|
+|Vlieland haven|VLIE|
+|Vlissingen|VLIS|
+|VM3 Zandkreeksluis|VM3|
+|Veersemeer 4 Oranjeplaat|VM4|
+|Veersemeer 5 Schotsman|VM5|
+|Vossenbeemd Helmond|VOSB|
+|Nieuw Vossemeer|VOSM|
+|Vlakte v/d Raan|VR|
+|Vuren|VURE|
+|Vogelenzang|VZNG|
+|Walsoorden|WALS|
+|Weesp|WEES|
+|Werkendam buiten|WERK|
+|Westervoort IJsseldijkerw|WESTV|
+|Inlaat Weurt|WEUR|
+|Wierumergronden|WIER|
+|Wijhe|WIJH|
+|Wijk bij Duurstede|WIJK|
+|Westkapelle|WKAP|
+|Waalwijk|WLWK|
+|West-Terschelling|WTER|
+|Yerseke|YE|
+|Zaltbommel|ZALT|
+|Zandkreekdam OS|ZKO|
+|Zandkreekdam VM|ZKV|
+|Zutphen Noord|ZUTP|
+|Zwartsluis buiten|ZWBU|
 
 
+
+
+_generated on 01-12-2023_

@@ -1,156 +1,162 @@
-[C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [I](measurement_I.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | [T](measurement_T.md) | [W](measurement_W.md) | [Z](measurement_Z.md) | 
+Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Measurements : C | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [L](measurement_L.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | [T](measurement_T.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
 
 # Measurements with the letter C #
 
-### (massa)Concentratie chloride in Oppervlaktewater mg/l ###
+## (massa)Concentratie chloride in Oppervlaktewater mg/l ##
 measurement-code : CONCTTE
 
-* Antwerps kanaalpand (b) (location-code : ANKAb)
-* Antwerps kanaalpand (o) (location-code : ANKAo)
-* Baalhoek (b) (location-code : BAALb)
-* Baalhoek (o) (location-code : BAALo)
-* Bathse brug Deltanuts (b) (location-code : BBDTb)
-* Bathse brug Deltanuts (o) (location-code : BBDTo)
-* Bernisse NAP -3m (location-code : BER30)
-* Brouwershavense Gat 2 (o) (location-code : BG2o)
-* Brouwershavense Gat 8 (b) (location-code : BG8b)
-* Brouwershavense Gat 8 (o) (location-code : BG8o)
-* Bommenede 1 (b) (location-code : BOM1b)
-* Bommenede 1 (o) (location-code : BOM1o)
-* Beerenplaat NAP -2m (location-code : BOM20)
-* Brienenoordbrug NAP-2.5 m (location-code : BRB25)
-* Brienenoordbrug NAP-6.5 m (location-code : BRB65)
-* Diemen (NAP -1.4m) (location-code : DIE14)
-* Diemen (NAP -6.5m) (location-code : DIE65)
-* Rotterdamse hoek (location-code : FL02)
-* Friese kust (location-code : FL09)
-* Andijk (location-code : FL38)
-* Markermeer Midden -b (location-code : FL42b)
-* Markermeer Midden -o (location-code : FL42o)
-* Wieringen Oost (location-code : FL48)
-* Haringvliet 10 (b) (location-code : HA10b)
-* Haringvliet 10 (o) (location-code : HA10o)
-* gemaal Hoogland buiten (location-code : HGLD)
-* Hoek v Holland NAP -2.5m (location-code : HVH25)
-* Hoek v Holland NAP -4.5m (location-code : HVH45)
-* Hoek v Holland NAP -9.0m (location-code : HVH90)
-* Haringvliet West WS-2m (location-code : HVL02)
-* Haringvliet West WS-8m (location-code : HVL08)
-* Haringvliet West WS-13m (location-code : HVL13)
-* Kinderdijk NAP -5m (location-code : KDD50)
-* Sluiskil brug (b) (location-code : KGTBb)
-* Sluiskil brug (o) (location-code : KGTBo)
-* Sas van Gent (b) (location-code : KGTSb)
-* Sas van Gent (o) (location-code : KGTSo)
-* KrammersluisOZ1b -1.5mWS (location-code : KO1b)
-* KrammersluisOZ1mb -3.5mWS (location-code : KO1m)
-* KrammersluisOZ1m -2.5mWS (location-code : KO1mb)
-* KrammersluisOZ1mo -4.5mWS (location-code : KO1mo)
-* KrammersluisOZ1o -5.5mWS (location-code : KO1o)
-* Kwdznd Mg b(-2mWS) (location-code : KOMb)
-* Kwdznd Mg mb(-5mWS) (location-code : KOMmb)
-* Kwdznd Mg mo(-6mWS) (location-code : KOMmo)
-* Kwdznd mg o(-7mWS) (location-code : KOMo)
-* Kwdznd sp b(-1,5mNAP) (location-code : KOSb)
-* Kwdznd sp m(-6mNAP) (location-code : KOSm)
-* Kwdznd sp mb(-4,5mNAP) (location-code : KOSmb)
-* Kwdznd sp mo(-10,25mNAP) (location-code : KOSmo)
-* Kwdznd sp o(-12mNAP) (location-code : KOSo)
-* Kwdznd vg b(-2mNAP) (location-code : KOVb)
-* Kwdznd vg mb(-5mNAP) (location-code : KOVmb)
-* Kwdznd vg mo(-7mNAP) (location-code : KOVmo)
-* Kwdznd vg o(-8,5mNAP) (location-code : KOVo)
-* Krammerput Boven -1,5m (location-code : KPTb)
-* Krammerput Midden_b -8,0m (location-code : KPTmb)
-* Krammerput Midden_o -10,0 (location-code : KPTmo)
-* Krammerput Onder -15,0m (location-code : KPTo)
-* Kier 1B WP08 -2mWS (location-code : KR1b)
-* Kier 1M WP08 -11mWS (location-code : KR1m)
-* Kier 1O WP08 -14,5mWS (location-code : KR1o)
-* Kier 2B WP11 -2mWS (location-code : KR2b)
-* Kier 2M WP11 -8mWS (location-code : KR2m)
-* Kier 2O WP11 -13mWS (location-code : KR2o)
-* Kier 3B WP10 -2mWS (location-code : KR3b)
-* Kier 3M WP10 -9mWS (location-code : KR3m)
-* Kier 3O WP10 -16mWS (location-code : KR3o)
-* KIER 4O WP12 -12mWS (location-code : KR4o)
-* Krammer Laagbekken  (b) (location-code : KRBLb)
-* Krammer Laagbekken (o) (location-code : KRBLo)
-* Krammer Noord (location-code : KRND)
-* Krimpen IJssel NAP -4.0m (location-code : KRY40)
-* Krimpen IJssel NAP -5.5m (location-code : KRY55)
-* Krammersluis volkerakzijd (location-code : KV1b)
-* Krammersluis volkerakzijd (location-code : KV1o)
-* Krammersluis volkerakzijd (location-code : KV2b)
-* Krammersluis volkerakzijd (location-code : KV2o)
-* Lekhaven NAP -2.5m (location-code : LEK25)
-* Lekhaven NAP -5.0m (location-code : LEK50)
-* Lekhaven NAP -7.0m (location-code : LEK70)
-* Teroelsterkolk buiten (location-code : LTRY)
-* sluis Makkum buiten -130 (location-code : MAKBb)
-* sluis Makkum buiten -180 (location-code : MAKBo)
-* Middelharnis MB NAP -2m (location-code : MH020)
-* Middelharnis MB NAP -8m (location-code : MH080)
-* Middelharnis MB NAP -15m (location-code : MH150)
-* Marollegat (b) (location-code : MRGb)
-* Marollegat (o) (location-code : MRGo)
-* Muiden brug (location-code : MUIB)
-* NDSM-werf (o) (location-code : NDS1)
-* NDSM-werf (b) (location-code : NDS2)
-* Nieuwegein (location-code : NWGN)
-* Den Oever sp b(-1,5mWS) (location-code : OESb)
-* Den Oever sp mb(-4,5mWS) (location-code : OESmb)
-* Den Oever sp mo(-5,6mWS) (location-code : OESmo)
-* Den Oever sp o(-6,7mWS) (location-code : OESo)
-* Den Oever vg b(-2mNAP) (location-code : OEVb)
-* Den Oever vg mb(-4mNAP) (location-code : OEVmb)
-* Den Oever vg mo(-5,5mNAP) (location-code : OEVmo)
-* Den Oever vg o(-7m NAP) (location-code : OEVo)
-* Oosterschelde 4 (b) (location-code : OS4b)
-* Oosterschelde 4 (o) (location-code : OS4o)
-* Overloop v. Hansweert (b) (location-code : OVHAb)
-* Overloop v. Hansweert (o) (location-code : OVHAo)
-* Plaat van Oude Tonge (b) (location-code : PLOTb)
-* Plaat van Oude Tonge (o) (location-code : PLOTo)
-* Slaak Noord boven (location-code : SKNDb)
-* Slaak Noord midden (location-code : SKNDm)
-* Slaak Noord onder (location-code : SKNDo)
-* Slaak Oost (location-code : SKOT)
-* Slaak Zuid (location-code : SKZD)
-* Spaarnd.polder NAP -1.4m (location-code : SPA14)
-* Spaarnd.polder NAP -6.4m (location-code : SPA64)
-* Stroommeetpaal Eemshaven (location-code : SPE)
-* Spijkenisserbrug NAP-2.5m (location-code : SPI25)
-* Spijkenisserbrug NAP-4.5m (location-code : SPI45)
-* Spijkenisserbrug NAP-9.0m (location-code : SPI90)
-* Middelharnis Spui NAP -1m (location-code : SPU10)
-* Middelharnis Spui NAP -5m (location-code : SPU50)
-* Bathse spuikan. Inloop (b (location-code : SPUIb)
-* Bathse spuikan. Inloop (o (location-code : SPUIo)
-* Stellendam binnen WS-2m (location-code : STB02)
-* Stellendam binnen WS-6m (location-code : STB06)
-* Stellendam binnen WS-11m (location-code : STB11)
-* Stellendam buiten boven (location-code : STBUb)
-* Stellendam buiten onder (location-code : STBUo)
-* Schellingw.brug NAP -2.8m (location-code : SWB28)
-* Terneuzen Westsluis ZZ (b (location-code : TWZZb)
-* Terneuzen Westsluis ZZ (o (location-code : TWZZo)
-* Volkerak Galathee (b) (location-code : VKb)
-* Volkerak Galathee (o) (location-code : VKo)
-* Velserkom b WS3 -1 (location-code : VLSKb)
-* Velserkom m WS3 -6 (location-code : VLSKm)
-* Velserkom o WS3 -8 (location-code : VLSKo)
-* VM4 Oranjeplaat (b) (location-code : VM4b)
-* VM4 Oranjeplaat (o) (location-code : VM4o)
-* VM5 Schotsman (b) (location-code : VM5b)
-* VM5 Schotsman (o) (location-code : VM5o)
-* Volkerak Noord (b) (location-code : VOLKb)
-* Volkerak Noord (o) (location-code : VOLKo)
-* Nieuw Vossemeer (b) (location-code : VOSMb)
-* Nieuw Vossemeer (o) (location-code : VOSMo)
-* Vlakte v/d Raan (b) (location-code : VRb)
-* Vlakte v/d Raan (o) (location-code : VRo)
-* Zijkanaal C (NAP -140) (location-code : ZC14)
-* Zijkanaal C (NAP -440) (location-code : ZC44)
+|Possible location|location-code|
+|---|---|
+|Antwerps kanaalpand (b)|ANKAb|
+|Antwerps kanaalpand (o)|ANKAo|
+|Baalhoek (b)|BAALb|
+|Baalhoek (o)|BAALo|
+|Bathse brug Deltanuts (b)|BBDTb|
+|Bathse brug Deltanuts (o)|BBDTo|
+|Bernisse NAP -3m|BER30|
+|Brouwershavense Gat 2 (o)|BG2o|
+|Brouwershavense Gat 8 (b)|BG8b|
+|Brouwershavense Gat 8 (o)|BG8o|
+|Bommenede 1 (b)|BOM1b|
+|Bommenede 1 (o)|BOM1o|
+|Beerenplaat NAP -2m|BOM20|
+|Brienenoordbrug NAP-2.5 m|BRB25|
+|Brienenoordbrug NAP-6.5 m|BRB65|
+|Diemen (NAP -1.4m)|DIE14|
+|Diemen (NAP -6.5m)|DIE65|
+|Rotterdamse hoek|FL02|
+|Friese kust|FL09|
+|Andijk|FL38|
+|Markermeer Midden -b|FL42b|
+|Markermeer Midden -o|FL42o|
+|Wieringen Oost|FL48|
+|Haringvliet 10 (b)|HA10b|
+|Haringvliet 10 (o)|HA10o|
+|gemaal Hoogland buiten|HGLD|
+|Hoek v Holland NAP -2.5m|HVH25|
+|Hoek v Holland NAP -4.5m|HVH45|
+|Hoek v Holland NAP -9.0m|HVH90|
+|Haringvliet West WS-2m|HVL02|
+|Haringvliet West WS-8m|HVL08|
+|Haringvliet West WS-13m|HVL13|
+|Kinderdijk NAP -5m|KDD50|
+|Sluiskil brug (b)|KGTBb|
+|Sluiskil brug (o)|KGTBo|
+|Sas van Gent (b)|KGTSb|
+|Sas van Gent (o)|KGTSo|
+|KrammersluisOZ1b -1.5mWS|KO1b|
+|KrammersluisOZ1mb -3.5mWS|KO1m|
+|KrammersluisOZ1m -2.5mWS|KO1mb|
+|KrammersluisOZ1mo -4.5mWS|KO1mo|
+|KrammersluisOZ1o -5.5mWS|KO1o|
+|Kwdznd Mg b(-2mWS)|KOMb|
+|Kwdznd Mg mb(-5mWS)|KOMmb|
+|Kwdznd Mg mo(-6mWS)|KOMmo|
+|Kwdznd mg o(-7mWS)|KOMo|
+|Kwdznd sp b(-1,5mNAP)|KOSb|
+|Kwdznd sp m(-6mNAP)|KOSm|
+|Kwdznd sp mb(-4,5mNAP)|KOSmb|
+|Kwdznd sp mo(-10,25mNAP)|KOSmo|
+|Kwdznd sp o(-12mNAP)|KOSo|
+|Kwdznd vg b(-2mNAP)|KOVb|
+|Kwdznd vg mb(-5mNAP)|KOVmb|
+|Kwdznd vg mo(-7mNAP)|KOVmo|
+|Kwdznd vg o(-8,5mNAP)|KOVo|
+|Krammerput Boven -1,5m|KPTb|
+|Krammerput Midden_b -8,0m|KPTmb|
+|Krammerput Midden_o -10,0|KPTmo|
+|Krammerput Onder -15,0m|KPTo|
+|Kier 1B WP08 -2mWS|KR1b|
+|Kier 1M WP08 -11mWS|KR1m|
+|Kier 1O WP08 -14,5mWS|KR1o|
+|Kier 2B WP11 -2mWS|KR2b|
+|Kier 2M WP11 -8mWS|KR2m|
+|Kier 2O WP11 -13mWS|KR2o|
+|Kier 3B WP10 -2mWS|KR3b|
+|Kier 3M WP10 -9mWS|KR3m|
+|Kier 3O WP10 -16mWS|KR3o|
+|KIER 4O WP12 -12mWS|KR4o|
+|Krammer Laagbekken  (b)|KRBLb|
+|Krammer Laagbekken (o)|KRBLo|
+|Krammer Noord|KRND|
+|Krimpen IJssel NAP -4.0m|KRY40|
+|Krimpen IJssel NAP -5.5m|KRY55|
+|Krammersluis volkerakzijd|KV1b|
+|Krammersluis volkerakzijd|KV1o|
+|Krammersluis volkerakzijd|KV2b|
+|Krammersluis volkerakzijd|KV2o|
+|Lekhaven NAP -2.5m|LEK25|
+|Lekhaven NAP -5.0m|LEK50|
+|Lekhaven NAP -7.0m|LEK70|
+|Teroelsterkolk buiten|LTRY|
+|sluis Makkum buiten -130|MAKBb|
+|sluis Makkum buiten -180|MAKBo|
+|Middelharnis MB NAP -2m|MH020|
+|Middelharnis MB NAP -8m|MH080|
+|Middelharnis MB NAP -15m|MH150|
+|Marollegat (b)|MRGb|
+|Marollegat (o)|MRGo|
+|Muiden brug|MUIB|
+|NDSM-werf (o)|NDS1|
+|NDSM-werf (b)|NDS2|
+|Nieuwegein|NWGN|
+|Den Oever sp b(-1,5mWS)|OESb|
+|Den Oever sp mb(-4,5mWS)|OESmb|
+|Den Oever sp mo(-5,6mWS)|OESmo|
+|Den Oever sp o(-6,7mWS)|OESo|
+|Den Oever vg b(-2mNAP)|OEVb|
+|Den Oever vg mb(-4mNAP)|OEVmb|
+|Den Oever vg mo(-5,5mNAP)|OEVmo|
+|Den Oever vg o(-7m NAP)|OEVo|
+|Oosterschelde 4 (b)|OS4b|
+|Oosterschelde 4 (o)|OS4o|
+|Overloop v. Hansweert (b)|OVHAb|
+|Overloop v. Hansweert (o)|OVHAo|
+|Plaat van Oude Tonge (b)|PLOTb|
+|Plaat van Oude Tonge (o)|PLOTo|
+|Slaak Noord boven|SKNDb|
+|Slaak Noord midden|SKNDm|
+|Slaak Noord onder|SKNDo|
+|Slaak Oost|SKOT|
+|Slaak Zuid|SKZD|
+|Spaarnd.polder NAP -1.4m|SPA14|
+|Spaarnd.polder NAP -6.4m|SPA64|
+|Stroommeetpaal Eemshaven|SPE|
+|Spijkenisserbrug NAP-2.5m|SPI25|
+|Spijkenisserbrug NAP-4.5m|SPI45|
+|Spijkenisserbrug NAP-9.0m|SPI90|
+|Middelharnis Spui NAP -1m|SPU10|
+|Middelharnis Spui NAP -5m|SPU50|
+|Bathse spuikan. Inloop (b|SPUIb|
+|Bathse spuikan. Inloop (o|SPUIo|
+|Stellendam binnen WS-2m|STB02|
+|Stellendam binnen WS-6m|STB06|
+|Stellendam binnen WS-11m|STB11|
+|Stellendam buiten boven|STBUb|
+|Stellendam buiten onder|STBUo|
+|Schellingw.brug NAP -2.8m|SWB28|
+|Terneuzen Westsluis ZZ (b|TWZZb|
+|Terneuzen Westsluis ZZ (o|TWZZo|
+|Volkerak Galathee (b)|VKb|
+|Volkerak Galathee (o)|VKo|
+|Velserkom b WS3 -1|VLSKb|
+|Velserkom m WS3 -6|VLSKm|
+|Velserkom o WS3 -8|VLSKo|
+|VM4 Oranjeplaat (b)|VM4b|
+|VM4 Oranjeplaat (o)|VM4o|
+|VM5 Schotsman (b)|VM5b|
+|VM5 Schotsman (o)|VM5o|
+|Volkerak Noord (b)|VOLKb|
+|Volkerak Noord (o)|VOLKo|
+|Nieuw Vossemeer (b)|VOSMb|
+|Nieuw Vossemeer (o)|VOSMo|
+|Vlakte v/d Raan (b)|VRb|
+|Vlakte v/d Raan (o)|VRo|
+|Zijkanaal C (NAP -140)|ZC14|
+|Zijkanaal C (NAP -440)|ZC44|
 
 
+
+
+_generated on 01-12-2023_

@@ -1,9 +1,10 @@
-[A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | N | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | N | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [L](measurement_L.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | [T](measurement_T.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
 
 # Locations with the letter N #
 
 
-### North Cormorant ###
+## North Cormorant ##
 location-code : NC1
 
 Possible measurements :
@@ -20,7 +21,7 @@ Possible measurements :
 * Temperatuur Lucht oC (measurement-code : T)
 * Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm (measurement-code : H1/3)
 
-### NDSM-werf (o) ###
+## NDSM-werf (o) ##
 location-code : NDS1
 
 Possible measurements :
@@ -29,7 +30,7 @@ Possible measurements :
 * Temperatuur Oppervlaktewater oC (measurement-code : T)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 
-### NDSM-werf (b) ###
+## NDSM-werf (b) ##
 location-code : NDS2
 
 Possible measurements :
@@ -38,25 +39,25 @@ Possible measurements :
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 * Saliniteit Oppervlaktewater  (measurement-code : SALNTT)
 
-### Neer ###
+## Neer ##
 location-code : NEER
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Negenoord-Oost ###
+## Negenoord-Oost ##
 location-code : NEGO
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Negenoord-West ###
+## Negenoord-West ##
 location-code : NEGW
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Nes ###
+## Nes ##
 location-code : NES
 
 Possible measurements :
@@ -66,7 +67,7 @@ Possible measurements :
 * Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSTOOT)
 * Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 
-### Nes 2 (golven) ###
+## Nes 2 (golven) ##
 location-code : NES2
 
 Possible measurements :
@@ -78,7 +79,7 @@ Possible measurements :
 * Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
 * Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
 
-### Nieuw Beerta ###
+## Nieuw Beerta ##
 location-code : NIBE
 
 Possible measurements :
@@ -86,31 +87,31 @@ Possible measurements :
 * Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * Temperatuur Lucht oC (measurement-code : T)
 
-### Nieuwe Statenzijl ###
+## Nieuwe Statenzijl ##
 location-code : NIEUWSTZL
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Nijmegen haven ###
+## Nijmegen haven ##
 location-code : NIJM
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Nijkerk Oost ###
+## Nijkerk Oost ##
 location-code : NIJO
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Nijkerk West ###
+## Nijkerk West ##
 location-code : NIJW
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Nelson platform1 ###
+## Nelson platform1 ##
 location-code : NLS1
 
 Possible measurements :
@@ -127,20 +128,20 @@ Possible measurements :
 * Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
 * Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s (measurement-code : Tm02)
 
-### North Cormorant ###
+## North Cormorant ##
 location-code : NORTHCMRT
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm (measurement-code : WATHTBRKD)
 
-### ADM Noordervaart ###
+## ADM Noordervaart ##
 location-code : NVAA
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-### Nieuwegein ###
+## Nieuwegein ##
 location-code : NWGN
 
 Possible measurements :
@@ -151,11 +152,11 @@ Possible measurements :
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
 * Geleidendheid Oppervlaktewater S/m (measurement-code : GELDHD)
 
-### Nieuwe Statenzijl ###
+## Nieuwe Statenzijl ##
 location-code : NWST
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
 
-_generated on 30-11-2023_
+_generated on 01-12-2023_

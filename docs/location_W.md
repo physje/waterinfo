@@ -1,21 +1,22 @@
-[A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | W | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | W | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [L](measurement_L.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | [T](measurement_T.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
 
 # Locations with the letter W #
 
 
-### Walsoorden ###
+## Walsoorden ##
 location-code : WALS
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Walsoorden ###
+## Walsoorden ##
 location-code : WALSODN
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Weesp ###
+## Weesp ##
 location-code : WEES
 
 Possible measurements :
@@ -23,7 +24,7 @@ Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-### Westereems Oost boei ###
+## Westereems Oost boei ##
 location-code : WEO1
 
 Possible measurements :
@@ -38,49 +39,49 @@ Possible measurements :
 * Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
 * Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad (measurement-code : Th3)
 
-### Werkendam buiten ###
+## Werkendam buiten ##
 location-code : WERK
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Werkendam buiten ###
+## Werkendam buiten ##
 location-code : WERKDBTN
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Westervoort ###
+## Westervoort ##
 location-code : WEST
 
 Possible measurements :
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-### Westkapelle ###
+## Westkapelle ##
 location-code : WESTKPLE
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### West-Terschelling ###
+## West-Terschelling ##
 location-code : WESTTSLG
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Westervoort IJsseldijkerw ###
+## Westervoort IJsseldijkerw ##
 location-code : WESTV
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Inlaat Weurt ###
+## Inlaat Weurt ##
 location-code : WEUR
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Westereems West boei ###
+## Westereems West boei ##
 location-code : WEW1
 
 Possible measurements :
@@ -94,13 +95,13 @@ Possible measurements :
 * Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm (measurement-code : Hm0)
 * Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
 
-### Wieldrecht ###
+## Wieldrecht ##
 location-code : WIED
 
 Possible measurements :
 * Stroomsnelheid Oppervlaktewater m/s (measurement-code : STROOMSHD)
 
-### Wielingen Noord ###
+## Wielingen Noord ##
 location-code : WIEL
 
 Possible measurements :
@@ -113,7 +114,7 @@ Possible measurements :
 * Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s (measurement-code : T1/3)
 * Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 (measurement-code : TE3)
 
-### Wierumergronden ###
+## Wierumergronden ##
 location-code : WIER
 
 Possible measurements :
@@ -124,38 +125,38 @@ Possible measurements :
 * Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 
-### Wierumergronden ###
+## Wierumergronden ##
 location-code : WIERMGDN
 
 Possible measurements :
 * Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTBRKD)
 
-### Wijdenes ###
+## Wijdenes ##
 location-code : WIJD
 
 Possible measurements :
 * Windsnelheid Lucht t.o.v. Mean Sea Level in m/s (measurement-code : WINDSHD)
 * Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 
-### Wijhe ###
+## Wijhe ##
 location-code : WIJH
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Wijk bij Duurstede ###
+## Wijk bij Duurstede ##
 location-code : WIJK
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Wijk aan Zee ###
+## Wijk aan Zee ##
 location-code : WIJZ
 
 Possible measurements :
 * Temperatuur Lucht oC (measurement-code : T)
 
-### Wilhelminadorp ###
+## Wilhelminadorp ##
 location-code : WILH
 
 Possible measurements :
@@ -163,24 +164,24 @@ Possible measurements :
 * Temperatuur Lucht oC (measurement-code : T)
 * Windrichting Lucht t.o.v. ware Noorden in graad (measurement-code : WINDRTG)
 
-### Westkapelle ###
+## Westkapelle ##
 location-code : WKAP
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
-### Waalwijk ###
+## Waalwijk ##
 location-code : WLWK
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 * Debiet Oppervlaktewater m3/s (measurement-code : Q)
 
-### West-Terschelling ###
+## West-Terschelling ##
 location-code : WTER
 
 Possible measurements :
 * Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm (measurement-code : WATHTE)
 
 
-_generated on 30-11-2023_
+_generated on 01-12-2023_
