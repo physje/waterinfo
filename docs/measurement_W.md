@@ -1,56 +1,13 @@
 Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+
 Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [L](measurement_L.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | [T](measurement_T.md) | W | [Z](measurement_Z.md)
 
 # Measurements with the letter W #
 
-## 10' scalair genmiddelde van de windsnelheid Lucht m/s ##
-measurement-code : WS10
-
-|Possible location|location-code|
-|---|---|
-|A12 platform|A12|
-|AWG platform|AWG|
-|Bergsediepsluis wind|BDWI|
-|Brouwershavense Gat 2|BG2|
-|Borssele Alpha|BSA|
-|Cadzand wind|CAWI|
-|D15 platform|D15|
-|Europlatform|EPL|
-|F3 platform|F3|
-|Rotterdamse hoek|FL02|
-|Grevelingensluis wind|GRWI|
-|Hansweert wind|HAWI|
-|Platform HKZA 1|HKZA1|
-|Platform HKZA 2|HKZA2|
-|Huibertgat|HUIB|
-|Haringvlietsluizen sch 1|HVS01|
-|IJmuiden Zuid havenhoofd|IJZ1|
-|J6 platform|J6|
-|K14 platform|K14|
-|Kats Zandkreeksluis|KATS|
-|L9 platform|L9|
-|Lichteiland Goeree|LEG|
-|Lage Licht|LGL1|
-|Maeslantkering geleidetor|MLKZ|
-|Marollegat|MRG|
-|Nes|NES|
-|Oosterschelde 4|OS4|
-|P11 platform|P11|
-|Stroommeetpaal Eemshaven|SPE|
-|IJgeul stroommeetpaal|SPY|
-|Stavenisse|STAV|
-|Terschelling Noordzee|TERS|
-|Terneuzen Westsluis|TNWS|
-|Uithuizerwad|UHWD|
-|Vlakte v/d Raan|VR|
-|Wierumergronden|WIER|
-|Zeelandbrug wind|ZBWI|
-
-
 ## Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s ##
 measurement-code : WINDSTOOT
 
-|Possible location|location-code|
+|Location|location-code|
 |---|---|
 |A12 platform|A12|
 |AWG platform|AWG|
@@ -91,10 +48,78 @@ measurement-code : WINDSTOOT
 |Zeelandbrug wind|ZBWI|
 
 
+## Windrichting Lucht t.o.v. ware Noorden in graad ##
+measurement-code : WINDRTG
+
+|Location|location-code|
+|---|---|
+|A12 platform|A12|
+|AWG platform|AWG|
+|Bergsediepsluis wind|BDWI|
+|Berkhout|BERK|
+|Brouwershavense Gat 2|BG2|
+|Borssele Alpha|BSA|
+|Cadzand wind|CAWI|
+|D15 platform|D15|
+|De Kooy|DEKO|
+|Europlatform|EPL|
+|Europlatform 2|EPL2|
+|F3 platform|F3|
+|Rotterdamse hoek|FL02|
+|Markermeer Midden -o|FL42o|
+|Gannet platform 1|GAN1|
+|Grevelingensluis wind|GRWI|
+|Hansweert wind|HAWI|
+|Platform HKZA 1|HKZA1|
+|Platform HKZA 2|HKZA2|
+|Hoek van Holland|HOEK|
+|Hoorn Terschelling|HOTE|
+|Houtribdijk|HOUD|
+|Huibertgat|HUIB|
+|Haringvlietsluizen sch 1|HVS01|
+|IJmuiden Buitenhaven|IJMH|
+|IJmuiden Zuid havenhoofd|IJZ1|
+|J6 platform|J6|
+|K13 Alpha|K13|
+|K14 platform|K14|
+|Kats Zandkreeksluis|KATS|
+|Lauwersoog|LAUW|
+|Lichteiland Goeree|LEG|
+|Lage Licht|LGL1|
+|Marknesse|MARK|
+|Maeslantkering geleidetor|MLKZ|
+|Marollegat|MRG|
+|North Cormorant|NC1|
+|Nes|NES|
+|Nieuw Beerta|NIBE|
+|Nelson platform1|NLS1|
+|Oosterschelde 4|OS4|
+|P11 platform|P11|
+|Rotterdam Luchthaven|ROT1|
+|Rotterdam Geulhaven|ROT2|
+|Geulhaven Radarpost 10|RP10|
+|Stroommeetpaal Eemshaven|SPE|
+|IJgeul stroommeetpaal|SPY|
+|Stavenisse|STAV|
+|Stavoren|STVO|
+|Texelhors|TEHO|
+|Terschelling Noordzee|TERS|
+|Terneuzen Westsluis|TNWS|
+|Trintelzand|TZND|
+|Uithuizerwad|UHWD|
+|Vlieland|VLI1|
+|Vlissingen|VLIS|
+|Vlakte v/d Raan|VR|
+|Wierumergronden|WIER|
+|Wijdenes|WIJD|
+|Wilhelminadorp|WILH|
+|Zeelandbrug wind|ZBWI|
+
+
 ## Windsnelheid Lucht t.o.v. Mean Sea Level in m/s ##
 measurement-code : WINDSHD
 
-|Possible location|location-code|
+|Location|location-code|
 |---|---|
 |A12 platform|A12|
 |AWG platform|AWG|
@@ -159,10 +184,54 @@ measurement-code : WINDSHD
 |Zeelandbrug wind|ZBWI|
 
 
+## 10' scalair genmiddelde van de windsnelheid Lucht m/s ##
+measurement-code : WS10
+
+|Location|location-code|
+|---|---|
+|A12 platform|A12|
+|AWG platform|AWG|
+|Bergsediepsluis wind|BDWI|
+|Brouwershavense Gat 2|BG2|
+|Borssele Alpha|BSA|
+|Cadzand wind|CAWI|
+|D15 platform|D15|
+|Europlatform|EPL|
+|F3 platform|F3|
+|Rotterdamse hoek|FL02|
+|Grevelingensluis wind|GRWI|
+|Hansweert wind|HAWI|
+|Platform HKZA 1|HKZA1|
+|Platform HKZA 2|HKZA2|
+|Huibertgat|HUIB|
+|Haringvlietsluizen sch 1|HVS01|
+|IJmuiden Zuid havenhoofd|IJZ1|
+|J6 platform|J6|
+|K14 platform|K14|
+|Kats Zandkreeksluis|KATS|
+|L9 platform|L9|
+|Lichteiland Goeree|LEG|
+|Lage Licht|LGL1|
+|Maeslantkering geleidetor|MLKZ|
+|Marollegat|MRG|
+|Nes|NES|
+|Oosterschelde 4|OS4|
+|P11 platform|P11|
+|Stroommeetpaal Eemshaven|SPE|
+|IJgeul stroommeetpaal|SPY|
+|Stavenisse|STAV|
+|Terschelling Noordzee|TERS|
+|Terneuzen Westsluis|TNWS|
+|Uithuizerwad|UHWD|
+|Vlakte v/d Raan|VR|
+|Wierumergronden|WIER|
+|Zeelandbrug wind|ZBWI|
+
+
 ## Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm ##
 measurement-code : WATHTBRKD
 
-|Possible location|location-code|
+|Location|location-code|
 |---|---|
 |A12 platform|A12|
 |Amaliahaven|AMLAHVN|
@@ -262,79 +331,10 @@ measurement-code : WATHTBRKD
 |Yerseke|YERSKE|
 
 
-## Windrichting Lucht t.o.v. ware Noorden in graad ##
-measurement-code : WINDRTG
-
-|Possible location|location-code|
-|---|---|
-|A12 platform|A12|
-|AWG platform|AWG|
-|Bergsediepsluis wind|BDWI|
-|Berkhout|BERK|
-|Brouwershavense Gat 2|BG2|
-|Borssele Alpha|BSA|
-|Cadzand wind|CAWI|
-|D15 platform|D15|
-|De Kooy|DEKO|
-|Europlatform|EPL|
-|Europlatform 2|EPL2|
-|F3 platform|F3|
-|Rotterdamse hoek|FL02|
-|Markermeer Midden -o|FL42o|
-|Gannet platform 1|GAN1|
-|Grevelingensluis wind|GRWI|
-|Hansweert wind|HAWI|
-|Platform HKZA 1|HKZA1|
-|Platform HKZA 2|HKZA2|
-|Hoek van Holland|HOEK|
-|Hoorn Terschelling|HOTE|
-|Houtribdijk|HOUD|
-|Huibertgat|HUIB|
-|Haringvlietsluizen sch 1|HVS01|
-|IJmuiden Buitenhaven|IJMH|
-|IJmuiden Zuid havenhoofd|IJZ1|
-|J6 platform|J6|
-|K13 Alpha|K13|
-|K14 platform|K14|
-|Kats Zandkreeksluis|KATS|
-|L9 platform|L9|
-|Lauwersoog|LAUW|
-|Lichteiland Goeree|LEG|
-|Lage Licht|LGL1|
-|Marknesse|MARK|
-|Maeslantkering geleidetor|MLKZ|
-|Marollegat|MRG|
-|North Cormorant|NC1|
-|Nes|NES|
-|Nieuw Beerta|NIBE|
-|Nelson platform1|NLS1|
-|Oosterschelde 4|OS4|
-|P11 platform|P11|
-|Rotterdam Luchthaven|ROT1|
-|Rotterdam Geulhaven|ROT2|
-|Geulhaven Radarpost 10|RP10|
-|Stroommeetpaal Eemshaven|SPE|
-|IJgeul stroommeetpaal|SPY|
-|Stavenisse|STAV|
-|Stavoren|STVO|
-|Texelhors|TEHO|
-|Terschelling Noordzee|TERS|
-|Terneuzen Westsluis|TNWS|
-|Trintelzand|TZND|
-|Uithuizerwad|UHWD|
-|Vlieland|VLI1|
-|Vlissingen|VLIS|
-|Vlakte v/d Raan|VR|
-|Wierumergronden|WIER|
-|Wijdenes|WIJD|
-|Wilhelminadorp|WILH|
-|Zeelandbrug wind|ZBWI|
-
-
 ## Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm ##
 measurement-code : WATHTE
 
-|Possible location|location-code|
+|Location|location-code|
 |---|---|
 |Almen|ALME|
 |Amaliahaven|AMHV|
@@ -392,7 +392,6 @@ measurement-code : WATHTE
 |Dorkwerd|DORK|
 |Driel boven|DRIB|
 |Driel beneden|DRIO|
-|Echt|ECHT|
 |Edam|EDAM|
 |Eefde boven|EEFB|
 |Eefde beneden|EEFD|
@@ -457,7 +456,6 @@ measurement-code : WATHTE
 |IJmuiden Noordersluis O|IJMO|
 |IJmuiden Noordersluis W|IJMW|
 |IJsselkop|IJSS|
-|J6 platform|J6|
 |K13 Alpha|K13|
 |K14 platform|K14|
 |Kadoelen|KADL|
@@ -509,12 +507,14 @@ measurement-code : WATHTE
 |Maeslantkering zeezijde Z|MLK2|
 |Moerdijk|MOER|
 |Mond der Vecht|MOND|
+|Mook|MOOK|
 |Marollegat|MRG|
 |Mauriksewetering|MRSW|
 |North Cormorant|NC1|
 |Neer|NEER|
 |Negenoord-Oost|NEGO|
 |Negenoord-West|NEGW|
+|Nes|NES|
 |Nijmegen haven|NIJM|
 |Nijkerk Oost|NIJO|
 |Nijkerk West|NIJW|
@@ -524,7 +524,6 @@ measurement-code : WATHTE
 |Nieuwe Statenzijl|NWST|
 |Den Oever binnen|OEBI|
 |Den Oever buiten|OEBU|
-|Olst|OLST|
 |Ommen Hesselmulertbrug|OMMH|
 |Ommen Ommerkanaal|OMMK|
 |Oostersluis|OOSS|
@@ -648,6 +647,7 @@ measurement-code : WATHTE
 |Vogelenzang|VZNG|
 |Walsoorden|WALS|
 |Weesp|WEES|
+|Well Dorp|WELL|
 |Werkendam buiten|WERK|
 |Westervoort IJsseldijkerw|WESTV|
 |Inlaat Weurt|WEUR|
@@ -667,4 +667,4 @@ measurement-code : WATHTE
 
 
 
-_generated on 01-12-2023_
+_generated on 06-12-2023_

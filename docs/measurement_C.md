@@ -1,4 +1,5 @@
 Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+
 Measurements : C | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [L](measurement_L.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | [T](measurement_T.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
 
 # Measurements with the letter C #
@@ -6,7 +7,7 @@ Measurements : C | [F](measurement_F.md) | [G](measurement_G.md) | [H](measureme
 ## (massa)Concentratie chloride in Oppervlaktewater mg/l ##
 measurement-code : CONCTTE
 
-|Possible location|location-code|
+|Location|location-code|
 |---|---|
 |Antwerps kanaalpand (b)|ANKAb|
 |Antwerps kanaalpand (o)|ANKAo|
@@ -76,7 +77,7 @@ measurement-code : CONCTTE
 |Kier 3B WP10 -2mWS|KR3b|
 |Kier 3M WP10 -9mWS|KR3m|
 |Kier 3O WP10 -16mWS|KR3o|
-|KIER 4O WP12 -12mWS|KR4o|
+|KIER 4M WP12 -11mWS|KR4m|
 |Krammer Laagbekken  (b)|KRBLb|
 |Krammer Laagbekken (o)|KRBLo|
 |Krammer Noord|KRND|
@@ -89,7 +90,6 @@ measurement-code : CONCTTE
 |Lekhaven NAP -2.5m|LEK25|
 |Lekhaven NAP -5.0m|LEK50|
 |Lekhaven NAP -7.0m|LEK70|
-|Teroelsterkolk buiten|LTRY|
 |sluis Makkum buiten -130|MAKBb|
 |sluis Makkum buiten -180|MAKBo|
 |Middelharnis MB NAP -2m|MH020|
@@ -159,4 +159,4 @@ measurement-code : CONCTTE
 
 
 
-_generated on 01-12-2023_
+_generated on 06-12-2023_

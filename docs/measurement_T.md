@@ -1,4 +1,5 @@
 Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+
 Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [L](measurement_L.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | T | [W](measurement_W.md) | [Z](measurement_Z.md)
 
 # Measurements with the letter T #
@@ -6,19 +7,17 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Temperatuur Oppervlaktewater oC ##
 measurement-code : T
 
-|Possible location|location-code|
+|Location|location-code|
 |---|---|
 |Amerongen boven|AMRB|
 |Antwerps kanaalpand (b)|ANKAb|
 |Antwerps kanaalpand (o)|ANKAo|
-|AWG platform|AWG|
 |Baalhoek (b)|BAALb|
 |Baalhoek (o)|BAALo|
 |Bathse brug Deltanuts (b)|BBDTb|
 |Bathse brug Deltanuts (o)|BBDTo|
 |Belfeld boven|BELB|
 |Bernisse NAP -3m|BER30|
-|Berkhout|BERK|
 |Brouwershavense Gat 2 (b)|BG2b|
 |Brouwershavense Gat 2 (o)|BG2o|
 |Brouwershavense Gat 8 (b)|BG8b|
@@ -29,11 +28,7 @@ measurement-code : T
 |Borgharen boven|BORB|
 |Brienenoordbrug NAP-2.5 m|BRB25|
 |Brienenoordbrug NAP-6.5 m|BRB65|
-|Borssele Alpha|BSA|
 |Buitenbanken west|BUBW|
-|Cadzand|CADZ|
-|D15 platform|D15|
-|De Kooy|DEKO|
 |Delden beneden|DELO|
 |Den Helder|DENH|
 |Diemen (NAP -1.4m)|DIE14|
@@ -42,28 +37,21 @@ measurement-code : T
 |Eefde beneden|EEFO|
 |Eijsden ponton|EIJSP|
 |Eierlandse Gat boei|ELD1|
-|Europlatform|EPL|
-|Europlatform 2|EPL2|
-|F3 platform|F3|
 |Rotterdamse hoek|FL02|
 |Friese kust|FL09|
 |Andijk|FL38|
 |Markermeer Midden -b|FL42b|
 |Markermeer Midden -o|FL42o|
 |Wieringen Oost|FL48|
-|Gannet platform 1|GAN1|
 |Grave boven|GRAB|
+|Gat van de stier|GVDS|
 |Haringvliet 10 (b)|HA10b|
 |Haringvliet 10 (o)|HA10o|
 |Hagestein boven|HAGB|
-|Hansweert|HANS|
 |Hengelo boven|HENB|
 |Hengelo beneden|HENO|
 |gemaal Hoogland buiten|HGLD|
-|Platform HKZA|HKZA|
 |Hoek van Holland|HOEK|
-|Hoorn Terschelling|HOTE|
-|Huibertgat|HUIB|
 |Hoek v Holland NAP -2.5m|HVH25|
 |Hoek v Holland NAP -4.5m|HVH45|
 |Hoek v Holland NAP -9.0m|HVH90|
@@ -71,10 +59,7 @@ measurement-code : T
 |Haringvliet West WS-8m|HVL08|
 |Haringvliet West WS-13m|HVL13|
 |IJmuiden Buitenhaven|IJMH|
-|J6 platform|J6|
-|K13 Alpha|K13|
 |K13 Alpha 3|K133|
-|K14 platform|K14|
 |Kinderdijk NAP -5m|KDD50|
 |Keizersveer|KEIZ|
 |Sluiskil brug (b)|KGTBb|
@@ -113,6 +98,7 @@ measurement-code : T
 |Kier 3M WP10 -9mWS|KR3m|
 |Kier 3O WP10 -16mWS|KR3o|
 |KIER 4M WP12 -11mWS|KR4m|
+|KIER 4O WP12 -12mWS|KR4o|
 |Krammer Laagbekken  (b)|KRBLb|
 |Krammer Laagbekken (o)|KRBLo|
 |Krammer Noord|KRND|
@@ -122,8 +108,6 @@ measurement-code : T
 |Krammersluis volkerakzijd|KV1o|
 |Krammersluis volkerakzijd|KV2b|
 |Krammersluis volkerakzijd|KV2o|
-|L9 platform|L9|
-|Lauwersoog|LAUW|
 |Leeuwarden|LEEU|
 |Lichteiland Goeree|LEG|
 |Lekhaven NAP -2.5m|LEK25|
@@ -134,7 +118,6 @@ measurement-code : T
 |Lobith Haven|LOBH|
 |Maarssen|MAAR|
 |sluis Makkum buiten -130|MAKBb|
-|Marknesse|MARK|
 |Middelharnis MB NAP -2m|MH020|
 |Middelharnis MB NAP -8m|MH080|
 |Middelharnis MB NAP -15m|MH150|
@@ -142,11 +125,8 @@ measurement-code : T
 |Marollegat (b)|MRGb|
 |Muiden brug|MUIB|
 |IJgeul Munitiestort 1|MUN1|
-|North Cormorant|NC1|
 |NDSM-werf (o)|NDS1|
 |NDSM-werf (b)|NDS2|
-|Nieuw Beerta|NIBE|
-|Nelson platform1|NLS1|
 |Nieuwegein|NWGN|
 |Hengelo Oelerbrug|OELB|
 |Den Oever sp b(-1,5mWS)|OESb|
@@ -157,15 +137,12 @@ measurement-code : T
 |Den Oever vg mb(-4mNAP)|OEVmb|
 |Den Oever vg mo(-5,5mNAP)|OEVmo|
 |Den Oever vg o(-7m NAP)|OEVo|
-|Oosterschelde 4|OS4|
 |Oosterschelde 4 (b)|OS4b|
 |Oosterschelde 4 (o)|OS4o|
 |Overloop v. Hansweert (b)|OVHAb|
-|P11 platform|P11|
 |Plaat van Oude Tonge (b)|PLOTb|
 |Plaat van Oude Tonge (o)|PLOTo|
 |Roermond boven temp|ROEB|
-|Rotterdam Luchthaven|ROT1|
 |Sambeek boven|SAMB|
 |Schouwenbank Stroomgat|SCHS|
 |Schulpengat|SGAT|
@@ -189,15 +166,11 @@ measurement-code : T
 |Stellendam binnen WS-11m|STB11|
 |Stellendam buiten boven|STBUb|
 |Stellendam buiten onder|STBUo|
-|Stavoren|STVO|
 |Schellingw.brug NAP -2.8m|SWB28|
-|Terschelling Noordzee|TERS|
 |Terneuzen Westsluis ZZ (b|TWZZb|
 |Terneuzen Westsluis ZZ (o|TWZZo|
 |Volkerak Galathee (b)|VKb|
 |Volkerak Galathee (o)|VKo|
-|Vlieland|VLI1|
-|Vlissingen|VLIS|
 |Velserkom b WS3 -1|VLSKb|
 |Velserkom m WS3 -6|VLSKm|
 |Velserkom o WS3 -8|VLSKo|
@@ -212,18 +185,15 @@ measurement-code : T
 |Vlakte v/d Raan (b)|VRb|
 |Vlakte v/d Raan (o)|VRo|
 |Westereems Oost boei|WEO1|
-|Wierumergronden|WIER|
-|Wijk aan Zee|WIJZ|
-|Wilhelminadorp|WILH|
 |Zijkanaal C (NAP -140)|ZC14|
 |Zijkanaal C (NAP -440)|ZC44|
 |Zwartsluis buiten|ZWBU|
 
 
-## Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s ##
-measurement-code : Tm02
+## Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 ##
+measurement-code : TE3
 
-|Possible location|location-code|
+|Location|location-code|
 |---|---|
 |AWG platform|AWG|
 |Bath|BATH|
@@ -240,6 +210,7 @@ measurement-code : Tm02
 |F3 platform|F3|
 |Rotterdamse hoek|FL02|
 |Gannet platform 1|GAN1|
+|Gat van de stier|GVDS|
 |Hansweert|HANS|
 |Hansweert wind (b)|HAWIb|
 |Platform HKZA|HKZA|
@@ -247,6 +218,75 @@ measurement-code : Tm02
 |Honte 2 (Back-up)|HNTE2|
 |IJgeul|IJGL|
 |J6 platform|J6|
+|K13 Alpha|K13|
+|K13 Alpha 3|K133|
+|K14 platform|K14|
+|Keeten boei|KEET|
+|L9 platform|L9|
+|Lichteiland Goeree|LEG|
+|Maeslantkering zeezijde N|MLK1|
+|Maeslantkering zeezijde Z|MLK2|
+|Maasgeul Maasvlakte Noord|MMND|
+|Monding Nieuwe Haven|MNHV|
+|Marollegat (b)|MRGb|
+|IJgeul Munitiestort 1|MUN1|
+|IJgeul Munitiestort 2|MUN2|
+|North Cormorant|NC1|
+|Nes 2 (golven)|NES2|
+|Nelson platform1|NLS1|
+|Oosterschelde 11 (b)|OS11b|
+|Oosterschelde 4 (b)|OS4b|
+|Overloop v. Hansweert gol|OVHW|
+|Overloop van Valkenisse|OVVA|
+|Oude Westereems Noordboei|OWEN|
+|Oude Westereems Zuidboei|OWEZ|
+|Pas van Terneuzen boei|PVT|
+|Roggenplaat|ROGP|
+|Roompotsluis (SVKO)|RPSL|
+|Schouwenbank 2 boei|SCB2|
+|Schiermonnikoog|SCHI|
+|Schouwenbank Stroomgat|SCHS|
+|Schulpengat|SGAT|
+|Schiermonnikoog Noord boe|SMN1|
+|Schiermonnikoog Westgat b|SMWG|
+|Stroommeetpaal Eemshaven|SPE|
+|IJgeul stroommeetpaal|SPY|
+|Stortemelk boei|STM1|
+|Stortemelk Oost|STMO1|
+|Uithuizerwad 2|UHW2|
+|Uithuizerwad 3|UHW3|
+|Westereems Oost boei|WEO1|
+|Westereems West boei|WEW1|
+|Wielingen Noord|WIEL|
+
+
+## Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s ##
+measurement-code : Tm02
+
+|Location|location-code|
+|---|---|
+|AWG platform|AWG|
+|Bath|BATH|
+|Brouwershavense Gat 2|BG2|
+|Borssele Alpha|BSA|
+|Buitenbanken west|BUBW|
+|Cadzand boei|CADW|
+|Deurloo|DEUR|
+|Domburger Rassen|DORA|
+|Eurogeul DWE|DWE1|
+|Eurogeul E13|E13|
+|Eierlandse Gat boei|ELD1|
+|Europlatform 2|EPL2|
+|F3 platform|F3|
+|Rotterdamse hoek|FL02|
+|Gannet platform 1|GAN1|
+|Gat van de stier|GVDS|
+|Hansweert|HANS|
+|Hansweert wind (b)|HAWIb|
+|Platform HKZA|HKZA|
+|Honte nabij Sloehaven|HNTE|
+|Honte 2 (Back-up)|HNTE2|
+|IJgeul|IJGL|
 |K13 Alpha|K13|
 |K13 Alpha 3|K133|
 |K14 platform|K14|
@@ -292,9 +332,10 @@ measurement-code : Tm02
 ## Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s ##
 measurement-code : T1/3
 
-|Possible location|location-code|
+|Location|location-code|
 |---|---|
 |AWG platform|AWG|
+|Bath|BATH|
 |Brouwershavense Gat 2|BG2|
 |Borssele Alpha|BSA|
 |Buitenbanken west|BUBW|
@@ -308,6 +349,7 @@ measurement-code : T1/3
 |F3 platform|F3|
 |Rotterdamse hoek|FL02|
 |Gannet platform 1|GAN1|
+|Gat van de stier|GVDS|
 |Hansweert|HANS|
 |Hansweert wind (b)|HAWIb|
 |Platform HKZA|HKZA|
@@ -357,84 +399,57 @@ measurement-code : T1/3
 |Wielingen Noord|WIEL|
 
 
-## Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 ##
-measurement-code : TE3
+## Temperatuur Lucht oC ##
+measurement-code : T
 
-|Possible location|location-code|
+|Location|location-code|
 |---|---|
 |AWG platform|AWG|
-|Brouwershavense Gat 2|BG2|
+|Berkhout|BERK|
 |Borssele Alpha|BSA|
-|Buitenbanken west|BUBW|
-|Cadzand boei|CADW|
-|Deurloo|DEUR|
-|Domburger Rassen|DORA|
-|Eurogeul DWE|DWE1|
-|Eurogeul E13|E13|
-|Eierlandse Gat boei|ELD1|
+|Cadzand|CADZ|
+|D15 platform|D15|
+|De Kooy|DEKO|
+|Europlatform|EPL|
 |Europlatform 2|EPL2|
 |F3 platform|F3|
-|Rotterdamse hoek|FL02|
 |Gannet platform 1|GAN1|
 |Hansweert|HANS|
-|Hansweert wind (b)|HAWIb|
 |Platform HKZA|HKZA|
-|Honte nabij Sloehaven|HNTE|
-|Honte 2 (Back-up)|HNTE2|
-|IJgeul|IJGL|
+|Hoorn Terschelling|HOTE|
+|Huibertgat|HUIB|
 |J6 platform|J6|
 |K13 Alpha|K13|
-|K13 Alpha 3|K133|
 |K14 platform|K14|
-|Keeten boei|KEET|
 |L9 platform|L9|
-|Lichteiland Goeree|LEG|
-|Maeslantkering zeezijde N|MLK1|
-|Maeslantkering zeezijde Z|MLK2|
-|Maasgeul Maasvlakte Noord|MMND|
-|Monding Nieuwe Haven|MNHV|
-|Marollegat (b)|MRGb|
-|IJgeul Munitiestort 1|MUN1|
-|IJgeul Munitiestort 2|MUN2|
+|Lauwersoog|LAUW|
+|Marknesse|MARK|
 |North Cormorant|NC1|
-|Nes 2 (golven)|NES2|
+|Nieuw Beerta|NIBE|
 |Nelson platform1|NLS1|
-|Oosterschelde 11 (b)|OS11b|
-|Oosterschelde 4 (b)|OS4b|
-|Overloop v. Hansweert gol|OVHW|
-|Overloop van Valkenisse|OVVA|
-|Oude Westereems Noordboei|OWEN|
-|Oude Westereems Zuidboei|OWEZ|
-|Pas van Terneuzen boei|PVT|
-|Roggenplaat|ROGP|
-|Roompotsluis (SVKO)|RPSL|
-|Schouwenbank 2 boei|SCB2|
-|Schiermonnikoog|SCHI|
-|Schouwenbank Stroomgat|SCHS|
-|Schulpengat|SGAT|
-|Schiermonnikoog Noord boe|SMN1|
-|Schiermonnikoog Westgat b|SMWG|
-|Stroommeetpaal Eemshaven|SPE|
-|IJgeul stroommeetpaal|SPY|
-|Stortemelk boei|STM1|
-|Stortemelk Oost|STMO1|
-|Uithuizerwad 2|UHW2|
-|Uithuizerwad 3|UHW3|
-|Westereems Oost boei|WEO1|
-|Westereems West boei|WEW1|
-|Wielingen Noord|WIEL|
+|Oosterschelde 4|OS4|
+|P11 platform|P11|
+|Rotterdam Luchthaven|ROT1|
+|Stavoren|STVO|
+|Terschelling Noordzee|TERS|
+|Vlieland|VLI1|
+|Vlissingen|VLIS|
+|Wierumergronden|WIER|
+|Wijk aan Zee|WIJZ|
+|Wilhelminadorp|WILH|
 
 
 ## Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad ##
 measurement-code : Th0
 
-|Possible location|location-code|
+|Location|location-code|
 |---|---|
 |Buitenbanken west|BUBW|
 |Cadzand boei|CADW|
 |Deurloo|DEUR|
 |Eurogeul E13|E13|
 |Eierlandse Gat boei|ELD1|
+|Gat van de stier|GVDS|
 |K13 Alpha 3|K133|
 |Maasgeul Maasvlakte Noord|MMND|
 |Monding Nieuwe Haven|MNHV|
@@ -457,13 +472,14 @@ measurement-code : Th0
 ## Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad ##
 measurement-code : Th3
 
-|Possible location|location-code|
+|Location|location-code|
 |---|---|
 |Buitenbanken west|BUBW|
 |Cadzand boei|CADW|
 |Deurloo|DEUR|
 |Eurogeul E13|E13|
 |Eierlandse Gat boei|ELD1|
+|Gat van de stier|GVDS|
 |K13 Alpha 3|K133|
 |Maasgeul Maasvlakte Noord|MMND|
 |Monding Nieuwe Haven|MNHV|
@@ -484,4 +500,4 @@ measurement-code : Th3
 
 
 
-_generated on 01-12-2023_
+_generated on 06-12-2023_
