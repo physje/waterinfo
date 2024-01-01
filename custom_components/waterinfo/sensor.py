@@ -28,6 +28,8 @@ from .const import (
 
 import ddlpy2
 
+_LOGGER = logging.getLogger(__name__)
+
 # Time between updating data from Webservice
 SCAN_INTERVAL = timedelta(minutes=10)
 
@@ -108,6 +110,13 @@ class WaterInfoSensor(SensorEntity):
             entry_type=DeviceEntryType.SERVICE,
         )
 
+        _LOGGER.info(
+            "Made sensor for %s (location %s, measurement %s)",
+            entry.data[CONST_MEASUREMENT_DESCR],
+            entry.data[CONST_CODE],
+            entry.data[CONST_MEASUREMENT],
+        )
+
     async def async_update(self) -> None:
         """Get the time and updates the states."""
 
@@ -133,6 +142,9 @@ class WaterInfoSensor(SensorEntity):
 
         if location["observation"] is not None:
             self._attr_native_value = location["observation"]
+            _LOGGER.debug(
+                "Observation %s at %s", location["observation"], location["tijdstip"]
+            )
 
 
 def collectObservation(data) -> dict:
@@ -144,5 +156,6 @@ def collectObservation(data) -> dict:
         meetwaarde = observation["Meetwaarde.Waarde_Alfanumeriek"][0]
 
     data["observation"] = meetwaarde
+    data["tijdstip"] = observation["Tijdstip"][0]
 
     return data

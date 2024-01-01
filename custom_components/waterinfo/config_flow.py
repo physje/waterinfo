@@ -53,6 +53,7 @@ def validate_location(data) -> dict:
     locations = ddlpy2.locations()
     selected = locations[locations.index == data[CONST_CODE]]
     if selected.empty == True:
+        _LOGGER.error("Location %s does not exist", data[CONST_CODE])
         raise ValueError(f"{data[CONST_CODE]} is geen bestaand station")
         return
 
@@ -60,6 +61,11 @@ def validate_location(data) -> dict:
         (selected["Grootheid.Code"] == data[CONST_MEASUREMENT])
     ].reset_index()
     if selected.empty == True:
+        _LOGGER.error(
+            "Measurements %s does not exist for %s",
+            data[CONST_MEASUREMENT],
+            data[CONST_CODE],
+        )
         raise ValueError(f"{data[CONST_MEASUREMENT]} is geen bestaande meetwaarde")
         return
 
