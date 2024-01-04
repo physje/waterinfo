@@ -88,6 +88,13 @@ def validate_location(data) -> dict:
     # Grootheid.Omschrijving -> CONST_MEASUREMENT_DESCR
     # Hoedanigheid.Code -> CONST_PROPERTY
 
+    _LOGGER.info(
+        "Made sensor for %s (location %s, measurement %s)",
+        data[CONST_MEASUREMENT_DESCR],
+        data[CONST_CODE],
+        data[CONST_MEASUREMENT],
+    )
+
     return data
 
 

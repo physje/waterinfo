@@ -110,13 +110,6 @@ class WaterInfoSensor(SensorEntity):
             entry_type=DeviceEntryType.SERVICE,
         )
 
-        _LOGGER.info(
-            "Made sensor for %s (location %s, measurement %s)",
-            entry.data[CONST_MEASUREMENT_DESCR],
-            entry.data[CONST_CODE],
-            entry.data[CONST_MEASUREMENT],
-        )
-
     async def async_update(self) -> None:
         """Get the time and updates the states."""
 
