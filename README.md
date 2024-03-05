@@ -36,5 +36,6 @@ In the same way on [Measuements with a T](docs/measurement_T.md#temperatuur-oppe
 
 ## Known limitations
 
+ - The integration does not work properly for pre-2023.9-versions of Home Assistant.
  - This integration is translated into English and Dutch, the entity names and the data (from the API) are only available in Dutch.
  - Sometimes the Rijkswaterstaat site is down for inexplicable reasons. At that moment, creating new sensors is impossible and sensors that have already exist will not be updated.
