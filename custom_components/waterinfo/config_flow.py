@@ -1,30 +1,21 @@
 """Config flow for RWS waterinfo integration."""
+
 from __future__ import annotations
 
 import logging
 from typing import Any
 
+import ddlpy
 import voluptuous as vol
 
-from homeassistant import config_entries
+from homeassistant.config_entries import ConfigFlow
 from homeassistant.core import HomeAssistant
 from homeassistant.data_entry_flow import FlowResult
-from homeassistant.config_entries import ConfigFlow
 from homeassistant.exceptions import HomeAssistantError
 
-from .const import (
-    DOMAIN,
-    CONST_CODE,
-    CONST_MEASUREMENT_DESCR,
-    CONST_MEASUREMENT,
-    CONST_UNIT,
-    CONST_NAME,
-    CONST_X,
-    CONST_Y,
-    CONST_PROPERTY,
-)
-
-import ddlpy2
+from .const import (CONST_CODE, CONST_MEASUREMENT, CONST_MEASUREMENT_DESCR,
+                    CONST_NAME, CONST_PROPERTY, CONST_UNIT, CONST_X, CONST_Y,
+                    DOMAIN)
 
 _LOGGER = logging.getLogger(__name__)
 
@@ -37,48 +28,39 @@ async def validate_input(hass: HomeAssistant, data: dict[str, Any]) -> dict[str,
 
     return data
 
-    # if not await hub.authenticate(data["username"], data["password"]):
-    #    raise InvalidAuth
-
-    # If you cannot connect:
-    # throw CannotConnect
-    # If the authentication is wrong:
-    # InvalidAuth
-
-    # Return info that you want to store in the config entry.
-    # return data
-
 
 def validate_location(data) -> dict:
-    locations = ddlpy2.locations()
+    """Validate the user given location and measurement."""
+
+    locations = ddlpy.locations()
     selected = locations[locations.index == data[CONST_CODE]]
-    if selected.empty == True:
+    if selected.empty:
         _LOGGER.error("Location %s does not exist", data[CONST_CODE])
         raise ValueError(f"{data[CONST_CODE]} is geen bestaand station")
-        return
 
     selected = selected[
         (selected["Grootheid.Code"] == data[CONST_MEASUREMENT])
     ].reset_index()
-    if selected.empty == True:
+    if selected.empty:
         _LOGGER.error(
             "Measurements %s does not exist for %s",
             data[CONST_MEASUREMENT],
             data[CONST_CODE],
         )
         raise ValueError(f"{data[CONST_MEASUREMENT]} is geen bestaande meetwaarde")
-        return
 
     selected_location = selected.loc[0]
 
-    # data[CONST_CODE] = selected_location["Code"]
-    # data[CONST_MEASUREMENT] = selected_location["Grootheid.Code"]
     data[CONST_MEASUREMENT_DESCR] = selected_location["Grootheid.Omschrijving"]
     data[CONST_NAME] = selected_location["Naam"]
     data[CONST_UNIT] = selected_location["Eenheid.Code"]
     data[CONST_X] = selected_location["X"]
     data[CONST_Y] = selected_location["Y"]
     data[CONST_PROPERTY] = selected_location["Hoedanigheid.Code"]
+
+    # data[] = selected_location["Coordinatenstelsel"]
+    # data[] = selected_location["Naam"]
+    # data[] = selected_location["Parameter_Wat_Omschrijving"]
 
     # Code -> CONST_CODE
     # X -> CONST_X
@@ -130,10 +112,6 @@ class WaterinfoFlowHandler(ConfigFlow, domain=DOMAIN):
                 }
             ),
         )
-
-
-class CannotConnect(HomeAssistantError):
-    """Error to indicate we cannot connect."""
 
 
 class InvalidAuth(HomeAssistantError):

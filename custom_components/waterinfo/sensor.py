@@ -1,32 +1,24 @@
 """Sensor for Rijkswaterstaat WaterInfo integration."""
+
 from __future__ import annotations
+
 import logging
 from datetime import timedelta
 
-from homeassistant.components.sensor import (
-    SensorDeviceClass,
-    SensorEntity,
-    SensorStateClass,
-)
+import ddlpy
+import pandas as pd
+
+from homeassistant.components.sensor import (SensorDeviceClass, SensorEntity,
+                                             SensorStateClass)
 from homeassistant.config_entries import ConfigEntry
 from homeassistant.core import HomeAssistant
 from homeassistant.helpers.device_registry import DeviceEntryType, DeviceInfo
 from homeassistant.helpers.entity_platform import AddEntitiesCallback
 from homeassistant.helpers.typing import ConfigType, DiscoveryInfoType
 
-from .const import (
-    DOMAIN,
-    CONST_CODE,
-    CONST_MEASUREMENT_DESCR,
-    CONST_MEASUREMENT,
-    CONST_UNIT,
-    CONST_NAME,
-    CONST_X,
-    CONST_Y,
-    CONST_PROPERTY,
-)
-
-import ddlpy2
+from .const import (CONST_CODE, CONST_MEASUREMENT, CONST_MEASUREMENT_DESCR,
+                    CONST_NAME, CONST_PROPERTY, CONST_UNIT, CONST_X, CONST_Y,
+                    DOMAIN)
 
 _LOGGER = logging.getLogger(__name__)
 
@@ -64,7 +56,7 @@ class WaterInfoSensor(SensorEntity):
     _attr_has_entity_name = True
     _attr_translation_key = "waterinfo"
 
-    def __init__(self, client: Waterinfo, entry: ConfigEntry) -> None:
+    def __init__(self, client: WaterInfoSensor, entry: ConfigEntry) -> None:
         """Initialize a Waterinfo device."""
 
         # Code -> _code -> CONST_CODE
@@ -106,7 +98,7 @@ class WaterInfoSensor(SensorEntity):
 
         self._attr_device_info = DeviceInfo(
             identifiers={(DOMAIN, f"{entry.entry_id}")},
-            name=DOMAIN + "_" + entry.data[CONST_NAME],
+            name=entry.data[CONST_NAME],
             entry_type=DeviceEntryType.SERVICE,
         )
 
@@ -122,14 +114,19 @@ class WaterInfoSensor(SensorEntity):
         #
         # Grootheid.Omschrijving -> CONST_MEASUREMENT_DESCR
 
-        location = {
+        selected = {
             "Eenheid.Code": self._unit,
             "Grootheid.Code": self._grootheid,
             "Hoedanigheid.Code": self._property,
             "Code": self._code,
             "X": self._X,
             "Y": self._Y,
+            "Coordinatenstelsel": "weg",
+            "Naam": "weg",
+            "Parameter_Wat_Omschrijving": "weg",
         }
+
+        location = pd.Series(selected)
 
         await self.hass.async_add_executor_job(collectObservation, location)
 
@@ -141,14 +138,16 @@ class WaterInfoSensor(SensorEntity):
 
 
 def collectObservation(data) -> dict:
-    observation = ddlpy2.last_observation(data)
+    """Collect last measurement for given location/measurement."""
+
+    observation = ddlpy.measurements_latest(data)
 
     if "Meetwaarde.Waarde_Numeriek" in observation.columns:
-        meetwaarde = observation["Meetwaarde.Waarde_Numeriek"][0]
+        meetwaarde = observation["Meetwaarde.Waarde_Numeriek"].iloc[0]
     else:
-        meetwaarde = observation["Meetwaarde.Waarde_Alfanumeriek"][0]
+        meetwaarde = observation["Meetwaarde.Waarde_Alfanumeriek"].iloc[0]
 
     data["observation"] = meetwaarde
-    data["tijdstip"] = observation["Tijdstip"][0]
+    data["tijdstip"] = observation["Tijdstip"].iloc[0]
 
     return data
