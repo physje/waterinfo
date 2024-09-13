@@ -4,77 +4,6 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 
 # Measurements with the letter S #
 
-## Stroomsnelheid Oppervlaktewater m/s ##
-measurement-code : STROOMSHD
-
-|Location|location-code|
-|---|---|
-|Alblasserdam|ALBL|
-|Buitenbanken west|BUBW|
-|Bunde|BUND|
-|Driel boven|DRIB|
-|Duivelseiland 000|DU000|
-|Duivelseiland 015|DU015|
-|Duivelseiland 030|DU030|
-|Duivelseiland 045|DU045|
-|Duivelseiland 060|DU060|
-|Duivelseiland 075|DU075|
-|Duivelseiland 090|DU090|
-|Duivelseiland  105|DU105|
-|Duivelseiland  120|DU120|
-|Duivelseiland  135|DU135|
-|Duivelseiland  150|DU150|
-|Duivelseiland  165|DU165|
-|Duivelseiland  180|DU180|
-|Duivelseiland  195|DU195|
-|Duivelseiland  210|DU210|
-|Duivelseiland  225|DU225|
-|Duivelseiland  240|DU240|
-|Duivelseiland  255|DU255|
-|Duivelseiland  270|DU270|
-|Duivelseiland  285|DU285|
-|Duivelseiland  300|DU300|
-|Eemdijk|EEMDK|
-|Genemuiden|GENE|
-|Hagestein boven|HAGB|
-|Loozen|LOOZ|
-|Maarssen|MAAR|
-|Megen|MEGE|
-|Meppelerdiep km 2.5|MEP25|
-|Monding Nieuwe Haven|MNHV|
-|Moerdijkbrug 000|MO000|
-|Moerdijkbrug 015|MO015|
-|Moerdijkbrug 030|MO030|
-|Moerdijkbrug 045|MO045|
-|Moerdijkbrug 060|MO060|
-|Moerdijkbrug 075|MO075|
-|Moerdijkbrug 090|MO090|
-|Moerdijkbrug 105|MO105|
-|Moerdijkbrug 120|MO120|
-|Moerdijkbrug 135|MO135|
-|Moerdijkbrug 150|MO150|
-|Moerdijkbrug 165|MO165|
-|Moerdijkbrug 180|MO180|
-|Moerdijkbrug 195|MO195|
-|Moerdijkbrug 210|MO210|
-|Moerdijkbrug 225|MO225|
-|Moerdijkbrug 240|MO240|
-|Moerdijkbrug 255|MO255|
-|Moerdijkbrug 270|MO270|
-|Moerdijkbrug 285|MO285|
-|Moerdijkbrug 300|MO300|
-|Nieuwegein|NWGN|
-|Ommen Hesselmulertbrug|OMMH|
-|Ommen Ommerkanaal|OMMK|
-|Schouwenbank Stroomgat|SCHS|
-|Smeermaas|SMEE|
-|Spijkenisserbrug West|SPBR|
-|Stroommeetpaal Eemshaven|SPE|
-|IJgeul stroommeetpaal|SPY|
-|Weesp|WEES|
-|Wieldrecht|WIED|
-
-
 ## Saliniteit Oppervlaktewater  ##
 measurement-code : SALNTT
 
@@ -92,7 +21,6 @@ measurement-code : SALNTT
 |Bommenede 1 (o)|BOM1o|
 |Diemen (NAP -1.4m)|DIE14|
 |Diemen (NAP -6.5m)|DIE65|
-|Rotterdamse hoek|FL02|
 |Friese kust|FL09|
 |Andijk|FL38|
 |Wieringen Oost|FL48|
@@ -166,6 +94,8 @@ measurement-code : SALNTT
 |Schellingw.brug NAP -2.8m|SWB28|
 |Terneuzen Westsluis ZZ (b|TWZZb|
 |Terneuzen Westsluis ZZ (o|TWZZo|
+|Trintelzand boven|TZNDb|
+|Trintelzand onder|TZNDo|
 |Velserkom b WS3 -1|VLSKb|
 |Velserkom m WS3 -6|VLSKm|
 |Velserkom o WS3 -8|VLSKo|
@@ -206,6 +136,9 @@ measurement-code : STROOMRTG
 |Duivelseiland  270|DU270|
 |Duivelseiland  285|DU285|
 |Duivelseiland  300|DU300|
+|HKZ Windpark Noord|HKZWN|
+|HKZ Windpark Zuid|HKZWZ|
+|Haringvlietsluizen buiten|HVBU|
 |Monding Nieuwe Haven|MNHV|
 |Moerdijkbrug 000|MO000|
 |Moerdijkbrug 015|MO015|
@@ -228,11 +161,85 @@ measurement-code : STROOMRTG
 |Moerdijkbrug 270|MO270|
 |Moerdijkbrug 285|MO285|
 |Moerdijkbrug 300|MO300|
-|Schouwenbank Stroomgat|SCHS|
+|Schaar Stroomgat|SCHS|
 |Stroommeetpaal Eemshaven|SPE|
 |IJgeul stroommeetpaal|SPY|
+|IJgeul SMP 2 (bus)|SPY2|
+
+
+## Stroomsnelheid Oppervlaktewater m/s ##
+measurement-code : STROOMSHD
+
+|Location|location-code|
+|---|---|
+|Buitenbanken west|BUBW|
+|Bunde|BUND|
+|Driel boven|DRIB|
+|Duivelseiland 000|DU000|
+|Duivelseiland 015|DU015|
+|Duivelseiland 030|DU030|
+|Duivelseiland 045|DU045|
+|Duivelseiland 060|DU060|
+|Duivelseiland 075|DU075|
+|Duivelseiland 090|DU090|
+|Duivelseiland  105|DU105|
+|Duivelseiland  120|DU120|
+|Duivelseiland  135|DU135|
+|Duivelseiland  150|DU150|
+|Duivelseiland  165|DU165|
+|Duivelseiland  180|DU180|
+|Duivelseiland  195|DU195|
+|Duivelseiland  210|DU210|
+|Duivelseiland  225|DU225|
+|Duivelseiland  240|DU240|
+|Duivelseiland  255|DU255|
+|Duivelseiland  270|DU270|
+|Duivelseiland  285|DU285|
+|Duivelseiland  300|DU300|
+|Eemdijk|EEMDK|
+|Genemuiden|GENE|
+|Hagestein boven|HAGB|
+|HKZ Windpark Noord|HKZWN|
+|HKZ Windpark Zuid|HKZWZ|
+|Haringvlietsluizen buiten|HVBU|
+|Loozen|LOOZ|
+|Maarssen|MAAR|
+|Megen|MEGE|
+|Meppelerdiep km 2.5|MEP25|
+|Monding Nieuwe Haven|MNHV|
+|Moerdijkbrug 000|MO000|
+|Moerdijkbrug 015|MO015|
+|Moerdijkbrug 030|MO030|
+|Moerdijkbrug 045|MO045|
+|Moerdijkbrug 060|MO060|
+|Moerdijkbrug 075|MO075|
+|Moerdijkbrug 090|MO090|
+|Moerdijkbrug 105|MO105|
+|Moerdijkbrug 120|MO120|
+|Moerdijkbrug 135|MO135|
+|Moerdijkbrug 150|MO150|
+|Moerdijkbrug 165|MO165|
+|Moerdijkbrug 180|MO180|
+|Moerdijkbrug 195|MO195|
+|Moerdijkbrug 210|MO210|
+|Moerdijkbrug 225|MO225|
+|Moerdijkbrug 240|MO240|
+|Moerdijkbrug 255|MO255|
+|Moerdijkbrug 270|MO270|
+|Moerdijkbrug 285|MO285|
+|Moerdijkbrug 300|MO300|
+|Nieuwegein|NWGN|
+|Ommen Hesselmulertbrug|OMMH|
+|Schaar Stroomgat|SCHS|
+|Smeermaas|SMEE|
+|Spijkenisserbrug West|SPBR|
+|Stroommeetpaal Eemshaven|SPE|
+|IJgeul stroommeetpaal|SPY|
+|IJgeul SMP 2 (bus)|SPY2|
+|Weesp|WEES|
+|Wieldrecht|WIED|
 
 
 
 
-_generated on 06-12-2023_
+_generated on 13-09-2024_

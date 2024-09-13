@@ -5,16 +5,13 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 # Locations with the letter A #
 
 
-## A12 platform ##
+## Platform A12 ##
 location-code : A12
 
 |Measurement|measurement-code|
 |---|---|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
 |Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm|WATHTBRKD|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
 
 ## Schijndelse loop ##
 location-code : AA03
@@ -23,19 +20,18 @@ location-code : AA03
 |---|---|
 |Debiet Oppervlaktewater m3/s|Q|
 
-## Alblasserdam ##
-location-code : ALBL
+## Aberdeen ##
+location-code : ABDN
 
 |Measurement|measurement-code|
 |---|---|
-|Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
 
 ## Almen ##
 location-code : ALME
 
 |Measurement|measurement-code|
 |---|---|
-|Debiet Oppervlaktewater m3/s|Q|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 
 ## Amaliahaven ##
@@ -79,10 +75,10 @@ location-code : ANKAb
 
 |Measurement|measurement-code|
 |---|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |Saliniteit Oppervlaktewater |SALNTT|
 |Temperatuur Oppervlaktewater oC|T|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 
 ## Antwerps kanaalpand (o) ##
 location-code : ANKAo
@@ -90,8 +86,8 @@ location-code : ANKAo
 |Measurement|measurement-code|
 |---|---|
 |Saliniteit Oppervlaktewater |SALNTT|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |Temperatuur Oppervlaktewater oC|T|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 
 ## Antwerpen ##
@@ -114,19 +110,21 @@ location-code : AWG
 
 |Measurement|measurement-code|
 |---|---|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
-|Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm|WATHTE|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
 |Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
 |Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
+|Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm|WATHTE|
+|Luchtdruk Lucht hPa|LUCHTDK|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
+|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
 |Temperatuur Lucht oC|T|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
 
 ## Amelander Westgat platform ##
 location-code : AWGPFM
@@ -136,4 +134,4 @@ location-code : AWGPFM
 |Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm|WATHTBRKD|
 
 
-_generated on 06-12-2023_
+_generated on 13-09-2024_

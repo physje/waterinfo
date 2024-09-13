@@ -24,11 +24,18 @@ location-code : VENL
 
 |Measurement|measurement-code|
 |---|---|
-|Debiet Oppervlaktewater m3/s|Q|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Debiet Oppervlaktewater m3/s|Q|
 
 ## Volkerakgat 2 ##
 location-code : VG02
+
+|Measurement|measurement-code|
+|---|---|
+|Debiet Oppervlaktewater m3/s|Q|
+
+## Volkerakgat 3 ##
+location-code : VG03
 
 |Measurement|measurement-code|
 |---|---|
@@ -46,8 +53,8 @@ location-code : VKb
 
 |Measurement|measurement-code|
 |---|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Temperatuur Oppervlaktewater oC|T|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
 
 ## Volkerak Galathee (o) ##
@@ -64,6 +71,7 @@ location-code : VLAA
 
 |Measurement|measurement-code|
 |---|---|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 
 ## Vlaardingen ##
@@ -85,8 +93,8 @@ location-code : VLI1
 
 |Measurement|measurement-code|
 |---|---|
-|Temperatuur Lucht oC|T|
 |Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
+|Temperatuur Lucht oC|T|
 |Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
 
 ## Vlieland haven ##
@@ -94,6 +102,7 @@ location-code : VLIE
 
 |Measurement|measurement-code|
 |---|---|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 
 ## Vlieland haven ##
@@ -108,10 +117,11 @@ location-code : VLIS
 
 |Measurement|measurement-code|
 |---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 |Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
 |Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
-|Temperatuur Lucht oC|T|
+|Temperatuur Oppervlaktewater oC|T|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
 
 ## Vlissingen ##
 location-code : VLISSGN
@@ -125,10 +135,10 @@ location-code : VLSKb
 
 |Measurement|measurement-code|
 |---|---|
-|Temperatuur Oppervlaktewater oC|T|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Saliniteit Oppervlaktewater |SALNTT|
+|Temperatuur Oppervlaktewater oC|T|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
 
 ## Velserkom m WS3 -6 ##
 location-code : VLSKm
@@ -145,10 +155,10 @@ location-code : VLSKo
 
 |Measurement|measurement-code|
 |---|---|
-|Temperatuur Oppervlaktewater oC|T|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
-|Saliniteit Oppervlaktewater |SALNTT|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Temperatuur Oppervlaktewater oC|T|
+|Saliniteit Oppervlaktewater |SALNTT|
 
 ## VM3 Zandkreeksluis ##
 location-code : VM3
@@ -169,20 +179,20 @@ location-code : VM4b
 
 |Measurement|measurement-code|
 |---|---|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |Saliniteit Oppervlaktewater |SALNTT|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Temperatuur Oppervlaktewater oC|T|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 
 ## VM4 Oranjeplaat (o) ##
 location-code : VM4o
 
 |Measurement|measurement-code|
 |---|---|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
-|Saliniteit Oppervlaktewater |SALNTT|
 |Temperatuur Oppervlaktewater oC|T|
+|Saliniteit Oppervlaktewater |SALNTT|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
 
 ## Veersemeer 5 Schotsman ##
 location-code : VM5
@@ -196,19 +206,19 @@ location-code : VM5b
 
 |Measurement|measurement-code|
 |---|---|
-|Saliniteit Oppervlaktewater |SALNTT|
-|Temperatuur Oppervlaktewater oC|T|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
+|Saliniteit Oppervlaktewater |SALNTT|
+|Temperatuur Oppervlaktewater oC|T|
 
 ## VM5 Schotsman (o) ##
 location-code : VM5o
 
 |Measurement|measurement-code|
 |---|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Temperatuur Oppervlaktewater oC|T|
 |Saliniteit Oppervlaktewater |SALNTT|
+|Temperatuur Oppervlaktewater oC|T|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
 
 ## Volkerak Noord (b) ##
@@ -216,18 +226,18 @@ location-code : VOLKb
 
 |Measurement|measurement-code|
 |---|---|
-|Temperatuur Oppervlaktewater oC|T|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Temperatuur Oppervlaktewater oC|T|
 
 ## Volkerak Noord (o) ##
 location-code : VOLKo
 
 |Measurement|measurement-code|
 |---|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
 |Temperatuur Oppervlaktewater oC|T|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 
 ## Vossenbeemd Helmond ##
 location-code : VOSB
@@ -249,28 +259,29 @@ location-code : VOSMb
 |Measurement|measurement-code|
 |---|---|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |Temperatuur Oppervlaktewater oC|T|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
 
 ## Nieuw Vossemeer (o) ##
 location-code : VOSMo
 
 |Measurement|measurement-code|
 |---|---|
+|Temperatuur Oppervlaktewater oC|T|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
-|Temperatuur Oppervlaktewater oC|T|
 
 ## Vlakte v/d Raan ##
 location-code : VR
 
 |Measurement|measurement-code|
 |---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 |10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
 |Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
 |Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 
 ## Vlakte v/d Raan (b) ##
 location-code : VRb
@@ -278,6 +289,7 @@ location-code : VRb
 |Measurement|measurement-code|
 |---|---|
 |Temperatuur Oppervlaktewater oC|T|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |Saliniteit Oppervlaktewater |SALNTT|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 
@@ -286,9 +298,10 @@ location-code : VRo
 
 |Measurement|measurement-code|
 |---|---|
-|Temperatuur Oppervlaktewater oC|T|
 |Saliniteit Oppervlaktewater |SALNTT|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Temperatuur Oppervlaktewater oC|T|
 
 ## Vuren ##
 location-code : VURE
@@ -296,6 +309,7 @@ location-code : VURE
 |Measurement|measurement-code|
 |---|---|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
 
 ## Vuren ##
 location-code : VURN
@@ -312,4 +326,4 @@ location-code : VZNG
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 
 
-_generated on 06-12-2023_
+_generated on 13-09-2024_

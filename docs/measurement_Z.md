@@ -11,9 +11,12 @@ measurement-code : ZICHT
 |---|---|
 |Bath|BATH|
 |Borssele Alpha|BSA|
-|D15 platform|D15|
+|Platform D15-A|D15|
 |Europlatform|EPL|
+|Europlatform 2|EPL2|
 |F3 platform|F3|
+|Hollandse Kust Noord|HKN|
+|Hollandse Kust West Alpha|HKWA|
 |Platform HKZA|HKZA|
 |J6 platform|J6|
 |Kaapduinen|KADU|
@@ -34,4 +37,4 @@ measurement-code : ZICHT
 
 
 
-_generated on 06-12-2023_
+_generated on 13-09-2024_

@@ -4,256 +4,42 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 
 # Measurements with the letter W #
 
-## Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s ##
-measurement-code : WINDSTOOT
-
-|Location|location-code|
-|---|---|
-|A12 platform|A12|
-|AWG platform|AWG|
-|Bergsediepsluis wind|BDWI|
-|Brouwershavense Gat 2|BG2|
-|Borssele Alpha|BSA|
-|Cadzand wind|CAWI|
-|D15 platform|D15|
-|Europlatform|EPL|
-|Europlatform 2|EPL2|
-|F3 platform|F3|
-|Rotterdamse hoek|FL02|
-|Grevelingensluis wind|GRWI|
-|Hansweert wind|HAWI|
-|Platform HKZA 1|HKZA1|
-|Platform HKZA 2|HKZA2|
-|Huibertgat|HUIB|
-|Haringvlietsluizen sch 1|HVS01|
-|IJmuiden Zuid havenhoofd|IJZ1|
-|J6 platform|J6|
-|K14 platform|K14|
-|Kats Zandkreeksluis|KATS|
-|L9 platform|L9|
-|Lichteiland Goeree|LEG|
-|Lage Licht|LGL1|
-|Maeslantkering geleidetor|MLKZ|
-|Nes|NES|
-|Oosterschelde 4|OS4|
-|P11 platform|P11|
-|Stroommeetpaal Eemshaven|SPE|
-|IJgeul stroommeetpaal|SPY|
-|Stavenisse|STAV|
-|Terschelling Noordzee|TERS|
-|Terneuzen Westsluis|TNWS|
-|Uithuizerwad|UHWD|
-|Vlakte v/d Raan|VR|
-|Wierumergronden|WIER|
-|Zeelandbrug wind|ZBWI|
-
-
-## Windrichting Lucht t.o.v. ware Noorden in graad ##
-measurement-code : WINDRTG
-
-|Location|location-code|
-|---|---|
-|A12 platform|A12|
-|AWG platform|AWG|
-|Bergsediepsluis wind|BDWI|
-|Berkhout|BERK|
-|Brouwershavense Gat 2|BG2|
-|Borssele Alpha|BSA|
-|Cadzand wind|CAWI|
-|D15 platform|D15|
-|De Kooy|DEKO|
-|Europlatform|EPL|
-|Europlatform 2|EPL2|
-|F3 platform|F3|
-|Rotterdamse hoek|FL02|
-|Markermeer Midden -o|FL42o|
-|Gannet platform 1|GAN1|
-|Grevelingensluis wind|GRWI|
-|Hansweert wind|HAWI|
-|Platform HKZA 1|HKZA1|
-|Platform HKZA 2|HKZA2|
-|Hoek van Holland|HOEK|
-|Hoorn Terschelling|HOTE|
-|Houtribdijk|HOUD|
-|Huibertgat|HUIB|
-|Haringvlietsluizen sch 1|HVS01|
-|IJmuiden Buitenhaven|IJMH|
-|IJmuiden Zuid havenhoofd|IJZ1|
-|J6 platform|J6|
-|K13 Alpha|K13|
-|K14 platform|K14|
-|Kats Zandkreeksluis|KATS|
-|Lauwersoog|LAUW|
-|Lichteiland Goeree|LEG|
-|Lage Licht|LGL1|
-|Marknesse|MARK|
-|Maeslantkering geleidetor|MLKZ|
-|Marollegat|MRG|
-|North Cormorant|NC1|
-|Nes|NES|
-|Nieuw Beerta|NIBE|
-|Nelson platform1|NLS1|
-|Oosterschelde 4|OS4|
-|P11 platform|P11|
-|Rotterdam Luchthaven|ROT1|
-|Rotterdam Geulhaven|ROT2|
-|Geulhaven Radarpost 10|RP10|
-|Stroommeetpaal Eemshaven|SPE|
-|IJgeul stroommeetpaal|SPY|
-|Stavenisse|STAV|
-|Stavoren|STVO|
-|Texelhors|TEHO|
-|Terschelling Noordzee|TERS|
-|Terneuzen Westsluis|TNWS|
-|Trintelzand|TZND|
-|Uithuizerwad|UHWD|
-|Vlieland|VLI1|
-|Vlissingen|VLIS|
-|Vlakte v/d Raan|VR|
-|Wierumergronden|WIER|
-|Wijdenes|WIJD|
-|Wilhelminadorp|WILH|
-|Zeelandbrug wind|ZBWI|
-
-
-## Windsnelheid Lucht t.o.v. Mean Sea Level in m/s ##
-measurement-code : WINDSHD
-
-|Location|location-code|
-|---|---|
-|A12 platform|A12|
-|AWG platform|AWG|
-|Bergsediepsluis wind|BDWI|
-|Berkhout|BERK|
-|Brouwershavense Gat 2|BG2|
-|Borssele Alpha|BSA|
-|Cadzand wind|CAWI|
-|D15 platform|D15|
-|De Kooy|DEKO|
-|Europlatform|EPL|
-|Europlatform 2|EPL2|
-|F3 platform|F3|
-|Rotterdamse hoek|FL02|
-|Markermeer Midden -o|FL42o|
-|Gannet platform 1|GAN1|
-|Grevelingensluis wind|GRWI|
-|Hansweert wind|HAWI|
-|Platform HKZA 1|HKZA1|
-|Platform HKZA 2|HKZA2|
-|Hoek van Holland|HOEK|
-|Hoorn Terschelling|HOTE|
-|Houtribdijk|HOUD|
-|Huibertgat|HUIB|
-|Haringvlietsluizen sch 1|HVS01|
-|IJmuiden Buitenhaven|IJMH|
-|IJmuiden Zuid havenhoofd|IJZ1|
-|J6 platform|J6|
-|K14 platform|K14|
-|Kats Zandkreeksluis|KATS|
-|L9 platform|L9|
-|Lauwersoog|LAUW|
-|Lichteiland Goeree|LEG|
-|Lage Licht|LGL1|
-|Marknesse|MARK|
-|Maeslantkering geleidetor|MLKZ|
-|Marollegat|MRG|
-|North Cormorant|NC1|
-|Nes|NES|
-|Nieuw Beerta|NIBE|
-|Nelson platform1|NLS1|
-|Oosterschelde 4|OS4|
-|P11 platform|P11|
-|Rotterdam Luchthaven|ROT1|
-|Rotterdam Geulhaven|ROT2|
-|Geulhaven Radarpost 10|RP10|
-|Stroommeetpaal Eemshaven|SPE|
-|IJgeul stroommeetpaal|SPY|
-|Stavenisse|STAV|
-|Stavoren|STVO|
-|Texelhors|TEHO|
-|Terschelling Noordzee|TERS|
-|Terneuzen Westsluis|TNWS|
-|Trintelzand|TZND|
-|Uithuizerwad|UHWD|
-|Vlieland|VLI1|
-|Vlissingen|VLIS|
-|Vlakte v/d Raan|VR|
-|Wierumergronden|WIER|
-|Wijdenes|WIJD|
-|Wilhelminadorp|WILH|
-|Zeelandbrug wind|ZBWI|
-
-
-## 10' scalair genmiddelde van de windsnelheid Lucht m/s ##
-measurement-code : WS10
-
-|Location|location-code|
-|---|---|
-|A12 platform|A12|
-|AWG platform|AWG|
-|Bergsediepsluis wind|BDWI|
-|Brouwershavense Gat 2|BG2|
-|Borssele Alpha|BSA|
-|Cadzand wind|CAWI|
-|D15 platform|D15|
-|Europlatform|EPL|
-|F3 platform|F3|
-|Rotterdamse hoek|FL02|
-|Grevelingensluis wind|GRWI|
-|Hansweert wind|HAWI|
-|Platform HKZA 1|HKZA1|
-|Platform HKZA 2|HKZA2|
-|Huibertgat|HUIB|
-|Haringvlietsluizen sch 1|HVS01|
-|IJmuiden Zuid havenhoofd|IJZ1|
-|J6 platform|J6|
-|K14 platform|K14|
-|Kats Zandkreeksluis|KATS|
-|L9 platform|L9|
-|Lichteiland Goeree|LEG|
-|Lage Licht|LGL1|
-|Maeslantkering geleidetor|MLKZ|
-|Marollegat|MRG|
-|Nes|NES|
-|Oosterschelde 4|OS4|
-|P11 platform|P11|
-|Stroommeetpaal Eemshaven|SPE|
-|IJgeul stroommeetpaal|SPY|
-|Stavenisse|STAV|
-|Terschelling Noordzee|TERS|
-|Terneuzen Westsluis|TNWS|
-|Uithuizerwad|UHWD|
-|Vlakte v/d Raan|VR|
-|Wierumergronden|WIER|
-|Zeelandbrug wind|ZBWI|
-
-
 ## Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm ##
 measurement-code : WATHTBRKD
 
 |Location|location-code|
 |---|---|
-|A12 platform|A12|
+|Platform A12|A12|
+|Aberdeen|ABDN|
 |Amaliahaven|AMLAHVN|
 |Amelander Westgat platform|AWGPFM|
 |Baalhoek|BAALHK|
 |Bath|BATH|
 |Bergse Diepsluis west|BERGSDSWT|
+|Borkum Fischerbalje|BORKFSBJE|
+|Bournemouth|BOURNMH|
 |Breskens Veerhaven|BRESKVHVN|
 |Brouwershavensche Gat, punt 02|BROUWHVSGT02|
 |Brouwershavensche Gat 08|BROUWHVSGT08|
 |Cadzand|CADZD|
-|D15 platform|D15|
+|Cromer|CROMR|
+|Cuxhaven|CUXHVN|
+|Platform D15-A|D15|
 |Delfzijl|DELFZL|
 |Den Helder|DENHDR|
 |Den Oever buiten|DENOVBTN|
+|Devonport|DEVPT|
 |Dordrecht|DORDT|
+|Dover|DOVR|
+|Dukegat|DUKGT|
 |Eemhaven|EEMHVN|
 |Eemshaven|EEMSHVN|
 |Euro platform|EURPFM|
 |Europahaven|EURPHVN|
 |Platform F16-A|F16|
 |F3 platform|F3PFM|
+|Felixstowe|FELSWE|
+|Fishguard|FISHGD|
 |Gat van Borssele|GATVBSLE|
 |Geulhaven|GEULHVN|
 |Goidschalxoord|GOIDSOD|
@@ -272,32 +58,42 @@ measurement-code : WATHTBRKD
 |Huibertgat|HUIBGT|
 |IJmuiden buitenhaven|IJMDBTHVN|
 |IJmuiden stroommeetpaal|IJMDSMPL|
+|Immingham|IMMHM|
 |J6 platform|J6|
 |K13a platform|K13APFM|
 |K14 platform|K14PFM|
 |Kats buiten|KATSBTN|
 |Keizersveer|KEIZVR|
+|Kinlochbervie|KINLBVE|
+|Knock|KNOCK|
 |Kornwerderzand buiten|KORNWDZBTN|
 |Krammersluizen west|KRAMMSZWT|
 |Krimpen a/d IJssel|KRIMPADIJSL|
 |Krimpen a/d Lek|KRIMPADLK|
 |L9 platform|L9PFM|
 |Lauwersoog|LAUWOG|
+|Leith|LEITH|
 |Lichteiland Goeree|LICHTELGRE|
 |Lith dorp|LITHDP|
-|Maassluis|MAASSS|
+|Llandudno|LLANDNO|
+|Lowestoft|LOWST|
 |Maeslantkering zeezijde|MAESLKRZZDE|
 |Marollegat|MARLGT|
 |Moerdijk|MOERDK|
 |Nes|NES|
+|Newhaven|NEWHVN|
+|Newlyn|NEWLN|
 |Nieuwe Statenzijl|NIEUWSTZL|
 |North Cormorant|NORTHCMRT|
+|North Shields|NORTHSS|
 |Oosterschelde 04|OOSTSDE04|
 |Oosterschelde 11|OOSTSDE11|
 |Oosterschelde 14|OOSTSDE14|
 |Oudeschild|OUDSD|
 |Overloop van Hansweert|OVLVHWT|
 |Parksluis|PARKSS|
+|Pogum|POGM|
+|Portsmouth|PORTSMH|
 |Platform Hoorn Q1-A|Q1|
 |Rak noord|RAKND|
 |Roompot binnen|ROOMPBNN|
@@ -309,10 +105,12 @@ measurement-code : WATHTBRKD
 |Scheveningen|SCHEVNGN|
 |Schiermonnikoog|SCHIERMNOG|
 |Schoonhoven|SCHOONHVN|
+|Sheerness|SHEERNS|
 |Sint Annaland Haven Steiger|SINTANLHVSGR|
 |Spijkenisse|SPIJKNSE|
 |Stavenisse|STAVNSE|
 |Stellendam buiten|STELLDBTN|
+|Stornoway|STORNWY|
 |Suurhofbrug noordzijde|SUURHBNZDE|
 |Tennesseehaven|TENNSHVN|
 |Terneuzen|TERNZN|
@@ -327,8 +125,55 @@ measurement-code : WATHTBRKD
 |Werkendam buiten|WERKDBTN|
 |Westkapelle|WESTKPLE|
 |West-Terschelling|WESTTSLG|
+|Weymouth|WEYMH|
+|Whitby|WHITBY|
+|Wick|WICK|
 |Wierumergronden|WIERMGDN|
 |Yerseke|YERSKE|
+
+
+## 10' scalair genmiddelde van de windsnelheid Lucht m/s ##
+measurement-code : WS10
+
+|Location|location-code|
+|---|---|
+|Platform A12|A12|
+|AWG platform|AWG|
+|Bergsediepsluis wind|BDWI|
+|Brouwershavense Gat 2|BG2|
+|Borssele Alpha|BSA|
+|Cadzand wind|CAWI|
+|Platform D15-A|D15|
+|Europlatform|EPL|
+|Rotterdamse hoek|FL02|
+|Grevelingensluis wind|GRWI|
+|Hansweert wind|HAWI|
+|Platform HKZA 1|HKZA1|
+|Platform HKZA 2|HKZA2|
+|Huibertgat|HUIB|
+|Haringvlietsluizen sch 1|HVS01|
+|IJmuiden Zuid havenhoofd|IJZ1|
+|J6 platform|J6|
+|K13 Alpha|K13|
+|K14 platform|K14|
+|Kats Zandkreeksluis|KATS|
+|L9 platform|L9|
+|Lichteiland Goeree|LEG|
+|Lage Licht|LGL1|
+|Maeslantkering geleidetor|MLKZ|
+|Marollegat|MRG|
+|Nes|NES|
+|Oosterschelde 4|OS4|
+|P11 platform|P11|
+|Stroommeetpaal Eemshaven|SPE|
+|IJgeul stroommeetpaal|SPY|
+|Stavenisse|STAV|
+|Terschelling Noordzee|TERS|
+|Terneuzen Westsluis|TNWS|
+|Uithuizerwad|UHWD|
+|Vlakte v/d Raan|VR|
+|Wierumergronden|WIER|
+|Zeelandbrug wind|ZBWI|
 
 
 ## Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm ##
@@ -345,7 +190,6 @@ measurement-code : WATHTE
 |Arnhem|ARNH|
 |AWG platform|AWG|
 |Baalhoek|BAAL|
-|Bath|BATH|
 |Bathse brug Deltanuts|BBDT|
 |Bergsediepsluis|BDSL|
 |Belfeld boven|BELB|
@@ -375,9 +219,7 @@ measurement-code : WATHTE
 |Cadzand|CADZ|
 |Geul Cotessen|COTS|
 |Crevecoeur|CREV|
-|Crevecoeur boven|CREVB|
 |Culemborg brug|CULB|
-|D15 platform|D15|
 |Delden boven|DELB|
 |Delden beneden|DELO|
 |Den Helder|DENH|
@@ -405,7 +247,6 @@ measurement-code : WATHTE
 |Eemshaven|EMSH|
 |Europlatform|EPL|
 |Europlatform 2|EPL2|
-|F3 platform|F3|
 |Rotterdamse hoek|FL02|
 |Markermeer Midden -o|FL42o|
 |Gaarkeuken Oost|GAKO|
@@ -433,13 +274,13 @@ measurement-code : WATHTE
 |Heel boven|HEEB|
 |Heel beneden|HEEO|
 |Heesbeen|HEES|
-|Hellevoetsluis|HELL|
 |Hengelo boven|HENB|
 |Hengelo Koppelleiding|HENK|
 |Hengelo beneden|HENO|
 |gemaal Hoogland buiten|HGLD|
 |Hintham boven|HHMB|
 |Hintham beneden|HHMO|
+|Hollandse Kust West Alpha|HKWA|
 |Platform HKZA|HKZA|
 |Hoek van Holland|HOEK|
 |Hollandse brug|HOLB|
@@ -456,6 +297,7 @@ measurement-code : WATHTE
 |IJmuiden Noordersluis O|IJMO|
 |IJmuiden Noordersluis W|IJMW|
 |IJsselkop|IJSS|
+|J6 platform|J6|
 |K13 Alpha|K13|
 |K14 platform|K14|
 |Kadoelen|KADL|
@@ -473,6 +315,8 @@ measurement-code : WATHTE
 |Sas van Gent|KGTS|
 |Kornwerderzand binnen|KOBI|
 |Kornwerderzand buiten|KOBU|
+|Kornwerderzand buiten zui|KOBU1|
+|Kornwerderzand buiten noo|KOBU2|
 |Krabbersgat Noord|KRAN|
 |Krabbersgat Zuid|KRAZ|
 |Krimpen a/d Lek|KRIL|
@@ -480,7 +324,6 @@ measurement-code : WATHTE
 |Krammersluizen West|KRSL|
 |Kleine Zalm|KZLM|
 |L9 platform|L9|
-|Lanaken|LANAK|
 |Lauwersoog|LAUW|
 |Lemmer Boezem|LBOE|
 |Lichteiland Goeree|LEG|
@@ -491,7 +334,6 @@ measurement-code : WATHTE
 |Lith boven|LITB|
 |Lith Dorp|LITO|
 |Inlaat Landsweijer|LNDW|
-|Lobith Haven|LOBH|
 |Lobith|LOBI|
 |Looveer Huissen|LOOV|
 |Loozen|LOOZ|
@@ -511,7 +353,6 @@ measurement-code : WATHTE
 |Marollegat|MRG|
 |Mauriksewetering|MRSW|
 |North Cormorant|NC1|
-|Neer|NEER|
 |Negenoord-Oost|NEGO|
 |Negenoord-West|NEGW|
 |Nes|NES|
@@ -524,10 +365,10 @@ measurement-code : WATHTE
 |Nieuwe Statenzijl|NWST|
 |Den Oever binnen|OEBI|
 |Den Oever buiten|OEBU|
+|Olst|OLST|
 |Ommen Hesselmulertbrug|OMMH|
 |Ommen Ommerkanaal|OMMK|
 |Oostersluis|OOSS|
-|Oosterschelde 11|OS11|
 |Oosterschelde 11 (b)|OS11b|
 |Oosterschelde 14|OS14|
 |Oosterschelde 4|OS4|
@@ -542,13 +383,13 @@ measurement-code : WATHTE
 |Ramspolkering Ketelmeerzi|RAMK|
 |Ramspolbrug|RAMS|
 |Roermond boven|ROER|
-|Roggebotsluis Zuid|ROGZ|
 |Rotterdam|ROTT|
 |Geulhaven Radarpost 10|RP10|
 |Roompot binnen (SVKO)|RPBI|
 |Roompot buiten (SVKO)|RPBU|
 |Roompotsluis (SVKO)|RPSL|
 |Rotem Maas|RTEM|
+|Rotem Bichterweerd|RTMB|
 |Reevesluis noord|RVN|
 |Reevesluis zuid|RVZ|
 |Sluis 4 boven|S04B|
@@ -624,6 +465,7 @@ measurement-code : WATHTE
 |Terherne Boezem Westzijde|THBW|
 |Tiel Kanaal|TIEK|
 |Tiel Waal|TIEW|
+|t Kooike|TKKE|
 |Inlaat Teersesluispolder|TPOL|
 |Breda Trambrug|TRMB|
 |Terneuzen Westsluis ZZ|TWZZ|
@@ -647,7 +489,6 @@ measurement-code : WATHTE
 |Vogelenzang|VZNG|
 |Walsoorden|WALS|
 |Weesp|WEES|
-|Well Dorp|WELL|
 |Werkendam buiten|WERK|
 |Westervoort IJsseldijkerw|WESTV|
 |Inlaat Weurt|WEUR|
@@ -665,6 +506,262 @@ measurement-code : WATHTE
 |Zwartsluis buiten|ZWBU|
 
 
+## Windsnelheid Lucht t.o.v. Mean Sea Level in m/s ##
+measurement-code : WINDSHD
+
+|Location|location-code|
+|---|---|
+|AWG platform|AWG|
+|Bergsediepsluis wind|BDWI|
+|Berkhout|BERK|
+|Brouwershavense Gat 2|BG2|
+|Borssele Alpha|BSA|
+|Cadzand wind|CAWI|
+|Platform D15-A|D15|
+|De Kooy|DEKO|
+|Europlatform|EPL|
+|Europlatform 2|EPL2|
+|F3 platform|F3|
+|Markermeer Midden -o|FL42o|
+|Gannet platform 1|GAN1|
+|Grevelingensluis wind|GRWI|
+|Hansweert wind|HAWI|
+|Hollandse Kust West A|HKWA1|
+|Hollandse Kust West A|HKWA2|
+|Platform HKZA 1|HKZA1|
+|Platform HKZA 2|HKZA2|
+|Hoek van Holland|HOEK|
+|Hoorn Terschelling|HOTE|
+|Houtribdijk|HOUD|
+|Huibertgat|HUIB|
+|Haringvlietsluizen sch 1|HVS01|
+|IJmuiden Buitenhaven|IJMH|
+|IJmuiden Zuid havenhoofd|IJZ1|
+|J6 platform|J6|
+|K13 Alpha|K13|
+|K14 platform|K14|
+|Kats Zandkreeksluis|KATS|
+|L9 platform|L9|
+|Lauwersoog|LAUW|
+|Lichteiland Goeree|LEG|
+|Lage Licht|LGL1|
+|Marknesse|MARK|
+|Maeslantkering geleidetor|MLKZ|
+|Marollegat|MRG|
+|North Cormorant|NC1|
+|Nes|NES|
+|Nieuw Beerta|NIBE|
+|Nelson platform1|NLS1|
+|Oosterschelde 4|OS4|
+|P11 platform|P11|
+|Rotterdam Luchthaven|ROT1|
+|Rotterdam Geulhaven|ROT2|
+|Geulhaven Radarpost 10|RP10|
+|Stroommeetpaal Eemshaven|SPE|
+|IJgeul stroommeetpaal|SPY|
+|Stavenisse|STAV|
+|Stavoren|STVO|
+|Texelhors|TEHO|
+|Terschelling Noordzee|TERS|
+|Terneuzen Westsluis|TNWS|
+|Trintelzand|TZND|
+|Uithuizerwad|UHWD|
+|Vlieland|VLI1|
+|Vlissingen|VLIS|
+|Vlakte v/d Raan|VR|
+|Wierumergronden|WIER|
+|Wijdenes|WIJD|
+|Wilhelminadorp|WILH|
+|Zeelandbrug wind|ZBWI|
 
 
-_generated on 06-12-2023_
+## Windrichting Lucht t.o.v. ware Noorden in graad ##
+measurement-code : WINDRTG
+
+|Location|location-code|
+|---|---|
+|AWG platform|AWG|
+|Bergsediepsluis wind|BDWI|
+|Berkhout|BERK|
+|Brouwershavense Gat 2|BG2|
+|Borssele Alpha|BSA|
+|Cadzand wind|CAWI|
+|Platform D15-A|D15|
+|De Kooy|DEKO|
+|Europlatform|EPL|
+|Europlatform 2|EPL2|
+|F3 platform|F3|
+|Markermeer Midden -o|FL42o|
+|Gannet platform 1|GAN1|
+|Grevelingensluis wind|GRWI|
+|Hansweert wind|HAWI|
+|Hollandse Kust West A|HKWA1|
+|Hollandse Kust West A|HKWA2|
+|Platform HKZA 1|HKZA1|
+|Platform HKZA 2|HKZA2|
+|Hoek van Holland|HOEK|
+|Hoorn Terschelling|HOTE|
+|Houtribdijk|HOUD|
+|Huibertgat|HUIB|
+|Haringvlietsluizen sch 1|HVS01|
+|IJmuiden Buitenhaven|IJMH|
+|IJmuiden Zuid havenhoofd|IJZ1|
+|J6 platform|J6|
+|K13 Alpha|K13|
+|K14 platform|K14|
+|Kats Zandkreeksluis|KATS|
+|L9 platform|L9|
+|Lauwersoog|LAUW|
+|Lichteiland Goeree|LEG|
+|Lage Licht|LGL1|
+|Marknesse|MARK|
+|Maeslantkering geleidetor|MLKZ|
+|Marollegat|MRG|
+|North Cormorant|NC1|
+|Nes|NES|
+|Nieuw Beerta|NIBE|
+|Nelson platform1|NLS1|
+|Oosterschelde 4|OS4|
+|P11 platform|P11|
+|Rotterdam Luchthaven|ROT1|
+|Rotterdam Geulhaven|ROT2|
+|Geulhaven Radarpost 10|RP10|
+|Stroommeetpaal Eemshaven|SPE|
+|IJgeul stroommeetpaal|SPY|
+|Stavenisse|STAV|
+|Stavoren|STVO|
+|Texelhors|TEHO|
+|Terschelling Noordzee|TERS|
+|Terneuzen Westsluis|TNWS|
+|Trintelzand|TZND|
+|Uithuizerwad|UHWD|
+|Vlieland|VLI1|
+|Vlissingen|VLIS|
+|Vlakte v/d Raan|VR|
+|Wierumergronden|WIER|
+|Wijdenes|WIJD|
+|Wilhelminadorp|WILH|
+|Zeelandbrug wind|ZBWI|
+
+
+## Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s ##
+measurement-code : WINDSTOOT
+
+|Location|location-code|
+|---|---|
+|AWG platform|AWG|
+|Bergsediepsluis wind|BDWI|
+|Brouwershavense Gat 2|BG2|
+|Borssele Alpha|BSA|
+|Cadzand wind|CAWI|
+|Platform D15-A|D15|
+|Europlatform|EPL|
+|Europlatform 2|EPL2|
+|F3 platform|F3|
+|Markermeer Midden -o|FL42o|
+|Grevelingensluis wind|GRWI|
+|Hansweert wind|HAWI|
+|Hollandse Kust West A|HKWA1|
+|Hollandse Kust West A|HKWA2|
+|Platform HKZA 1|HKZA1|
+|Platform HKZA 2|HKZA2|
+|Huibertgat|HUIB|
+|Haringvlietsluizen sch 1|HVS01|
+|IJmuiden Zuid havenhoofd|IJZ1|
+|J6 platform|J6|
+|K13 Alpha|K13|
+|K14 platform|K14|
+|Kats Zandkreeksluis|KATS|
+|L9 platform|L9|
+|Lichteiland Goeree|LEG|
+|Lage Licht|LGL1|
+|Maeslantkering geleidetor|MLKZ|
+|Nes|NES|
+|Oosterschelde 4|OS4|
+|P11 platform|P11|
+|Stroommeetpaal Eemshaven|SPE|
+|IJgeul stroommeetpaal|SPY|
+|Stavenisse|STAV|
+|Terschelling Noordzee|TERS|
+|Terneuzen Westsluis|TNWS|
+|Trintelzand|TZND|
+|Uithuizerwad|UHWD|
+|Vlakte v/d Raan|VR|
+|Wierumergronden|WIER|
+|Zeelandbrug wind|ZBWI|
+
+
+## Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm ##
+measurement-code : WATHTEASTRO
+
+|Location|location-code|
+|---|---|
+|AWG platform|AWG|
+|Baalhoek|BAAL|
+|Bergsediepsluis|BDSL|
+|Brouwershavense Gat 2|BG2|
+|Brouwershavense Gat 8|BG8|
+|Cadzand|CADZ|
+|Den Helder|DENH|
+|Delfzijl|DLFZ|
+|Dordrecht|DORD|
+|Eemshaven|EMSH|
+|Europlatform|EPL|
+|Goidschalxoord|GOID|
+|Gouda brug|GOUD|
+|Haringvliet 10|HA10|
+|Hagestein beneden|HAGO|
+|Hansweert|HANS|
+|Harlingen|HARL|
+|Heesbeen|HEES|
+|Hoek van Holland|HOEK|
+|Holwerd|HOLW|
+|Huibertgat|HUIB|
+|IJmuiden Buitenhaven|IJMH|
+|J6 platform|J6|
+|K13 Alpha|K13|
+|K14 platform|K14|
+|Kats Zandkreeksluis|KATS|
+|Kornwerderzand buiten|KOBU|
+|Krimpen a/d Lek|KRIL|
+|Krimpen a/d IJssel|KRIY|
+|Krammersluizen West|KRSL|
+|L9 platform|L9|
+|Lauwersoog|LAUW|
+|Lichteiland Goeree|LEG|
+|Lith Dorp|LITO|
+|Maassluis|MAAS|
+|Moerdijk|MOER|
+|Marollegat|MRG|
+|North Cormorant|NC1|
+|Nes|NES|
+|Nieuwe Statenzijl|NWST|
+|Den Oever buiten|OEBU|
+|Oosterschelde 11|OS11|
+|Oosterschelde 14|OS14|
+|Oosterschelde 4|OS4|
+|Oudeschild|OUDE|
+|Overloop van Hansweert|OVHA|
+|Schoonhoven|SCHH|
+|Spijkenisse|SPIJ|
+|Stavenisse|STAV|
+|Stellendam buiten|STEL|
+|Terneuzen|TERN|
+|Terschelling Noordzee|TERS|
+|Texel Noordzee|TEXE|
+|Vlaardingen|VLAA|
+|Vlieland haven|VLIE|
+|Vlissingen|VLIS|
+|Vlakte v/d Raan|VR|
+|Vuren|VURE|
+|Walsoorden|WALS|
+|Werkendam buiten|WERK|
+|Wierumergronden|WIER|
+|Westkapelle|WKAP|
+|West-Terschelling|WTER|
+|Yerseke|YE|
+
+
+
+
+_generated on 13-09-2024_

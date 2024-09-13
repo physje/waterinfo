@@ -11,6 +11,7 @@ location-code : YE
 |Measurement|measurement-code|
 |---|---|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
 
 ## Yerseke ##
 location-code : YERSKE
@@ -20,4 +21,4 @@ location-code : YERSKE
 |Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
 
 
-_generated on 06-12-2023_
+_generated on 13-09-2024_

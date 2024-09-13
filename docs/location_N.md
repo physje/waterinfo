@@ -10,45 +10,39 @@ location-code : NC1
 
 |Measurement|measurement-code|
 |---|---|
-|Temperatuur Lucht oC|T|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm|WATHTE|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
 |Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
 |Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
 |Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
+|Temperatuur Lucht oC|T|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
 |Luchtdruk Lucht hPa|LUCHTDK|
+|Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm|WATHTE|
 
 ## NDSM-werf (o) ##
 location-code : NDS1
 
 |Measurement|measurement-code|
 |---|---|
+|Saliniteit Oppervlaktewater |SALNTT|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
 |Temperatuur Oppervlaktewater oC|T|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Saliniteit Oppervlaktewater |SALNTT|
 
 ## NDSM-werf (b) ##
 location-code : NDS2
 
 |Measurement|measurement-code|
 |---|---|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
-|Temperatuur Oppervlaktewater oC|T|
 |Saliniteit Oppervlaktewater |SALNTT|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-
-## Neer ##
-location-code : NEER
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Temperatuur Oppervlaktewater oC|T|
 
 ## Negenoord-Oost ##
 location-code : NEGO
@@ -69,34 +63,50 @@ location-code : NES
 
 |Measurement|measurement-code|
 |---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
 |Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
 |Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+|Temperatuur Oppervlaktewater oC|T|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 |Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
+|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
 
 ## Nes 2 (golven) ##
 location-code : NES2
 
 |Measurement|measurement-code|
 |---|---|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
 |Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
 |Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
+
+## Newhaven ##
+location-code : NEWHVN
+
+|Measurement|measurement-code|
+|---|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+
+## Newlyn ##
+location-code : NEWLN
+
+|Measurement|measurement-code|
+|---|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
 
 ## Nieuw Beerta ##
 location-code : NIBE
 
 |Measurement|measurement-code|
 |---|---|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
 |Temperatuur Lucht oC|T|
 |Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
+|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
 
 ## Nieuwe Statenzijl ##
 location-code : NIEUWSTZL
@@ -131,18 +141,18 @@ location-code : NLS1
 
 |Measurement|measurement-code|
 |---|---|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
 |Luchtdruk Lucht hPa|LUCHTDK|
+|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
 |Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
+|Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm|WATHTE|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
 |Temperatuur Lucht oC|T|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
-|Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm|WATHTE|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
 
 ## North Cormorant ##
 location-code : NORTHCMRT
@@ -151,24 +161,31 @@ location-code : NORTHCMRT
 |---|---|
 |Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm|WATHTBRKD|
 
+## North Shields ##
+location-code : NORTHSS
+
+|Measurement|measurement-code|
+|---|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+
 ## ADM Noordervaart ##
 location-code : NVAA
 
 |Measurement|measurement-code|
 |---|---|
-|Debiet Oppervlaktewater m3/s|Q|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Debiet Oppervlaktewater m3/s|Q|
 
 ## Nieuwegein ##
 location-code : NWGN
 
 |Measurement|measurement-code|
 |---|---|
+|Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
+|Temperatuur Oppervlaktewater oC|T|
 |Debiet Oppervlaktewater m3/s|Q|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-|Temperatuur Oppervlaktewater oC|T|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
-|Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 
 ## Nieuwe Statenzijl ##
@@ -176,7 +193,8 @@ location-code : NWST
 
 |Measurement|measurement-code|
 |---|---|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 
 
-_generated on 06-12-2023_
+_generated on 13-09-2024_

@@ -10,13 +10,13 @@ location-code : P11
 
 |Measurement|measurement-code|
 |---|---|
-|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|ZICHT|
 |Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
-|Temperatuur Lucht oC|T|
+|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|ZICHT|
 |Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
 |Luchtdruk Lucht hPa|LUCHTDK|
+|Temperatuur Lucht oC|T|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
 
 ## Pannerdens kanaal ##
 location-code : PANK
@@ -51,20 +51,20 @@ location-code : PLOTb
 
 |Measurement|measurement-code|
 |---|---|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
-|Temperatuur Oppervlaktewater oC|T|
-|Saliniteit Oppervlaktewater |SALNTT|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Temperatuur Oppervlaktewater oC|T|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
+|Saliniteit Oppervlaktewater |SALNTT|
 
 ## Plaat van Oude Tonge (o) ##
 location-code : PLOTo
 
 |Measurement|measurement-code|
 |---|---|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |Saliniteit Oppervlaktewater |SALNTT|
-|Temperatuur Oppervlaktewater oC|T|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Temperatuur Oppervlaktewater oC|T|
 
 ## Poeldonk beneden - Aa ##
 location-code : POEO
@@ -73,18 +73,32 @@ location-code : POEO
 |---|---|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 
+## Pogum ##
+location-code : POGM
+
+|Measurement|measurement-code|
+|---|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+
+## Portsmouth ##
+location-code : PORTSMH
+
+|Measurement|measurement-code|
+|---|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+
 ## Pas van Terneuzen boei ##
 location-code : PVT
 
 |Measurement|measurement-code|
 |---|---|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
 |Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
 
 
-_generated on 06-12-2023_
+_generated on 13-09-2024_

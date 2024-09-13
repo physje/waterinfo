@@ -10,7 +10,6 @@ measurement-code : Q
 |Location|location-code|
 |---|---|
 |Schijndelse loop|AA03|
-|Almen|ALME|
 |Arnhem|ARNH|
 |Blaarthem boven|BLAB|
 |Blaarthem Gender|BLAG|
@@ -49,7 +48,6 @@ measurement-code : Q
 |Nieuwegein|NWGN|
 |Olst|OLST|
 |Ommen Hesselmulertbrug|OMMH|
-|Ommen Ommerkanaal|OMMK|
 |Ovl v Bosscherveld QH|OVB|
 |Pannerdens kanaal|PANK|
 |Sluis 7 spuiduiker|S07S|
@@ -64,6 +62,7 @@ measurement-code : Q
 |Tiel Waal|TIEW|
 |Venlo|VENL|
 |Volkerakgat 2|VG02|
+|Volkerakgat 3|VG03|
 |Weesp|WEES|
 |Westervoort|WEST|
 |Waalwijk|WLWK|
@@ -72,4 +71,4 @@ measurement-code : Q
 
 
 
-_generated on 06-12-2023_
+_generated on 13-09-2024_

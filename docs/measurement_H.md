@@ -4,8 +4,8 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 
 # Measurements with the letter H #
 
-## Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm ##
-measurement-code : Hm0
+## Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm ##
+measurement-code : HTE3
 
 |Location|location-code|
 |---|---|
@@ -28,9 +28,13 @@ measurement-code : Hm0
 |Gat van de stier|GVDS|
 |Hansweert|HANS|
 |Hansweert wind (b)|HAWIb|
+|Hollandse Kust West Alpha|HKWA|
 |Platform HKZA|HKZA|
+|HKZ Windpark Noord|HKZWN|
+|HKZ Windpark Zuid|HKZWZ|
 |Honte nabij Sloehaven|HNTE|
 |Honte 2 (Back-up)|HNTE2|
+|Haringvlietsluizen buiten|HVBU|
 |IJgeul|IJGL|
 |J6 platform|J6|
 |K13 Alpha|K13|
@@ -58,9 +62,10 @@ measurement-code : Hm0
 |Pas van Terneuzen boei|PVT|
 |Roggenplaat|ROGP|
 |Roompotsluis (SVKO)|RPSL|
+|Randzelgat Noord boei|RZGN1|
 |Schouwenbank 2 boei|SCB2|
 |Schiermonnikoog|SCHI|
-|Schouwenbank Stroomgat|SCHS|
+|Schaar Stroomgat|SCHS|
 |Schulpengat|SGAT|
 |Schiermonnikoog Noord boe|SMN1|
 |Schiermonnikoog Westgat b|SMWG|
@@ -92,17 +97,19 @@ measurement-code : H1/3
 |Eurogeul E13|E13|
 |Eierlandse Gat boei|ELD1|
 |Europlatform 2|EPL2|
-|F3 platform|F3|
-|Rotterdamse hoek|FL02|
+|Markermeer Midden -o|FL42o|
 |Gannet platform 1|GAN1|
 |Gat van de stier|GVDS|
 |Hansweert|HANS|
 |Hansweert wind (b)|HAWIb|
+|Hollandse Kust West Alpha|HKWA|
 |Platform HKZA|HKZA|
+|HKZ Windpark Noord|HKZWN|
+|HKZ Windpark Zuid|HKZWZ|
 |Honte nabij Sloehaven|HNTE|
 |Honte 2 (Back-up)|HNTE2|
+|Haringvlietsluizen buiten|HVBU|
 |IJgeul|IJGL|
-|J6 platform|J6|
 |K13 Alpha|K13|
 |K13 Alpha 3|K133|
 |K14 platform|K14|
@@ -128,9 +135,10 @@ measurement-code : H1/3
 |Pas van Terneuzen boei|PVT|
 |Roggenplaat|ROGP|
 |Roompotsluis (SVKO)|RPSL|
+|Randzelgat Noord boei|RZGN1|
 |Schouwenbank 2 boei|SCB2|
 |Schiermonnikoog|SCHI|
-|Schouwenbank Stroomgat|SCHS|
+|Schaar Stroomgat|SCHS|
 |Schulpengat|SGAT|
 |Schiermonnikoog Noord boe|SMN1|
 |Schiermonnikoog Westgat b|SMWG|
@@ -138,6 +146,7 @@ measurement-code : H1/3
 |IJgeul stroommeetpaal|SPY|
 |Stortemelk boei|STM1|
 |Stortemelk Oost|STMO1|
+|Trintelzand|TZND|
 |Uithuizerwad 2|UHW2|
 |Uithuizerwad 3|UHW3|
 |Westereems Oost boei|WEO1|
@@ -145,13 +154,12 @@ measurement-code : H1/3
 |Wielingen Noord|WIEL|
 
 
-## Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm ##
-measurement-code : HTE3
+## Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm ##
+measurement-code : Hm0
 
 |Location|location-code|
 |---|---|
 |AWG platform|AWG|
-|Bath|BATH|
 |Brouwershavense Gat 2|BG2|
 |Borssele Alpha|BSA|
 |Buitenbanken west|BUBW|
@@ -163,14 +171,18 @@ measurement-code : HTE3
 |Eierlandse Gat boei|ELD1|
 |Europlatform 2|EPL2|
 |F3 platform|F3|
-|Rotterdamse hoek|FL02|
+|Markermeer Midden -o|FL42o|
 |Gannet platform 1|GAN1|
 |Gat van de stier|GVDS|
 |Hansweert|HANS|
 |Hansweert wind (b)|HAWIb|
+|Hollandse Kust West Alpha|HKWA|
 |Platform HKZA|HKZA|
+|HKZ Windpark Noord|HKZWN|
+|HKZ Windpark Zuid|HKZWZ|
 |Honte nabij Sloehaven|HNTE|
 |Honte 2 (Back-up)|HNTE2|
+|Haringvlietsluizen buiten|HVBU|
 |IJgeul|IJGL|
 |J6 platform|J6|
 |K13 Alpha|K13|
@@ -198,9 +210,10 @@ measurement-code : HTE3
 |Pas van Terneuzen boei|PVT|
 |Roggenplaat|ROGP|
 |Roompotsluis (SVKO)|RPSL|
+|Randzelgat Noord boei|RZGN1|
 |Schouwenbank 2 boei|SCB2|
 |Schiermonnikoog|SCHI|
-|Schouwenbank Stroomgat|SCHS|
+|Schaar Stroomgat|SCHS|
 |Schulpengat|SGAT|
 |Schiermonnikoog Noord boe|SMN1|
 |Schiermonnikoog Westgat b|SMWG|
@@ -208,6 +221,7 @@ measurement-code : HTE3
 |IJgeul stroommeetpaal|SPY|
 |Stortemelk boei|STM1|
 |Stortemelk Oost|STMO1|
+|Trintelzand|TZND|
 |Uithuizerwad 2|UHW2|
 |Uithuizerwad 3|UHW3|
 |Westereems Oost boei|WEO1|
@@ -241,4 +255,4 @@ measurement-code : HEFHTE
 
 
 
-_generated on 06-12-2023_
+_generated on 13-09-2024_

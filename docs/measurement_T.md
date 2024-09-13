@@ -14,6 +14,7 @@ measurement-code : T
 |Antwerps kanaalpand (o)|ANKAo|
 |Baalhoek (b)|BAALb|
 |Baalhoek (o)|BAALo|
+|Bath|BATH|
 |Bathse brug Deltanuts (b)|BBDTb|
 |Bathse brug Deltanuts (o)|BBDTo|
 |Belfeld boven|BELB|
@@ -37,7 +38,7 @@ measurement-code : T
 |Eefde beneden|EEFO|
 |Eijsden ponton|EIJSP|
 |Eierlandse Gat boei|ELD1|
-|Rotterdamse hoek|FL02|
+|Europlatform|EPL|
 |Friese kust|FL09|
 |Andijk|FL38|
 |Markermeer Midden -b|FL42b|
@@ -51,7 +52,10 @@ measurement-code : T
 |Hengelo boven|HENB|
 |Hengelo beneden|HENO|
 |gemaal Hoogland buiten|HGLD|
-|Hoek van Holland|HOEK|
+|Platform HKZA|HKZA|
+|HKZ Windpark Noord|HKZWN|
+|HKZ Windpark Zuid|HKZWZ|
+|Haringvlietsluizen buiten|HVBU|
 |Hoek v Holland NAP -2.5m|HVH25|
 |Hoek v Holland NAP -4.5m|HVH45|
 |Hoek v Holland NAP -9.0m|HVH90|
@@ -74,7 +78,7 @@ measurement-code : T
 |Kornwerderzand buiten|KOBU|
 |Kwdznd Mg b(-2mWS)|KOMb|
 |Kwdznd Mg mb(-5mWS)|KOMmb|
-|Kwdznd Mg mo(-6mWS)|KOMmo|
+|Kwdznd mg o(-7mWS)|KOMo|
 |Kwdznd sp b(-1,5mNAP)|KOSb|
 |Kwdznd sp m(-6mNAP)|KOSm|
 |Kwdznd sp mb(-4,5mNAP)|KOSmb|
@@ -97,6 +101,7 @@ measurement-code : T
 |Kier 3B WP10 -2mWS|KR3b|
 |Kier 3M WP10 -9mWS|KR3m|
 |Kier 3O WP10 -16mWS|KR3o|
+|KIER 4B WP12 -10mWS|KR4b|
 |KIER 4M WP12 -11mWS|KR4m|
 |KIER 4O WP12 -12mWS|KR4o|
 |Krammer Laagbekken  (b)|KRBLb|
@@ -116,6 +121,7 @@ measurement-code : T
 |Linne boven|LINB|
 |Lith boven|LITB|
 |Lobith Haven|LOBH|
+|Lobith|LOBM|
 |Maarssen|MAAR|
 |sluis Makkum buiten -130|MAKBb|
 |Middelharnis MB NAP -2m|MH020|
@@ -127,6 +133,7 @@ measurement-code : T
 |IJgeul Munitiestort 1|MUN1|
 |NDSM-werf (o)|NDS1|
 |NDSM-werf (b)|NDS2|
+|Nes|NES|
 |Nieuwegein|NWGN|
 |Hengelo Oelerbrug|OELB|
 |Den Oever sp b(-1,5mWS)|OESb|
@@ -143,8 +150,9 @@ measurement-code : T
 |Plaat van Oude Tonge (b)|PLOTb|
 |Plaat van Oude Tonge (o)|PLOTo|
 |Roermond boven temp|ROEB|
+|Randzelgat Noord boei|RZGN1|
 |Sambeek boven|SAMB|
-|Schouwenbank Stroomgat|SCHS|
+|Schaar Stroomgat|SCHS|
 |Schulpengat|SGAT|
 |Slaak Noord boven|SKNDb|
 |Slaak Noord midden|SKNDm|
@@ -156,6 +164,7 @@ measurement-code : T
 |Spaarnd.polder NAP -6.4m|SPA64|
 |Stroommeetpaal Eemshaven|SPE|
 |Spijkenisserbrug NAP-2.5m|SPI25|
+|Spijkenisserbrug NAP-4.5m|SPI45|
 |Spijkenisserbrug NAP-9.0m|SPI90|
 |Middelharnis Spui NAP -1m|SPU10|
 |Middelharnis Spui NAP -5m|SPU50|
@@ -169,8 +178,11 @@ measurement-code : T
 |Schellingw.brug NAP -2.8m|SWB28|
 |Terneuzen Westsluis ZZ (b|TWZZb|
 |Terneuzen Westsluis ZZ (o|TWZZo|
+|Trintelzand boven|TZNDb|
+|Trintelzand onder|TZNDo|
 |Volkerak Galathee (b)|VKb|
 |Volkerak Galathee (o)|VKo|
+|Vlissingen|VLIS|
 |Velserkom b WS3 -1|VLSKb|
 |Velserkom m WS3 -6|VLSKm|
 |Velserkom o WS3 -8|VLSKo|
@@ -190,215 +202,6 @@ measurement-code : T
 |Zwartsluis buiten|ZWBU|
 
 
-## Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 ##
-measurement-code : TE3
-
-|Location|location-code|
-|---|---|
-|AWG platform|AWG|
-|Bath|BATH|
-|Brouwershavense Gat 2|BG2|
-|Borssele Alpha|BSA|
-|Buitenbanken west|BUBW|
-|Cadzand boei|CADW|
-|Deurloo|DEUR|
-|Domburger Rassen|DORA|
-|Eurogeul DWE|DWE1|
-|Eurogeul E13|E13|
-|Eierlandse Gat boei|ELD1|
-|Europlatform 2|EPL2|
-|F3 platform|F3|
-|Rotterdamse hoek|FL02|
-|Gannet platform 1|GAN1|
-|Gat van de stier|GVDS|
-|Hansweert|HANS|
-|Hansweert wind (b)|HAWIb|
-|Platform HKZA|HKZA|
-|Honte nabij Sloehaven|HNTE|
-|Honte 2 (Back-up)|HNTE2|
-|IJgeul|IJGL|
-|J6 platform|J6|
-|K13 Alpha|K13|
-|K13 Alpha 3|K133|
-|K14 platform|K14|
-|Keeten boei|KEET|
-|L9 platform|L9|
-|Lichteiland Goeree|LEG|
-|Maeslantkering zeezijde N|MLK1|
-|Maeslantkering zeezijde Z|MLK2|
-|Maasgeul Maasvlakte Noord|MMND|
-|Monding Nieuwe Haven|MNHV|
-|Marollegat (b)|MRGb|
-|IJgeul Munitiestort 1|MUN1|
-|IJgeul Munitiestort 2|MUN2|
-|North Cormorant|NC1|
-|Nes 2 (golven)|NES2|
-|Nelson platform1|NLS1|
-|Oosterschelde 11 (b)|OS11b|
-|Oosterschelde 4 (b)|OS4b|
-|Overloop v. Hansweert gol|OVHW|
-|Overloop van Valkenisse|OVVA|
-|Oude Westereems Noordboei|OWEN|
-|Oude Westereems Zuidboei|OWEZ|
-|Pas van Terneuzen boei|PVT|
-|Roggenplaat|ROGP|
-|Roompotsluis (SVKO)|RPSL|
-|Schouwenbank 2 boei|SCB2|
-|Schiermonnikoog|SCHI|
-|Schouwenbank Stroomgat|SCHS|
-|Schulpengat|SGAT|
-|Schiermonnikoog Noord boe|SMN1|
-|Schiermonnikoog Westgat b|SMWG|
-|Stroommeetpaal Eemshaven|SPE|
-|IJgeul stroommeetpaal|SPY|
-|Stortemelk boei|STM1|
-|Stortemelk Oost|STMO1|
-|Uithuizerwad 2|UHW2|
-|Uithuizerwad 3|UHW3|
-|Westereems Oost boei|WEO1|
-|Westereems West boei|WEW1|
-|Wielingen Noord|WIEL|
-
-
-## Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s ##
-measurement-code : Tm02
-
-|Location|location-code|
-|---|---|
-|AWG platform|AWG|
-|Bath|BATH|
-|Brouwershavense Gat 2|BG2|
-|Borssele Alpha|BSA|
-|Buitenbanken west|BUBW|
-|Cadzand boei|CADW|
-|Deurloo|DEUR|
-|Domburger Rassen|DORA|
-|Eurogeul DWE|DWE1|
-|Eurogeul E13|E13|
-|Eierlandse Gat boei|ELD1|
-|Europlatform 2|EPL2|
-|F3 platform|F3|
-|Rotterdamse hoek|FL02|
-|Gannet platform 1|GAN1|
-|Gat van de stier|GVDS|
-|Hansweert|HANS|
-|Hansweert wind (b)|HAWIb|
-|Platform HKZA|HKZA|
-|Honte nabij Sloehaven|HNTE|
-|Honte 2 (Back-up)|HNTE2|
-|IJgeul|IJGL|
-|K13 Alpha|K13|
-|K13 Alpha 3|K133|
-|K14 platform|K14|
-|Keeten boei|KEET|
-|L9 platform|L9|
-|Lichteiland Goeree|LEG|
-|Maeslantkering zeezijde N|MLK1|
-|Maeslantkering zeezijde Z|MLK2|
-|Maasgeul Maasvlakte Noord|MMND|
-|Monding Nieuwe Haven|MNHV|
-|Marollegat (b)|MRGb|
-|IJgeul Munitiestort 1|MUN1|
-|IJgeul Munitiestort 2|MUN2|
-|North Cormorant|NC1|
-|Nes 2 (golven)|NES2|
-|Nelson platform1|NLS1|
-|Oosterschelde 11 (b)|OS11b|
-|Oosterschelde 4 (b)|OS4b|
-|Overloop v. Hansweert gol|OVHW|
-|Overloop van Valkenisse|OVVA|
-|Oude Westereems Noordboei|OWEN|
-|Oude Westereems Zuidboei|OWEZ|
-|Pas van Terneuzen boei|PVT|
-|Roggenplaat|ROGP|
-|Roompotsluis (SVKO)|RPSL|
-|Schouwenbank 2 boei|SCB2|
-|Schiermonnikoog|SCHI|
-|Schouwenbank Stroomgat|SCHS|
-|Schulpengat|SGAT|
-|Schiermonnikoog Noord boe|SMN1|
-|Schiermonnikoog Westgat b|SMWG|
-|Stroommeetpaal Eemshaven|SPE|
-|IJgeul stroommeetpaal|SPY|
-|Stortemelk boei|STM1|
-|Stortemelk Oost|STMO1|
-|Uithuizerwad 2|UHW2|
-|Uithuizerwad 3|UHW3|
-|Westereems Oost boei|WEO1|
-|Westereems West boei|WEW1|
-|Wielingen Noord|WIEL|
-
-
-## Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s ##
-measurement-code : T1/3
-
-|Location|location-code|
-|---|---|
-|AWG platform|AWG|
-|Bath|BATH|
-|Brouwershavense Gat 2|BG2|
-|Borssele Alpha|BSA|
-|Buitenbanken west|BUBW|
-|Cadzand boei|CADW|
-|Deurloo|DEUR|
-|Domburger Rassen|DORA|
-|Eurogeul DWE|DWE1|
-|Eurogeul E13|E13|
-|Eierlandse Gat boei|ELD1|
-|Europlatform 2|EPL2|
-|F3 platform|F3|
-|Rotterdamse hoek|FL02|
-|Gannet platform 1|GAN1|
-|Gat van de stier|GVDS|
-|Hansweert|HANS|
-|Hansweert wind (b)|HAWIb|
-|Platform HKZA|HKZA|
-|Honte nabij Sloehaven|HNTE|
-|Honte 2 (Back-up)|HNTE2|
-|IJgeul|IJGL|
-|J6 platform|J6|
-|K13 Alpha|K13|
-|K13 Alpha 3|K133|
-|K14 platform|K14|
-|Keeten boei|KEET|
-|L9 platform|L9|
-|Lichteiland Goeree|LEG|
-|Maeslantkering zeezijde N|MLK1|
-|Maeslantkering zeezijde Z|MLK2|
-|Maasgeul Maasvlakte Noord|MMND|
-|Monding Nieuwe Haven|MNHV|
-|Marollegat (b)|MRGb|
-|IJgeul Munitiestort 1|MUN1|
-|IJgeul Munitiestort 2|MUN2|
-|North Cormorant|NC1|
-|Nes 2 (golven)|NES2|
-|Nelson platform1|NLS1|
-|Oosterschelde 11 (b)|OS11b|
-|Oosterschelde 4 (b)|OS4b|
-|Overloop v. Hansweert gol|OVHW|
-|Overloop van Valkenisse|OVVA|
-|Oude Westereems Noordboei|OWEN|
-|Oude Westereems Zuidboei|OWEZ|
-|Pas van Terneuzen boei|PVT|
-|Roggenplaat|ROGP|
-|Roompotsluis (SVKO)|RPSL|
-|Schouwenbank 2 boei|SCB2|
-|Schiermonnikoog|SCHI|
-|Schouwenbank Stroomgat|SCHS|
-|Schulpengat|SGAT|
-|Schiermonnikoog Noord boe|SMN1|
-|Schiermonnikoog Westgat b|SMWG|
-|Stroommeetpaal Eemshaven|SPE|
-|IJgeul stroommeetpaal|SPY|
-|Stortemelk boei|STM1|
-|Stortemelk Oost|STMO1|
-|Uithuizerwad 2|UHW2|
-|Uithuizerwad 3|UHW3|
-|Westereems Oost boei|WEO1|
-|Westereems West boei|WEW1|
-|Wielingen Noord|WIEL|
-
-
 ## Temperatuur Lucht oC ##
 measurement-code : T
 
@@ -408,14 +211,13 @@ measurement-code : T
 |Berkhout|BERK|
 |Borssele Alpha|BSA|
 |Cadzand|CADZ|
-|D15 platform|D15|
+|Platform D15-A|D15|
 |De Kooy|DEKO|
-|Europlatform|EPL|
 |Europlatform 2|EPL2|
-|F3 platform|F3|
 |Gannet platform 1|GAN1|
 |Hansweert|HANS|
-|Platform HKZA|HKZA|
+|Hollandse Kust West Alpha|HKWA|
+|Hoek van Holland|HOEK|
 |Hoorn Terschelling|HOTE|
 |Huibertgat|HUIB|
 |J6 platform|J6|
@@ -433,37 +235,233 @@ measurement-code : T
 |Stavoren|STVO|
 |Terschelling Noordzee|TERS|
 |Vlieland|VLI1|
-|Vlissingen|VLIS|
 |Wierumergronden|WIER|
 |Wijk aan Zee|WIJZ|
 |Wilhelminadorp|WILH|
 
 
-## Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad ##
-measurement-code : Th0
+## Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s ##
+measurement-code : Tm02
 
 |Location|location-code|
 |---|---|
+|AWG platform|AWG|
+|Brouwershavense Gat 2|BG2|
+|Borssele Alpha|BSA|
 |Buitenbanken west|BUBW|
 |Cadzand boei|CADW|
 |Deurloo|DEUR|
+|Domburger Rassen|DORA|
+|Eurogeul DWE|DWE1|
 |Eurogeul E13|E13|
 |Eierlandse Gat boei|ELD1|
+|Europlatform 2|EPL2|
+|Rotterdamse hoek|FL02|
+|Markermeer Midden -o|FL42o|
+|Gannet platform 1|GAN1|
 |Gat van de stier|GVDS|
+|Hansweert|HANS|
+|Hansweert wind (b)|HAWIb|
+|Hollandse Kust West Alpha|HKWA|
+|Platform HKZA|HKZA|
+|HKZ Windpark Noord|HKZWN|
+|HKZ Windpark Zuid|HKZWZ|
+|Honte nabij Sloehaven|HNTE|
+|Honte 2 (Back-up)|HNTE2|
+|Haringvlietsluizen buiten|HVBU|
+|IJgeul|IJGL|
+|K13 Alpha|K13|
 |K13 Alpha 3|K133|
+|K14 platform|K14|
+|Keeten boei|KEET|
+|L9 platform|L9|
+|Lichteiland Goeree|LEG|
+|Maeslantkering zeezijde N|MLK1|
+|Maeslantkering zeezijde Z|MLK2|
 |Maasgeul Maasvlakte Noord|MMND|
 |Monding Nieuwe Haven|MNHV|
+|Marollegat (b)|MRGb|
 |IJgeul Munitiestort 1|MUN1|
+|IJgeul Munitiestort 2|MUN2|
+|North Cormorant|NC1|
+|Nes 2 (golven)|NES2|
+|Nelson platform1|NLS1|
+|Oosterschelde 11 (b)|OS11b|
+|Oosterschelde 4 (b)|OS4b|
+|Overloop v. Hansweert gol|OVHW|
+|Overloop van Valkenisse|OVVA|
 |Oude Westereems Noordboei|OWEN|
 |Oude Westereems Zuidboei|OWEZ|
+|Pas van Terneuzen boei|PVT|
 |Roggenplaat|ROGP|
+|Roompotsluis (SVKO)|RPSL|
+|Randzelgat Noord boei|RZGN1|
 |Schouwenbank 2 boei|SCB2|
-|Schouwenbank Stroomgat|SCHS|
+|Schiermonnikoog|SCHI|
+|Schaar Stroomgat|SCHS|
 |Schulpengat|SGAT|
 |Schiermonnikoog Noord boe|SMN1|
 |Schiermonnikoog Westgat b|SMWG|
+|Stroommeetpaal Eemshaven|SPE|
+|IJgeul stroommeetpaal|SPY|
 |Stortemelk boei|STM1|
 |Stortemelk Oost|STMO1|
+|Trintelzand|TZND|
+|Uithuizerwad 2|UHW2|
+|Uithuizerwad 3|UHW3|
+|Westereems Oost boei|WEO1|
+|Westereems West boei|WEW1|
+|Wielingen Noord|WIEL|
+
+
+## Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2 ##
+measurement-code : TE3
+
+|Location|location-code|
+|---|---|
+|AWG platform|AWG|
+|Brouwershavense Gat 2|BG2|
+|Borssele Alpha|BSA|
+|Buitenbanken west|BUBW|
+|Cadzand boei|CADW|
+|Deurloo|DEUR|
+|Domburger Rassen|DORA|
+|Eurogeul DWE|DWE1|
+|Eurogeul E13|E13|
+|Eierlandse Gat boei|ELD1|
+|Europlatform 2|EPL2|
+|F3 platform|F3|
+|Rotterdamse hoek|FL02|
+|Markermeer Midden -o|FL42o|
+|Gannet platform 1|GAN1|
+|Gat van de stier|GVDS|
+|Hansweert|HANS|
+|Hansweert wind (b)|HAWIb|
+|Hollandse Kust West Alpha|HKWA|
+|Platform HKZA|HKZA|
+|HKZ Windpark Noord|HKZWN|
+|HKZ Windpark Zuid|HKZWZ|
+|Honte nabij Sloehaven|HNTE|
+|Honte 2 (Back-up)|HNTE2|
+|Haringvlietsluizen buiten|HVBU|
+|IJgeul|IJGL|
+|J6 platform|J6|
+|K13 Alpha|K13|
+|K13 Alpha 3|K133|
+|K14 platform|K14|
+|Keeten boei|KEET|
+|L9 platform|L9|
+|Lichteiland Goeree|LEG|
+|Maeslantkering zeezijde N|MLK1|
+|Maeslantkering zeezijde Z|MLK2|
+|Maasgeul Maasvlakte Noord|MMND|
+|Monding Nieuwe Haven|MNHV|
+|Marollegat (b)|MRGb|
+|IJgeul Munitiestort 1|MUN1|
+|IJgeul Munitiestort 2|MUN2|
+|North Cormorant|NC1|
+|Nes 2 (golven)|NES2|
+|Nelson platform1|NLS1|
+|Oosterschelde 11 (b)|OS11b|
+|Oosterschelde 4 (b)|OS4b|
+|Overloop v. Hansweert gol|OVHW|
+|Overloop van Valkenisse|OVVA|
+|Oude Westereems Noordboei|OWEN|
+|Oude Westereems Zuidboei|OWEZ|
+|Pas van Terneuzen boei|PVT|
+|Roggenplaat|ROGP|
+|Roompotsluis (SVKO)|RPSL|
+|Randzelgat Noord boei|RZGN1|
+|Schouwenbank 2 boei|SCB2|
+|Schiermonnikoog|SCHI|
+|Schaar Stroomgat|SCHS|
+|Schulpengat|SGAT|
+|Schiermonnikoog Noord boe|SMN1|
+|Schiermonnikoog Westgat b|SMWG|
+|Stroommeetpaal Eemshaven|SPE|
+|IJgeul stroommeetpaal|SPY|
+|Stortemelk boei|STM1|
+|Stortemelk Oost|STMO1|
+|Trintelzand|TZND|
+|Uithuizerwad 2|UHW2|
+|Uithuizerwad 3|UHW3|
+|Westereems Oost boei|WEO1|
+|Westereems West boei|WEW1|
+|Wielingen Noord|WIEL|
+
+
+## Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s ##
+measurement-code : T1/3
+
+|Location|location-code|
+|---|---|
+|AWG platform|AWG|
+|Brouwershavense Gat 2|BG2|
+|Borssele Alpha|BSA|
+|Buitenbanken west|BUBW|
+|Cadzand boei|CADW|
+|Deurloo|DEUR|
+|Domburger Rassen|DORA|
+|Eurogeul DWE|DWE1|
+|Eurogeul E13|E13|
+|Eierlandse Gat boei|ELD1|
+|Europlatform 2|EPL2|
+|F3 platform|F3|
+|Rotterdamse hoek|FL02|
+|Markermeer Midden -o|FL42o|
+|Gannet platform 1|GAN1|
+|Gat van de stier|GVDS|
+|Hansweert|HANS|
+|Hansweert wind (b)|HAWIb|
+|Hollandse Kust Noord|HKN|
+|Hollandse Kust West Alpha|HKWA|
+|Platform HKZA|HKZA|
+|HKZ Windpark Noord|HKZWN|
+|HKZ Windpark Zuid|HKZWZ|
+|Honte nabij Sloehaven|HNTE|
+|Honte 2 (Back-up)|HNTE2|
+|Haringvlietsluizen buiten|HVBU|
+|IJgeul|IJGL|
+|J6 platform|J6|
+|K13 Alpha|K13|
+|K13 Alpha 3|K133|
+|K14 platform|K14|
+|Keeten boei|KEET|
+|L9 platform|L9|
+|Lichteiland Goeree|LEG|
+|Maeslantkering zeezijde N|MLK1|
+|Maeslantkering zeezijde Z|MLK2|
+|Maasgeul Maasvlakte Noord|MMND|
+|Monding Nieuwe Haven|MNHV|
+|Marollegat (b)|MRGb|
+|IJgeul Munitiestort 1|MUN1|
+|IJgeul Munitiestort 2|MUN2|
+|North Cormorant|NC1|
+|Nes 2 (golven)|NES2|
+|Nelson platform1|NLS1|
+|Oosterschelde 11 (b)|OS11b|
+|Oosterschelde 4 (b)|OS4b|
+|Overloop v. Hansweert gol|OVHW|
+|Overloop van Valkenisse|OVVA|
+|Oude Westereems Noordboei|OWEN|
+|Oude Westereems Zuidboei|OWEZ|
+|Pas van Terneuzen boei|PVT|
+|Roggenplaat|ROGP|
+|Roompotsluis (SVKO)|RPSL|
+|Randzelgat Noord boei|RZGN1|
+|Schouwenbank 2 boei|SCB2|
+|Schiermonnikoog|SCHI|
+|Schaar Stroomgat|SCHS|
+|Schulpengat|SGAT|
+|Schiermonnikoog Noord boe|SMN1|
+|Schiermonnikoog Westgat b|SMWG|
+|Stroommeetpaal Eemshaven|SPE|
+|IJgeul stroommeetpaal|SPY|
+|Stortemelk boei|STM1|
+|Stortemelk Oost|STMO1|
+|Trintelzand|TZND|
+|Uithuizerwad 2|UHW2|
+|Uithuizerwad 3|UHW3|
 |Westereems Oost boei|WEO1|
 |Westereems West boei|WEW1|
 |Wielingen Noord|WIEL|
@@ -480,6 +478,9 @@ measurement-code : Th3
 |Eurogeul E13|E13|
 |Eierlandse Gat boei|ELD1|
 |Gat van de stier|GVDS|
+|HKZ Windpark Noord|HKZWN|
+|HKZ Windpark Zuid|HKZWZ|
+|Haringvlietsluizen buiten|HVBU|
 |K13 Alpha 3|K133|
 |Maasgeul Maasvlakte Noord|MMND|
 |Monding Nieuwe Haven|MNHV|
@@ -487,8 +488,9 @@ measurement-code : Th3
 |Oude Westereems Noordboei|OWEN|
 |Oude Westereems Zuidboei|OWEZ|
 |Roggenplaat|ROGP|
+|Randzelgat Noord boei|RZGN1|
 |Schouwenbank 2 boei|SCB2|
-|Schouwenbank Stroomgat|SCHS|
+|Schaar Stroomgat|SCHS|
 |Schulpengat|SGAT|
 |Schiermonnikoog Noord boe|SMN1|
 |Schiermonnikoog Westgat b|SMWG|
@@ -498,6 +500,40 @@ measurement-code : Th3
 |Westereems West boei|WEW1|
 
 
+## Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad ##
+measurement-code : Th0
+
+|Location|location-code|
+|---|---|
+|Buitenbanken west|BUBW|
+|Cadzand boei|CADW|
+|Deurloo|DEUR|
+|Eurogeul E13|E13|
+|Eierlandse Gat boei|ELD1|
+|Gat van de stier|GVDS|
+|HKZ Windpark Noord|HKZWN|
+|HKZ Windpark Zuid|HKZWZ|
+|Haringvlietsluizen buiten|HVBU|
+|K13 Alpha 3|K133|
+|Maasgeul Maasvlakte Noord|MMND|
+|Monding Nieuwe Haven|MNHV|
+|IJgeul Munitiestort 1|MUN1|
+|Oude Westereems Noordboei|OWEN|
+|Oude Westereems Zuidboei|OWEZ|
+|Roggenplaat|ROGP|
+|Randzelgat Noord boei|RZGN1|
+|Schouwenbank 2 boei|SCB2|
+|Schaar Stroomgat|SCHS|
+|Schulpengat|SGAT|
+|Schiermonnikoog Noord boe|SMN1|
+|Schiermonnikoog Westgat b|SMWG|
+|Stortemelk boei|STM1|
+|Stortemelk Oost|STMO1|
+|Westereems Oost boei|WEO1|
+|Westereems West boei|WEW1|
+|Wielingen Noord|WIEL|
 
 
-_generated on 06-12-2023_
+
+
+_generated on 13-09-2024_

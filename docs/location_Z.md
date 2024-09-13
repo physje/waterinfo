@@ -17,9 +17,9 @@ location-code : ZBWI
 
 |Measurement|measurement-code|
 |---|---|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
 |10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
+|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
 |Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
 
 ## Zijkanaal C (NAP -140) ##
@@ -27,20 +27,20 @@ location-code : ZC14
 
 |Measurement|measurement-code|
 |---|---|
+|Saliniteit Oppervlaktewater |SALNTT|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Temperatuur Oppervlaktewater oC|T|
-|Saliniteit Oppervlaktewater |SALNTT|
 
 ## Zijkanaal C (NAP -440) ##
 location-code : ZC44
 
 |Measurement|measurement-code|
 |---|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |Saliniteit Oppervlaktewater |SALNTT|
 |Temperatuur Oppervlaktewater oC|T|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
 
 ## Zandkreekdam ##
 location-code : ZKD
@@ -79,4 +79,4 @@ location-code : ZWBU
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 
 
-_generated on 06-12-2023_
+_generated on 13-09-2024_

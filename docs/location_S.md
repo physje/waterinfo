@@ -263,15 +263,15 @@ location-code : SCB2
 
 |Measurement|measurement-code|
 |---|---|
-|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
-|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
 |Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
 |Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
+|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
+|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
 
 ## Schaar van de Noord ##
 location-code : SCHAARVDND
@@ -299,6 +299,7 @@ location-code : SCHH
 
 |Measurement|measurement-code|
 |---|---|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 
 ## Schiermonnikoog ##
@@ -306,14 +307,14 @@ location-code : SCHI
 
 |Measurement|measurement-code|
 |---|---|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
 |Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
 |Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
 
 ## Schiermonnikoog ##
 location-code : SCHIERMNOG
@@ -329,22 +330,22 @@ location-code : SCHOONHVN
 |---|---|
 |Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
 
-## Schouwenbank Stroomgat ##
+## Schaar Stroomgat ##
 location-code : SCHS
 
 |Measurement|measurement-code|
 |---|---|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
+|Temperatuur Oppervlaktewater oC|T|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
 |Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
 |Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
+|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
 |Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
 |Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
-|Temperatuur Oppervlaktewater oC|T|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
 |Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
 
 ## Schellingwouderbrug ##
@@ -366,16 +367,23 @@ location-code : SGAT
 
 |Measurement|measurement-code|
 |---|---|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
+|Temperatuur Oppervlaktewater oC|T|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
 |Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
 |Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Temperatuur Oppervlaktewater oC|T|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
-|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
-|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
 |Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
+|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
+|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
+
+## Sheerness ##
+location-code : SHEERNS
+
+|Measurement|measurement-code|
+|---|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
 
 ## Sluis Helmond boven ##
 location-code : SHMB
@@ -389,8 +397,8 @@ location-code : SINT
 
 |Measurement|measurement-code|
 |---|---|
-|Debiet Oppervlaktewater m3/s|Q|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Debiet Oppervlaktewater m3/s|Q|
 
 ## Sint Annaland Haven Steiger ##
 location-code : SINTANLHVSGR
@@ -404,20 +412,20 @@ location-code : SKNDb
 
 |Measurement|measurement-code|
 |---|---|
-|Saliniteit Oppervlaktewater |SALNTT|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Temperatuur Oppervlaktewater oC|T|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Saliniteit Oppervlaktewater |SALNTT|
 
 ## Slaak Noord midden ##
 location-code : SKNDm
 
 |Measurement|measurement-code|
 |---|---|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
+|Saliniteit Oppervlaktewater |SALNTT|
 |Temperatuur Oppervlaktewater oC|T|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Saliniteit Oppervlaktewater |SALNTT|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
 
 ## Slaak Noord onder ##
 location-code : SKNDo
@@ -426,28 +434,28 @@ location-code : SKNDo
 |---|---|
 |Saliniteit Oppervlaktewater |SALNTT|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Temperatuur Oppervlaktewater oC|T|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 
 ## Slaak Oost ##
 location-code : SKOT
 
 |Measurement|measurement-code|
 |---|---|
-|Saliniteit Oppervlaktewater |SALNTT|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Temperatuur Oppervlaktewater oC|T|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Saliniteit Oppervlaktewater |SALNTT|
+|Temperatuur Oppervlaktewater oC|T|
 
 ## Slaak Zuid ##
 location-code : SKZD
 
 |Measurement|measurement-code|
 |---|---|
+|Temperatuur Oppervlaktewater oC|T|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Saliniteit Oppervlaktewater |SALNTT|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
-|Temperatuur Oppervlaktewater oC|T|
 
 ## Slochtersluis boven ##
 location-code : SLBV
@@ -496,24 +504,24 @@ location-code : SMEE
 
 |Measurement|measurement-code|
 |---|---|
-|Debiet Oppervlaktewater m3/s|Q|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 |Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
+|Debiet Oppervlaktewater m3/s|Q|
 
 ## Schiermonnikoog Noord boe ##
 location-code : SMN1
 
 |Measurement|measurement-code|
 |---|---|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
 |Temperatuur Oppervlaktewater oC|T|
 |Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
 |Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
+|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
 
 ## Schiermonnikoog Westgat b ##
@@ -521,15 +529,15 @@ location-code : SMWG
 
 |Measurement|measurement-code|
 |---|---|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
-|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
 |Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
+|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
 |Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
 |Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
 
 ## Spuisluis Oude Eemskanaal ##
 location-code : SOEB
@@ -543,10 +551,10 @@ location-code : SPA14
 
 |Measurement|measurement-code|
 |---|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Saliniteit Oppervlaktewater |SALNTT|
-|Temperatuur Oppervlaktewater oC|T|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
+|Temperatuur Oppervlaktewater oC|T|
 
 ## Spaarnd.polder NAP -6.4m ##
 location-code : SPA64
@@ -554,9 +562,9 @@ location-code : SPA64
 |Measurement|measurement-code|
 |---|---|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |Temperatuur Oppervlaktewater oC|T|
 |Saliniteit Oppervlaktewater |SALNTT|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
 
 ## Spooldersluis binnen ##
 location-code : SPBI
@@ -577,24 +585,24 @@ location-code : SPE
 
 |Measurement|measurement-code|
 |---|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
-|Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
-|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-|Temperatuur Oppervlaktewater oC|T|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
-|Saliniteit Oppervlaktewater |SALNTT|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
 |Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
+|Temperatuur Oppervlaktewater oC|T|
+|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
+|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
+|Saliniteit Oppervlaktewater |SALNTT|
 |Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
 
 ## Panheel boven - ZWV ##
 location-code : SPHB
@@ -608,31 +616,34 @@ location-code : SPI25
 
 |Measurement|measurement-code|
 |---|---|
+|Temperatuur Oppervlaktewater oC|T|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
-|Temperatuur Oppervlaktewater oC|T|
 
 ## Spijkenisserbrug NAP-4.5m ##
 location-code : SPI45
 
 |Measurement|measurement-code|
 |---|---|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Temperatuur Oppervlaktewater oC|T|
 
 ## Spijkenisserbrug NAP-9.0m ##
 location-code : SPI90
 
 |Measurement|measurement-code|
 |---|---|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |Temperatuur Oppervlaktewater oC|T|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
 
 ## Spijkenisse ##
 location-code : SPIJ
 
 |Measurement|measurement-code|
 |---|---|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 
 ## Spijkenisse ##
@@ -654,9 +665,9 @@ location-code : SPU10
 
 |Measurement|measurement-code|
 |---|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |Temperatuur Oppervlaktewater oC|T|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 
 ## Middelharnis Spui NAP -5m ##
 location-code : SPU50
@@ -679,38 +690,46 @@ location-code : SPUIb
 
 |Measurement|measurement-code|
 |---|---|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Temperatuur Oppervlaktewater oC|T|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
 
 ## Bathse spuikan. Inloop (o ##
 location-code : SPUIo
 
 |Measurement|measurement-code|
 |---|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |Temperatuur Oppervlaktewater oC|T|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 
 ## IJgeul stroommeetpaal ##
 location-code : SPY
 
 |Measurement|measurement-code|
 |---|---|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
 |Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
 |Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
-|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
 |Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
 |Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
 |10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
+|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
 |Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
+
+## IJgeul SMP 2 (bus) ##
+location-code : SPY2
+
+|Measurement|measurement-code|
+|---|---|
+|Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
+|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
 
 ## Sluis Schijndel boven ##
 location-code : SSHB
@@ -752,11 +771,12 @@ location-code : STAV
 
 |Measurement|measurement-code|
 |---|---|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
 |Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
 |Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
 
 ## Stavenisse ##
 location-code : STAVNSE
@@ -770,18 +790,18 @@ location-code : STB02
 
 |Measurement|measurement-code|
 |---|---|
-|Temperatuur Oppervlaktewater oC|T|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
+|Temperatuur Oppervlaktewater oC|T|
 
 ## Stellendam binnen WS-6m ##
 location-code : STB06
 
 |Measurement|measurement-code|
 |---|---|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |Temperatuur Oppervlaktewater oC|T|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
 
 ## Stellendam binnen WS-11m ##
 location-code : STB11
@@ -797,20 +817,20 @@ location-code : STBUb
 
 |Measurement|measurement-code|
 |---|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Saliniteit Oppervlaktewater |SALNTT|
-|Temperatuur Oppervlaktewater oC|T|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
+|Temperatuur Oppervlaktewater oC|T|
 
 ## Stellendam buiten onder ##
 location-code : STBUo
 
 |Measurement|measurement-code|
 |---|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Saliniteit Oppervlaktewater |SALNTT|
 |Temperatuur Oppervlaktewater oC|T|
+|Saliniteit Oppervlaktewater |SALNTT|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 
 ## De Steeg ##
 location-code : STEE
@@ -824,6 +844,7 @@ location-code : STEL
 
 |Measurement|measurement-code|
 |---|---|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 
 ## Stellendam buiten ##
@@ -852,30 +873,30 @@ location-code : STM1
 
 |Measurement|measurement-code|
 |---|---|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
-|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
 |Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
 |Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
 |Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
+|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
 |Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
 
 ## Stortemelk Oost ##
 location-code : STMO1
 
 |Measurement|measurement-code|
 |---|---|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
 |Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
 |Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
-|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
+|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
 
 ## Steenenmuur ##
 location-code : STMR
@@ -884,14 +905,21 @@ location-code : STMR
 |---|---|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 
+## Stornoway ##
+location-code : STORNWY
+
+|Measurement|measurement-code|
+|---|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+
 ## Stavoren ##
 location-code : STVO
 
 |Measurement|measurement-code|
 |---|---|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
 |Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
 |Temperatuur Lucht oC|T|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
 
 ## Surinamekade ##
 location-code : SURI
@@ -919,10 +947,10 @@ location-code : SWB28
 
 |Measurement|measurement-code|
 |---|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Saliniteit Oppervlaktewater |SALNTT|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |Temperatuur Oppervlaktewater oC|T|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 
 
-_generated on 06-12-2023_
+_generated on 13-09-2024_

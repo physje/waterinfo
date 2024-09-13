@@ -9,11 +9,13 @@ measurement-code : LUCHTDK
 
 |Location|location-code|
 |---|---|
+|AWG platform|AWG|
 |Borssele Alpha|BSA|
-|D15 platform|D15|
+|Platform D15-A|D15|
 |Europlatform|EPL|
-|F3 platform|F3|
 |Gannet platform 1|GAN1|
+|Hollandse Kust Noord|HKN|
+|Hollandse Kust West Alpha|HKWA|
 |Platform HKZA|HKZA|
 |J6 platform|J6|
 |K13 Alpha|K13|
@@ -27,4 +29,4 @@ measurement-code : LUCHTDK
 
 
 
-_generated on 06-12-2023_
+_generated on 13-09-2024_

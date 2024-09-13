@@ -26,7 +26,6 @@ measurement-code : CONCTTE
 |Brienenoordbrug NAP-6.5 m|BRB65|
 |Diemen (NAP -1.4m)|DIE14|
 |Diemen (NAP -6.5m)|DIE65|
-|Rotterdamse hoek|FL02|
 |Friese kust|FL09|
 |Andijk|FL38|
 |Markermeer Midden -b|FL42b|
@@ -77,7 +76,9 @@ measurement-code : CONCTTE
 |Kier 3B WP10 -2mWS|KR3b|
 |Kier 3M WP10 -9mWS|KR3m|
 |Kier 3O WP10 -16mWS|KR3o|
+|KIER 4B WP12 -10mWS|KR4b|
 |KIER 4M WP12 -11mWS|KR4m|
+|KIER 4O WP12 -12mWS|KR4o|
 |Krammer Laagbekken  (b)|KRBLb|
 |Krammer Laagbekken (o)|KRBLo|
 |Krammer Noord|KRND|
@@ -90,6 +91,8 @@ measurement-code : CONCTTE
 |Lekhaven NAP -2.5m|LEK25|
 |Lekhaven NAP -5.0m|LEK50|
 |Lekhaven NAP -7.0m|LEK70|
+|Lobith|LOBM|
+|Teroelsterkolk buiten|LTRY|
 |sluis Makkum buiten -130|MAKBb|
 |sluis Makkum buiten -180|MAKBo|
 |Middelharnis MB NAP -2m|MH020|
@@ -138,6 +141,8 @@ measurement-code : CONCTTE
 |Schellingw.brug NAP -2.8m|SWB28|
 |Terneuzen Westsluis ZZ (b|TWZZb|
 |Terneuzen Westsluis ZZ (o|TWZZo|
+|Trintelzand boven|TZNDb|
+|Trintelzand onder|TZNDo|
 |Volkerak Galathee (b)|VKb|
 |Volkerak Galathee (o)|VKo|
 |Velserkom b WS3 -1|VLSKb|
@@ -159,4 +164,4 @@ measurement-code : CONCTTE
 
 
 
-_generated on 06-12-2023_
+_generated on 13-09-2024_

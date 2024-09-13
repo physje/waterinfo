@@ -40,6 +40,7 @@ location-code : TERN
 |Measurement|measurement-code|
 |---|---|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
 
 ## Terneuzen ##
 location-code : TERNZN
@@ -54,11 +55,12 @@ location-code : TERS
 |Measurement|measurement-code|
 |---|---|
 |Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
 |Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
 |Temperatuur Lucht oC|T|
+|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
 
 ## Terschelling Noordzee ##
 location-code : TERSLNZE
@@ -73,6 +75,7 @@ location-code : TEXE
 |Measurement|measurement-code|
 |---|---|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
 
 ## Texel Noordzee ##
 location-code : TEXNZE
@@ -107,7 +110,14 @@ location-code : TIEW
 
 |Measurement|measurement-code|
 |---|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 |Debiet Oppervlaktewater m3/s|Q|
+
+## t Kooike ##
+location-code : TKKE
+
+|Measurement|measurement-code|
+|---|---|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 
 ## Terneuzen Westsluis ##
@@ -116,9 +126,9 @@ location-code : TNWS
 |Measurement|measurement-code|
 |---|---|
 |10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
 |Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
 |Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
+|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
 
 ## Inlaat Teersesluispolder ##
 location-code : TPOL
@@ -146,19 +156,19 @@ location-code : TWZZb
 
 |Measurement|measurement-code|
 |---|---|
-|Temperatuur Oppervlaktewater oC|T|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
 |Saliniteit Oppervlaktewater |SALNTT|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Temperatuur Oppervlaktewater oC|T|
 
 ## Terneuzen Westsluis ZZ (o ##
 location-code : TWZZo
 
 |Measurement|measurement-code|
 |---|---|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Saliniteit Oppervlaktewater |SALNTT|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |Temperatuur Oppervlaktewater oC|T|
 
 ## Trintelzand ##
@@ -166,10 +176,37 @@ location-code : TZND
 
 |Measurement|measurement-code|
 |---|---|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
 |Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
 |Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+
+## Trintelzand boven ##
+location-code : TZNDb
+
+|Measurement|measurement-code|
+|---|---|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Temperatuur Oppervlaktewater oC|T|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
+|Saliniteit Oppervlaktewater |SALNTT|
+
+## Trintelzand onder ##
+location-code : TZNDo
+
+|Measurement|measurement-code|
+|---|---|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
+|Temperatuur Oppervlaktewater oC|T|
+|Saliniteit Oppervlaktewater |SALNTT|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 
 
-_generated on 06-12-2023_
+_generated on 13-09-2024_

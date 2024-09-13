@@ -27,7 +27,6 @@ measurement-code : GELDHD
 |Brienenoordbrug NAP-6.5 m|BRB65|
 |Diemen (NAP -1.4m)|DIE14|
 |Diemen (NAP -6.5m)|DIE65|
-|Rotterdamse hoek|FL02|
 |Friese kust|FL09|
 |Andijk|FL38|
 |Markermeer Midden -b|FL42b|
@@ -53,7 +52,7 @@ measurement-code : GELDHD
 |KrammersluisOZ1o -5.5mWS|KO1o|
 |Kwdznd Mg b(-2mWS)|KOMb|
 |Kwdznd Mg mb(-5mWS)|KOMmb|
-|Kwdznd Mg mo(-6mWS)|KOMmo|
+|Kwdznd mg o(-7mWS)|KOMo|
 |Kwdznd sp b(-1,5mNAP)|KOSb|
 |Kwdznd sp m(-6mNAP)|KOSm|
 |Kwdznd sp mb(-4,5mNAP)|KOSmb|
@@ -62,7 +61,6 @@ measurement-code : GELDHD
 |Kwdznd vg b(-2mNAP)|KOVb|
 |Kwdznd vg mb(-5mNAP)|KOVmb|
 |Kwdznd vg mo(-7mNAP)|KOVmo|
-|Kwdznd vg o(-8,5mNAP)|KOVo|
 |Krammerput Boven -1,5m|KPTb|
 |Krammerput Midden_b -8,0m|KPTmb|
 |Krammerput Midden_o -10,0|KPTmo|
@@ -76,6 +74,9 @@ measurement-code : GELDHD
 |Kier 3B WP10 -2mWS|KR3b|
 |Kier 3M WP10 -9mWS|KR3m|
 |Kier 3O WP10 -16mWS|KR3o|
+|KIER 4B WP12 -10mWS|KR4b|
+|KIER 4M WP12 -11mWS|KR4m|
+|KIER 4O WP12 -12mWS|KR4o|
 |Krammer Laagbekken  (b)|KRBLb|
 |Krammer Laagbekken (o)|KRBLo|
 |Krammer Noord|KRND|
@@ -118,6 +119,7 @@ measurement-code : GELDHD
 |Spaarnd.polder NAP -6.4m|SPA64|
 |Stroommeetpaal Eemshaven|SPE|
 |Spijkenisserbrug NAP-2.5m|SPI25|
+|Spijkenisserbrug NAP-4.5m|SPI45|
 |Spijkenisserbrug NAP-9.0m|SPI90|
 |Middelharnis Spui NAP -1m|SPU10|
 |Middelharnis Spui NAP -5m|SPU50|
@@ -131,6 +133,8 @@ measurement-code : GELDHD
 |Schellingw.brug NAP -2.8m|SWB28|
 |Terneuzen Westsluis ZZ (b|TWZZb|
 |Terneuzen Westsluis ZZ (o|TWZZo|
+|Trintelzand boven|TZNDb|
+|Trintelzand onder|TZNDo|
 |Volkerak Galathee (b)|VKb|
 |Volkerak Galathee (o)|VKo|
 |Velserkom b WS3 -1|VLSKb|
@@ -144,10 +148,12 @@ measurement-code : GELDHD
 |Volkerak Noord (o)|VOLKo|
 |Nieuw Vossemeer (b)|VOSMb|
 |Nieuw Vossemeer (o)|VOSMo|
+|Vlakte v/d Raan (b)|VRb|
+|Vlakte v/d Raan (o)|VRo|
 |Zijkanaal C (NAP -140)|ZC14|
 |Zijkanaal C (NAP -440)|ZC44|
 
 
 
 
-_generated on 06-12-2023_
+_generated on 13-09-2024_

@@ -18,9 +18,9 @@ location-code : MAAR
 
 |Measurement|measurement-code|
 |---|---|
-|Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 |Debiet Oppervlaktewater m3/s|Q|
+|Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
 |Temperatuur Oppervlaktewater oC|T|
 
 ## Maassluis ##
@@ -28,14 +28,8 @@ location-code : MAAS
 
 |Measurement|measurement-code|
 |---|---|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-
-## Maassluis ##
-location-code : MAASSS
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
 
 ## Maeslantkering zeezijde ##
 location-code : MAESLKRZZDE
@@ -49,8 +43,8 @@ location-code : MAKBb
 
 |Measurement|measurement-code|
 |---|---|
-|Temperatuur Oppervlaktewater oC|T|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Temperatuur Oppervlaktewater oC|T|
 
 ## sluis Makkum buiten -180 ##
 location-code : MAKBo
@@ -64,9 +58,9 @@ location-code : MARK
 
 |Measurement|measurement-code|
 |---|---|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
 |Temperatuur Lucht oC|T|
 |Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
 
 ## Markelose brug ##
 location-code : MARKB
@@ -95,8 +89,8 @@ location-code : MEGE
 
 |Measurement|measurement-code|
 |---|---|
-|Debiet Oppervlaktewater m3/s|Q|
 |Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
+|Debiet Oppervlaktewater m3/s|Q|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 
 ## Meppelerdiep km 2.5 ##
@@ -104,9 +98,9 @@ location-code : MEP25
 
 |Measurement|measurement-code|
 |---|---|
-|Debiet Oppervlaktewater m3/s|Q|
 |Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Debiet Oppervlaktewater m3/s|Q|
 
 ## Middelharnis MB NAP -2m ##
 location-code : MH020
@@ -114,16 +108,16 @@ location-code : MH020
 |Measurement|measurement-code|
 |---|---|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Temperatuur Oppervlaktewater oC|T|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
+|Temperatuur Oppervlaktewater oC|T|
 
 ## Middelharnis MB NAP -8m ##
 location-code : MH080
 
 |Measurement|measurement-code|
 |---|---|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
 |Temperatuur Oppervlaktewater oC|T|
 
 ## Middelharnis MB NAP -15m ##
@@ -154,28 +148,28 @@ location-code : MLK1
 
 |Measurement|measurement-code|
 |---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
 |Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
 |Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
 |Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
 
 ## Maeslantkering zeezijde Z ##
 location-code : MLK2
 
 |Measurement|measurement-code|
 |---|---|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
 |Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
 
 ## Maeslantkering geleidetor ##
 location-code : MLKZ
@@ -183,23 +177,23 @@ location-code : MLKZ
 |Measurement|measurement-code|
 |---|---|
 |10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
 |Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
 |Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
 
 ## Maasgeul Maasvlakte Noord ##
 location-code : MMND
 
 |Measurement|measurement-code|
 |---|---|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
 |Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
 |Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
-|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
 |Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
+|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
+|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
 |Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
 
 ## Maasmond Papegaaiebek ##
@@ -214,18 +208,18 @@ location-code : MNHV
 
 |Measurement|measurement-code|
 |---|---|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
 |Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
 |Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
+|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
+|Temperatuur Oppervlaktewater oC|T|
 |Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
 |Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
 |Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
-|Temperatuur Oppervlaktewater oC|T|
-|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
 
 ## Moerdijkbrug 000 ##
 location-code : MO000
@@ -264,16 +258,16 @@ location-code : MO060
 
 |Measurement|measurement-code|
 |---|---|
-|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
 |Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
+|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
 
 ## Moerdijkbrug 075 ##
 location-code : MO075
 
 |Measurement|measurement-code|
 |---|---|
-|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
 |Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
+|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
 
 ## Moerdijkbrug 090 ##
 location-code : MO090
@@ -296,8 +290,8 @@ location-code : MO120
 
 |Measurement|measurement-code|
 |---|---|
-|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
 |Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
+|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
 
 ## Moerdijkbrug 135 ##
 location-code : MO135
@@ -320,8 +314,8 @@ location-code : MO165
 
 |Measurement|measurement-code|
 |---|---|
-|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
 |Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
+|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
 
 ## Moerdijkbrug 180 ##
 location-code : MO180
@@ -336,16 +330,16 @@ location-code : MO195
 
 |Measurement|measurement-code|
 |---|---|
-|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
 |Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
+|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
 
 ## Moerdijkbrug 210 ##
 location-code : MO210
 
 |Measurement|measurement-code|
 |---|---|
-|Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
 |Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
+|Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
 
 ## Moerdijkbrug 225 ##
 location-code : MO225
@@ -368,16 +362,16 @@ location-code : MO255
 
 |Measurement|measurement-code|
 |---|---|
-|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
 |Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
+|Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
 
 ## Moerdijkbrug 270 ##
 location-code : MO270
 
 |Measurement|measurement-code|
 |---|---|
-|Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
 |Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
+|Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
 
 ## Moerdijkbrug 285 ##
 location-code : MO285
@@ -392,14 +386,15 @@ location-code : MO300
 
 |Measurement|measurement-code|
 |---|---|
-|Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
 |Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad|STROOMRTG|
+|Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
 
 ## Moerdijk ##
 location-code : MOER
 
 |Measurement|measurement-code|
 |---|---|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
 
 ## Moerdijk ##
@@ -428,27 +423,28 @@ location-code : MRG
 
 |Measurement|measurement-code|
 |---|---|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
 |Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
 |Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
 
 ## Marollegat (b) ##
 location-code : MRGb
 
 |Measurement|measurement-code|
 |---|---|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
 |Temperatuur Oppervlaktewater oC|T|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
 |Saliniteit Oppervlaktewater |SALNTT|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Geleidendheid Oppervlaktewater S/m|GELDHD|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
 
 ## Marollegat (o) ##
 location-code : MRGo
@@ -470,9 +466,9 @@ location-code : MUIB
 
 |Measurement|measurement-code|
 |---|---|
+|Saliniteit Oppervlaktewater |SALNTT|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
 |Temperatuur Oppervlaktewater oC|T|
-|Saliniteit Oppervlaktewater |SALNTT|
 |Geleidendheid Oppervlaktewater S/m|GELDHD|
 
 ## IJgeul Munitiestort 1 ##
@@ -480,13 +476,13 @@ location-code : MUN1
 
 |Measurement|measurement-code|
 |---|---|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
 |Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
+|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
 |Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
 |Temperatuur Oppervlaktewater oC|T|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
 |Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
 |Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
 |Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
@@ -496,13 +492,13 @@ location-code : MUN2
 
 |Measurement|measurement-code|
 |---|---|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
 |Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
 |Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
 
 ## Maasvlakte Slufter ##
 location-code : MVSL
@@ -512,4 +508,4 @@ location-code : MVSL
 |Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|ZICHT|
 
 
-_generated on 06-12-2023_
+_generated on 13-09-2024_
