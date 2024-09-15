@@ -13,9 +13,19 @@ from homeassistant.core import HomeAssistant
 from homeassistant.data_entry_flow import FlowResult
 from homeassistant.exceptions import HomeAssistantError
 
-from .const import (CONST_CODE, CONST_MEASUREMENT, CONST_MEASUREMENT_DESCR,
-                    CONST_NAME, CONST_PROPERTY, CONST_UNIT, CONST_X, CONST_Y,
-                    DOMAIN)
+from .const import (
+    CONST_CODE,
+    CONST_COORD,
+    CONST_MEASUREMENT,
+    CONST_MEASUREMENT_DESCR,
+    CONST_NAME,
+    CONST_PAREMETER_DESCR,
+    CONST_PROPERTY,
+    CONST_UNIT,
+    CONST_X,
+    CONST_Y,
+    DOMAIN,
+)
 
 _LOGGER = logging.getLogger(__name__)
 
@@ -57,18 +67,8 @@ def validate_location(data) -> dict:
     data[CONST_X] = selected_location["X"]
     data[CONST_Y] = selected_location["Y"]
     data[CONST_PROPERTY] = selected_location["Hoedanigheid.Code"]
-
-    # data[] = selected_location["Coordinatenstelsel"]
-    # data[] = selected_location["Naam"]
-    # data[] = selected_location["Parameter_Wat_Omschrijving"]
-
-    # Code -> CONST_CODE
-    # X -> CONST_X
-    # Y -> CONST_Y
-    # Eenheid.Code -> CONST_UNIT
-    # Grootheid.Code -> CONST_MEASUREMENT
-    # Grootheid.Omschrijving -> CONST_MEASUREMENT_DESCR
-    # Hoedanigheid.Code -> CONST_PROPERTY
+    data[CONST_COORD] = selected_location["Coordinatenstelsel"]
+    data[CONST_PAREMETER_DESCR] = selected_location["Parameter_Wat_Omschrijving"]
 
     _LOGGER.info(
         "Made sensor for %s (location %s, measurement %s)",
