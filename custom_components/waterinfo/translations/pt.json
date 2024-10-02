@@ -1,0 +1,13 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "data": {
+                    "code": "Código para a localização",
+                    "grootheid": "Código para a medição"
+                },
+                "description": "Introduza os códigos de localização e medição. Veja [GitHub](https://github.com/physje/waterinfo/tree/master/docs) para obter os códigos"
+            }
+        }
+    }
+}
