@@ -186,12 +186,16 @@ def collectObservation(data) -> dict:
 
     observation = ddlpy.measurements_latest(data)
 
-    if "Meetwaarde.Waarde_Numeriek" in observation.columns:
-        meetwaarde = observation["Meetwaarde.Waarde_Numeriek"].iloc[0]
-    else:
-        meetwaarde = observation["Meetwaarde.Waarde_Alfanumeriek"].iloc[0]
+    index = len(observation)
 
-    tijdstip_datetime = dt.strptime(observation["Tijdstip"].iloc[0], '%Y-%m-%dT%H:%M:%S.%f%z')
+    if "Meetwaarde.Waarde_Numeriek" in observation.columns:
+        meetwaarde = observation["Meetwaarde.Waarde_Numeriek"].iloc[(index - 1)]
+    else:
+        meetwaarde = observation["Meetwaarde.Waarde_Alfanumeriek"].iloc[(index - 1)]
+
+    tijdstip_datetime = dt.strptime(
+        observation["Tijdstip"].iloc[(index - 1)], "%Y-%m-%dT%H:%M:%S.%f%z"
+    )
 
     data["observation"] = meetwaarde
     data["tijdstip"] = tijdstip_datetime
