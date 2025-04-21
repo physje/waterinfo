@@ -6,265 +6,153 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 
 
 ## Rak Noord ##
-location-code : RAKN
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Rak noord ##
-location-code : RAKND
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+|Measurement|
+|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Rak Zuid ##
-location-code : RAKZ
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-
-## Ramspolkering Ketelmeerzi ##
-location-code : RAMK
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Ramspolbrug ##
-location-code : RAMS
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Roermond boven temp ##
-location-code : ROEB
-
-|Measurement|measurement-code|
-|---|---|
-|Temperatuur Oppervlaktewater oC|T|
-
-## Roermond boven ##
-location-code : ROER
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
 
 ## Roggenplaat ##
-location-code : ROGP
-
-|Measurement|measurement-code|
-|---|---|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
-|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
+|Measurement|
+|---|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|
+|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|
 
 ## Roompot binnen ##
-location-code : ROOMPBNN
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+|Measurement|
+|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Roompot buiten ##
-location-code : ROOMPBTN
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+|Measurement|
+|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Rotterdam Luchthaven ##
-location-code : ROT1
-
-|Measurement|measurement-code|
-|---|---|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|Temperatuur Lucht oC|T|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
+|Measurement|
+|---|
+|Temperatuur Lucht oC|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
 
 ## Rotterdam Geulhaven ##
-location-code : ROT2
-
-|Measurement|measurement-code|
-|---|---|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
+|Measurement|
+|---|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
 
 ## Rotterdam ##
-location-code : ROTT
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-
-## Rotterdam ##
-location-code : ROTTDM
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+|Measurement|
+|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Rozenburgsesluis noordzijde ##
-location-code : ROZBSSNZDE
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+|Measurement|
+|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Rozenburgsesluis zuidzijde ##
-location-code : ROZBSSZZDE
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+|Measurement|
+|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Rozenburgse Sluis ##
-location-code : ROZS
-
-|Measurement|measurement-code|
-|---|---|
-|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|ZICHT|
+|Measurement|
+|---|
+|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|
 
 ## Beergat Radarpost 4 ##
-location-code : RP04
-
-|Measurement|measurement-code|
-|---|---|
-|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|ZICHT|
+|Measurement|
+|---|
+|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|
 
 ## Caland West Radarpost 5 ##
-location-code : RP05
-
-|Measurement|measurement-code|
-|---|---|
-|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|ZICHT|
+|Measurement|
+|---|
+|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|
 
 ## Caland Midden Radarpost 6 ##
-location-code : RP06
-
-|Measurement|measurement-code|
-|---|---|
-|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|ZICHT|
+|Measurement|
+|---|
+|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|
 
 ## Rozenburg Radarpost 8 ##
-location-code : RP08
-
-|Measurement|measurement-code|
-|---|---|
-|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|ZICHT|
+|Measurement|
+|---|
+|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|
 
 ## Geulhaven Radarpost 10 ##
-location-code : RP10
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|ZICHT|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
 
 ## Waalhaven Radarpost 19 ##
-location-code : RP19
-
-|Measurement|measurement-code|
-|---|---|
-|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|ZICHT|
+|Measurement|
+|---|
+|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|
 
 ## Kuip2 Radarpost 23 ##
-location-code : RP23
-
-|Measurement|measurement-code|
-|---|---|
-|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|ZICHT|
+|Measurement|
+|---|
+|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|
 
 ## Caland Oost Radarpost 32 ##
-location-code : RP32
-
-|Measurement|measurement-code|
-|---|---|
-|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|ZICHT|
-
-## Roompot binnen (SVKO) ##
-location-code : RPBI
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-
-## Roompot buiten (SVKO) ##
-location-code : RPBU
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|
 
 ## Roompotsluis (SVKO) ##
-location-code : RPSL
-
-|Measurement|measurement-code|
-|---|---|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
-
-## Rotem Maas ##
-location-code : RTEM
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-
-## Rotem Bichterweerd ##
-location-code : RTMB
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-
-## Reevesluis noord ##
-location-code : RVN
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-
-## Reevesluis zuid ##
-location-code : RVZ
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Randzelgat Noord boei ##
-location-code : RZGN1
-
-|Measurement|measurement-code|
-|---|---|
-|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
-|Temperatuur Oppervlaktewater oC|T|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
-|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
+|Measurement|
+|---|
+|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|
 
 
-_generated on 13-09-2024_
+_generated on 21-04-2025_

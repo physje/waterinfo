@@ -6,77 +6,48 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 
 
 ## Zaltbommel ##
-location-code : ZALT
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Zeelandbrug wind ##
-location-code : ZBWI
-
-|Measurement|measurement-code|
-|---|---|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-
-## Zijkanaal C (NAP -140) ##
-location-code : ZC14
-
-|Measurement|measurement-code|
-|---|---|
-|Saliniteit Oppervlaktewater |SALNTT|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Temperatuur Oppervlaktewater oC|T|
+|Measurement|
+|---|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|
 
 ## Zijkanaal C (NAP -440) ##
-location-code : ZC44
-
-|Measurement|measurement-code|
-|---|---|
-|Saliniteit Oppervlaktewater |SALNTT|
-|Temperatuur Oppervlaktewater oC|T|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
+|Measurement|
+|---|
+|Saliniteit Oppervlaktewater |
 
 ## Zandkreekdam ##
-location-code : ZKD
-
-|Measurement|measurement-code|
-|---|---|
-|Debiet Oppervlaktewater m3/s|Q|
+|Measurement|
+|---|
+|Debiet Oppervlaktewater m3/s|
 
 ## Zandkreekdam OS ##
-location-code : ZKO
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Zandkreekdam VM ##
-location-code : ZKV
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Zutphen Noord ##
-location-code : ZUTP
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Zwartsluis buiten ##
-location-code : ZWBU
-
-|Measurement|measurement-code|
-|---|---|
-|Temperatuur Oppervlaktewater oC|T|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Temperatuur Oppervlaktewater oC|
 
 
-_generated on 13-09-2024_
+_generated on 21-04-2025_

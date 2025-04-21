@@ -6,207 +6,128 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 
 
 ## Texelhors ##
-location-code : TEHO
-
-|Measurement|measurement-code|
-|---|---|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
+|Measurement|
+|---|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
 
 ## Tennesseehaven ##
-location-code : TENN
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-
-## Tennesseehaven ##
-location-code : TENNSHVN
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+|Measurement|
+|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Termunterzijl ##
-location-code : TERM
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Terneuzen ##
-location-code : TERN
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Terneuzen ##
-location-code : TERNZN
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+|Measurement|
+|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Terschelling Noordzee ##
-location-code : TERS
-
-|Measurement|measurement-code|
-|---|---|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
-|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
-|Temperatuur Lucht oC|T|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
+|Measurement|
+|---|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
+|Temperatuur Lucht oC|
 
 ## Terschelling Noordzee ##
-location-code : TERSLNZE
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+|Measurement|
+|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Texel Noordzee ##
-location-code : TEXE
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Texel Noordzee ##
-location-code : TEXNZE
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
-
-## Terherne Boezem Oostzijde ##
-location-code : THBO
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-
-## Terherne Boezem Westzijde ##
-location-code : THBW
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Tiel Kanaal ##
-location-code : TIEK
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Tiel Waal ##
-location-code : TIEW
+|Measurement|
+|---|
+|Debiet Oppervlaktewater m3/s|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-|Debiet Oppervlaktewater m3/s|Q|
-
-## t Kooike ##
-location-code : TKKE
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+## Tiel Waal (RAM) ##
+|Measurement|
+|---|
+|Debiet Oppervlaktewater m3/s|
 
 ## Terneuzen Westsluis ##
-location-code : TNWS
-
-|Measurement|measurement-code|
-|---|---|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
+|Measurement|
+|---|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
 
 ## Inlaat Teersesluispolder ##
-location-code : TPOL
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-
-## Breda Trambrug ##
-location-code : TRMB
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Terneuzen Westsluis ZZ ##
-location-code : TWZZ
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Terneuzen Westsluis ZZ (b ##
-location-code : TWZZb
-
-|Measurement|measurement-code|
-|---|---|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
-|Saliniteit Oppervlaktewater |SALNTT|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Temperatuur Oppervlaktewater oC|T|
-
-## Terneuzen Westsluis ZZ (o ##
-location-code : TWZZo
-
-|Measurement|measurement-code|
-|---|---|
-|Saliniteit Oppervlaktewater |SALNTT|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
-|Temperatuur Oppervlaktewater oC|T|
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
+|Saliniteit Oppervlaktewater |
+|Geleidendheid Oppervlaktewater S/m|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
 
 ## Trintelzand ##
-location-code : TZND
-
-|Measurement|measurement-code|
-|---|---|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
+|Measurement|
+|---|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|
 
 ## Trintelzand boven ##
-location-code : TZNDb
-
-|Measurement|measurement-code|
-|---|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Temperatuur Oppervlaktewater oC|T|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
-|Saliniteit Oppervlaktewater |SALNTT|
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
+|Geleidendheid Oppervlaktewater S/m|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Saliniteit Oppervlaktewater |
 
 ## Trintelzand onder ##
-location-code : TZNDo
-
-|Measurement|measurement-code|
-|---|---|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
-|Temperatuur Oppervlaktewater oC|T|
-|Saliniteit Oppervlaktewater |SALNTT|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Measurement|
+|---|
+|Geleidendheid Oppervlaktewater S/m|
+|Saliniteit Oppervlaktewater |
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
 
 
-_generated on 13-09-2024_
+_generated on 21-04-2025_

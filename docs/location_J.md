@@ -6,25 +6,19 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 
 
 ## J6 platform ##
-location-code : J6
-
-|Measurement|measurement-code|
-|---|---|
-|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|ZICHT|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
-|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm|WATHTBRKD|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
-|Luchtdruk Lucht hPa|LUCHTDK|
-|Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm|WATHTE|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
-|Temperatuur Lucht oC|T|
+|Measurement|
+|---|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm|
+|Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm|
+|Temperatuur Lucht oC|
+|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|
+|Luchtdruk Lucht hPa|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|
 
 
-_generated on 13-09-2024_
+_generated on 21-04-2025_

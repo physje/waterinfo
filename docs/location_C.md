@@ -5,82 +5,34 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 # Locations with the letter C #
 
 
-## Cadzand boei ##
-location-code : CADW
-
-|Measurement|measurement-code|
-|---|---|
-|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|Th3|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Gemiddelde golfrichting in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|Th0|
+## Cadzand ##
+|Measurement|
+|---|
+|Temperatuur Lucht oC|
 
 ## Cadzand ##
-location-code : CADZ
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
-|Temperatuur Lucht oC|T|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-
-## Cadzand ##
-location-code : CADZD
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+|Measurement|
+|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Cadzand wind ##
-location-code : CAWI
-
-|Measurement|measurement-code|
-|---|---|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
+|Measurement|
+|---|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|
 
 ## Geul Cotessen ##
-location-code : COTS
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-|Debiet Oppervlaktewater m3/s|Q|
+|Measurement|
+|---|
+|Debiet Oppervlaktewater m3/s|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Crevecoeur ##
-location-code : CREV
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-
-## Cromer ##
-location-code : CROMR
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
-
-## Culemborg brug ##
-location-code : CULB
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-
-## Cuxhaven ##
-location-code : CUXHVN
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 
-_generated on 13-09-2024_
+_generated on 21-04-2025_

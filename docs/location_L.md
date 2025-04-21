@@ -6,276 +6,143 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 
 
 ## L9 platform ##
-location-code : L9
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
-|Temperatuur Lucht oC|T|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm|WATHTE|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Luchtdruk Lucht hPa|LUCHTDK|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
+|Measurement|
+|---|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|Temperatuur Lucht oC|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|
+|Luchtdruk Lucht hPa|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|
 
 ## L9 platform ##
-location-code : L9PFM
+|Measurement|
+|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm|
 
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm|WATHTBRKD|
-
-## Lauwersoog ##
-location-code : LAUW
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|Temperatuur Lucht oC|T|
+## Lanaken ##
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Lauwersoog ##
-location-code : LAUWOG
+|Measurement|
+|---|
+|Temperatuur Lucht oC|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
 
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
-
-## Lemmer Boezem ##
-location-code : LBOE
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+## Lauwersoog ##
+|Measurement|
+|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Leeuwarden ##
-location-code : LEEU
-
-|Measurement|measurement-code|
-|---|---|
-|Temperatuur Oppervlaktewater oC|T|
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
 
 ## Lichteiland Goeree ##
-location-code : LEG
-
-|Measurement|measurement-code|
-|---|---|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|HTE3|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|Temperatuur Oppervlaktewater oC|T|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|H1/3|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|Tm02|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|Fp|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
-|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|Hm0|
-|Luchtdruk Lucht hPa|LUCHTDK|
-|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|ZICHT|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|TE3|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|T1/3|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
-
-## Leith ##
-location-code : LEITH
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
-
-## Lekhaven NAP -2.5m ##
-location-code : LEK25
-
-|Measurement|measurement-code|
-|---|---|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-|Temperatuur Oppervlaktewater oC|T|
-
-## Lekhaven NAP -5.0m ##
-location-code : LEK50
-
-|Measurement|measurement-code|
-|---|---|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
-|Temperatuur Oppervlaktewater oC|T|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-
-## Lekhaven NAP -7.0m ##
-location-code : LEK70
-
-|Measurement|measurement-code|
-|---|---|
-|Temperatuur Oppervlaktewater oC|T|
-|Geleidendheid Oppervlaktewater S/m|GELDHD|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
-
-## Lemmer ##
-location-code : LEMM
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|
+|Temperatuur Oppervlaktewater oC|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|
+|Luchtdruk Lucht hPa|
+|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
 
 ## Lage Licht ##
-location-code : LGL1
-
-|Measurement|measurement-code|
-|---|---|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|WINDSTOOT|
-|Windrichting Lucht t.o.v. ware Noorden in graad|WINDRTG|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|WINDSHD|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|WS10|
+|Measurement|
+|---|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|
 
 ## Lichteiland Goeree ##
-location-code : LICHTELGRE
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm|WATHTBRKD|
-
-## Liefkenshoek ##
-location-code : LIEF
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-
-## Lemmer IJsselmeer ##
-location-code : LIJM
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm|
 
 ## Linne boven ##
-location-code : LINB
-
-|Measurement|measurement-code|
-|---|---|
-|Temperatuur Oppervlaktewater oC|T|
-
-## Linne beneden ##
-location-code : LINN
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
 
 ## Lith boven ##
-location-code : LITB
-
-|Measurement|measurement-code|
-|---|---|
-|Temperatuur Oppervlaktewater oC|T|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
 
 ## Lith dorp ##
-location-code : LITHDP
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
-
-## Lith Dorp ##
-location-code : LITO
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTEASTRO|
-
-## Llandudno ##
-location-code : LLANDNO
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+|Measurement|
+|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Inlaat Landsweijer ##
-location-code : LNDW
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Lobith Haven ##
-location-code : LOBH
-
-|Measurement|measurement-code|
-|---|---|
-|Temperatuur Oppervlaktewater oC|T|
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
 
 ## Lobith ##
-location-code : LOBI
-
-|Measurement|measurement-code|
-|---|---|
-|Debiet Oppervlaktewater m3/s|Q|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Debiet Oppervlaktewater m3/s|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Lobith ##
-location-code : LOBM
-
-|Measurement|measurement-code|
-|---|---|
-|Temperatuur Oppervlaktewater oC|T|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Measurement|
+|---|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Temperatuur Oppervlaktewater oC|
 
 ## Looveer Huissen ##
-location-code : LOOV
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Loozen ##
-location-code : LOOZ
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTE|
-|Debiet Oppervlaktewater m3/s|Q|
-|Stroomsnelheid Oppervlaktewater m/s|STROOMSHD|
-
-## Lowestoft ##
-location-code : LOWST
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|WATHTBRKD|
+|Measurement|
+|---|
+|Debiet Oppervlaktewater m3/s|
+|Stroomsnelheid Oppervlaktewater m/s|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Lemmer Teroelsterkolk ##
-location-code : LTER
-
-|Measurement|measurement-code|
-|---|---|
-|Debiet Oppervlaktewater m3/s|Q|
+|Measurement|
+|---|
+|Debiet Oppervlaktewater m3/s|
 
 ## Teroelsterkolk buiten ##
-location-code : LTRY
-
-|Measurement|measurement-code|
-|---|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|CONCTTE|
+|Measurement|
+|---|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
 
 ## Lemmer Woudagemaal ##
-location-code : LWOU
-
-|Measurement|measurement-code|
-|---|---|
-|Debiet Oppervlaktewater m3/s|Q|
+|Measurement|
+|---|
+|Debiet Oppervlaktewater m3/s|
 
 
-_generated on 13-09-2024_
+_generated on 21-04-2025_

@@ -5,28 +5,26 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 # Measurements with the letter L #
 
 ## Luchtdruk Lucht hPa ##
-measurement-code : LUCHTDK
-
-|Location|location-code|
-|---|---|
-|AWG platform|AWG|
-|Borssele Alpha|BSA|
-|Platform D15-A|D15|
-|Europlatform|EPL|
-|Gannet platform 1|GAN1|
-|Hollandse Kust Noord|HKN|
-|Hollandse Kust West Alpha|HKWA|
-|Platform HKZA|HKZA|
-|J6 platform|J6|
-|K13 Alpha|K13|
-|K14 platform|K14|
-|L9 platform|L9|
-|Lichteiland Goeree|LEG|
-|North Cormorant|NC1|
-|Nelson platform1|NLS1|
-|P11 platform|P11|
+|Location|
+|---|
+|AWG platform|
+|Borssele Alpha|
+|D15 platform|
+|Europlatform|
+|F3 platform|
+|Gannet platform 1|
+|Hollandse Kust Noord|
+|Hollandse Kust West Alpha|
+|Platform HKZA|
+|J6 platform|
+|K13 Alpha|
+|K14 platform|
+|L9 platform|
+|Lichteiland Goeree|
+|Nelson platform1|
+|P11 platform|
 
 
 
 
-_generated on 13-09-2024_
+_generated on 21-04-2025_

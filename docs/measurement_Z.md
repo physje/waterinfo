@@ -5,36 +5,34 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 # Measurements with the letter Z #
 
 ## Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m ##
-measurement-code : ZICHT
-
-|Location|location-code|
-|---|---|
-|Bath|BATH|
-|Borssele Alpha|BSA|
-|Platform D15-A|D15|
-|Europlatform|EPL|
-|Europlatform 2|EPL2|
-|F3 platform|F3|
-|Hollandse Kust Noord|HKN|
-|Hollandse Kust West Alpha|HKWA|
-|Platform HKZA|HKZA|
-|J6 platform|J6|
-|Kaapduinen|KADU|
-|Lichteiland Goeree|LEG|
-|Maasmond Papegaaiebek|MMPB|
-|Maasvlakte Slufter|MVSL|
-|P11 platform|P11|
-|Rozenburgse Sluis|ROZS|
-|Beergat Radarpost 4|RP04|
-|Caland West Radarpost 5|RP05|
-|Caland Midden Radarpost 6|RP06|
-|Rozenburg Radarpost 8|RP08|
-|Geulhaven Radarpost 10|RP10|
-|Waalhaven Radarpost 19|RP19|
-|Kuip2 Radarpost 23|RP23|
-|Caland Oost Radarpost 32|RP32|
+|Location|
+|---|
+|Bath|
+|Borssele Alpha|
+|D15 platform|
+|Europlatform|
+|Europlatform 2|
+|F3 platform|
+|Hollandse Kust Noord|
+|Hollandse Kust West Alpha|
+|Platform HKZA|
+|J6 platform|
+|Kaapduinen|
+|Lichteiland Goeree|
+|Maasmond Papegaaiebek|
+|Maasvlakte Slufter|
+|P11 platform|
+|Rozenburgse Sluis|
+|Beergat Radarpost 4|
+|Caland West Radarpost 5|
+|Caland Midden Radarpost 6|
+|Rozenburg Radarpost 8|
+|Geulhaven Radarpost 10|
+|Waalhaven Radarpost 19|
+|Kuip2 Radarpost 23|
+|Caland Oost Radarpost 32|
 
 
 
 
-_generated on 13-09-2024_
+_generated on 21-04-2025_

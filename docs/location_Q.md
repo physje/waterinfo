@@ -6,11 +6,9 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 
 
 ## Platform Hoorn Q1-A ##
-location-code : Q1
-
-|Measurement|measurement-code|
-|---|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm|WATHTBRKD|
+|Measurement|
+|---|
+|Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm|
 
 
-_generated on 13-09-2024_
+_generated on 21-04-2025_
