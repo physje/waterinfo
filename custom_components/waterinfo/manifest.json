@@ -6,5 +6,6 @@
   "documentation": "https://github.com/physje/waterinfo",
   "iot_class": "cloud_polling",
   "loggers": ["waterinfo"],
-  "requirements": ["rws-ddlpy==0.6.0"]
+  "requirements": ["rws-ddlpy==0.6.0"],
+  "quality_scale": "bronze"
 }
