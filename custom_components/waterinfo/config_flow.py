@@ -11,7 +11,6 @@ from typing import Any
 import ddlpy
 import voluptuous as vol
 
-from homeassistant.components.waterinfo.locations import CONF_LOC_OPTIONS
 from homeassistant.config_entries import ConfigFlow, ConfigFlowResult
 from homeassistant.core import HomeAssistant
 from homeassistant.exceptions import HomeAssistantError
@@ -35,6 +34,7 @@ from .const import (
     CONST_UNIT,
     DOMAIN,
 )
+from .locations import CONF_LOC_OPTIONS
 
 _LOGGER = logging.getLogger(__name__)
 

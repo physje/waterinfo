@@ -152,6 +152,7 @@ class WaterInfoMetingSensor(SensorEntity):
 
     @property
     def extra_state_attributes(self) -> None:
+        """"Add extra attributes with time of last data and time of last check."""
         self._attrs = {
             ATTR_LAST_DATA: self._last_data,
             ATTR_LAST_CHECK: self._last_check
