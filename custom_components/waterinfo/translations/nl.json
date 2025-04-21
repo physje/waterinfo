@@ -1,13 +1,16 @@
 {
-    "config": {
-        "step": {
-            "user": {
-                "data": {
-                    "code": "Code voor de locatie",
-                    "grootheid": "Code voor de meting"
-                },
-                "description": "Geef de locatie en meting-code. Kijk op [GitHub](https://github.com/physje/waterinfo/tree/master/docs) voor de juiste codes"
-            }
-        }
+  "config": {
+    "error": {
+      "invalidData": "Ongeldige locatie"
+    },
+    "step": {
+      "user": {
+        "data": {
+          "loc_code": "Selecteer de locatie"
+        },
+        "description": "Bekijk [GitHub](https://github.com/physje/waterinfo/tree/master/docs) voor meer informatie over locaties",
+        "title": "WaterInfo Config"
+      }
     }
+  }
 }
