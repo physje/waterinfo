@@ -1,34 +1,16 @@
 {
-    "config": {
-        "error": {
-            "invalidData": "Invalid location"
-        },
-        "step": {
-            "reconfigure": {
-                "data": {
-                    "code": "Select the location"
-                },
-                "description": "See [GitHub](https://github.com/physje/waterinfo/tree/master/docs) for information about locations",
-                "title": "WaterInfo Re-config"
-            },
-            "user": {
-                "data": {
-                    "code": "Select the location"
-                },
-                "description": "See [GitHub](https://github.com/physje/waterinfo/tree/master/docs) for information about locations",
-                "title": "WaterInfo Config"
-            }
-        }
+  "config": {
+    "error": {
+      "invalidData": "Invalid location"
     },
-    "options": {
-        "step": {
-            "init": {
-                "data": {
-                    "scan_interval": "Scan Interval (minutes)"
-                },
-                "description": "At which frequenty should RWS be polled? Most measurements are updated by RWS every 10 minutes.",
-                "title": "WaterInfo Options"
-            }
-        }
+    "step": {
+      "user": {
+        "data": {
+          "loc_code": "Select the location"
+        },
+        "description": "See [GitHub](https://github.com/physje/waterinfo/tree/master/docs) for information about locations",
+        "title": "Configure WaterInfo-sensors"
+      }
     }
+  }
 }

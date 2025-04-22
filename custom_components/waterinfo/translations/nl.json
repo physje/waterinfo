@@ -9,7 +9,7 @@
           "loc_code": "Selecteer de locatie"
         },
         "description": "Bekijk [GitHub](https://github.com/physje/waterinfo/tree/master/docs) voor meer informatie over locaties",
-        "title": "WaterInfo Config"
+        "title": "Configureren WaterInfo-sensoren"
       }
     }
   }

@@ -1,16 +1,16 @@
 {
-    "config": {
-      "error": {
-        "invalidData": "Ungültiger Standort"
-      },
-      "step": {
-        "user": {
-          "data": {
-            "code": "Wählen Sie den Standort"
-          },
-          "description": "Weitere Informationen zu Standorten finden Sie unter [GitHub](https://github.com/physje/waterinfo/tree/master/docs)",
-          "title": "WaterInfo Config"
-        }
+  "config": {
+    "error": {
+      "invalidData": "Ungültiger Standort"
+    },
+    "step": {
+      "user": {
+        "data": {
+          "loc_code": "Wählen Sie den Standort"
+        },
+        "description": "Weitere Informationen zu Standorten finden Sie unter [GitHub](https://github.com/physje/waterinfo/tree/master/docs)",
+        "title": "WaterInfo-Sensoren konfigurieren"
       }
     }
   }
+}
