@@ -57,11 +57,11 @@ async def async_setup_entry(
 
     sensors = []
     for device in devices:
-        #if device[CONST_PROCES_TYPE] == 'meting':
-            device[CONST_DEVICE_UNIQUE] = entry.entry_id
-            device[CONST_LOC_CODE] = entry.data[CONST_LOC_CODE]
-            sensor = WaterInfoMetingSensor(client, device)
-            sensors.append(sensor)
+        # if device[CONST_PROCES_TYPE] == 'meting':
+        device[CONST_DEVICE_UNIQUE] = entry.entry_id
+        device[CONST_LOC_CODE] = entry.data[CONST_LOC_CODE]
+        sensor = WaterInfoMetingSensor(client, device)
+        sensors.append(sensor)
 
     # Create the sensors.
     async_add_entities(sensors, update_before_add=True)
@@ -87,8 +87,8 @@ class WaterInfoMetingSensor(SensorEntity):
         if CONST_MEAS_DESCR in entry:
             self._parameter = entry[CONST_MEAS_DESCR]
 
-        if entry[CONST_PROP] not in ['NVT', 'NAP']:
-            self._attr_name = entry[CONST_MEAS_NAME]+" "+entry[CONST_PROP]
+        if entry[CONST_PROP] not in ["NVT", "NAP"]:
+            self._attr_name = entry[CONST_MEAS_NAME] + " " + entry[CONST_PROP]
         else:
             self._attr_name = entry[CONST_MEAS_NAME]
 
@@ -152,10 +152,10 @@ class WaterInfoMetingSensor(SensorEntity):
 
     @property
     def extra_state_attributes(self) -> None:
-        """"Add extra attributes with time of last data and time of last check."""
+        """Add extra attributes with time of last data and time of last check."""
         self._attrs = {
             ATTR_LAST_DATA: self._last_data,
-            ATTR_LAST_CHECK: self._last_check
+            ATTR_LAST_CHECK: self._last_check,
         }
         return self._attrs
 
@@ -180,7 +180,7 @@ class WaterInfoMetingSensor(SensorEntity):
 
         # if location["observation"] is not None and location["observation"] != "nan":
         if isinstance(location["observation"], float):
-            utc=pytz.UTC
+            utc = pytz.UTC
 
             self._attr_native_value = location["observation"]
             self._last_data = location["tijdstip"]
@@ -196,18 +196,30 @@ def collectObservation(data) -> dict:
 
     observation = ddlpy.measurements_latest(data)
 
-    index = len(observation)
+    # t is list of all observation times, m is a list of all measurements
+    t = []
+    m = []
 
-    if "Meetwaarde.Waarde_Numeriek" in observation.columns:
-        meetwaarde = observation["Meetwaarde.Waarde_Numeriek"].iloc[(index - 1)]
-    else:
-        meetwaarde = observation["Meetwaarde.Waarde_Alfanumeriek"].iloc[(index - 1)]
+    # walk through all measurements
+    for y in range(len(observation)):
+        if "Meetwaarde.Waarde_Numeriek" in observation.columns:
+            meetwaarde = observation["Meetwaarde.Waarde_Numeriek"].iloc[y]
+        else:
+            meetwaarde = observation["Meetwaarde.Waarde_Alfanumeriek"].iloc[y]
 
-    tijdstip_datetime = dt.strptime(
-        observation["Tijdstip"].iloc[(index - 1)], "%Y-%m-%dT%H:%M:%S.%f%z"
-    )
+        tijdstip = observation["Tijdstip"].iloc[y]
 
-    data["observation"] = meetwaarde
+        t.append(tijdstip)
+        m.append(meetwaarde)
+
+    # find the index of the latest observation
+    # this measurement will be returned
+    max_t = max(t)
+    index_t = t.index(max_t)
+
+    tijdstip_datetime = dt.strptime(t[index_t], "%Y-%m-%dT%H:%M:%S.%f%z")
+
+    data["observation"] = m[index_t]
     data["tijdstip"] = tijdstip_datetime
 
     return data
