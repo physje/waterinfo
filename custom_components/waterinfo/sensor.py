@@ -2,12 +2,11 @@
 
 from __future__ import annotations
 
-from datetime import datetime as dt, timedelta
+from datetime import datetime as dt, timedelta, timezone
 import logging
 
 import ddlpy
 import pandas as pd
-import pytz
 
 from homeassistant.components.sensor import (
     SensorDeviceClass,
@@ -180,11 +179,9 @@ class WaterInfoMetingSensor(SensorEntity):
 
         # if location["observation"] is not None and location["observation"] != "nan":
         if isinstance(location["observation"], float):
-            utc = pytz.UTC
-
             self._attr_native_value = location["observation"]
             self._last_data = location["tijdstip"]
-            self._last_check = dt.now(utc)
+            self._last_check = dt.now(timezone.utc)
 
             _LOGGER.debug(
                 "Observation %s at %s", location["observation"], location["tijdstip"]

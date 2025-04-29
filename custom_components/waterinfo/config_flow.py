@@ -11,7 +11,12 @@ from typing import Any
 import ddlpy
 import voluptuous as vol
 
-from homeassistant.config_entries import ConfigFlow, ConfigFlowResult
+from homeassistant.config_entries import (
+    ConfigEntry,
+    ConfigFlow,
+    ConfigFlowResult,
+    OptionsFlow,
+)
 from homeassistant.core import HomeAssistant
 from homeassistant.exceptions import HomeAssistantError
 from homeassistant.helpers.selector import selector
@@ -32,7 +37,10 @@ from .const import (
     CONST_SENSOR,
     CONST_SENSOR_UNIQUE,
     CONST_UNIT,
+    DEFAULT_TIMEDELTA,
     DOMAIN,
+    MIN_TIMEDELTA,
+    OPT_TIMEDELTA,
 )
 from .locations import CONF_LOC_OPTIONS
 
@@ -92,7 +100,7 @@ def validate_location(data) -> dict:
                 random.choices(string.ascii_uppercase + string.digits, k=8)
             )
 
-            if grootheid == "WATHTEASTRO":
+            if grootheid in ("WATHTBRKD", "WATHTEASTRO"):
                 device_info[CONST_PROCES_TYPE] = "astronomisch"
                 device_info[CONST_ENABLE] = 0
             elif grootheid in ("WATHTEVERWACHT", "QVERWACHT"):
@@ -135,13 +143,13 @@ class WaterinfoConfigFlow(ConfigFlow, domain=DOMAIN):
 
     VERSION = 1
 
-    # @staticmethod
-    # # @callback
-    # def async_get_options_flow(config_entry):
-    #     """Get the options flow for this handler."""
-    #     # Remove this method and the ExampleOptionsFlowHandler class
-    #     # if you do not want any options for your integration.
-    #     return WaterInfoFlowHandler(config_entry)
+    @staticmethod
+    # @callback
+    def async_get_options_flow(config_entry):
+        """Get the options flow for this handler."""
+        # Remove this method and the ExampleOptionsFlowHandler class
+        # if you do not want any options for your integration.
+        return WaterInfoFlowHandler(config_entry)
 
     async def async_step_user(
         self, user_input: dict[str, Any] | None = None
@@ -178,6 +186,7 @@ class WaterinfoConfigFlow(ConfigFlow, domain=DOMAIN):
                                 "options": CONF_LOC_OPTIONS,
                                 "mode": "dropdown",
                                 "translation_key": CONF_LOC_SELECTOR,
+                                "sort": True
                             },
                         }
                     ),
@@ -233,32 +242,32 @@ class WaterinfoConfigFlow(ConfigFlow, domain=DOMAIN):
     #     )
 
 
-# class WaterInfoFlowHandler(OptionsFlow):
-#     """Handles the options flow."""
+class WaterInfoFlowHandler(OptionsFlow):
+    """Handles the options flow."""
 
-#     def __init__(self, config_entry: ConfigEntry) -> None:
-#         """Initialize options flow."""
-#         self.options = dict(config_entry.options)
+    def __init__(self, config_entry: ConfigEntry) -> None:
+        """Initialize options flow."""
+        self.options = dict(config_entry.options)
 
-#     async def async_step_init(self, user_input=None):
-#         """Handle options flow."""
-#         if user_input is not None:
-#             options = self.config_entry.options | user_input
-#             return self.async_create_entry(title="", data=options)
+    async def async_step_init(self, user_input=None):
+        """Handle options flow."""
+        if user_input is not None:
+            options = self.config_entry.options | user_input
+            return self.async_create_entry(title="", data=options)
 
-#         # It is recommended to prepopulate options fields with default values if available.
-#         # These will be the same default values you use on your coordinator for setting variable values
-#         # if the option has not been set.
-#         data_schema = vol.Schema(
-#             {
-#                 vol.Required(
-#                     OPT_SCAN_INTERVAL,
-#                     default=self.options.get(OPT_SCAN_INTERVAL, DEFAULT_SCAN_INTERVAL),
-#                 ): (vol.All(vol.Coerce(int), vol.Clamp(min=MIN_SCAN_INTERVAL))),
-#             }
-#         )
+        # It is recommended to prepopulate options fields with default values if available.
+        # These will be the same default values you use on your coordinator for setting variable values
+        # if the option has not been set.
+        data_schema = vol.Schema(
+            {
+                vol.Required(
+                    OPT_TIMEDELTA,
+                    default=self.options.get(OPT_TIMEDELTA, DEFAULT_TIMEDELTA),
+                ): (vol.All(vol.Coerce(int), vol.Clamp(min=MIN_TIMEDELTA))),
+            }
+        )
 
-#         return self.async_show_form(step_id="init", data_schema=data_schema)
+        return self.async_show_form(step_id="init", data_schema=data_schema)
 
 
 class InvalidData(HomeAssistantError):

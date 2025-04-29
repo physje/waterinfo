@@ -1,0 +1,7 @@
+{
+    "services": {
+        "renew_locations": {
+            "service": "mdi:folder-refresh-outline"
+        }
+    }
+}

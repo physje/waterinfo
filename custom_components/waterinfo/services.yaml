@@ -1,0 +1,25 @@
+renew_locations:
+  name: Generate new location file
+  description: "Refresh the list of possible locations and make a new location file"
+  fields:
+    active_only:
+      name: Active only
+      description: List only locations with active measurements. Setting `True` increasing processing time drastically
+      example: "True"
+      default: True
+      selector:
+        boolean:
+    with_code:
+      name: Include location code in name
+      description: Show in the name of the location also the RWS-code of the location
+      example: "False"
+      default: False
+      selector:
+        boolean:
+    notify:
+      name: Notify when ready
+      description: Give a Home Assistant notification when the locations are refreshed
+      example: "True"
+      default: True
+      selector:
+        boolean:
