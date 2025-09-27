@@ -67,6 +67,21 @@ def validate_location(data) -> dict:
         _LOGGER.error("Location %s does not exist", data[CONST_LOC_CODE])
         raise ValueError(f"{data[CONST_LOC_CODE]} is geen bestaand station")
 
+    x_coord_len = 100
+    x_coord_short = ""
+
+    # Usually, the most recent datapoint are in the last part of the array
+    # So walk backwards in the array
+    for x in range((len(selected) - 1), -1, -1):
+        X_coord = selected.iloc[x]["X"]
+
+        # Somewhere around Sept. 9th, the duplicates all locations.
+        # The only difference is the precision of the X- and Y-coordinate
+        # So quick-and-dirty find of the shortest X-coordinate
+        if len(str(X_coord)) < x_coord_len:
+            x_coord_short = X_coord
+            x_coord_len = len(str(X_coord))
+
     sensoren = []
     seen = []
 
@@ -75,10 +90,6 @@ def validate_location(data) -> dict:
     for x in range((len(selected) - 1), -1, -1):
         grootheid = selected.iloc[x]["Grootheid.Code"]
         hoedanigheid = selected.iloc[x]["Hoedanigheid.Code"]
-
-        # Somewhere around Sept. 9th, the duplicates all locations.
-        # The only difference is the precision of the X- and Y-coordinate
-        # So quick-and-dirty filter on that
         X_coord = selected.iloc[x]["X"]
 
         if hoedanigheid != "NVT":
@@ -88,7 +99,7 @@ def validate_location(data) -> dict:
 
         # Store all nessecary data for later
         # There are some weird measurements and some measurements are duplicates
-        if grootheid != "NVT" and sensorKey not in seen and len(str(X_coord)) < 11:
+        if grootheid != "NVT" and sensorKey not in seen and X_coord == x_coord_short:
             device_info = {}
             device_info[CONST_LOC_NAME] = selected.iloc[x]["Naam"]
             device_info[CONST_MEAS_CODE] = grootheid
@@ -231,7 +242,6 @@ class WaterinfoConfigFlow(ConfigFlow, domain=DOMAIN):
                     config_entry,
                     unique_id=config_entry.unique_id,
                     data={**config_entry.data, **user_input},
-                    reason="reconfigure_successful",
                 )
         return self.async_show_form(
             step_id="reconfigure",

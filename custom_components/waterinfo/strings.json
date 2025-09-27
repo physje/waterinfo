@@ -10,6 +10,19 @@
         },
         "description": "See [GitHub](https://github.com/physje/waterinfo/tree/master/docs) for information about locations",
         "title": "Configure WaterInfo-sensors"
+      },
+      "reconfigure": {
+        "data": {
+          "loc_code": "Select the location"
+        },
+        "description": "See [GitHub](https://github.com/physje/waterinfo/tree/master/docs) for information about locations",
+        "title": "Reconfigure WaterInfo-sensors"
+      }
+    },
+    "abort": {
+      "reconfigure_successful": {
+        "description": "Successfully reconfigured",
+        "title": "Reconfigure WaterInfo-sensors"
       }
     }
   }
