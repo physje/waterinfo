@@ -32,6 +32,7 @@ from .const import (
     CONST_MEAS_CODE,
     CONST_MEAS_DESCR,
     CONST_MEAS_NAME,
+    CONST_MULTIPLIER,
     CONST_PROCES_TYPE,
     CONST_PROP,
     CONST_SENSOR,
@@ -75,6 +76,11 @@ def validate_location(data) -> dict:
         grootheid = selected.iloc[x]["Grootheid.Code"]
         hoedanigheid = selected.iloc[x]["Hoedanigheid.Code"]
 
+        # Somewhere around Sept. 9th, the duplicates all locations.
+        # The only difference is the precision of the X- and Y-coordinate
+        # So quick-and-dirty filter on that
+        X_coord = selected.iloc[x]["X"]
+
         if hoedanigheid != "NVT":
             sensorKey = grootheid + hoedanigheid
         else:
@@ -82,7 +88,7 @@ def validate_location(data) -> dict:
 
         # Store all nessecary data for later
         # There are some weird measurements and some measurements are duplicates
-        if grootheid != "NVT" and sensorKey not in seen:
+        if grootheid != "NVT" and sensorKey not in seen and len(str(X_coord)) < 11:
             device_info = {}
             device_info[CONST_LOC_NAME] = selected.iloc[x]["Naam"]
             device_info[CONST_MEAS_CODE] = grootheid
@@ -96,9 +102,13 @@ def validate_location(data) -> dict:
             device_info[CONST_PROP] = hoedanigheid
             device_info[CONST_COORD] = selected.iloc[x]["Coordinatenstelsel"]
 
-            device_info[CONST_SENSOR_UNIQUE] = "".join(
-                random.choices(string.ascii_uppercase + string.digits, k=8)
-            )
+            device_info[CONST_SENSOR_UNIQUE] = grootheid
+
+            if selected.iloc[x]["Eenheid.Code"] in ("mHz"):
+                device_info[CONST_MULTIPLIER] = 0.001
+                device_info[CONST_UNIT] = "Hz"
+            else:
+                device_info[CONST_MULTIPLIER] = 1
 
             if grootheid in ("WATHTBRKD", "WATHTEASTRO"):
                 device_info[CONST_PROCES_TYPE] = "astronomisch"
@@ -186,7 +196,7 @@ class WaterinfoConfigFlow(ConfigFlow, domain=DOMAIN):
                                 "options": CONF_LOC_OPTIONS,
                                 "mode": "dropdown",
                                 "translation_key": CONF_LOC_SELECTOR,
-                                "sort": True
+                                "sort": True,
                             },
                         }
                     ),
@@ -198,48 +208,50 @@ class WaterinfoConfigFlow(ConfigFlow, domain=DOMAIN):
     # Reconfigure means a new location, which is new data
     # So instead of reconfigure, just make a new entry
 
-    # async def async_step_reconfigure(
-    #     self, user_input: dict[str, Any] | None = None
-    # ) -> ConfigFlowResult:
-    #     """Add reconfigure step to allow to reconfigure a config entry."""
-    #     # This methid displays a reconfigure option in the integration and is
-    #     # different to options.
-    #     # It can be used to reconfigure any of the data submitted when first installed.
-    #     # This is optional and can be removed if you do not want to allow reconfiguration.
-    #     errors: dict[str, str] = {}
-    #     config_entry = self.hass.config_entries.async_get_entry(
-    #         self.context["entry_id"]
-    #     )
+    async def async_step_reconfigure(
+        self, user_input: dict[str, Any] | None = None
+    ) -> ConfigFlowResult:
+        """Add reconfigure step to allow to reconfigure a config entry."""
+        # This methid displays a reconfigure option in the integration and is
+        # different to options.
+        # It can be used to reconfigure any of the data submitted when first installed.
+        # This is optional and can be removed if you do not want to allow reconfiguration.
+        errors: dict[str, str] = {}
+        config_entry = self.hass.config_entries.async_get_entry(
+            self.context["entry_id"]
+        )
 
-    #     if user_input is not None:
-    #         try:
-    #             await validate_input(self.hass, user_input)
-    #         except ValueError:
-    #             errors["base"] = "invalidData"
-    #         else:
-    #             return self.async_update_reload_and_abort(
-    #                 config_entry,
-    #                 unique_id=config_entry.unique_id,
-    #                 data={**config_entry.data, **user_input},
-    #                 reason="reconfigure_successful",
-    #             )
-    #     return self.async_show_form(
-    #         step_id="reconfigure",
-    #         data_schema=vol.Schema(
-    #             {
-    #                 vol.Required(CONST_LOC_CODE, default=CONF_LOC_OPTIONS[0]): selector(
-    #                     {
-    #                         "select": {
-    #                             "options": CONF_LOC_OPTIONS,
-    #                             "mode": "dropdown",
-    #                             "translation_key": CONF_LOC_SELECTOR,
-    #                         },
-    #                     }
-    #                 ),
-    #             }
-    #         ),
-    #         errors=errors,
-    #     )
+        if user_input is not None:
+            try:
+                await validate_input(self.hass, user_input)
+            except ValueError:
+                errors["base"] = "invalidData"
+            else:
+                return self.async_update_reload_and_abort(
+                    config_entry,
+                    unique_id=config_entry.unique_id,
+                    data={**config_entry.data, **user_input},
+                    reason="reconfigure_successful",
+                )
+        return self.async_show_form(
+            step_id="reconfigure",
+            data_schema=vol.Schema(
+                {
+                    vol.Required(
+                        CONST_LOC_CODE, default=config_entry.unique_id
+                    ): selector(
+                        {
+                            "select": {
+                                "options": CONF_LOC_OPTIONS,
+                                "mode": "dropdown",
+                                "translation_key": CONF_LOC_SELECTOR,
+                            },
+                        }
+                    ),
+                }
+            ),
+            errors=errors,
+        )
 
 
 class WaterInfoFlowHandler(OptionsFlow):

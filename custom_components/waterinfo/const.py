@@ -20,6 +20,7 @@ CONST_PROCES_TYPE = "proces_type"
 CONST_SENSOR_UNIQUE = "sensor_ID"
 CONST_DEVICE_UNIQUE = "device_ID"
 CONST_SENSOR = "sensoren"
+CONST_MULTIPLIER = "multiplier"
 
 ATTR_LAST_DATA = "last_data"
 ATTR_LAST_CHECK = "last_check"
