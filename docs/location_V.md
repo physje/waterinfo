@@ -19,6 +19,7 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Measurement|
 |---|
 |Debiet Oppervlaktewater m3/s|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Volkerakgat 2 ##
 |Measurement|
@@ -35,49 +36,71 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |---|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
+## Volkerak Galathee (b) ##
+|Measurement|
+|---|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Temperatuur Oppervlaktewater oC|
+|Geleidendheid Oppervlaktewater S/m|
+
+## Volkerak Galathee (o) ##
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Geleidendheid Oppervlaktewater S/m|
+
 ## Vlaardingen ##
 |Measurement|
 |---|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
-## Vlaardingen ##
-|Measurement|
-|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
-## Vlakte van de Raan ##
-|Measurement|
-|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Vlieland ##
 |Measurement|
 |---|
 |Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
-|Temperatuur Lucht oC|
 |Windrichting Lucht t.o.v. ware Noorden in graad|
+|Temperatuur Lucht oC|
 
 ## Vlieland haven ##
 |Measurement|
 |---|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
-## Vlieland haven ##
-|Measurement|
-|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Vlissingen ##
 |Measurement|
 |---|
-|Temperatuur Lucht oC|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 |Windrichting Lucht t.o.v. ware Noorden in graad|
 |Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|Temperatuur Oppervlaktewater oC|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
-## Vlissingen ##
+## Velserkom b WS3 -1 ##
 |Measurement|
 |---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Temperatuur Oppervlaktewater oC|
+|Saliniteit Oppervlaktewater |
+|Geleidendheid Oppervlaktewater S/m|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+
+## Velserkom m WS3 ##
+|Measurement|
+|---|
+|Geleidendheid Oppervlaktewater S/m|
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Saliniteit Oppervlaktewater |
+
+## Velserkom o WS3 -8 ##
+|Measurement|
+|---|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Temperatuur Oppervlaktewater oC|
+|Geleidendheid Oppervlaktewater S/m|
+|Saliniteit Oppervlaktewater |
 
 ## VM3 Zandkreeksluis ##
 |Measurement|
@@ -89,10 +112,56 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |---|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
+## VM4 Oranjeplaat (b) ##
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
+|Saliniteit Oppervlaktewater |
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Geleidendheid Oppervlaktewater S/m|
+
+## VM4 Oranjeplaat (o) ##
+|Measurement|
+|---|
+|Saliniteit Oppervlaktewater |
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Temperatuur Oppervlaktewater oC|
+|Geleidendheid Oppervlaktewater S/m|
+
 ## Veersemeer 5 Schotsman ##
 |Measurement|
 |---|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## VM5 Schotsman (b) ##
+|Measurement|
+|---|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Geleidendheid Oppervlaktewater S/m|
+|Saliniteit Oppervlaktewater |
+|Temperatuur Oppervlaktewater oC|
+
+## VM5 Schotsman (o) ##
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
+|Saliniteit Oppervlaktewater |
+|Geleidendheid Oppervlaktewater S/m|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+
+## Volkerak Noord (b) ##
+|Measurement|
+|---|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Geleidendheid Oppervlaktewater S/m|
+|Temperatuur Oppervlaktewater oC|
+
+## Volkerak Noord (o) ##
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
+|Geleidendheid Oppervlaktewater S/m|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
 
 ## Vossenbeemd Helmond ##
 |Measurement|
@@ -104,31 +173,56 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |---|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
+## Nieuw Vossemeer (b) ##
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
+|Geleidendheid Oppervlaktewater S/m|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+
+## Nieuw Vossemeer (o) ##
+|Measurement|
+|---|
+|Geleidendheid Oppervlaktewater S/m|
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+
 ## Vlakte v/d Raan ##
 |Measurement|
 |---|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
-|Windrichting Lucht t.o.v. ware Noorden in graad|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 |Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Vlakte v/d Raan (b) ##
+|Measurement|
+|---|
+|Geleidendheid Oppervlaktewater S/m|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Saliniteit Oppervlaktewater |
+|Temperatuur Oppervlaktewater oC|
 
 ## Vlakte v/d Raan (o) ##
 |Measurement|
 |---|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|
 |Saliniteit Oppervlaktewater |
+|Geleidendheid Oppervlaktewater S/m|
 |Temperatuur Oppervlaktewater oC|
 
 ## Vuren ##
 |Measurement|
 |---|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
-## Vuren ##
+## Vogelenzang ##
 |Measurement|
 |---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 
-_generated on 21-04-2025_
+_generated on 30-09-2025_

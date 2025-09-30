@@ -35,7 +35,7 @@ def setup_services(hass: HomeAssistant) -> None:
             persistent_notification.async_create(
                 hass,
                 "The locations of the waterinfo-integration are refreshed. Home Assistant should be restarted to take effect",
-                "Locations list",
+                "Location list WaterInfo",
             )
 
         return None
@@ -77,7 +77,7 @@ def makeLocationFile(active_only, with_code) -> None:
             label = row["Naam"]
 
         if active_only:
-            key = index + "|" + row["Grootheid.Code"]
+            key = index + "|" + str(row["X"]) + "|" + row["Grootheid.Code"]
 
             if key not in seen and index not in added:
                 seen.append(key)

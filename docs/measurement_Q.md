@@ -21,6 +21,7 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Inlaat Son en Breugel|
 |Inlaat Beekse Waterloop|
 |Driel boven|
+|Dintelsas|
 |Eemdijk|
 |Eijsden grens|
 |Empel sluis|
@@ -31,8 +32,11 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Hagestein boven|
 |gemaal Hoogland buiten|
 |gemaal Hoogland inlaat|
+|Halfweg gemaal|
 |Helmond RWZI|
 |Katsberg boven|
+|Katwijk gemaal|
+|Lobith|
 |Lobith|
 |Loozen|
 |Lemmer Teroelsterkolk|
@@ -53,6 +57,7 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Sluis 7 spuiduiker|
 |Sluis 9 spuiduiker|
 |Sluis 13|
+|Spaarndam gemaal|
 |Sint Pieter noord|
 |Zwartsluis gemaal pomp mi|
 |Zwartsluis gemaal pomp O|
@@ -66,10 +71,12 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Volkerakgat 3|
 |Weesp|
 |Westervoort|
+|Wijk bij Duurstede|
 |Waalwijk|
+|Zaangemaal|
 |Zandkreekdam|
 
 
 
 
-_generated on 21-04-2025_
+_generated on 30-09-2025_

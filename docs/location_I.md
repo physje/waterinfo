@@ -8,38 +8,47 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## IJgeul ##
 |Measurement|
 |---|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|
 |Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
 |Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Stroomsnelheid Oppervlaktewater m/s|
 |Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|
-
-## IJmuiden buitenhaven ##
-|Measurement|
-|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
-## IJmuiden stroommeetpaal ##
-|Measurement|
-|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
+|Stroomrichting Oppervlaktewater t.o.v. kaart Noorden in graad|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
 
 ## IJmuiden Buitenhaven ##
 |Measurement|
 |---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 |Temperatuur Oppervlaktewater oC|
-|Windrichting Lucht t.o.v. ware Noorden in graad|
 |Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## IJmuiden Noordersluis O ##
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## IJmuiden Noordersluis W ##
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## IJsselkop ##
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## IJmuiden Zuid havenhoofd ##
 |Measurement|
 |---|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
-|Windrichting Lucht t.o.v. ware Noorden in graad|
 |10' scalair genmiddelde van de windsnelheid Lucht m/s|
 |Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
 
 
-_generated on 21-04-2025_
+_generated on 30-09-2025_

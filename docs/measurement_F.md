@@ -4,18 +4,23 @@ Measurements : [C](measurement_C.md) | F | [G](measurement_G.md) | [H](measureme
 
 # Measurements with the letter F #
 
-## Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz ##
+## Golffrequentie bij maximum energiespectrum Oppervlaktewater Hz ##
 |Location|
 |---|
+|Platform A12|
 |AWG platform|
+|Bath|
 |Brouwershavense Gat 2|
 |Borssele Alpha|
 |Buitenbanken west|
+|Cadzand boei|
+|Platform D15-A|
 |Deurloo|
 |Domburger Rassen|
 |Eurogeul DWE|
 |Eurogeul E13|
 |Eierlandse Gat boei|
+|Europlatform 2|
 |F3 platform|
 |Rotterdamse hoek|
 |Markermeer Midden -o|
@@ -28,10 +33,8 @@ Measurements : [C](measurement_C.md) | F | [G](measurement_G.md) | [H](measureme
 |Platform HKZA|
 |Honte nabij Sloehaven|
 |Honte 2 (Back-up)|
-|Haringvlietsluizen buiten|
 |IJgeul|
-|K13 Alpha|
-|K13 Alpha 3|
+|Platform J6|
 |K14 platform|
 |Keeten boei|
 |L9 platform|
@@ -43,6 +46,7 @@ Measurements : [C](measurement_C.md) | F | [G](measurement_G.md) | [H](measureme
 |Marollegat (b)|
 |IJgeul Munitiestort 1|
 |IJgeul Munitiestort 2|
+|Nes|
 |Nes 2 (golven)|
 |Nelson platform1|
 |Oosterschelde 11 (b)|
@@ -60,7 +64,6 @@ Measurements : [C](measurement_C.md) | F | [G](measurement_G.md) | [H](measureme
 |Randzelgat Noord boei|
 |Schiermonnikoog|
 |Schaar Stroomgat|
-|Schulpengat|
 |Schiermonnikoog Noord boe|
 |Schiermonnikoog Westgat b|
 |Stroommeetpaal Eemshaven|
@@ -77,4 +80,4 @@ Measurements : [C](measurement_C.md) | F | [G](measurement_G.md) | [H](measureme
 
 
 
-_generated on 21-04-2025_
+_generated on 30-09-2025_

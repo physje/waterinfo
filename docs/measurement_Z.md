@@ -9,14 +9,14 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |---|
 |Bath|
 |Borssele Alpha|
-|D15 platform|
+|Platform D15-A|
 |Europlatform|
 |Europlatform 2|
 |F3 platform|
 |Hollandse Kust Noord|
 |Hollandse Kust West Alpha|
 |Platform HKZA|
-|J6 platform|
+|Platform J6|
 |Kaapduinen|
 |Lichteiland Goeree|
 |Maasmond Papegaaiebek|
@@ -33,6 +33,12 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Caland Oost Radarpost 32|
 
 
+## Doorzicht Oppervlaktewater dm ##
+|Location|
+|---|
+|De Piet|
 
 
-_generated on 21-04-2025_
+
+
+_generated on 30-09-2025_

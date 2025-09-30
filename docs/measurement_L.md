@@ -9,15 +9,14 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |---|
 |AWG platform|
 |Borssele Alpha|
-|D15 platform|
+|Platform D15-A|
 |Europlatform|
 |F3 platform|
 |Gannet platform 1|
 |Hollandse Kust Noord|
 |Hollandse Kust West Alpha|
 |Platform HKZA|
-|J6 platform|
-|K13 Alpha|
+|Platform J6|
 |K14 platform|
 |L9 platform|
 |Lichteiland Goeree|
@@ -25,6 +24,12 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |P11 platform|
 
 
+## Laagwater dag Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm ##
+|Location|
+|---|
+|Bath|
 
 
-_generated on 21-04-2025_
+
+
+_generated on 30-09-2025_

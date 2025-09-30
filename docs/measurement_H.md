@@ -4,19 +4,23 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 
 # Measurements with the letter H #
 
-## Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm ##
+## Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm ##
 |Location|
 |---|
+|Platform A12|
 |AWG platform|
 |Bath|
 |Brouwershavense Gat 2|
 |Borssele Alpha|
 |Buitenbanken west|
+|Cadzand boei|
+|Platform D15-A|
 |Deurloo|
 |Domburger Rassen|
 |Eurogeul DWE|
 |Eurogeul E13|
 |Eierlandse Gat boei|
+|Europlatform 2|
 |F3 platform|
 |Rotterdamse hoek|
 |Markermeer Midden -o|
@@ -29,9 +33,8 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Platform HKZA|
 |Honte nabij Sloehaven|
 |Honte 2 (Back-up)|
-|Haringvlietsluizen buiten|
 |IJgeul|
-|K13 Alpha|
+|Platform J6|
 |K14 platform|
 |Keeten boei|
 |L9 platform|
@@ -43,6 +46,7 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Marollegat (b)|
 |IJgeul Munitiestort 1|
 |IJgeul Munitiestort 2|
+|Nes|
 |Nes 2 (golven)|
 |Nelson platform1|
 |Oosterschelde 11 (b)|
@@ -60,7 +64,6 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Randzelgat Noord boei|
 |Schiermonnikoog|
 |Schaar Stroomgat|
-|Schulpengat|
 |Schiermonnikoog Noord boe|
 |Schiermonnikoog Westgat b|
 |Stroommeetpaal Eemshaven|
@@ -73,21 +76,118 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Westereems Oost boei|
 |Westereems West boei|
 |Wielingen Noord|
+
+
+## Maximale golfhoogte in het tijdsdomein Oppervlaktewater cm ##
+|Location|
+|---|
+|Platform A12|
+|Bath|
+|Platform D15-A|
+|Platform J6|
+|Nes|
+
+
+## Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm ##
+|Location|
+|---|
+|Platform A12|
+|AWG platform|
+|Bath|
+|Brouwershavense Gat 2|
+|Borssele Alpha|
+|Buitenbanken west|
+|Cadzand boei|
+|Platform D15-A|
+|Deurloo|
+|Domburger Rassen|
+|Eurogeul DWE|
+|Eurogeul E13|
+|Eierlandse Gat boei|
+|Europlatform 2|
+|F3 platform|
+|Rotterdamse hoek|
+|Markermeer Midden -o|
+|Gannet platform 1|
+|Gat van de stier|
+|Hansweert|
+|Hansweert wind (b)|
+|Hollandse Kust Noord|
+|Hollandse Kust West Alpha|
+|Platform HKZA|
+|Honte nabij Sloehaven|
+|Honte 2 (Back-up)|
+|IJgeul|
+|Platform J6|
+|K14 platform|
+|Keeten boei|
+|L9 platform|
+|Lichteiland Goeree|
+|Maeslantkering zeezijde N|
+|Maeslantkering zeezijde Z|
+|Maasgeul Maasvlakte Noord|
+|Monding Nieuwe Haven|
+|Marollegat (b)|
+|IJgeul Munitiestort 1|
+|IJgeul Munitiestort 2|
+|Nes|
+|Nes 2 (golven)|
+|Nelson platform1|
+|Oosterschelde 11 (b)|
+|Oosterschelde 4 (b)|
+|Oosterscheldeker. Hammen|
+|Oosterscheldeker. Roompot|
+|Oosterscheldeker. Schaar|
+|Overloop v. Hansweert gol|
+|Overloop van Valkenisse|
+|Oude Westereems Noordboei|
+|Oude Westereems Zuidboei|
+|Pas van Terneuzen boei|
+|Roggenplaat|
+|Roompotsluis (SVKO)|
+|Randzelgat Noord boei|
+|Schiermonnikoog|
+|Schaar Stroomgat|
+|Schiermonnikoog Noord boe|
+|Schiermonnikoog Westgat b|
+|Stroommeetpaal Eemshaven|
+|IJgeul stroommeetpaal|
+|Stortemelk boei|
+|Stortemelk Oost|
+|Trintelzand|
+|Uithuizerwad 2|
+|Uithuizerwad 3|
+|Westereems Oost boei|
+|Westereems West boei|
+|Wielingen Noord|
+
+
+## Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) Oppervlaktewater cm ##
+|Location|
+|---|
+|Platform A12|
+|Bath|
+|Platform D15-A|
+|Platform J6|
 
 
 ## Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm ##
 |Location|
 |---|
+|Platform A12|
 |AWG platform|
 |Bath|
 |Brouwershavense Gat 2|
 |Borssele Alpha|
 |Buitenbanken west|
+|Cadzand boei|
+|Platform D15-A|
 |Deurloo|
 |Domburger Rassen|
 |Eurogeul DWE|
 |Eurogeul E13|
 |Eierlandse Gat boei|
+|Europlatform 2|
 |F3 platform|
 |Rotterdamse hoek|
 |Markermeer Midden -o|
@@ -100,10 +200,8 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Platform HKZA|
 |Honte nabij Sloehaven|
 |Honte 2 (Back-up)|
-|Haringvlietsluizen buiten|
 |IJgeul|
-|K13 Alpha|
-|K13 Alpha 3|
+|Platform J6|
 |K14 platform|
 |Keeten boei|
 |L9 platform|
@@ -115,6 +213,7 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Marollegat (b)|
 |IJgeul Munitiestort 1|
 |IJgeul Munitiestort 2|
+|Nes|
 |Nes 2 (golven)|
 |Nelson platform1|
 |Oosterschelde 11 (b)|
@@ -132,7 +231,6 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Randzelgat Noord boei|
 |Schiermonnikoog|
 |Schaar Stroomgat|
-|Schulpengat|
 |Schiermonnikoog Noord boe|
 |Schiermonnikoog Westgat b|
 |Stroommeetpaal Eemshaven|
@@ -147,76 +245,25 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Wielingen Noord|
 
 
-## Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm ##
+## Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) Oppervlaktewater cm ##
 |Location|
 |---|
-|AWG platform|
+|Platform A12|
 |Bath|
-|Brouwershavense Gat 2|
-|Borssele Alpha|
-|Buitenbanken west|
-|Deurloo|
-|Domburger Rassen|
-|Eurogeul DWE|
-|Eurogeul E13|
-|Eierlandse Gat boei|
-|F3 platform|
-|Rotterdamse hoek|
-|Markermeer Midden -o|
-|Gannet platform 1|
-|Gat van de stier|
-|Hansweert|
-|Hansweert wind (b)|
-|Hollandse Kust Noord|
-|Hollandse Kust West Alpha|
-|Platform HKZA|
-|Honte nabij Sloehaven|
-|Honte 2 (Back-up)|
-|Haringvlietsluizen buiten|
-|IJgeul|
-|J6 platform|
-|K13 Alpha|
-|K14 platform|
-|Keeten boei|
-|L9 platform|
-|Lichteiland Goeree|
-|Maeslantkering zeezijde N|
-|Maeslantkering zeezijde Z|
-|Maasgeul Maasvlakte Noord|
-|Monding Nieuwe Haven|
-|Marollegat (b)|
-|IJgeul Munitiestort 1|
-|IJgeul Munitiestort 2|
-|Nes 2 (golven)|
-|Nelson platform1|
-|Oosterschelde 11 (b)|
-|Oosterschelde 4 (b)|
-|Oosterscheldeker. Hammen|
-|Oosterscheldeker. Roompot|
-|Oosterscheldeker. Schaar|
-|Overloop v. Hansweert gol|
-|Overloop van Valkenisse|
-|Oude Westereems Noordboei|
-|Oude Westereems Zuidboei|
-|Pas van Terneuzen boei|
-|Roggenplaat|
-|Roompotsluis (SVKO)|
-|Randzelgat Noord boei|
-|Schiermonnikoog|
-|Schaar Stroomgat|
-|Schulpengat|
-|Schiermonnikoog Noord boe|
-|Schiermonnikoog Westgat b|
-|Stroommeetpaal Eemshaven|
-|IJgeul stroommeetpaal|
-|Stortemelk boei|
-|Stortemelk Oost|
-|Trintelzand|
-|Uithuizerwad 2|
-|Uithuizerwad 3|
-|Westereems Oost boei|
-|Westereems West boei|
-|Wielingen Noord|
+|Platform D15-A|
+|Platform J6|
+
+
+## Hoogwater dag Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm ##
+|Location|
+|---|
+|Bath|
+
+
+## Hoogwater nacht Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm ##
+|Location|
+|---|
+|Bath|
 
 
 ## Hefhoogte t.o.v. Normaal Amsterdams Peil in cm ##
@@ -243,4 +290,4 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 
 
 
-_generated on 21-04-2025_
+_generated on 30-09-2025_

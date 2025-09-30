@@ -13,15 +13,31 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Zeelandbrug wind ##
 |Measurement|
 |---|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
 |Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
 |Windrichting Lucht t.o.v. ware Noorden in graad|
 |10' scalair genmiddelde van de windsnelheid Lucht m/s|
+
+## Zijkanaal C (NAP -140) ##
+|Measurement|
+|---|
+|Geleidendheid Oppervlaktewater S/m|
+|Saliniteit Oppervlaktewater |
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
 
 ## Zijkanaal C (NAP -440) ##
 |Measurement|
 |---|
+|Geleidendheid Oppervlaktewater S/m|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
 |Saliniteit Oppervlaktewater |
+|Temperatuur Oppervlaktewater oC|
+
+## Zaangemaal ##
+|Measurement|
+|---|
+|Debiet Oppervlaktewater m3/s|
 
 ## Zandkreekdam ##
 |Measurement|
@@ -50,4 +66,4 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Temperatuur Oppervlaktewater oC|
 
 
-_generated on 21-04-2025_
+_generated on 30-09-2025_

@@ -5,61 +5,49 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 # Locations with the letter K #
 
 
-## K13 Alpha ##
-|Measurement|
-|---|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|
-|Luchtdruk Lucht hPa|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|
-|Temperatuur Lucht oC|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|
-|Windrichting Lucht t.o.v. ware Noorden in graad|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
-
-## K13 Alpha 3 ##
-|Measurement|
-|---|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Gem. richting deining tov ware noorden in spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in graad|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|
-
-## K13a platform ##
-|Measurement|
-|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm|
-
 ## K14 platform ##
 |Measurement|
 |---|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Temperatuur Lucht oC|
-|Luchtdruk Lucht hPa|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
 |Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|
 |Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|
 |Windrichting Lucht t.o.v. ware Noorden in graad|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
 |Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Luchtdruk Lucht hPa|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Temperatuur Lucht oC|
+|Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm|
 
-## K14 platform ##
+## Kadoelen ##
 |Measurement|
 |---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Kaapduinen ##
 |Measurement|
 |---|
 |Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|
+
+## Kallo ##
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Kamperhoek ##
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Kampen ##
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Katsberg boven ##
 |Measurement|
@@ -75,36 +63,52 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Kats Zandkreeksluis ##
 |Measurement|
 |---|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
-|Windrichting Lucht t.o.v. ware Noorden in graad|
 |10' scalair genmiddelde van de windsnelheid Lucht m/s|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
-## Kats buiten ##
+## Katerveer ##
 |Measurement|
 |---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Kinderdijk NAP -5m ##
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Geleidendheid Oppervlaktewater S/m|
 
 ## Keeten boei ##
 |Measurement|
 |---|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
 |Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
+|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|
 
 ## Keizersveer ##
 |Measurement|
 |---|
 |Temperatuur Oppervlaktewater oC|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
-## Keizersveer ##
+## Keteldiep ##
 |Measurement|
 |---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Ketelhaven ##
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Sluiskil brug ##
 |Measurement|
@@ -114,80 +118,283 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Sluiskil brug (b) ##
 |Measurement|
 |---|
-|Saliniteit Oppervlaktewater |
-|Geleidendheid Oppervlaktewater S/m|
-|Temperatuur Oppervlaktewater oC|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Temperatuur Oppervlaktewater oC|
+|Geleidendheid Oppervlaktewater S/m|
+|Saliniteit Oppervlaktewater |
 
 ## Sluiskil brug (o) ##
 |Measurement|
 |---|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Saliniteit Oppervlaktewater |
 |Geleidendheid Oppervlaktewater S/m|
 |Temperatuur Oppervlaktewater oC|
-|Saliniteit Oppervlaktewater |
 
 ## Sas van Gent ##
 |Measurement|
 |---|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
-## Kornwerderzand buiten ##
+## Sas van Gent (b) ##
 |Measurement|
 |---|
 |Temperatuur Oppervlaktewater oC|
-
-## Kwdznd Mg b(-2mWS) ##
-|Measurement|
-|---|
+|Geleidendheid Oppervlaktewater S/m|
+|Saliniteit Oppervlaktewater |
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|
 
-## Kwdznd Mg mb(-5mWS) ##
+## Sas van Gent (o) ##
 |Measurement|
 |---|
+|Temperatuur Oppervlaktewater oC|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Saliniteit Oppervlaktewater |
+|Geleidendheid Oppervlaktewater S/m|
 
-## Kwdznd Mg mo(-6mWS) ##
-|Measurement|
-|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-
-## Kwdznd mg o(-7mWS) ##
-|Measurement|
-|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-
-## Kornwerderzand buiten ##
-|Measurement|
-|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
-## Kwdznd sp m(-6mNAP) ##
+## KrammersluisOZ1b -1.5mWS ##
 |Measurement|
 |---|
 |Saliniteit Oppervlaktewater |
 |Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Geleidendheid Oppervlaktewater S/m|
+
+## KrammersluisOZ1mb -3.5mWS ##
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Saliniteit Oppervlaktewater |
+|Geleidendheid Oppervlaktewater S/m|
+
+## KrammersluisOZ1m -2.5mWS ##
+|Measurement|
+|---|
+|Saliniteit Oppervlaktewater |
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Temperatuur Oppervlaktewater oC|
+|Geleidendheid Oppervlaktewater S/m|
+
+## KrammersluisOZ1mo -4.5mWS ##
+|Measurement|
+|---|
+|Saliniteit Oppervlaktewater |
+|Geleidendheid Oppervlaktewater S/m|
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+
+## KrammersluisOZ1o -5.5mWS ##
+|Measurement|
+|---|
+|Saliniteit Oppervlaktewater |
 |Geleidendheid Oppervlaktewater S/m|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Temperatuur Oppervlaktewater oC|
+
+## Kornwerderzand binnen ##
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Kwdznd binnen b(-1,25m) ##
+|Measurement|
+|---|
+|Geleidendheid Oppervlaktewater S/m|
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Saliniteit Oppervlaktewater |
+
+## Kwdznd binnen o (-4m NAP) ##
+|Measurement|
+|---|
+|Saliniteit Oppervlaktewater |
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Geleidendheid Oppervlaktewater S/m|
+
+## Kornwerderzand buiten ##
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Temperatuur Oppervlaktewater oC|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Kornwerderzand buiten zui ##
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Kornwerderzand buiten noo ##
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Kwdznd buiten b (-2m NAP) ##
+|Measurement|
+|---|
+|Geleidendheid Oppervlaktewater S/m|
+|Temperatuur Oppervlaktewater oC|
+|Saliniteit Oppervlaktewater |
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+
+## Kwdznd buiten o (-4m NAP) ##
+|Measurement|
+|---|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Temperatuur Oppervlaktewater oC|
+|Geleidendheid Oppervlaktewater S/m|
+|Saliniteit Oppervlaktewater |
+
+## Kwdznd Mg b(-2mWS) ##
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
+|Saliniteit Oppervlaktewater |
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Geleidendheid Oppervlaktewater S/m|
+
+## Kwdznd Mg mb(-5mWS) ##
+|Measurement|
+|---|
+|Saliniteit Oppervlaktewater |
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Geleidendheid Oppervlaktewater S/m|
+
+## Kwdznd Mg mo(-6mWS) ##
+|Measurement|
+|---|
+|Geleidendheid Oppervlaktewater S/m|
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Saliniteit Oppervlaktewater |
+
+## Kwdznd Mg o(-6,25mWS) ##
+|Measurement|
+|---|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Temperatuur Oppervlaktewater oC|
+|Saliniteit Oppervlaktewater |
+|Geleidendheid Oppervlaktewater S/m|
+
+## Kwdznd sp b(-1,5mNAP) ##
+|Measurement|
+|---|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Saliniteit Oppervlaktewater |
+|Geleidendheid Oppervlaktewater S/m|
+|Temperatuur Oppervlaktewater oC|
+
+## Kwdznd sp m(-6mNAP) ##
+|Measurement|
+|---|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Temperatuur Oppervlaktewater oC|
+|Saliniteit Oppervlaktewater |
+|Geleidendheid Oppervlaktewater S/m|
+
+## Kwdznd sp mb(-4,5mNAP) ##
+|Measurement|
+|---|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Saliniteit Oppervlaktewater |
+|Temperatuur Oppervlaktewater oC|
+|Geleidendheid Oppervlaktewater S/m|
+
+## Kwdznd sp mo(-10,25mNAP) ##
+|Measurement|
+|---|
+|Geleidendheid Oppervlaktewater S/m|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Saliniteit Oppervlaktewater |
+|Temperatuur Oppervlaktewater oC|
+
+## Kwdznd sp o(-12mNAP) ##
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
+|Saliniteit Oppervlaktewater |
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Geleidendheid Oppervlaktewater S/m|
+
+## Kwdznd vg b(-2mNAP) ##
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
+|Saliniteit Oppervlaktewater |
+|Geleidendheid Oppervlaktewater S/m|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+
+## Kwdznd vg mb(-5mNAP) ##
+|Measurement|
+|---|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Geleidendheid Oppervlaktewater S/m|
+|Temperatuur Oppervlaktewater oC|
+|Saliniteit Oppervlaktewater |
+
+## Kwdznd vg mo(-7mNAP) ##
+|Measurement|
+|---|
+|Saliniteit Oppervlaktewater |
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Temperatuur Oppervlaktewater oC|
+|Geleidendheid Oppervlaktewater S/m|
 
 ## Kwdznd vg o(-8,5mNAP) ##
 |Measurement|
 |---|
+|Saliniteit Oppervlaktewater |
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Temperatuur Oppervlaktewater oC|
+|Geleidendheid Oppervlaktewater S/m|
+
+## Krammerput Boven -1,5m ##
+|Measurement|
+|---|
+|Saliniteit Oppervlaktewater |
+|Geleidendheid Oppervlaktewater S/m|
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+
+## Krammerput Midden_b -8,0m ##
+|Measurement|
+|---|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Geleidendheid Oppervlaktewater S/m|
+|Saliniteit Oppervlaktewater |
+|Temperatuur Oppervlaktewater oC|
+
+## Krammerput Midden_o -10,0 ##
+|Measurement|
+|---|
+|Geleidendheid Oppervlaktewater S/m|
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Saliniteit Oppervlaktewater |
+
+## Krammerput Onder -15,0m ##
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
+|Geleidendheid Oppervlaktewater S/m|
+|Saliniteit Oppervlaktewater |
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|
 
 ## Kier 1B WP08 -2mWS ##
 |Measurement|
 |---|
+|Geleidendheid Oppervlaktewater S/m|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|
 |Temperatuur Oppervlaktewater oC|
-|Geleidendheid Oppervlaktewater S/m|
 
 ## Kier 1M WP08 -11mWS ##
 |Measurement|
 |---|
 |Temperatuur Oppervlaktewater oC|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
 |Geleidendheid Oppervlaktewater S/m|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
 
 ## Kier 1O WP08 -14,5mWS ##
 |Measurement|
@@ -196,26 +403,61 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Temperatuur Oppervlaktewater oC|
 |Geleidendheid Oppervlaktewater S/m|
 
-## Kier 3M WP10 -9mWS ##
+## Kier 2B WP11 -2mWS ##
 |Measurement|
 |---|
 |Temperatuur Oppervlaktewater oC|
 |Geleidendheid Oppervlaktewater S/m|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|
+
+## Kier 2M WP11 -8mWS ##
+|Measurement|
+|---|
+|Geleidendheid Oppervlaktewater S/m|
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+
+## Kier 2O WP11 -13mWS ##
+|Measurement|
+|---|
+|Geleidendheid Oppervlaktewater S/m|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Temperatuur Oppervlaktewater oC|
+
+## Kier 3B WP10 -2mWS ##
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
+|Geleidendheid Oppervlaktewater S/m|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+
+## Kier 3M WP10 -9mWS ##
+|Measurement|
+|---|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Geleidendheid Oppervlaktewater S/m|
+|Temperatuur Oppervlaktewater oC|
+
+## Kier 3O WP10 -16mWS ##
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Geleidendheid Oppervlaktewater S/m|
 
 ## KIER 4B WP12 -10mWS ##
 |Measurement|
 |---|
-|Temperatuur Oppervlaktewater oC|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
 |Geleidendheid Oppervlaktewater S/m|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Temperatuur Oppervlaktewater oC|
 
 ## KIER 4M WP12 -11mWS ##
 |Measurement|
 |---|
+|Temperatuur Oppervlaktewater oC|
 |Geleidendheid Oppervlaktewater S/m|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|
-|Temperatuur Oppervlaktewater oC|
 
 ## KIER 4O WP12 -12mWS ##
 |Measurement|
@@ -224,15 +466,114 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Temperatuur Oppervlaktewater oC|
 |Geleidendheid Oppervlaktewater S/m|
 
-## Krimpen a/d IJssel ##
+## Krabbersgat Noord ##
 |Measurement|
 |---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Krabbersgat Zuid ##
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Krammer Laagbekken  (b) ##
+|Measurement|
+|---|
+|Geleidendheid Oppervlaktewater S/m|
+|Saliniteit Oppervlaktewater |
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+
+## Krammer Laagbekken (o) ##
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Saliniteit Oppervlaktewater |
+|Geleidendheid Oppervlaktewater S/m|
 
 ## Krimpen a/d Lek ##
 |Measurement|
 |---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Krimpen a/d IJssel ##
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Krammer Noord ##
+|Measurement|
+|---|
+|Saliniteit Oppervlaktewater |
+|Temperatuur Oppervlaktewater oC|
+|Geleidendheid Oppervlaktewater S/m|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+
+## Krammersluizen West ##
+|Measurement|
+|---|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Krimpen IJssel NAP -4.0m ##
+|Measurement|
+|---|
+|Geleidendheid Oppervlaktewater S/m|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Temperatuur Oppervlaktewater oC|
+
+## Krimpen IJssel NAP -5.5m ##
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Geleidendheid Oppervlaktewater S/m|
+
+## Krammersluis volkerakzijd ##
+|Measurement|
+|---|
+|Geleidendheid Oppervlaktewater S/m|
+|Temperatuur Oppervlaktewater oC|
+|Saliniteit Oppervlaktewater |
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+
+## Krammersluis volkerakzijd ##
+|Measurement|
+|---|
+|Saliniteit Oppervlaktewater |
+|Temperatuur Oppervlaktewater oC|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Geleidendheid Oppervlaktewater S/m|
+
+## Krammersluis volkerakzijd ##
+|Measurement|
+|---|
+|Temperatuur Oppervlaktewater oC|
+|Geleidendheid Oppervlaktewater S/m|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Saliniteit Oppervlaktewater |
+
+## Krammersluis volkerakzijd ##
+|Measurement|
+|---|
+|Geleidendheid Oppervlaktewater S/m|
+|Saliniteit Oppervlaktewater |
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Temperatuur Oppervlaktewater oC|
+
+## Katwijk gemaal ##
+|Measurement|
+|---|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Debiet Oppervlaktewater m3/s|
+
+## Kleine Zalm ##
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 
-_generated on 21-04-2025_
+_generated on 30-09-2025_

@@ -11,11 +11,6 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Windrichting Lucht t.o.v. ware Noorden in graad|
 |Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
 
-## Tennesseehaven ##
-|Measurement|
-|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
 ## Termunterzijl ##
 |Measurement|
 |---|
@@ -25,36 +20,39 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Measurement|
 |---|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
-## Terneuzen ##
-|Measurement|
-|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Terschelling Noordzee ##
 |Measurement|
 |---|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|
-|Windrichting Lucht t.o.v. ware Noorden in graad|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 |Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
 |Temperatuur Lucht oC|
-
-## Terschelling Noordzee ##
-|Measurement|
-|---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
 
 ## Texel Noordzee ##
+|Measurement|
+|---|
+|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Terherne Boezem Oostzijde ##
 |Measurement|
 |---|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
-## Texel Noordzee ##
+## Terherne Boezem Westzijde ##
 |Measurement|
 |---|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Tolhuissluis ##
+|Measurement|
+|---|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
 
 ## Tiel Kanaal ##
 |Measurement|
@@ -64,23 +62,33 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Tiel Waal ##
 |Measurement|
 |---|
-|Debiet Oppervlaktewater m3/s|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Debiet Oppervlaktewater m3/s|
 
 ## Tiel Waal (RAM) ##
 |Measurement|
 |---|
 |Debiet Oppervlaktewater m3/s|
 
+## t Kooike ##
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
 ## Terneuzen Westsluis ##
 |Measurement|
 |---|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|
 |Windrichting Lucht t.o.v. ware Noorden in graad|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|10' scalair genmiddelde van de windsnelheid Lucht m/s|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
 
 ## Inlaat Teersesluispolder ##
+|Measurement|
+|---|
+|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Breda Trambrug ##
 |Measurement|
 |---|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
@@ -93,41 +101,49 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Terneuzen Westsluis ZZ (b ##
 |Measurement|
 |---|
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Geleidendheid Oppervlaktewater S/m|
 |Temperatuur Oppervlaktewater oC|
 |Saliniteit Oppervlaktewater |
-|Geleidendheid Oppervlaktewater S/m|
+
+## Terneuzen Westsluis ZZ (o ##
+|Measurement|
+|---|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|
+|Saliniteit Oppervlaktewater |
+|Geleidendheid Oppervlaktewater S/m|
+|Temperatuur Oppervlaktewater oC|
 
 ## Trintelzand ##
 |Measurement|
 |---|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
 |Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|
-|Windrichting Lucht t.o.v. ware Noorden in graad|
 |Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Windrichting Lucht t.o.v. ware Noorden in graad|
+|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
+|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|
+|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
+|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
 
 ## Trintelzand boven ##
 |Measurement|
 |---|
+|Saliniteit Oppervlaktewater |
+|(massa)Concentratie chloride in Oppervlaktewater mg/l|
 |Temperatuur Oppervlaktewater oC|
 |Geleidendheid Oppervlaktewater S/m|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-|Saliniteit Oppervlaktewater |
 
 ## Trintelzand onder ##
 |Measurement|
 |---|
-|Geleidendheid Oppervlaktewater S/m|
 |Saliniteit Oppervlaktewater |
+|Geleidendheid Oppervlaktewater S/m|
 |Temperatuur Oppervlaktewater oC|
 |(massa)Concentratie chloride in Oppervlaktewater mg/l|
 
 
-_generated on 21-04-2025_
+_generated on 30-09-2025_
