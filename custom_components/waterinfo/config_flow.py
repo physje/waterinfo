@@ -4,8 +4,6 @@ from __future__ import annotations
 
 from datetime import datetime as dt, timedelta
 import logging
-import random
-import string
 from typing import Any
 
 import ddlpy
@@ -23,6 +21,7 @@ from homeassistant.helpers.selector import selector
 
 from .const import (
     CONF_LOC_SELECTOR,
+    CONST_COMP_CODE,
     CONST_COORD,
     CONST_ENABLE,
     CONST_LAT,
@@ -67,21 +66,6 @@ def validate_location(data) -> dict:
         _LOGGER.error("Location %s does not exist", data[CONST_LOC_CODE])
         raise ValueError(f"{data[CONST_LOC_CODE]} is geen bestaand station")
 
-    x_coord_len = 100
-    x_coord_short = ""
-
-    # Usually, the most recent datapoint are in the last part of the array
-    # So walk backwards in the array
-    for x in range((len(selected) - 1), -1, -1):
-        X_coord = selected.iloc[x]["X"]
-
-        # Somewhere around Sept. 9th, the duplicates all locations.
-        # The only difference is the precision of the X- and Y-coordinate
-        # So quick-and-dirty find of the shortest X-coordinate
-        if len(str(X_coord)) < x_coord_len:
-            x_coord_short = X_coord
-            x_coord_len = len(str(X_coord))
-
     sensoren = []
     seen = []
 
@@ -90,7 +74,6 @@ def validate_location(data) -> dict:
     for x in range((len(selected) - 1), -1, -1):
         grootheid = selected.iloc[x]["Grootheid.Code"]
         hoedanigheid = selected.iloc[x]["Hoedanigheid.Code"]
-        X_coord = selected.iloc[x]["X"]
 
         if hoedanigheid != "NVT":
             sensorKey = grootheid + hoedanigheid
@@ -99,7 +82,7 @@ def validate_location(data) -> dict:
 
         # Store all nessecary data for later
         # There are some weird measurements and some measurements are duplicates
-        if grootheid != "NVT" and sensorKey not in seen and X_coord == x_coord_short:
+        if grootheid != "NVT" and sensorKey not in seen:
             device_info = {}
             device_info[CONST_LOC_NAME] = selected.iloc[x]["Naam"]
             device_info[CONST_MEAS_CODE] = grootheid
@@ -108,8 +91,9 @@ def validate_location(data) -> dict:
                 "Parameter_Wat_Omschrijving"
             ]
             device_info[CONST_UNIT] = selected.iloc[x]["Eenheid.Code"]
-            device_info[CONST_LONG] = selected.iloc[x]["X"]
-            device_info[CONST_LAT] = selected.iloc[x]["Y"]
+            device_info[CONST_LONG] = selected.iloc[x]["Lon"]
+            device_info[CONST_LAT] = selected.iloc[x]["Lat"]
+            device_info[CONST_COMP_CODE] = selected.iloc[x]["Compartiment.Code"]
             device_info[CONST_PROP] = hoedanigheid
             device_info[CONST_COORD] = selected.iloc[x]["Coordinatenstelsel"]
 
@@ -134,7 +118,7 @@ def validate_location(data) -> dict:
             # If the sensor is set enabled, check if there is recent data
             if device_info[CONST_ENABLE] == 1:
                 end_date = dt.today()
-                start_date = end_date - timedelta(days=14)
+                start_date = end_date - timedelta(days=DEFAULT_TIMEDELTA)
                 measurements = ddlpy.measurements(
                     selected.iloc[x], start_date=start_date, end_date=end_date
                 )

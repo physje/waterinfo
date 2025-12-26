@@ -10,6 +10,7 @@ from homeassistant.core import HomeAssistant, ServiceCall, ServiceResponse
 
 from .const import (
     CONF_CONTEXT_PATH,
+    DEFAULT_TIMEDELTA,
     DOMAIN,
     SERVICE_LOC_REFRESH,
     SERVICE_NOTIFY,
@@ -67,17 +68,19 @@ def makeLocationFile(active_only, with_code) -> None:
     if active_only:
         added = []
         end = dt.today()
-        start = end - timedelta(days=14)
+        start = end - timedelta(days=DEFAULT_TIMEDELTA)
 
     # Walk trough all locations
     for index, row in locations.iterrows():
-        if index == "PORTZLDBSD":
-            label = "PORT ZELANDE"
-        else:
-            label = row["Naam"]
+        # if index == "PORTZLDBSD":
+        #    label = "PORT ZELANDE"
+        # else:
+        #    label = row["Naam"]
+
+        label = row["Naam"]
 
         if active_only:
-            key = index + "|" + str(row["X"]) + "|" + row["Grootheid.Code"]
+            key = index + "|" + row["Grootheid.Code"]
 
             if key not in seen and index not in added:
                 seen.append(key)

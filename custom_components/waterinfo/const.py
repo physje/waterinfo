@@ -31,7 +31,8 @@ MIN_TIMEDELTA = 1
 
 CONF_LOC_SELECTOR = "Selecteer plaats"
 
-CONF_CONTEXT_PATH = "/config/custom_components/waterinfo/"
+# CONF_CONTEXT_PATH = "/config/custom_components/waterinfo/"
+CONF_CONTEXT_PATH = "/workspaces/core/config/custom_components/waterinfo/"
 
 SERVICE_LOC_REFRESH = "renew_locations"
 SERVICE_REFRESH_ACTIVE = "active_only"

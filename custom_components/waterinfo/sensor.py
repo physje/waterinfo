@@ -22,6 +22,7 @@ from homeassistant.helpers.entity_platform import AddEntitiesCallback
 from .const import (
     ATTR_LAST_CHECK,
     ATTR_LAST_DATA,
+    CONST_COMP_CODE,
     CONST_COORD,
     CONST_DEVICE_UNIQUE,
     CONST_ENABLE,
@@ -93,12 +94,13 @@ class WaterInfoMetingSensor(SensorEntity):
 
         # Original
         self._id = entry[CONST_LOC_CODE]
-        self._X = entry[CONST_LONG]
-        self._Y = entry[CONST_LAT]
+        self._long = entry[CONST_LONG]
+        self._lat = entry[CONST_LAT]
         self._unit = entry[CONST_UNIT]
         self._grootheid = entry[CONST_MEAS_CODE]
         self._property = entry[CONST_PROP]
         self._name = entry[CONST_LOC_NAME]
+        self._comp_code = entry[CONST_COMP_CODE]
         self._attr_unique_id = entry[CONST_DEVICE_UNIQUE] + entry[CONST_SENSOR_UNIQUE]
 
         self._attr_state_class = SensorStateClass.MEASUREMENT
@@ -162,15 +164,13 @@ class WaterInfoMetingSensor(SensorEntity):
         """Get the time and updates the states."""
 
         selected = {
-            "Eenheid.Code": self._unit,
+            "Compartiment.Code": self._comp_code,
             "Grootheid.Code": self._grootheid,
-            "Hoedanigheid.Code": self._property,
             "Code": self._id,
-            "X": self._X,
-            "Y": self._Y,
+            "Lat": self._lat,
+            "Lon": self._long,
             "Coordinatenstelsel": self._coord,
             "Naam": self._name,
-            "Parameter_Wat_Omschrijving": self._parameter,
         }
 
         location = pd.Series(selected)
@@ -191,32 +191,38 @@ class WaterInfoMetingSensor(SensorEntity):
 def collectObservation(data) -> dict:
     """Collect last measurement for given location/measurement."""
 
-    observation = ddlpy.measurements_latest(data)
+    try:
+        observation = ddlpy.measurements_latest(data)
 
-    # t is list of all observation times, m is a list of all measurements
-    t = []
-    m = []
+        # t is list of all observation times, m is a list of all measurements
+        t = []
+        m = []
 
-    # walk through all measurements
-    for y in range(len(observation)):
-        if "Meetwaarde.Waarde_Numeriek" in observation.columns:
-            meetwaarde = observation["Meetwaarde.Waarde_Numeriek"].iloc[y]
-        else:
-            meetwaarde = observation["Meetwaarde.Waarde_Alfanumeriek"].iloc[y]
+        # walk through all measurements
+        for y in range(len(observation)):
+            if "Meetwaarde.Waarde_Numeriek" in observation.columns:
+                meetwaarde = observation["Meetwaarde.Waarde_Numeriek"].iloc[y]
+            else:
+                meetwaarde = observation["Meetwaarde.Waarde_Alfanumeriek"].iloc[y]
 
-        tijdstip = observation["Tijdstip"].iloc[y]
+            tijdstip = observation["Tijdstip"].iloc[y]
 
-        t.append(tijdstip)
-        m.append(meetwaarde)
+            t.append(tijdstip)
+            m.append(meetwaarde)
 
-    # find the index of the latest observation
-    # this measurement will be returned
-    max_t = max(t)
-    index_t = t.index(max_t)
+        # find the index of the latest observation
+        # this measurement will be returned
+        max_t = max(t)
+        index_t = t.index(max_t)
 
-    tijdstip_datetime = dt.strptime(t[index_t], "%Y-%m-%dT%H:%M:%S.%f%z")
+        tijdstip_datetime = dt.strptime(t[index_t], "%Y-%m-%dT%H:%M:%S.%f%z")
 
-    data["observation"] = m[index_t]
-    data["tijdstip"] = tijdstip_datetime
+        data["observation"] = m[index_t]
+        data["tijdstip"] = tijdstip_datetime
+    except:
+        data["observation"] = None
+        data["tijdstip"] = None
+
+        _LOGGER.error("No data for %s at %s", data["Grootheid.Code"], data["Naam"])
 
     return data
