@@ -9,6 +9,10 @@ This integration uses the API of Waterinfo to fetch data from a particular locat
 
 ### HACS
 
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?repository=waterinfo&owner=physje)
+
+or
+
 1. Search for the "Rijkswaterstaat waterinfo" integration in HACS. It will be automatically installed to the `custom_components` directory
 2. Restart Home Assistant.
 3. In the HA UI go to "Configuration" -> "Integrations" click "+" and search for "Rijkswaterstaat Waterinfo"
