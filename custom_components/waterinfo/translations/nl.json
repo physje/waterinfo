@@ -1,5 +1,8 @@
 {
   "config": {
+    "abort": {
+      "reconfigure_successful": "Sensoren succesvol opnieuw geconfigureerd"
+    },
     "error": {
       "invalidData": "Ongeldige locatie"
     },
@@ -17,12 +20,6 @@
         },
         "description": "Bekijk [GitHub](https://github.com/physje/waterinfo/tree/master/docs) voor meer informatie over locaties",
         "title": "Reconfigureren WaterInfo-sensoren"
-      }
-    },
-    "abort": {
-      "reconfigure_successful": {
-        "description": "Successvol gereconfigureerd",
-        "title": "Reconfigureren WaterInfo-sensors"
       }
     }
   }

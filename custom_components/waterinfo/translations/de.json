@@ -1,5 +1,8 @@
 {
   "config": {
+    "abort": {
+      "reconfigure_successful": "Sensoren erfolgreich neu konfiguriert"
+    },
     "error": {
       "invalidData": "Ungültiger Standort"
     },
@@ -16,12 +19,6 @@
           "loc_code": "Wählen Sie den Standort"
         },
         "description": "Weitere Informationen zu Standorten finden Sie unter [GitHub](https://github.com/physje/waterinfo/tree/master/docs)",
-        "title": "WaterInfo-Sensoren konfigurieren"
-      }
-    },
-    "abort": {
-      "reconfigure_successful": {
-        "description": "Erfolgreich neu konfiguriert",
         "title": "WaterInfo-Sensoren konfigurieren"
       }
     }
