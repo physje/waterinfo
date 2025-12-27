@@ -8,6 +8,6 @@
   "issue_tracker": "https://github.com/physje/waterinfo/issues",
   "loggers": ["waterinfo"],
   "requirements": ["rws-ddlpy==0.10.0"],
-  "version": "2.9.2",
+  "version": "2.9.3",
   "quality_scale": "bronze"
 }
