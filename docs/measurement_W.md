@@ -4,656 +4,358 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 
 # Measurements with the letter W #
 
-## Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm ##
+## Windrichting in Lucht t.o.v. ware Noorden in graad ##
 |Location|
 |---|
-|Platform A12|
-|Bath|
-|Platform D15-A|
-|Platform J6|
-|Nes|
-
-
-## Windsnelheid Lucht t.o.v. Mean Sea Level in m/s ##
-|Location|
-|---|
-|Platform A12|
-|AWG platform|
-|Bergsediepsluis wind|
+|A12|
+|Ameland Westgat platform|
 |Berkhout|
-|Brouwershavense Gat 2|
-|Borssele Alpha|
-|Cadzand wind|
-|Platform D15-A|
-|De Kooy|
-|Europlatform|
-|Europlatform 2|
-|F3 platform|
-|Rotterdamse hoek|
-|Markermeer Midden -o|
-|Gannet platform 1|
-|Grevelingensluis wind|
-|Hansweert wind|
-|Hollandse Kust West A|
-|Hollandse Kust West A|
-|Platform HKZA 1|
-|Platform HKZA 2|
-|Hoek van Holland|
-|Hoorn Terschelling|
-|Houtribdijk|
-|Huibertgat|
-|Haringvlietsluizen sch 1|
-|IJmuiden Buitenhaven|
-|IJmuiden Zuid havenhoofd|
-|Platform J6|
-|K14 platform|
-|Kats Zandkreeksluis|
-|L9 platform|
-|Lauwersoog|
-|Lichteiland Goeree|
-|Lage Licht|
-|Marknesse|
-|Maeslantkering geleidetor|
-|Marollegat|
-|Nes|
-|Nieuw Beerta|
-|Nelson platform1|
-|Oosterschelde 4|
-|P11 platform|
-|Rotterdam Luchthaven|
-|Rotterdam Geulhaven|
-|Geulhaven Radarpost 10|
-|Stroommeetpaal Eemshaven|
-|IJgeul stroommeetpaal|
-|Stavenisse|
-|Stavoren|
-|Texelhors|
-|Terschelling Noordzee|
-|Terneuzen Westsluis|
-|Trintelzand|
-|Uithuizerwad|
-|Vlieland|
-|Vlissingen|
-|Vlakte v/d Raan|
-|Wierumergronden|
-|Wijdenes|
-|Wilhelminadorp|
-|Zeelandbrug wind|
-
-
-## Windrichting Lucht t.o.v. ware Noorden in graad ##
-|Location|
-|---|
-|Platform A12|
-|AWG platform|
-|Bergsediepsluis wind|
-|Berkhout|
-|Brouwershavense Gat 2|
-|Borssele Alpha|
-|Cadzand wind|
-|Platform D15-A|
-|De Kooy|
-|Europlatform|
-|Europlatform 2|
-|F3 platform|
-|Rotterdamse hoek|
-|Markermeer Midden -o|
-|Gannet platform 1|
-|Grevelingensluis wind|
-|Hansweert wind|
-|Hollandse Kust West A|
-|Hollandse Kust West A|
-|Platform HKZA 1|
-|Platform HKZA 2|
-|Hoek van Holland|
-|Hoorn Terschelling|
-|Houtribdijk|
-|Huibertgat|
-|Haringvlietsluizen sch 1|
-|IJmuiden Buitenhaven|
-|IJmuiden Zuid havenhoofd|
-|Platform J6|
-|K14 platform|
-|Kats Zandkreeksluis|
-|L9 platform|
-|Lauwersoog|
-|Lichteiland Goeree|
-|Lage Licht|
-|Marknesse|
-|Maeslantkering geleidetor|
-|Marollegat|
-|Nes|
-|Nieuw Beerta|
-|Nelson platform1|
-|Oosterschelde 4|
-|P11 platform|
-|Rotterdam Luchthaven|
-|Rotterdam Geulhaven|
-|Geulhaven Radarpost 10|
-|Stroommeetpaal Eemshaven|
-|IJgeul stroommeetpaal|
-|Stavenisse|
-|Stavoren|
-|Texelhors|
-|Terschelling Noordzee|
-|Terneuzen Westsluis|
-|Trintelzand|
-|Uithuizerwad|
-|Vlieland|
-|Vlissingen|
-|Vlakte v/d Raan|
-|Wierumergronden|
-|Wijdenes|
-|Wilhelminadorp|
-|Zeelandbrug wind|
-
-
-## Waterhoogte astronomisch Oppervlaktewater t.o.v. Mean Sea Level in cm ##
-|Location|
-|---|
-|Platform A12|
-|AWG platform|
-|Baalhoek|
-|Bath|
-|Bergsediepsluis|
-|Brouwershavense Gat 2|
-|Brouwershavense Gat 8|
-|Cadzand|
-|Platform D15-A|
-|Den Helder|
-|Delfzijl|
-|Dordrecht|
-|Europlatform|
-|F3 platform|
-|Goidschalxoord|
-|Gouda brug|
-|Haringvliet 10|
-|Hagestein beneden|
+|Borssele Windpark Alpha platform|
+|Botlek Geulhaven|
+|Bruinisse Grevelingensluis|
+|Cadzand, 1|
+|D15|
+|Den Helder, De Kooy|
+|Eemshaven, Waddenzee|
+|F3|
 |Hansweert|
-|Harlingen|
-|Heesbeen|
-|Hellevoetsluis|
 |Hoek van Holland|
-|Holwerd|
+|Hoek van Holland, lage licht|
+|Hoek van Holland Maeslantkering|
+|Hollandse Kust Noord Alpha|
+|Hollandse Kust Zuid platform Alpha 1|
+|Hollandse Kust Zuid platform Alpha 2|
+|Houtribdijk, IJsselmeer|
 |Huibertgat|
-|IJmuiden Buitenhaven|
-|Platform J6|
-|K14 platform|
-|Kats Zandkreeksluis|
-|Keizersveer|
-|Kornwerderzand buiten|
-|Krimpen a/d Lek|
-|Krimpen a/d IJssel|
-|Krammersluizen West|
-|L9 platform|
-|Lauwersoog|
-|Lichteiland Goeree|
-|Lith Dorp|
-|Maassluis|
-|Moerdijk|
+|IJGeul, 1|
+|IJmuiden, buitenhaven|
+|IJmuiden, havenhoofd, zuid|
+|J6|
+|K14|
+|Kats Zandkreeksluis buiten|
+|L9|
+|Lauwersoog, Waddenzee|
+|Markermeer, midden|
+|Markermeer Trintelzand|
+|Marknesse|
 |Marollegat|
-|Nes|
-|Nieuwe Statenzijl|
-|Den Oever buiten|
-|Oosterschelde 11|
-|Oosterschelde 14|
-|Oosterschelde 4|
-|Oudeschild|
-|Overloop van Hansweert|
-|Schoonhoven|
-|Spijkenisse|
-|Stavenisse|
-|Stellendam buiten|
-|Terneuzen|
-|Terschelling Noordzee|
-|Texel Noordzee|
-|Vlaardingen|
-|Vlieland haven|
+|Nieuw Beerta|
+|P11|
+|Rotterdam, luchthaven|
+|Rotterdamsehoek IJsselmeer|
+|Stavoren IJsselmeer|
+|Stellendam, Haringvlietsluizen, schuif 1|
+|Terschelling, Hoorn|
+|Terschelling, Noordzee|
+|Texelhors|
+|Tholen Bergsediepsluis|
+|Vlakte van de Raan|
+|Vlieland, west|
 |Vlissingen|
-|Vlakte v/d Raan|
-|Vuren|
-|Walsoorden|
-|Werkendam buiten|
 |Wierumergronden|
-|Westkapelle|
-|West-Terschelling|
-|Yerseke|
+|Wijdenes|
+|Wilhelminadorp|
+|Zierikzee Zeelandbrug|
 
 
-## Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm ##
+## Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm ##
 |Location|
 |---|
-|Platform A12|
 |Aadorp|
+|Aarle Rixtel, Schabbert, beneden|
+|Aarle Rixtel, Schabbert, boven|
 |Almen|
-|Amaliahaven|
-|Amerongen boven|
-|Amerongen beneden|
-|Antwerps kanaalpand|
-|Antwerpen|
-|Arnhem|
-|AWG platform|
-|Baalhoek|
-|Bath|
-|Bathse brug Deltanuts|
-|Bergsediepsluis|
-|Belfeld boven|
-|Belfeld beneden|
-|Bernisse Zuidland|
-|Brouwershavense Gat 2|
-|Brouwershavense Gat 8|
-|Berghaven H v Holland|
-|Borgharen Julianakanaal 2|
-|Binnen Kievitswaard|
-|Beuningengemaal|
-|Bommenede 1|
-|Borgharen Dorp|
-|Borgharen Julianakanaal|
-|Borssele|
-|Breskens Handelshaven|
-|Burgumerdaam Boezem|
-|Brouwersdam 2 buiten Zuid|
-|Brouwersdam 6 binnen Zuid|
-|Borssele Alpha|
-|Benedensas Sluis|
-|Bathse spuisluis Ws|
-|Bathse spuisluis kanaal|
-|Buggenum|
+|Almere, Hollandse brug|
+|Ameland Westgat platform|
+|Amerongen, beneden|
+|Amerongen, boven|
+|Amsterdam, Schellingwouderbrug|
+|Amsterdam, Surinamekade|
+|Arnhem, Nederrijn|
+|Beek en donk, sluis 6, beneden|
+|Beek en donk, sluis 6, boven|
+|Borssele Windpark Alpha platform|
+|Breda|
+|Breskens, Handelshaven|
+|Brouwersdam spuisluis binnen schuif6|
+|Brouwersdam spuisluis buiten schuif2|
+|Bruinisse Krammersluis Oosterschelde|
 |Buitenhuizen|
-|Bunde|
-|Cadzand|
-|Geul Cotessen|
-|Crevecoeur|
-|Crevecoeur boven|
-|Culemborg brug|
-|Platform D15-A|
-|Delden boven|
-|Delden beneden|
-|Den Helder|
-|Deventer|
-|Delfzijl|
-|Drielandenpunt|
-|Dodewaard|
-|Doesburg brug|
-|Doorslag|
-|Dordrecht|
-|Dorkwerd|
-|Driel boven|
-|Driel beneden|
-|Dintelsas|
-|Echt|
-|Edam|
-|Eefde boven|
-|Eefde beneden|
-|Eemdijk|
-|Eibersburen|
-|Eijsden grens|
-|Eisden Mazenhove|
-|Eisden Mazenhove MG|
-|Elburgerbrug|
-|Elsloo|
-|Empel sluis|
-|Empel boven|
-|Empel beneden|
-|Europlatform|
-|Europlatform 2|
-|Europahaven|
-|F3 platform|
-|Rotterdamse hoek|
-|Markermeer Midden -o|
-|Gaarkeuken Oost|
-|Gaarkeuken West|
-|Galgenkampsbrug|
-|Gannet platform 1|
-|Genemuiden|
-|Gennep|
-|Goidschalxoord|
-|Gouda brug|
-|Grave boven|
-|Grave beneden|
-|Grebbe|
-|Groene Riv Pannerden bov|
-|Groene Riv Pannerden ben|
-|Haringvliet 10|
-|Haringvliet 10 (f)|
-|Haandrik Kruisbrug|
-|Hagestein boven|
-|Hagestein beneden|
-|Hansweert|
-|Harlingen|
-|Hansweert wind (b)|
-|Halfweg boezem|
-|Heel boven|
-|Heel beneden|
-|Heesbeen|
-|Hellevoetsluis|
-|Hengelo boven|
-|Hengelo Koppelleiding|
-|Hengelo beneden|
-|gemaal Hoogland buiten|
-|Hintham boven|
-|Hintham beneden|
-|Hollandse Kust West Alpha|
-|Platform HKZA|
-|Hoek van Holland|
-|Hollandse brug|
-|Holwerd|
-|Houtrib Noord|
-|Houtrib Zuid|
-|Happen Hennip|
-|Hondsbroekse Pleij IJssel|
-|Herenlaak|
-|Helmond RWZI - boven|
-|Huibertgat|
-|IJmuiden Buitenhaven|
-|IJmuiden Noordersluis O|
-|IJmuiden Noordersluis W|
-|IJsselkop|
-|Platform J6|
-|K14 platform|
-|Kadoelen|
-|Kallo|
-|Kamperhoek|
-|Kampen|
-|Katsberg boven|
-|Katsberg beneden|
-|Kats Zandkreeksluis|
-|Katerveer|
-|Keizersveer|
-|Keteldiep|
-|Ketelhaven|
-|Sluiskil brug|
-|Sas van Gent|
-|Kornwerderzand binnen|
-|Kornwerderzand buiten|
-|Kornwerderzand buiten zui|
-|Kornwerderzand buiten noo|
-|Krabbersgat Noord|
-|Krabbersgat Zuid|
-|Krimpen a/d Lek|
-|Krimpen a/d IJssel|
-|Krammersluizen West|
-|Kleine Zalm|
-|L9 platform|
-|Lanaken|
-|Lauwersoog|
-|Lemmer Boezem|
-|Lichteiland Goeree|
-|Lemmer|
-|Liefkenshoek|
-|Lemmer IJsselmeer|
-|Linne beneden|
-|Lith boven|
-|Lith Dorp|
-|Inlaat Landsweijer|
-|Lobith|
-|Lobith|
-|Looveer Huissen|
-|Loozen|
-|Maaseik|
-|Maarssen|
-|Maassluis|
-|Markelose brug|
-|Meeswijk veer|
-|Megen|
-|Meppelerdiep km 2.5|
-|Middelste Kievitswaard|
-|Maeslantkering zeezijde N|
-|Maeslantkering zeezijde Z|
-|Moerdijk|
-|Mond der Vecht|
-|Mook|
-|Marollegat|
-|Mauriksewetering|
-|Naviduct Noord|
-|Naviduct Zuid|
-|Neer|
-|Negenoord-Oost|
-|Negenoord-West|
-|Nes|
-|Nijmegen haven|
-|Nijkerk Oost|
-|Nijkerk West|
-|Nelson platform1|
-|ADM Noordervaart|
-|Nieuwegein|
-|Nieuwe Statenzijl|
-|Den Oever binnen|
-|Den Oever buiten|
-|Olst|
-|Ommen Hesselmulertbrug|
-|Ommen Ommerkanaal|
-|Oostersluis|
-|Oosterschelde 11|
-|Oosterschelde 11 (b)|
-|Oosterschelde 14|
-|Oosterschelde 4|
-|Oosterschelde 4 (b)|
-|Oudeschild|
-|Overloop van Hansweert|
-|Pannerdense kop|
-|Plazabeach Terminal|
-|De Piet|
-|Poeldonk boven - ZWV|
-|Poeldonk beneden - Aa|
-|Rak Noord|
-|Rak Zuid|
-|Ramspolkering Ketelmeerzi|
-|Ramspolbrug|
-|Roermond boven|
-|Rotterdam|
-|Geulhaven Radarpost 10|
-|Roompot binnen (SVKO)|
-|Roompot buiten (SVKO)|
-|Roompotsluis (SVKO)|
-|Rijswijk Betuwepand|
-|Rotem Maas|
-|Rotem Bichterweerd|
-|Reevesluis noord|
-|Reevesluis zuid|
-|Sluis 4 boven|
-|Sluis 4 beneden|
-|Sluis 5 boven|
-|Sluis 5 beneden|
-|Sluis 6 boven|
-|Sluis 6 beneden|
-|Sluis 9 boven|
-|Sluis 10 boven|
-|Sluis 10 beneden|
-|Sluis 11 boven|
-|Sluis 11 beneden|
-|Sluis 12 boven|
-|Sluis 12 beneden|
-|Sluis 13 ADM|
-|Sluis 13 boven|
-|Sluis 13 beneden|
-|Sluis 15 boven|
-|Sluis 15 voedingskanaal|
-|Sluis 16 boven|
-|Sluis 16 beneden|
-|Sluis 21 boven|
-|Sluis 21 spuikanaal|
-|Sluis 22 boven|
-|Sluis 22 beneden|
-|Sluis 23 boven|
-|Sluis 23 beneden|
-|Sluis 24 boven|
-|Sluis 24 beneden|
-|Sluis 24 spuikanaal|
-|Sambeek boven|
-|Sambeek beneden|
-|Schabbert boven|
-|Schabbert beneden|
-|Scheveningen|
-|Schoonhoven|
-|Schiermonnikoog|
-|Schellingwouderbrug|
-|Scheeresluis beneden|
-|Spaarndam boezem|
-|Sluis Helmond boven|
-|Sint Pieter noord|
-|Slochtersluis boven|
-|Marksluis boven - WHK|
-|Marksluis beneden - Mark|
-|Smeermaas|
-|Spuisluis Oude Eemskanaal|
-|Spooldersluis binnen|
-|Stroommeetpaal Eemshaven|
-|Panheel boven - ZWV|
-|Spijkenisse|
-|Spaanjerd|
-|Bathse spuikanaal Inloop|
-|IJgeul stroommeetpaal|
-|Sluis Schijndel boven|
-|Sluis Schijndel beneden|
-|Sluis Schijndel spuik|
-|Sint Annaland|
-|Stavenisse|
+|Bunde, kanaal|
+|Burgum Burgumerdaam boezem|
+|Cadzand, 1|
+|Culemborg|
+|Dalfsen, Vechterweerd|
+|Delden, sluis, beneden|
+|Delden, sluis, boven|
+|Delfzijl Oude Eemskanaal Spuisluis|
+|Den Helder, Marsdiep|
 |De Steeg|
-|Stellendam buiten|
-|Stevensweert|
-|Steurgat|
-|Steenenmuur|
-|Surinamekade|
-|Schaar v/d Noord|
-|Termunterzijl|
-|Terneuzen|
-|Terschelling Noordzee|
-|Texel Noordzee|
-|Terherne Boezem Oostzijde|
-|Terherne Boezem Westzijde|
-|Tiel Kanaal|
-|Tiel Waal|
-|t Kooike|
-|Inlaat Teersesluispolder|
-|Breda Trambrug|
-|Terneuzen Westsluis ZZ|
-|Trintelzand|
-|Uithuizerwad 2|
-|Uikhoven|
-|Vechterweerd beneden|
-|Veessen - Wapenveld|
+|Dinteloord, Volkerak|
+|Doesburg, IJssel|
+|Dordrecht Beneden Merwede|
+|Dorkwerd Reitdiep|
+|Driel, beneden|
+|Dronten Reevesluis zuid|
+|Dronten Reevesluis noord|
+|Eefde, sluis, beneden|
+|Eefde, sluis, boven|
+|Eibersburen|
+|Eisden Mazenhove, Maas|
+|Eisden Mazenhove, Maesbempder Greend|
+|Epen Geul Cottessen|
+|Erp, sluis 5, beneden|
+|Erp, sluis 5, boven|
+|Genemuiden|
+|Grave, beneden|
+|Grave, boven|
+|Grijpskerk Gaarkeuken oost|
+|Grijpskerk Gaarkeuken west|
+|Groningen|
+|Hagestein, boven|
+|Haghorst, sluis 4, beneden|
+|Haghorst, sluis 4, boven|
+|Haghorst, sluis 4, schuif1|
+|Hasselt, Zwarte Water|
+|Heel, kanaal|
+|Hellevoetsluis|
+|Helmond, aflaat, boven|
+|Helmond, sluis, aflaat 1|
+|Helmond, sluis, boven|
+|Hengelo, Koppelleiding|
+|Hengelo, sluis, beneden|
+|Hengelo, sluis, boven|
+|Herenlaak|
+|Hollandse Kust Noord Alpha|
+|Holtheme Vecht|
+|Huissen, Nederrijn|
+|IJmuiden, buitenhaven|
+|IJmuiden, noordersluis, oost|
+|Kadoelen, Zwanediep|
+|Kampen, IJssel|
+|Kampen, Keteldiep|
+|Kampen Scheeresluis beneden|
+|Kamperland, Schotsman|
+|Kast Zanskreeksluis kolk1|
+|Ketelhaven, Ketelmeer|
+|Krabbersgat, Markermeer|
+|Kralendijk Plazabeach Terminal|
+|Lanaken|
+|Lemmer Ijsselmeer Woudagemaal|
+|Lemmer stroomkanaal Woudagemaal|
+|Lierop, sluis 10, beneden|
+|Lierop, sluis 10, boven|
+|Lierop ZuidWillemsvaart Sluis 9 boven|
+|Lith, boven|
+|Lith, beneden sluis|
+|Lixhe Bief Aval|
+|Lobith, Bovenrijn, haven|
+|Maarssen, kanaal|
+|Maasvlakte Amaliahaven|
+|Markelo|
+|Maurik Mauriksewetering|
+|Meijel Stuw Katsberg beneden|
+|Meijel Stuw Katsberg boven|
+|Meppel, hoofdvaart|
+|Nederweert, sluis 15, boven|
+|Nederweert, sluis 15, voedingskanaal|
+|Nederweert-Eind|
+|Neer|
+|Negenoord, west|
+|Nieuwegein, lekkanaal|
+|Nijmegen Maaswaalkanaal Inlaat Weurt|
+|Olst|
+|Ommen, Ommerkanaal|
+|Ommen, Vecht|
+|Oosterhout, Marksluis, beneden|
+|Oosterhout, sluis 1, boven|
+|Oosterhout, sluis 1, spuikanaal|
+|Oosterschelde, 4|
+|Ossenisse|
+|Panheel, sluis, boven|
+|Ramspolkering Ketelmeerzijde|
+|Rhenen Grebbeberg|
+|Rijswijk Drielandenpunt|
+|Rilland, Antwerps kanaalpand|
+|Rilland, Bathsebrug|
+|Rilland, Bathse Spuikanaal, inloop|
+|Rilland Bathse spuisluis binnen|
+|Rilland Bathse spuisluis buiten|
+|Rosmalen Hinthamsluis beneden|
+|Rosmalen Hinthamsluis boven|
+|Rotem|
+|Rotterdam IJzerwerkerkade|
+|Rotterdamsehoek IJsselmeer|
+|Sas van Gent|
+|Schijndel, sluis, beneden|
+|Schijndel, sluis, boven|
+|Schijndel, sluis, spuikanaal|
+|Schoonhoven|
+|'s-Hertogenbosch Crevecoeur|
+|Empel, kanaal|
+|Empel, Maas|
+|'s-Hertogenbosch Engelen|
+|Sint Annaland haven|
+|Slochtersluis|
+|Smeermaas, Zuid-Willemsvaart|
+|Someren, sluis 11, beneden|
+|Someren, sluis 11, boven|
+|Someren, sluis 12, beneden|
+|Someren, sluis 12, boven|
+|Someren, sluis 13|
+|Someren, sluis 13, beneden|
+|Someren, sluis 13, boven|
+|Spaanjerd|
+|Stavenisse|
+|Stavoren gemaal Hoogland buiten|
+|Steyl|
+|Terherne beneden|
+|Terherne boven|
+|Terneuzen, Sluiskilbrug|
+|Terneuzen, westsluis, buiten|
+|Tiel, kanaal|
+|Tilburg, sluis 2, beneden|
+|Tilburg, sluis 2, boven|
+|Tilburg, sluis 3, beneden|
+|Tilburg, sluis 3, boven|
+|Uithuizerwad|
+|Veessen Wapenveld|
+|Veghel, sluis 4, beneden|
+|Veghel, sluis 4, boven|
 |Venlo|
-|Volkerak Galathee|
-|Vlaardingen|
-|Vlieland haven|
+|Vlakte van de Raan|
 |Vlissingen|
-|VM3 Zandkreeksluis|
-|Veersemeer 4 Oranjeplaat|
-|Veersemeer 5 Schotsman|
-|Vossenbeemd Helmond|
-|Nieuw Vossemeer|
-|Vlakte v/d Raan|
-|Vuren|
-|Vogelenzang|
-|Walsoorden|
-|Weesp|
-|Well Dorp|
-|Werkendam buiten|
-|Westervoort IJsseldijkerw|
-|Inlaat Weurt|
+|Waalwijk|
+|Weert, Lozen|
+|Weert, sluis 16, beneden|
+|Weert, sluis 16, boven|
+|Weesp, Amsterdam-Rijnkanaal|
+|Werkendam, Binnen Kievitswaard|
+|Werkendam, Happen Hennip|
+|Werkendam, Kooike|
+|Werkendam, Middelste Kievitswaard|
+|Werkendam, Steenenmuur|
+|Werkendam, Vogelenzang|
+|Westervoort, 2|
+|Westervoort Hondsbroeksche Pleij IJssel|
+|Westervoort IJsselkop|
+|Westkapelle|
 |Wierumergronden|
 |Wijhe|
-|Wijk bij Duurstede|
-|Westkapelle|
-|Waalwijk|
-|West-Terschelling|
-|Yerseke|
+|Wijk bij Duurstede, Amsterdam-Rijnkanaal|
 |Zaltbommel|
-|Zandkreekdam OS|
-|Zandkreekdam VM|
-|Zutphen Noord|
-|Zwartsluis buiten|
+|Zoelen Beuningengemaal|
+|Zuidland, Spui|
+|Zutphen, IJssel|
+|Zwartsluis, Meppelerdiep|
+|Zwolle, Zwarte Water, kanaal|
 
 
-## 10' scalair genmiddelde van de windsnelheid Lucht m/s ##
+## Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s ##
 |Location|
 |---|
-|Platform A12|
-|AWG platform|
-|Bergsediepsluis wind|
-|Brouwershavense Gat 2|
-|Borssele Alpha|
-|Cadzand wind|
-|Platform D15-A|
+|Ameland Westgat platform|
+|Borssele Windpark Alpha platform|
+|Botlek Geulhaven|
+|Brouwersdam Brouwershavense Gat 2|
+|Bruinisse Grevelingensluis|
+|Cadzand, 1|
+|Den Helder, De Kooy|
 |Europlatform|
-|F3 platform|
-|Rotterdamse hoek|
-|Grevelingensluis wind|
-|Hansweert wind|
-|Platform HKZA 1|
-|Platform HKZA 2|
+|Goeree, lichteiland|
+|Hoek van Holland|
+|Hoek van Holland, lage licht|
+|Hoek van Holland Maeslantkering|
+|Hollandse Kust Noord Alpha|
+|Hollandse Kust Zuid platform Alpha 1|
+|Hollandse Kust Zuid platform Alpha 2|
+|Houtribdijk, IJsselmeer|
 |Huibertgat|
-|Haringvlietsluizen sch 1|
-|IJmuiden Zuid havenhoofd|
-|Platform J6|
-|K14 platform|
-|Kats Zandkreeksluis|
-|L9 platform|
-|Lichteiland Goeree|
-|Lage Licht|
-|Maeslantkering geleidetor|
-|Marollegat|
-|Nes|
-|Oosterschelde 4|
-|P11 platform|
-|Stroommeetpaal Eemshaven|
-|IJgeul stroommeetpaal|
+|IJGeul, 1|
+|IJmuiden, buitenhaven|
+|IJmuiden, havenhoofd, zuid|
+|Kats Zandkreeksluis buiten|
+|Lauwersoog, Waddenzee|
+|Markermeer, midden|
+|Markermeer Trintelzand|
+|Nieuw Beerta|
+|P11|
+|Rotterdamsehoek IJsselmeer|
 |Stavenisse|
-|Terschelling Noordzee|
-|Terneuzen Westsluis|
-|Uithuizerwad|
-|Vlakte v/d Raan|
-|Wierumergronden|
-|Zeelandbrug wind|
+|Stavoren IJsselmeer|
+|Stellendam, Haringvlietsluizen, schuif 1|
+|Terneuzen, westsluis|
+|Texelhors|
+|Tholen Bergsediepsluis|
+|Vlakte van de Raan|
+|Vlieland, west|
+|Vlissingen|
+|Wijdenes|
+|Zierikzee Zeelandbrug|
 
 
-## Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s ##
+## Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm ##
 |Location|
 |---|
-|Platform A12|
-|AWG platform|
-|Bergsediepsluis wind|
-|Brouwershavense Gat 2|
-|Borssele Alpha|
-|Cadzand wind|
-|Platform D15-A|
+|Arnemuiden Oranjeplaat|
+|Bommenede|
+|Brouwershavensche Gat 08|
+|Deventer|
+|Driel, boven|
+|Elsloo, Maas|
+|Hagestein, beneden|
+|Hank, Bergsche Maas|
+|Krabbersgat, IJsselmeer|
+|Lelystad, Houtribsluis, zuid|
+|Linne, stuw, beneden|
+|Lobith, Bovenrijn, Tolkamer|
+|Maassluis|
+|Maastricht, Sint Pieter|
+|Maasvlakte Europahaven|
+|Maasvlakte, Hartelhaven|
+|Megen, Maas|
+|Moerdijk|
+|Negenoord, oost|
+|Nieuw-Vossemeer|
+|Nijmegen, Waal|
+|Oosterschelde Roompotsluis binnen|
+|Ramspolbrug, Ramsdiep|
+|Rilland, Bath|
+|Roermond, boven|
+|Sambeek, beneden|
+|Sambeek, boven|
+|Stevensweert|
+|Texel, Noordzee|
+|Tiel, Waal|
+|Uikhoven|
+|Zwartsluis, Zwarte Water|
+|Zwolle, IJssel|
+
+
+## Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm ##
+|Location|
+|---|
+|Botlek Geulhaven|
+|Brouwersdam Brouwershavense Gat 2|
+|Den Oever, Waddenzee voorhaven|
 |Europlatform|
-|Europlatform 2|
-|F3 platform|
-|Rotterdamse hoek|
-|Markermeer Midden -o|
-|Grevelingensluis wind|
-|Hansweert wind|
-|Hollandse Kust West A|
-|Hollandse Kust West A|
-|Platform HKZA 1|
-|Platform HKZA 2|
+|Europoort, Harmsenbrug|
+|Europoort, Hartelbrug|
+|F3|
+|Haringvliet, punt 10|
+|Heinenoord, Goidschalxoord|
 |Huibertgat|
-|Haringvlietsluizen sch 1|
-|IJmuiden Zuid havenhoofd|
-|Platform J6|
-|K14 platform|
-|Kats Zandkreeksluis|
-|L9 platform|
-|Lichteiland Goeree|
-|Lage Licht|
-|Maeslantkering geleidetor|
-|Nes|
-|Oosterschelde 4|
-|P11 platform|
-|Stroommeetpaal Eemshaven|
-|IJgeul stroommeetpaal|
-|Stavenisse|
-|Terschelling Noordzee|
-|Terneuzen Westsluis|
-|Trintelzand|
-|Uithuizerwad|
-|Vlakte v/d Raan|
-|Wierumergronden|
-|Zeelandbrug wind|
+|J6|
+|Kloosterzande, Baalhoek|
+|Lith, beneden dorp|
+|Nieuwe Statenzijl, Dollard|
+|Rozenburgsesluis, noordzijde|
+|Terschelling, Noordzee|
+|Tholen, Bergse Diepsluis, buiten|
+|Vlaardingen|
+|Werkendam, Nieuwe Merwede|
 
 
 
 
-_generated on 30-09-2025_
+_generated on 27-12-2025_

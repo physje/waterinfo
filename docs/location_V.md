@@ -5,224 +5,106 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 # Locations with the letter V #
 
 
-## Vechterweerd beneden ##
+## Veessen Wapenveld ##
 |Measurement|
 |---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
-## Veessen - Wapenveld ##
+## Veghel, sluis 4, beneden ##
 |Measurement|
 |---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Veghel, sluis 4, boven ##
+|Measurement|
+|---|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Veghel, Sluis 4, inlaat ##
+|Measurement|
+|---|
+|Debiet in Oppervlaktewater in m3/s|
+
+## Veghel, Sluis 4, uitlaat ##
+|Measurement|
+|---|
+|Debiet in Oppervlaktewater in m3/s|
+
+## Velserkom ##
+|Measurement|
+|---|
+|Geleidendheid in Oppervlaktewater in mS/m|
+|Temperatuur in Oppervlaktewater in oC|
+|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
+
+## Velsen-Zuid, Spaarndammerpolder ##
+|Measurement|
+|---|
+|Geleidendheid in Oppervlaktewater in mS/m|
+|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
+|Temperatuur in Oppervlaktewater in oC|
+|Saliniteit in Oppervlaktewater|
 
 ## Venlo ##
 |Measurement|
 |---|
-|Debiet Oppervlaktewater m3/s|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
-## Volkerakgat 2 ##
-|Measurement|
-|---|
-|Debiet Oppervlaktewater m3/s|
-
-## Volkerakgat 3 ##
-|Measurement|
-|---|
-|Debiet Oppervlaktewater m3/s|
-
-## Volkerak Galathee ##
-|Measurement|
-|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
-## Volkerak Galathee (b) ##
-|Measurement|
-|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-|Temperatuur Oppervlaktewater oC|
-|Geleidendheid Oppervlaktewater S/m|
-
-## Volkerak Galathee (o) ##
-|Measurement|
-|---|
-|Temperatuur Oppervlaktewater oC|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-|Geleidendheid Oppervlaktewater S/m|
+|Debiet verwachting in Oppervlaktewater in m3/s|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Vlaardingen ##
 |Measurement|
 |---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
-## Vlieland ##
+## Vlakte van de Raan ##
 |Measurement|
 |---|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
-|Windrichting Lucht t.o.v. ware Noorden in graad|
-|Temperatuur Lucht oC|
+|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
+|Windrichting in Lucht t.o.v. ware Noorden in graad|
+|Saliniteit in Oppervlaktewater|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
+|Temperatuur in Oppervlaktewater in oC|
+|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
+|Geleidendheid in Oppervlaktewater in mS/m|
 
-## Vlieland haven ##
+## Vlakte van de Raan Deurloo ##
 |Measurement|
 |---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
+|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+
+## Vlieland, west ##
+|Measurement|
+|---|
+|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
+|Temperatuur in Lucht in oC|
+|Windrichting in Lucht t.o.v. ware Noorden in graad|
 
 ## Vlissingen ##
 |Measurement|
 |---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Windrichting Lucht t.o.v. ware Noorden in graad|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
-|Temperatuur Oppervlaktewater oC|
-|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Temperatuur in Lucht in oC|
+|Windrichting in Lucht t.o.v. ware Noorden in graad|
+|Temperatuur in Oppervlaktewater in oC|
 
-## Velserkom b WS3 -1 ##
+## Vlissingen Honte ##
 |Measurement|
 |---|
-|Temperatuur Oppervlaktewater oC|
-|Saliniteit Oppervlaktewater |
-|Geleidendheid Oppervlaktewater S/m|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-
-## Velserkom m WS3 ##
-|Measurement|
-|---|
-|Geleidendheid Oppervlaktewater S/m|
-|Temperatuur Oppervlaktewater oC|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-|Saliniteit Oppervlaktewater |
-
-## Velserkom o WS3 -8 ##
-|Measurement|
-|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-|Temperatuur Oppervlaktewater oC|
-|Geleidendheid Oppervlaktewater S/m|
-|Saliniteit Oppervlaktewater |
-
-## VM3 Zandkreeksluis ##
-|Measurement|
-|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
-## Veersemeer 4 Oranjeplaat ##
-|Measurement|
-|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
-## VM4 Oranjeplaat (b) ##
-|Measurement|
-|---|
-|Temperatuur Oppervlaktewater oC|
-|Saliniteit Oppervlaktewater |
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-|Geleidendheid Oppervlaktewater S/m|
-
-## VM4 Oranjeplaat (o) ##
-|Measurement|
-|---|
-|Saliniteit Oppervlaktewater |
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-|Temperatuur Oppervlaktewater oC|
-|Geleidendheid Oppervlaktewater S/m|
-
-## Veersemeer 5 Schotsman ##
-|Measurement|
-|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
-## VM5 Schotsman (b) ##
-|Measurement|
-|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-|Geleidendheid Oppervlaktewater S/m|
-|Saliniteit Oppervlaktewater |
-|Temperatuur Oppervlaktewater oC|
-
-## VM5 Schotsman (o) ##
-|Measurement|
-|---|
-|Temperatuur Oppervlaktewater oC|
-|Saliniteit Oppervlaktewater |
-|Geleidendheid Oppervlaktewater S/m|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-
-## Volkerak Noord (b) ##
-|Measurement|
-|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-|Geleidendheid Oppervlaktewater S/m|
-|Temperatuur Oppervlaktewater oC|
-
-## Volkerak Noord (o) ##
-|Measurement|
-|---|
-|Temperatuur Oppervlaktewater oC|
-|Geleidendheid Oppervlaktewater S/m|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-
-## Vossenbeemd Helmond ##
-|Measurement|
-|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
-## Nieuw Vossemeer ##
-|Measurement|
-|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
-## Nieuw Vossemeer (b) ##
-|Measurement|
-|---|
-|Temperatuur Oppervlaktewater oC|
-|Geleidendheid Oppervlaktewater S/m|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-
-## Nieuw Vossemeer (o) ##
-|Measurement|
-|---|
-|Geleidendheid Oppervlaktewater S/m|
-|Temperatuur Oppervlaktewater oC|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-
-## Vlakte v/d Raan ##
-|Measurement|
-|---|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
-|Windrichting Lucht t.o.v. ware Noorden in graad|
-|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
-## Vlakte v/d Raan (b) ##
-|Measurement|
-|---|
-|Geleidendheid Oppervlaktewater S/m|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-|Saliniteit Oppervlaktewater |
-|Temperatuur Oppervlaktewater oC|
-
-## Vlakte v/d Raan (o) ##
-|Measurement|
-|---|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-|Saliniteit Oppervlaktewater |
-|Geleidendheid Oppervlaktewater S/m|
-|Temperatuur Oppervlaktewater oC|
-
-## Vuren ##
-|Measurement|
-|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
-## Vogelenzang ##
-|Measurement|
-|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
+|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
 
 
-_generated on 30-09-2025_
+_generated on 27-12-2025_

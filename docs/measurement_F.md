@@ -4,80 +4,73 @@ Measurements : [C](measurement_C.md) | F | [G](measurement_G.md) | [H](measureme
 
 # Measurements with the letter F #
 
-## Golffrequentie bij maximum energiespectrum Oppervlaktewater Hz ##
+## Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz ##
 |Location|
 |---|
-|Platform A12|
-|AWG platform|
-|Bath|
-|Brouwershavense Gat 2|
-|Borssele Alpha|
+|A12|
+|Ameland, Nes|
+|Ameland Westgat platform|
+|Borssele Windpark Alpha platform|
 |Buitenbanken west|
-|Cadzand boei|
-|Platform D15-A|
-|Deurloo|
-|Domburger Rassen|
-|Eurogeul DWE|
-|Eurogeul E13|
-|Eierlandse Gat boei|
-|Europlatform 2|
-|F3 platform|
-|Rotterdamse hoek|
-|Markermeer Midden -o|
-|Gannet platform 1|
-|Gat van de stier|
+|Cadzand, 2|
+|Den Helder Waddenzee Monding Nieuwe Haven|
+|Den Hoorn Texel Waddenzee Gat van de Stier|
+|Eemshaven, Waddenzee|
+|Eierlandse Gat|
+|Eurogeul, DWE|
+|Eurogeul, E13|
+|Europlatform|
+|Europlatform 3|
+|F3|
+|Goeree, lichteiland|
+|Griete|
 |Hansweert|
-|Hansweert wind (b)|
-|Hollandse Kust Noord|
-|Hollandse Kust West Alpha|
-|Platform HKZA|
-|Honte nabij Sloehaven|
-|Honte 2 (Back-up)|
-|IJgeul|
-|Platform J6|
-|K14 platform|
-|Keeten boei|
-|L9 platform|
-|Lichteiland Goeree|
-|Maeslantkering zeezijde N|
-|Maeslantkering zeezijde Z|
-|Maasgeul Maasvlakte Noord|
-|Monding Nieuwe Haven|
-|Marollegat (b)|
-|IJgeul Munitiestort 1|
-|IJgeul Munitiestort 2|
-|Nes|
-|Nes 2 (golven)|
-|Nelson platform1|
-|Oosterschelde 11 (b)|
-|Oosterschelde 4 (b)|
-|Oosterscheldeker. Hammen|
-|Oosterscheldeker. Roompot|
-|Oosterscheldeker. Schaar|
-|Overloop v. Hansweert gol|
-|Overloop van Valkenisse|
-|Oude Westereems Noordboei|
-|Oude Westereems Zuidboei|
-|Pas van Terneuzen boei|
+|Hoek van Holland, Maeslantkering, Beneden, noord|
+|Hollandse Kust Noord Alpha|
+|Hollandse Kust Zuid platform Alpha|
+|Hollandse Kust, Zuid Windpark Noord|
+|Hollandse Kust, Zuid Windpark Zuid|
+|IJGeul, 1|
+|IJgeul, 2|
+|IJgeul, 3|
+|IJmuiden, munitiestort, 1|
+|IJmuiden Munitiestort 2|
+|J6|
+|K13a|
+|K14|
+|L9|
+|Maasgeul 2|
+|Nieuwnamen Overloop van Valkenisse|
+|Oosterschelde, 11|
+|Oosterschelde, 4|
+|Oosterschelde Roompotsluis buiten|
+|Oude Westereems noord boei 1|
+|Oude Westereems, zuid|
+|Rilland, Bath|
 |Roggenplaat|
-|Roompotsluis (SVKO)|
-|Randzelgat Noord boei|
-|Schiermonnikoog|
+|Rotterdamsehoek IJsselmeer|
 |Schaar Stroomgat|
-|Schiermonnikoog Noord boe|
-|Schiermonnikoog Westgat b|
-|Stroommeetpaal Eemshaven|
-|IJgeul stroommeetpaal|
-|Stortemelk boei|
-|Stortemelk Oost|
-|Trintelzand|
-|Uithuizerwad 2|
-|Uithuizerwad 3|
-|Westereems Oost boei|
-|Westereems West boei|
-|Wielingen Noord|
+|Schiermonnikoog, noord|
+|Schiermonnikoog, Waddenzee|
+|Schiermonnikoog, Westgat|
+|Schouwenbank, 1|
+|Stavenisse, keeten|
+|Stortemelk, oost|
+|Terneuzen Pas van Terneuzen boei|
+|Uithuizerwad|
+|Vlakte van de Raan Deurloo|
+|Vlissingen Honte|
+|Westereems, west|
+|Wielingen, noord|
+
+
+## Fluorescentie in Oppervlaktewater in RFU ##
+|Location|
+|---|
+|Markermeer, midden|
+|Markermeer Trintelzand|
 
 
 
 
-_generated on 30-09-2025_
+_generated on 27-12-2025_

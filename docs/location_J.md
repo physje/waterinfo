@@ -5,34 +5,24 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 # Locations with the letter J #
 
 
-## Platform J6 ##
+## J6 ##
 |Measurement|
 |---|
-|Golfperiode bepaald uit de spectrale momenten m-1 en m0 Oppervlaktewater golffrequentie tussen 30 en 1000 mHz in s|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
-|Golfperiode die hoort bij H1/3 Oppervlaktewater s|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
-|Golfperiode die hoort bij Hmax Oppervlaktewater s|
-|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Getijextreemtype Oppervlaktewater |
-|Maximale golfperiode in het tijdsdomein Oppervlaktewater s|
-|Waterhoogte astronomisch Oppervlaktewater t.o.v. Mean Sea Level in cm|
-|Luchtdruk Lucht hPa|
-|Maximale golfhoogte in het tijdsdomein Oppervlaktewater cm|
-|Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm|
-|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
-|Windrichting Lucht t.o.v. ware Noorden in graad|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|
-|Temperatuur Lucht oC|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|
-|Waterhoogte berekend Oppervlaktewater t.o.v. Mean Sea Level in cm|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|
+|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
+|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Mean Sea Level in cm|
+|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Windrichting in Lucht t.o.v. ware Noorden in graad|
+|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
+|Golfperiode bepaald uit de spectrale momenten m-1 en m0 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
 
 
-_generated on 30-09-2025_
+_generated on 27-12-2025_

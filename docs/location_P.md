@@ -5,86 +5,45 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 # Locations with the letter P #
 
 
-## P11 platform ##
+## P11 ##
 |Measurement|
 |---|
-|Maximale 3" windstoot in de afgelopen 10 minuten Lucht t.o.v. Mean Sea Level in m/s|
-|Windrichting Lucht t.o.v. ware Noorden in graad|
-|10' scalair genmiddelde van de windsnelheid Lucht m/s|
-|Temperatuur Lucht oC|
-|Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m|
-|Windsnelheid Lucht t.o.v. Mean Sea Level in m/s|
-|Luchtdruk Lucht hPa|
+|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
+|Windrichting in Lucht t.o.v. ware Noorden in graad|
 
-## Pannerdens kanaal ##
+## Panheel, gemaal ##
 |Measurement|
 |---|
-|Debiet Oppervlaktewater m3/s|
+|Debiet in Oppervlaktewater in m3/s|
 
-## Pannerdense kop ##
+## Panheel, sluis, boven ##
 |Measurement|
 |---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
-## Plazabeach Terminal ##
+## Panheel, sluis, inlaat ##
 |Measurement|
 |---|
-|(massa)Concentratie Chlorofyl fluorescentie in rel. fluorescentie eenh.(RFU) in Oppervlaktewater RFU|
-|Geleidendheid Oppervlaktewater S/m|
-|Volumefractie Oppervlaktewater RFU|
-|Troebelheid Oppervlaktewater NTU|
-|Temperatuur Oppervlaktewater oC|
-|Waterhoogte Oppervlaktewater t.o.v. Mean Sea Level in cm|
+|Debiet in Oppervlaktewater in m3/s|
 
-## De Piet ##
+## Panheel, sluis, uitlaat ##
 |Measurement|
 |---|
-|(massa)Concentratie mangaan in Oppervlaktewater ug/l|
-|Verzadigingsgraad zuurstof in Oppervlaktewater %|
-|Massafractie nikkel in Zwevende stof t.o.v. drooggewicht in mg/kg|
-|Geleidendheid Oppervlaktewater mS/m|
-|Zuurgraad Oppervlaktewater |
-|Temperatuur Lucht oC|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Doorzicht Oppervlaktewater dm|
-|Saliniteit Oppervlaktewater |
+|Debiet in Oppervlaktewater in m3/s|
 
-## Plaat van Oude Tonge (b) ##
+## Plaat van Oude Tonge, oost ##
 |Measurement|
 |---|
-|Temperatuur Oppervlaktewater oC|
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-|Geleidendheid Oppervlaktewater S/m|
-|Saliniteit Oppervlaktewater |
+|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
+|Saliniteit in Oppervlaktewater|
+|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
+|Geleidendheid in Oppervlaktewater in mS/m|
+|Temperatuur in Oppervlaktewater in oC|
 
-## Plaat van Oude Tonge (o) ##
+## Poeldonk, Aa, uitlaat ##
 |Measurement|
 |---|
-|Geleidendheid Oppervlaktewater S/m|
-|Saliniteit Oppervlaktewater |
-|(massa)Concentratie chloride in Oppervlaktewater mg/l|
-|Temperatuur Oppervlaktewater oC|
-
-## Poeldonk boven - ZWV ##
-|Measurement|
-|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
-## Poeldonk beneden - Aa ##
-|Measurement|
-|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
-## Pas van Terneuzen boei ##
-|Measurement|
-|---|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater s|
-|Deiningsenergie in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm2|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Significante golfhoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Significante deiningshoogte in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Golffrequentie bij maximum energiespectrum Oppervlaktewater golffrequentie tussen 30 en 500 mHz in mHz|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) Oppervlaktewater cm|
+|Debiet in Oppervlaktewater in m3/s|
 
 
-_generated on 30-09-2025_
+_generated on 27-12-2025_

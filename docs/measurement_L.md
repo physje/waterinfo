@@ -4,32 +4,14 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 
 # Measurements with the letter L #
 
-## Luchtdruk Lucht hPa ##
+## Luchtdruk in Lucht in hPa ##
 |Location|
 |---|
-|AWG platform|
-|Borssele Alpha|
-|Platform D15-A|
-|Europlatform|
-|F3 platform|
-|Gannet platform 1|
-|Hollandse Kust Noord|
-|Hollandse Kust West Alpha|
-|Platform HKZA|
-|Platform J6|
-|K14 platform|
-|L9 platform|
-|Lichteiland Goeree|
-|Nelson platform1|
-|P11 platform|
-
-
-## Laagwater dag Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm ##
-|Location|
-|---|
-|Bath|
+|Borssele Windpark Alpha platform|
+|Hollandse Kust Noord Alpha|
+|Hollandse Kust Zuid platform Alpha|
 
 
 
 
-_generated on 30-09-2025_
+_generated on 27-12-2025_

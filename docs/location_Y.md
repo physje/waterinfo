@@ -5,11 +5,5 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 # Locations with the letter Y #
 
 
-## Yerseke ##
-|Measurement|
-|---|
-|Waterhoogte Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Waterhoogte astronomisch Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
-
-_generated on 30-09-2025_
+_generated on 27-12-2025_

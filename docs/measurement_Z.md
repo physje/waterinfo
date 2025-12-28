@@ -4,41 +4,26 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 
 # Measurements with the letter Z #
 
-## Doorzicht Lucht t.o.v. Normaal Amsterdams Peil in m ##
+## Doorzicht in Lucht in m ##
 |Location|
 |---|
-|Bath|
-|Borssele Alpha|
-|Platform D15-A|
-|Europlatform|
-|Europlatform 2|
-|F3 platform|
-|Hollandse Kust Noord|
-|Hollandse Kust West Alpha|
-|Platform HKZA|
-|Platform J6|
-|Kaapduinen|
-|Lichteiland Goeree|
-|Maasmond Papegaaiebek|
+|Borssele Windpark Alpha platform|
+|Botlek Geulhaven|
+|Botlek Rozenburgsesluis Calandkanaal|
+|Dishoek|
+|Europoort Calandkanaal west|
+|Europoort Calandkanaal midden|
+|Europoort Calandkanaal oost|
+|Hollandse Kust Zuid platform Alpha|
+|Maasvlakte Beergat|
+|Maasvlakte Papegaaiebek|
 |Maasvlakte Slufter|
-|P11 platform|
-|Rozenburgse Sluis|
-|Beergat Radarpost 4|
-|Caland West Radarpost 5|
-|Caland Midden Radarpost 6|
-|Rozenburg Radarpost 8|
-|Geulhaven Radarpost 10|
-|Waalhaven Radarpost 19|
-|Kuip2 Radarpost 23|
-|Caland Oost Radarpost 32|
-
-
-## Doorzicht Oppervlaktewater dm ##
-|Location|
-|---|
-|De Piet|
+|Rilland, Bath|
+|Rotterdam IJzerwerkerkade|
+|Rotterdam Waalhaven 1|
+|Rozenburg Het Scheur|
 
 
 
 
-_generated on 30-09-2025_
+_generated on 27-12-2025_

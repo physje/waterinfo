@@ -4,182 +4,76 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | G | [H](measureme
 
 # Measurements with the letter G #
 
-## Geleidendheid Oppervlaktewater S/m ##
+## Geleidendheid in Oppervlaktewater in mS/m ##
 |Location|
 |---|
-|Antwerps kanaalpand (b)|
-|Antwerps kanaalpand (o)|
-|Baalhoek (b)|
-|Baalhoek (o)|
-|Bathse brug Deltanuts (b)|
-|Bathse brug Deltanuts (o)|
-|Bernisse NAP -3m|
-|Brouwershavense Gat 2 (b)|
-|Brouwershavense Gat 2 (o)|
-|Brouwershavense Gat 8 (b)|
-|Brouwershavense Gat 8 (o)|
-|Bommenede 1 (b)|
-|Bommenede 1 (o)|
-|Beerenplaat NAP -2m|
-|Brienenoordbrug NAP-2.5 m|
-|Brienenoordbrug NAP-6.5 m|
-|Diemen (NAP -1.4m)|
-|Diemen (NAP -6.5m)|
-|Rotterdamse hoek|
-|Friese kust|
+|Amsterdam, NDSM werf|
+|Amsterdam, Schellingwouderbrug|
 |Andijk|
-|Markermeer Midden -b|
-|Markermeer Midden -o|
-|Wieringen Oost|
-|Haringvliet 10 (b)|
-|Haringvliet 10 (o)|
-|Hoek v Holland NAP -2.5m|
-|Hoek v Holland NAP -4.5m|
-|Hoek v Holland NAP -9.0m|
-|Haringvliet West WS-2m|
-|Haringvliet West WS-8m|
-|Haringvliet West WS-13m|
-|Kinderdijk NAP -5m|
-|Sluiskil brug (b)|
-|Sluiskil brug (o)|
-|Sas van Gent (b)|
-|Sas van Gent (o)|
-|KrammersluisOZ1b -1.5mWS|
-|KrammersluisOZ1mb -3.5mWS|
-|KrammersluisOZ1m -2.5mWS|
-|KrammersluisOZ1mo -4.5mWS|
-|KrammersluisOZ1o -5.5mWS|
-|Kwdznd binnen b(-1,25m)|
-|Kwdznd binnen o (-4m NAP)|
-|Kwdznd buiten b (-2m NAP)|
-|Kwdznd buiten o (-4m NAP)|
-|Kwdznd Mg b(-2mWS)|
-|Kwdznd Mg mb(-5mWS)|
-|Kwdznd Mg mo(-6mWS)|
-|Kwdznd Mg o(-6,25mWS)|
-|Kwdznd sp b(-1,5mNAP)|
-|Kwdznd sp m(-6mNAP)|
-|Kwdznd sp mb(-4,5mNAP)|
-|Kwdznd sp mo(-10,25mNAP)|
-|Kwdznd sp o(-12mNAP)|
-|Kwdznd vg b(-2mNAP)|
-|Kwdznd vg mb(-5mNAP)|
-|Kwdznd vg mo(-7mNAP)|
-|Kwdznd vg o(-8,5mNAP)|
-|Krammerput Boven -1,5m|
-|Krammerput Midden_b -8,0m|
-|Krammerput Midden_o -10,0|
-|Krammerput Onder -15,0m|
-|Kier 1B WP08 -2mWS|
-|Kier 1M WP08 -11mWS|
-|Kier 1O WP08 -14,5mWS|
-|Kier 2B WP11 -2mWS|
-|Kier 2M WP11 -8mWS|
-|Kier 2O WP11 -13mWS|
-|Kier 3B WP10 -2mWS|
-|Kier 3M WP10 -9mWS|
-|Kier 3O WP10 -16mWS|
-|KIER 4B WP12 -10mWS|
-|KIER 4M WP12 -11mWS|
-|KIER 4O WP12 -12mWS|
-|Krammer Laagbekken  (b)|
-|Krammer Laagbekken (o)|
-|Krammer Noord|
-|Krimpen IJssel NAP -4.0m|
-|Krimpen IJssel NAP -5.5m|
-|Krammersluis volkerakzijd|
-|Krammersluis volkerakzijd|
-|Krammersluis volkerakzijd|
-|Krammersluis volkerakzijd|
-|Lekhaven NAP -2.5m|
-|Lekhaven NAP -5.0m|
-|Lekhaven NAP -7.0m|
-|Middelharnis MB NAP -2m|
-|Middelharnis MB NAP -8m|
-|Middelharnis MB NAP -15m|
-|Marina Kralendijk boven|
-|Marina Kralendijk onder|
-|Marollegat (b)|
-|Muiden brug|
-|NDSM-werf (o)|
-|NDSM-werf (b)|
-|Nieuwegein|
-|Den Oever binnen b -1,25|
-|Den Oever binnen o-4m|
-|Den Oever buiten b -2m|
-|Den Oever buiten o-4m|
-|Den Oever sp b(-1,5mWS)|
-|Den Oever sp mb(-4,5mWS)|
-|Den Oever sp mo(-5,6mWS)|
-|Den Oever sp o(-6,7mWS)|
-|Den Oever vg b(-2mNAP)|
-|Den Oever vg mb(-4mNAP)|
-|Den Oever vg mo(-5,5mNAP)|
-|Den Oever vg o(-7m NAP)|
-|Oosterschelde 4 (b)|
-|Oosterschelde 4 (o)|
-|Overloop v. Hansweert (b)|
-|Plazabeach Terminal|
-|De Piet|
-|Plaat van Oude Tonge (b)|
-|Plaat van Oude Tonge (o)|
-|Slaak Noord boven|
-|Slaak Noord midden|
-|Slaak Noord onder|
-|Slaak Oost|
-|Slaak Zuid|
-|Spaarnd.polder NAP -1.4m|
-|Spaarnd.polder NAP -6.4m|
-|Stroommeetpaal Eemshaven|
-|Eemshaven meetpaal|
-|Spijkenisserbrug NAP-2.5m|
-|Spijkenisserbrug NAP-4.5m|
-|Spijkenisserbrug NAP-9.0m|
-|Middelharnis Spui NAP -1m|
-|Middelharnis Spui NAP -5m|
-|Bathse spuikan. Inloop (b|
-|Bathse spuikan. Inloop (o|
-|Stellendam binnen WS-2m|
-|Stellendam binnen WS-6m|
-|Stellendam binnen WS-11m|
-|Stellendam buiten boven|
-|Stellendam buiten onder|
-|Schellingw.brug NAP -2.8m|
-|Terneuzen Westsluis ZZ (b|
-|Terneuzen Westsluis ZZ (o|
-|Trintelzand boven|
-|Trintelzand onder|
-|Volkerak Galathee (b)|
-|Volkerak Galathee (o)|
-|Velserkom b WS3 -1|
-|Velserkom m WS3|
-|Velserkom o WS3 -8|
-|VM4 Oranjeplaat (b)|
-|VM4 Oranjeplaat (o)|
-|VM5 Schotsman (b)|
-|VM5 Schotsman (o)|
-|Volkerak Noord (b)|
-|Volkerak Noord (o)|
-|Nieuw Vossemeer (b)|
-|Nieuw Vossemeer (o)|
-|Vlakte v/d Raan (b)|
-|Vlakte v/d Raan (o)|
-|Zijkanaal C (NAP -140)|
-|Zijkanaal C (NAP -440)|
-
-
-## Gemiddelde golfperiode in het tijdsdomein Oppervlaktewater s ##
-|Location|
-|---|
-|Bath|
-
-
-## Gemiddelde golfhoogte in het tijdsdomein Oppervlaktewater cm ##
-|Location|
-|---|
-|Bath|
+|Arnemuiden Oranjeplaat|
+|Bommenede|
+|Brouwersdam Brouwershavense Gat 2|
+|Brouwershavensche Gat 08|
+|Bruinisse Krammersluis krammerput|
+|Bruinisse Krammersluis laagbekken|
+|Bruinisse Krammersluis Oosterschelde|
+|Bruinisse Krammersluis Volkerak Noord|
+|Bruinisse Krammersluis Volkerak Zuid|
+|Den Oever, IJsselmeer binnenhaven|
+|Den Oever IJsselmeer Vaargeul|
+|Den Oever, spuisluis, binnen|
+|Den Oever, Waddenzee voorhaven kolk|
+|Diemen|
+|Diemen Muiden brug|
+|Dinteloord, Volkerak|
+|Eemshaven, Waddenzee|
+|Friesekust IJsselmeer|
+|Goudswaard, Spui|
+|Haringvliet, 1|
+|Haringvliet, 2|
+|Haringvliet, 3|
+|Haringvliet, punt 4|
+|Hato Kaya Tilburg|
+|Hato Marina Kralendijk|
+|Kinderdijk Lek|
+|Kloosterzande, Baalhoek|
+|Kornwerderzand, IJsselmeer binnenhaven|
+|Kornwerderzand IJsselmeer Middelgronden|
+|Kornwerderzand IJsselmeer spui|
+|Kornwerderzand IJsselmeer vaargeul|
+|Kornwerderzand, Waddenzee voorhaven kolk|
+|Kralendijk Plazabeach Terminal|
+|Krimpen aan de IJssel, Hollandsche IJssel|
+|Markermeer, midden|
+|Markermeer Trintelzand|
+|Middelharnis, meetboei|
+|Oosterschelde, 4|
+|Ossenisse|
+|Plaat van Oude Tonge, oost|
+|Rilland, Antwerps kanaalpand|
+|Rilland, Bathsebrug|
+|Rilland, Bathse Spuikanaal, inloop|
+|Rotterdam, Brienenoordbrug|
+|Rotterdam, Lekhaven|
+|Rotterdamsehoek IJsselmeer|
+|Sas van Gent|
+|Sint Philipsland Slaak noord|
+|Sint Philipsland Slaak oost|
+|Sint Philipsland Slaak zuid|
+|Spaarndam, Zijkanaal C|
+|Spijkenisse, Beerenplaat|
+|Spijkenisse, Oude Maas, Brug|
+|Stellendam, binnen|
+|Stellendam, buiten|
+|Terneuzen, westsluis, buiten|
+|Velserkom|
+|Velsen-Zuid, Spaarndammerpolder|
+|Vlakte van de Raan|
+|Wieringen IJsselmeer oost|
+|Willemstad Hollandschdiep Volkerakspuisluis|
+|Zuidland, Spui|
 
 
 
 
-_generated on 30-09-2025_
+_generated on 27-12-2025_

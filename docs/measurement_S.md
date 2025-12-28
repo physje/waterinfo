@@ -4,232 +4,132 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 
 # Measurements with the letter S #
 
-## Gemiddelde golfrichtingspreiding in het spectrale domein Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad ##
+## Saliniteit in Oppervlaktewater ##
 |Location|
 |---|
-|Platform A12|
+|Amsterdam, NDSM werf|
+|Arnemuiden Oranjeplaat|
+|Bommenede|
+|Brouwersdam Brouwershavense Gat 2|
+|Brouwershavensche Gat 08|
+|Bruinisse Krammersluis laagbekken|
+|Bruinisse Krammersluis Oosterschelde|
+|Bruinisse Krammersluis Volkerak Noord|
+|Den Oever IJsselmeer Vaargeul|
+|Den Oever, spuisluis, binnen|
+|Diemen|
+|Eemshaven, Waddenzee|
+|Kamperland, Schotsman|
+|Kloosterzande, Baalhoek|
+|Kornwerderzand IJsselmeer Middelgronden|
+|Kornwerderzand IJsselmeer spui|
+|Kornwerderzand IJsselmeer vaargeul|
+|Oosterschelde, 4|
+|Ossenisse|
+|Plaat van Oude Tonge, oost|
+|Sas van Gent|
+|Sint Philipsland Slaak noord|
+|Sint Philipsland Slaak oost|
+|Sint Philipsland Slaak zuid|
+|Spaarndam, Zijkanaal C|
+|Stellendam, buiten|
+|Terneuzen, Sluiskilbrug|
+|Terneuzen, westsluis, buiten|
+|Velsen-Zuid, Spaarndammerpolder|
+|Vlakte van de Raan|
 
 
-## Saliniteit Oppervlaktewater  ##
-|Location|
-|---|
-|Antwerps kanaalpand (b)|
-|Antwerps kanaalpand (o)|
-|Baalhoek (b)|
-|Baalhoek (o)|
-|Brouwershavense Gat 2 (b)|
-|Brouwershavense Gat 2 (o)|
-|Brouwershavense Gat 8 (b)|
-|Brouwershavense Gat 8 (o)|
-|Bommenede 1 (b)|
-|Bommenede 1 (o)|
-|Diemen (NAP -1.4m)|
-|Diemen (NAP -6.5m)|
-|Rotterdamse hoek|
-|Friese kust|
-|Andijk|
-|Wieringen Oost|
-|Haringvliet 10 (b)|
-|Haringvliet 10 (o)|
-|Hoek v Holland NAP -2.5m|
-|Hoek v Holland NAP -4.5m|
-|Hoek v Holland NAP -9.0m|
-|Sluiskil brug (b)|
-|Sluiskil brug (o)|
-|Sas van Gent (b)|
-|Sas van Gent (o)|
-|KrammersluisOZ1b -1.5mWS|
-|KrammersluisOZ1mb -3.5mWS|
-|KrammersluisOZ1m -2.5mWS|
-|KrammersluisOZ1mo -4.5mWS|
-|KrammersluisOZ1o -5.5mWS|
-|Kwdznd binnen b(-1,25m)|
-|Kwdznd binnen o (-4m NAP)|
-|Kwdznd buiten b (-2m NAP)|
-|Kwdznd buiten o (-4m NAP)|
-|Kwdznd Mg b(-2mWS)|
-|Kwdznd Mg mb(-5mWS)|
-|Kwdznd Mg mo(-6mWS)|
-|Kwdznd Mg o(-6,25mWS)|
-|Kwdznd sp b(-1,5mNAP)|
-|Kwdznd sp m(-6mNAP)|
-|Kwdznd sp mb(-4,5mNAP)|
-|Kwdznd sp mo(-10,25mNAP)|
-|Kwdznd sp o(-12mNAP)|
-|Kwdznd vg b(-2mNAP)|
-|Kwdznd vg mb(-5mNAP)|
-|Kwdznd vg mo(-7mNAP)|
-|Kwdznd vg o(-8,5mNAP)|
-|Krammerput Boven -1,5m|
-|Krammerput Midden_b -8,0m|
-|Krammerput Midden_o -10,0|
-|Krammerput Onder -15,0m|
-|Krammer Laagbekken  (b)|
-|Krammer Laagbekken (o)|
-|Krammer Noord|
-|Krammersluis volkerakzijd|
-|Krammersluis volkerakzijd|
-|Krammersluis volkerakzijd|
-|Krammersluis volkerakzijd|
-|Marollegat (b)|
-|Marollegat (o)|
-|Muiden brug|
-|NDSM-werf (o)|
-|NDSM-werf (b)|
-|Den Oever binnen b -1,25|
-|Den Oever binnen o-4m|
-|Den Oever buiten b -2m|
-|Den Oever buiten o-4m|
-|Den Oever sp b(-1,5mWS)|
-|Den Oever sp mb(-4,5mWS)|
-|Den Oever sp mo(-5,6mWS)|
-|Den Oever sp o(-6,7mWS)|
-|Den Oever vg b(-2mNAP)|
-|Den Oever vg mb(-4mNAP)|
-|Den Oever vg mo(-5,5mNAP)|
-|Den Oever vg o(-7m NAP)|
-|Oosterschelde 4 (b)|
-|Oosterschelde 4 (o)|
-|Overloop v. Hansweert (b)|
-|De Piet|
-|Plaat van Oude Tonge (b)|
-|Plaat van Oude Tonge (o)|
-|Slaak Noord boven|
-|Slaak Noord midden|
-|Slaak Noord onder|
-|Slaak Oost|
-|Slaak Zuid|
-|Spaarnd.polder NAP -1.4m|
-|Spaarnd.polder NAP -6.4m|
-|Stroommeetpaal Eemshaven|
-|Eemshaven meetpaal|
-|Stellendam buiten boven|
-|Stellendam buiten onder|
-|Schellingw.brug NAP -2.8m|
-|Terneuzen Westsluis ZZ (b|
-|Terneuzen Westsluis ZZ (o|
-|Trintelzand boven|
-|Trintelzand onder|
-|Velserkom b WS3 -1|
-|Velserkom m WS3|
-|Velserkom o WS3 -8|
-|VM4 Oranjeplaat (b)|
-|VM4 Oranjeplaat (o)|
-|VM5 Schotsman (b)|
-|VM5 Schotsman (o)|
-|Vlakte v/d Raan (b)|
-|Vlakte v/d Raan (o)|
-|Zijkanaal C (NAP -140)|
-|Zijkanaal C (NAP -440)|
-
-
-## Standaardafwijking van de golfhoogte in het tijdsdomein Oppervlaktewater cm ##
-|Location|
-|---|
-|Bath|
-
-
-## Standaardafwijking van de golfperiode in het tijdsdomein Oppervlaktewater s ##
-|Location|
-|---|
-|Bath|
-
-
-## Stroomrichting Oppervlaktewater t.o.v. ware Noorden in graad ##
+## Stroomrichting in Oppervlaktewater t.o.v. ware Noorden in graad ##
 |Location|
 |---|
 |Buitenbanken west|
-|Duivelseiland 000|
-|Duivelseiland 015|
-|Duivelseiland 030|
-|Duivelseiland 045|
-|Duivelseiland 060|
-|Duivelseiland 075|
-|Duivelseiland 090|
-|Duivelseiland  105|
-|Duivelseiland  120|
-|Duivelseiland  135|
-|Duivelseiland  150|
-|Duivelseiland  165|
-|Duivelseiland  180|
-|Duivelseiland  195|
-|Duivelseiland  210|
-|Duivelseiland  225|
-|Duivelseiland  240|
-|Duivelseiland  255|
-|Duivelseiland  270|
-|Duivelseiland  285|
-|Duivelseiland  300|
-|IJgeul|
-|Monding Nieuwe Haven|
-|Moerdijkbrug 000|
-|Moerdijkbrug 015|
-|Moerdijkbrug 030|
-|Moerdijkbrug 045|
-|Moerdijkbrug 060|
-|Moerdijkbrug 075|
+|Den Helder Waddenzee Monding Nieuwe Haven|
+|Dordrecht Hollands Diep 000|
+|Dordrecht Hollands Diep 015|
+|Dordrecht Hollands Diep 030|
+|Dordrecht Hollands Diep 045|
+|Dordrecht Hollands Diep 060|
+|Dordrecht Hollands Diep 075|
+|Dordrecht Oude Maas 000|
+|Dordrecht Oude Maas 015|
+|Dordrecht Oude Maas 030|
+|Dordrecht Oude Maas 045|
+|Dordrecht Oude Maas 060|
+|Dordrecht Oude Maas 075|
+|Dordrecht Oude Maas 090|
+|Dordrecht Oude Maas 105|
+|Dordrecht Oude Maas 120|
+|Dordrecht Oude Maas 135|
+|Dordrecht Oude Maas 150|
+|Dordrecht Oude Maas 165|
+|Dordrecht Oude Maas 180|
+|Dordrecht Oude Maas 195|
+|Dordrecht Oude Maas 210|
+|Dordrecht Oude Maas 225|
+|Dordrecht Oude Maas 240|
+|Dordrecht Oude Maas 255|
+|Dordrecht Oude Maas 270|
+|Dordrecht Oude Maas 285|
+|Dordrecht Oude Maas 300|
+|Eemshaven, Waddenzee|
+|Hollandse Kust, Zuid Windpark Noord|
+|Hollandse Kust, Zuid Windpark Zuid|
+|IJGeul, 1|
 |Schaar Stroomgat|
-|Stroommeetpaal Eemshaven|
-|IJgeul stroommeetpaal|
-|IJgeul SMP 2 (bus)|
 
 
-## Stroomsnelheid Oppervlaktewater m/s ##
+## Stroomsnelheid in Oppervlaktewater in m/s ##
 |Location|
 |---|
 |Buitenbanken west|
-|Bunde|
-|Driel boven|
-|Duivelseiland 000|
-|Duivelseiland 015|
-|Duivelseiland 030|
-|Duivelseiland 045|
-|Duivelseiland 060|
-|Duivelseiland 075|
-|Duivelseiland 090|
-|Duivelseiland  105|
-|Duivelseiland  120|
-|Duivelseiland  135|
-|Duivelseiland  150|
-|Duivelseiland  165|
-|Duivelseiland  180|
-|Duivelseiland  195|
-|Duivelseiland  210|
-|Duivelseiland  225|
-|Duivelseiland  240|
-|Duivelseiland  255|
-|Duivelseiland  270|
-|Duivelseiland  285|
-|Duivelseiland  300|
+|Bunde, kanaal|
+|Den Helder Waddenzee Monding Nieuwe Haven|
+|Dordrecht Hollands Diep 000|
+|Dordrecht Hollands Diep 015|
+|Dordrecht Hollands Diep 030|
+|Dordrecht Hollands Diep 045|
+|Dordrecht Hollands Diep 060|
+|Dordrecht Hollands Diep 075|
+|Dordrecht Oude Maas 000|
+|Dordrecht Oude Maas 015|
+|Dordrecht Oude Maas 030|
+|Dordrecht Oude Maas 045|
+|Dordrecht Oude Maas 060|
+|Dordrecht Oude Maas 075|
+|Dordrecht Oude Maas 090|
+|Dordrecht Oude Maas 105|
+|Dordrecht Oude Maas 120|
+|Dordrecht Oude Maas 135|
+|Dordrecht Oude Maas 150|
+|Dordrecht Oude Maas 165|
+|Dordrecht Oude Maas 180|
+|Dordrecht Oude Maas 195|
+|Dordrecht Oude Maas 210|
+|Dordrecht Oude Maas 225|
+|Dordrecht Oude Maas 240|
+|Dordrecht Oude Maas 255|
+|Dordrecht Oude Maas 270|
+|Dordrecht Oude Maas 285|
+|Dordrecht Oude Maas 300|
+|Driel, boven|
 |Eemdijk|
+|Eemshaven, Waddenzee|
 |Genemuiden|
-|Hagestein boven|
-|IJgeul|
-|Loozen|
-|Maarssen|
-|Megen|
-|Meppelerdiep km 2.5|
-|Monding Nieuwe Haven|
-|Moerdijkbrug 000|
-|Moerdijkbrug 015|
-|Moerdijkbrug 030|
-|Moerdijkbrug 045|
-|Moerdijkbrug 060|
-|Moerdijkbrug 075|
-|Nieuwegein|
-|Ommen Hesselmulertbrug|
-|Ommen Ommerkanaal|
+|Hagestein, boven|
+|IJGeul, 1|
+|Maarssen, kanaal|
+|Megen, Maas|
+|Nieuwegein, Doorslag|
+|Nieuwegein, lekkanaal|
+|Ommen, Vecht|
 |Schaar Stroomgat|
-|Smeermaas|
-|Spijkenisserbrug West|
-|Stroommeetpaal Eemshaven|
-|IJgeul stroommeetpaal|
-|IJgeul SMP 2 (bus)|
-|Weesp|
-|Wieldrecht|
-|Wijk bij Duurstede|
+|Smeermaas, Zuid-Willemsvaart|
+|Spijkenisse, Oude Maas, Brug|
+|Weert, Lozen|
+|Wijk bij Duurstede, Amsterdam-Rijnkanaal|
+|Zwartsluis, Meppelerdiep|
 
 
 
 
-_generated on 30-09-2025_
+_generated on 27-12-2025_
