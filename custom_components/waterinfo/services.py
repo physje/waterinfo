@@ -56,7 +56,7 @@ def makeLocationFile(active_only, with_code) -> None:
 
     s = open(CONF_CONTEXT_PATH + "locations.py", "w", encoding="utf-8")
     s.write('"""Locations for the RWS waterinfo integration."""\n')
-    s.write('"""Generated ' + dt.today().strftime("%d-%m-%Y %H:%M:%S") + '."""\n')
+    s.write('"""Generated ' + dt.today().strftime("%d-%m-%Y %H:%M:%S+01:00") + '."""\n')
     s.write('"""Active only: ' + str(active_only) + '."""\n')
     s.write('"""With code: ' + str(with_code) + '."""\n')
     s.write("\n")
@@ -72,11 +72,6 @@ def makeLocationFile(active_only, with_code) -> None:
 
     # Walk trough all locations
     for index, row in locations.iterrows():
-        # if index == "PORTZLDBSD":
-        #    label = "PORT ZELANDE"
-        # else:
-        #    label = row["Naam"]
-
         label = row["Naam"]
 
         if active_only:

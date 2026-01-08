@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from datetime import datetime as dt, timedelta
+from datetime import datetime as dt, timedelta, timezone
 import logging
 from typing import Any
 
@@ -20,10 +20,12 @@ from homeassistant.exceptions import HomeAssistantError
 from homeassistant.helpers.selector import selector
 
 from .const import (
+    API_TIMEZONE,
     CONF_LOC_SELECTOR,
     CONST_COMP_CODE,
     CONST_COORD,
     CONST_ENABLE,
+    CONST_EXPEC_TYPE,
     CONST_LAT,
     CONST_LOC_CODE,
     CONST_LOC_NAME,
@@ -72,70 +74,133 @@ def validate_location(data) -> dict:
     # Usually, the most recent datapoint are in the last part of the array
     # So walk backwards in the array
     for x in range((len(selected) - 1), -1, -1):
-        grootheid = selected.iloc[x]["Grootheid.Code"]
-        hoedanigheid = selected.iloc[x]["Hoedanigheid.Code"]
+        location = selected.iloc[x]
+        code = location.index
+        grootheid = location["Grootheid.Code"]
+        hoedanigheid = location["Hoedanigheid.Code"]
+        procestype = location["ProcesType"]
 
         if hoedanigheid != "NVT":
-            sensorKey = grootheid + hoedanigheid
+            sensorKey = grootheid + "_" + hoedanigheid + "_" + procestype
         else:
-            sensorKey = grootheid
+            sensorKey = grootheid + "_" + procestype
 
         # Store all nessecary data for later
         # There are some weird measurements and some measurements are duplicates
         if grootheid != "NVT" and sensorKey not in seen:
             device_info = {}
-            device_info[CONST_LOC_NAME] = selected.iloc[x]["Naam"]
+            device_info[CONST_PROCES_TYPE] = procestype
+            device_info[CONST_LOC_CODE] = code
+            device_info[CONST_LOC_NAME] = location["Naam"]
             device_info[CONST_MEAS_CODE] = grootheid
-            device_info[CONST_MEAS_NAME] = selected.iloc[x]["Grootheid.Omschrijving"]
-            device_info[CONST_MEAS_DESCR] = selected.iloc[x][
-                "Parameter_Wat_Omschrijving"
-            ]
-            device_info[CONST_UNIT] = selected.iloc[x]["Eenheid.Code"]
-            device_info[CONST_LONG] = selected.iloc[x]["Lon"]
-            device_info[CONST_LAT] = selected.iloc[x]["Lat"]
-            device_info[CONST_COMP_CODE] = selected.iloc[x]["Compartiment.Code"]
+            device_info[CONST_MEAS_NAME] = location["Grootheid.Omschrijving"]
+            device_info[CONST_MEAS_DESCR] = location["Parameter_Wat_Omschrijving"]
+            device_info[CONST_UNIT] = location["Eenheid.Code"]
+            device_info[CONST_LONG] = location["Lon"]
+            device_info[CONST_LAT] = location["Lat"]
+            device_info[CONST_COMP_CODE] = location["Compartiment.Code"]
             device_info[CONST_PROP] = hoedanigheid
-            device_info[CONST_COORD] = selected.iloc[x]["Coordinatenstelsel"]
+            device_info[CONST_COORD] = location["Coordinatenstelsel"]
 
-            device_info[CONST_SENSOR_UNIQUE] = grootheid
+            if procestype in ("verwachting"):
+                device_info[CONST_SENSOR_UNIQUE] = grootheid + "_verwacht"
+                device_info[CONST_ENABLE] = 0
+            elif procestype in ("astronomisch"):
+                device_info[CONST_SENSOR_UNIQUE] = grootheid + "_astronomisch"
+                device_info[CONST_ENABLE] = 0
+            else:
+                device_info[CONST_SENSOR_UNIQUE] = grootheid
+                device_info[CONST_ENABLE] = 1
 
-            if selected.iloc[x]["Eenheid.Code"] in ("mHz"):
+            if hoedanigheid != "NVT":
+                device_info[CONST_SENSOR_UNIQUE] = (
+                    device_info[CONST_SENSOR_UNIQUE] + "_" + hoedanigheid
+                )
+
+            if location["Eenheid.Code"] in ("mHz"):
                 device_info[CONST_MULTIPLIER] = 0.001
                 device_info[CONST_UNIT] = "Hz"
             else:
                 device_info[CONST_MULTIPLIER] = 1
 
-            if grootheid in ("WATHTBRKD", "WATHTEASTRO"):
-                device_info[CONST_PROCES_TYPE] = "astronomisch"
-                device_info[CONST_ENABLE] = 0
-            elif grootheid in ("WATHTEVERWACHT", "QVERWACHT"):
-                device_info[CONST_PROCES_TYPE] = "verwacht"
-                device_info[CONST_ENABLE] = 0
-            else:
-                device_info[CONST_PROCES_TYPE] = "meting"
-                device_info[CONST_ENABLE] = 1
-
             # If the sensor is set enabled, check if there is recent data
             if device_info[CONST_ENABLE] == 1:
-                end_date = dt.today()
-                start_date = end_date - timedelta(days=DEFAULT_TIMEDELTA)
-                measurements = ddlpy.measurements(
-                    selected.iloc[x], start_date=start_date, end_date=end_date
-                )
+                if procestype in ("meting"):
+                    end_date = dt.today()
+                    start_date = end_date - timedelta(days=DEFAULT_TIMEDELTA)
+                    measurements = ddlpy.measurements(
+                        location, start_date=start_date, end_date=end_date
+                    )
 
-                # if not, disabled
-                if measurements.empty:
-                    device_info[CONST_ENABLE] = 0
+                    # if not, disabled
+                    if measurements.empty:
+                        device_info[CONST_ENABLE] = 0
+                        _LOGGER.info(
+                            "Sensor %s is disabled because it has no data",
+                            location["Grootheid.Code"],
+                        )
 
+                    """
+                    elif procestype in ("verwachting"):
+                    start_date = dt.now(
+                        timezone(timedelta(hours=API_TIMEZONE))
+                    ) - timedelta(hours=2)
+                    end_date = start_date + timedelta(hours=24)
+
+                    measurements = ddlpy.measurements_available(
+                        location, start_date=start_date, end_date=end_date
+                    )
+
+                    # if not, disabled
+                    if not measurements:
+                        device_info[CONST_ENABLE] = 0
+                        _LOGGER.info(
+                            "Expected sensor %s is disabled because it has no data",
+                            location["Grootheid.Code"],
+                        )
+                    elif grootheid in ("WATHTE"):
+                        # Create high tide sensor
+                        high_tide_info = device_info.copy()
+                        high_tide_info[CONST_MEAS_NAME] = "Hoogwater"
+                        high_tide_info[CONST_MEAS_DESCR] = (
+                            "Astronomische hoogwater voorspelling"
+                        )
+                        high_tide_info[CONST_SENSOR_UNIQUE] = "WATHTEVERWACHT_HW"
+                        high_tide_info[CONST_EXPEC_TYPE] = "max"
+                        high_tide_info[CONST_ENABLE] = 1
+
+                        seen.append("WATHTEVERWACHT_HW")
+                        sensoren.append(high_tide_info)
+
+                        # Create low tide height sensor
+                        low_tide_info = device_info.copy()
+                        low_tide_info[CONST_MEAS_NAME] = "Laagwater"
+                        low_tide_info[CONST_MEAS_DESCR] = (
+                            "Astronomische laagwater voorspelling"
+                        )
+                        low_tide_info[CONST_SENSOR_UNIQUE] = "WATHTEVERWACHT_LW"
+                        low_tide_info[CONST_EXPEC_TYPE] = "min"
+                        low_tide_info[CONST_ENABLE] = 1
+                        seen.append("WATHTEVERWACHT_LW")
+                        sensoren.append(low_tide_info)
+                        device_info = {}
+                    else:
+                        device_info[CONST_EXPEC_TYPE] = "max"
+                    """
+
+            if len(device_info) > 1:
+                sensoren.append(device_info)
             seen.append(sensorKey)
-            sensoren.append(device_info)
+
+        elif sensorKey in seen:
+            _LOGGER.info("Sensor %s (%s) already seen", grootheid, procestype)
 
     data[CONST_SENSOR] = sensoren
-    data[CONST_LOC_NAME] = selected.iloc[x]["Naam"]
+    data[CONST_LOC_NAME] = location["Naam"]
 
     _LOGGER.info(
         "Made %s sensors for %s (location %s)",
-        len(seen),
+        len(sensoren),
         data[CONST_LOC_NAME],
         data[CONST_LOC_CODE],
     )

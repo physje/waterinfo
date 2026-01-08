@@ -8,32 +8,33 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## L9 ##
 |Measurement|
 |---|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
+|Getijextreemtype astronomisch in Oppervlaktewater|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
 |Windrichting in Lucht t.o.v. ware Noorden in graad|
-|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
+|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
 |Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Golfperiode bepaald uit de spectrale momenten m-1 en m0 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
 |Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
-|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
 |Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Waterhoogte in Oppervlaktewater t.o.v. Mean Sea Level in cm|
 |Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
+|Golfperiode bepaald uit de spectrale momenten m-1 en m0 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
+|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
+|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
+|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
 
 ## Lanaken ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Lauwersoog, Waddenzee ##
 |Measurement|
 |---|
 |Windrichting in Lucht t.o.v. ware Noorden in graad|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
-|Temperatuur in Lucht in oC|
 
 ## Leeuwarden Van Harinxmakanaal ##
 |Measurement|
@@ -63,8 +64,8 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Lemmer stroomkanaal Woudagemaal ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
 |Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Debiet in Oppervlaktewater in m3/s|
 
 ## Lierop, sluis 10, beneden ##
 |Measurement|
@@ -91,11 +92,6 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |---|
 |Debiet in Oppervlaktewater in m3/s|
 
-## Linne, stuw, beneden ##
-|Measurement|
-|---|
-|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
 ## Linne, stuw, boven ##
 |Measurement|
 |---|
@@ -104,18 +100,17 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Lith, beneden dorp ##
 |Measurement|
 |---|
-|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Lith, boven ##
 |Measurement|
 |---|
 |Temperatuur in Oppervlaktewater in oC|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Lith, beneden sluis ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Lixhe Bief Aval ##
 |Measurement|
@@ -131,7 +126,8 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Lobith, Bovenrijn, Tolkamer ##
 |Measurement|
 |---|
+|Debiet in Oppervlaktewater in m3/s|
 |Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 
-_generated on 27-12-2025_
+_generated on 28-12-2025_

@@ -43,13 +43,8 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Nederweert-Eind ##
 |Measurement|
 |---|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 |Debiet in Oppervlaktewater in m3/s|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-
-## Neer ##
-|Measurement|
-|---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Negenoord, oost ##
 |Measurement|
@@ -65,21 +60,22 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Measurement|
 |---|
 |Windrichting in Lucht t.o.v. ware Noorden in graad|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
 
 ## Nieuwegein, Doorslag ##
 |Measurement|
 |---|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 |Stroomsnelheid in Oppervlaktewater in m/s|
 |Debiet in Oppervlaktewater in m3/s|
 
 ## Nieuwegein, lekkanaal ##
 |Measurement|
 |---|
-|Temperatuur in Oppervlaktewater in oC|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Stroomsnelheid in Oppervlaktewater in m/s|
 |Debiet in Oppervlaktewater in m3/s|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Temperatuur in Oppervlaktewater in oC|
+|Geleidendheid in Oppervlaktewater in mS/m|
+|Stroomsnelheid in Oppervlaktewater in m/s|
 
 ## Nieuwe Statenzijl, Dollard ##
 |Measurement|
@@ -89,20 +85,21 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Nieuwnamen Overloop van Valkenisse ##
 |Measurement|
 |---|
+|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
 |Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
 |Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
 
 ## Nieuw-Vossemeer ##
 |Measurement|
 |---|
+|Geleidendheid in Oppervlaktewater in mS/m|
 |Temperatuur in Oppervlaktewater in oC|
-|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
-## Nijmegen Maaswaalkanaal Inlaat Weurt ##
+## Nijkerk, Nuldernauw ##
 |Measurement|
 |---|
 |Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
@@ -110,7 +107,7 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Nijmegen, Waal ##
 |Measurement|
 |---|
-|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 
-_generated on 27-12-2025_
+_generated on 28-12-2025_

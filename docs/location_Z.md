@@ -8,13 +8,13 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Zaltbommel ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Zierikzee Zeelandbrug ##
 |Measurement|
 |---|
-|Windrichting in Lucht t.o.v. ware Noorden in graad|
 |Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
+|Windrichting in Lucht t.o.v. ware Noorden in graad|
 
 ## Zoelen Beuningengemaal ##
 |Measurement|
@@ -24,15 +24,14 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Zuidland, Spui ##
 |Measurement|
 |---|
+|Geleidendheid in Oppervlaktewater in mS/m|
 |Temperatuur in Oppervlaktewater in oC|
 |(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Geleidendheid in Oppervlaktewater in mS/m|
 
 ## Zutphen, IJssel ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Zwartsluis gemaal pomp1 ##
 |Measurement|
@@ -42,15 +41,15 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Zwartsluis, Meppelerdiep ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 |Stroomsnelheid in Oppervlaktewater in m/s|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 |Debiet in Oppervlaktewater in m3/s|
 
 ## Zwartsluis, Zwarte Water ##
 |Measurement|
 |---|
-|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 |Temperatuur in Oppervlaktewater in oC|
+|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Zwolle, IJssel ##
 |Measurement|
@@ -63,4 +62,4 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 
-_generated on 27-12-2025_
+_generated on 28-12-2025_

@@ -13,81 +13,89 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Sambeek, boven ##
 |Measurement|
 |---|
-|Temperatuur in Oppervlaktewater in oC|
 |Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Temperatuur in Oppervlaktewater in oC|
 
 ## Sas van Gent ##
 |Measurement|
 |---|
 |Saliniteit in Oppervlaktewater|
 |Temperatuur in Oppervlaktewater in oC|
-|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
-|(massa)Concentratie zuurstof in Oppervlaktewater in mg/l|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 |Geleidendheid in Oppervlaktewater in mS/m|
+|(massa)Concentratie zuurstof in Oppervlaktewater in mg/l|
+|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Schaar Stroomgat ##
 |Measurement|
 |---|
-|Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Temperatuur in Oppervlaktewater in oC|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Stroomrichting in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
 |Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
 |Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
+|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|Stroomrichting in Oppervlaktewater t.o.v. ware Noorden in graad|
 |Stroomsnelheid in Oppervlaktewater in m/s|
 |Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
+|Temperatuur in Oppervlaktewater in oC|
 |Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
+
+## Schaar van de Noord ##
+|Measurement|
+|---|
+|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Getijextreemtype astronomisch in Oppervlaktewater|
 
 ## Schiermonnikoog, noord ##
 |Measurement|
 |---|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
-|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Significante golfhoogte in het spectrale domein verwachting in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
+|Temperatuur in Oppervlaktewater in oC|
+|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
 |Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
 |Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
-|Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
-|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Temperatuur in Oppervlaktewater in oC|
 |Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
+|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
+|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
 |Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
 |Golfperiode bepaald uit de spectrale momenten m-1 en m0 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
+|Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
 
 ## Schiermonnikoog, Waddenzee ##
 |Measurement|
 |---|
 |Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
 |Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
 
 ## Schiermonnikoog, Westgat ##
 |Measurement|
 |---|
-|Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
-|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
-|Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
 |Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
-|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
 |Golfperiode bepaald uit de spectrale momenten m-1 en m0 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
+|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
+|Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
+|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
+|Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
+|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
+|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
 
 ## Schijndel ##
 |Measurement|
@@ -122,33 +130,35 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Schoonhoven ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Getijextreemtype astronomisch in Oppervlaktewater|
 
 ## Schouwenbank, 1 ##
 |Measurement|
 |---|
 |Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
+|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
+|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
+|Aantal vrijheidsgraden bij het variantiedichtheidspectrum in Oppervlaktewater|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
 |Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
-|Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
-|Aantal vrijheidsgraden bij het variantiedichtheidspectrum in Oppervlaktewater|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
 |Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
+|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
 
 ## Schouwenbank, 2 ##
 |Measurement|
 |---|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
+|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
 |Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
 |Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
 
 ## 's-Hertogenbosch Crevecoeur ##
 |Measurement|
@@ -179,38 +189,45 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Measurement|
 |---|
 |Debiet in Oppervlaktewater in m3/s|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Sint Annaland, Haven Steiger ##
+|Measurement|
+|---|
+|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Getijextreemtype astronomisch in Oppervlaktewater|
 
 ## Sint Annaland haven ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Sint Philipsland Slaak noord ##
 |Measurement|
 |---|
-|Saliniteit in Oppervlaktewater|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
-|Temperatuur in Oppervlaktewater in oC|
 |Geleidendheid in Oppervlaktewater in mS/m|
+|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
+|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
+|Temperatuur in Oppervlaktewater in oC|
+|Saliniteit in Oppervlaktewater|
 
 ## Sint Philipsland Slaak oost ##
 |Measurement|
 |---|
+|Saliniteit in Oppervlaktewater|
+|Geleidendheid in Oppervlaktewater in mS/m|
+|Temperatuur in Oppervlaktewater in oC|
 |(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
 |Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
-|Temperatuur in Oppervlaktewater in oC|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|Saliniteit in Oppervlaktewater|
 
 ## Sint Philipsland Slaak zuid ##
 |Measurement|
 |---|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Temperatuur in Oppervlaktewater in oC|
 |Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
 |Saliniteit in Oppervlaktewater|
+|Geleidendheid in Oppervlaktewater in mS/m|
+|Temperatuur in Oppervlaktewater in oC|
+|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
 
 ## Slochtersluis ##
 |Measurement|
@@ -220,8 +237,6 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Smeermaas, Zuid-Willemsvaart ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Debiet in Oppervlaktewater in m3/s|
 |Stroomsnelheid in Oppervlaktewater in m/s|
 
 ## Someren, sluis 11, beneden ##
@@ -278,55 +293,55 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Spaarndam, Zijkanaal C ##
 |Measurement|
 |---|
+|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
 |Temperatuur in Oppervlaktewater in oC|
-|Saliniteit in Oppervlaktewater|
 |Geleidendheid in Oppervlaktewater in mS/m|
+|Saliniteit in Oppervlaktewater|
 
 ## Spijkenisse, Beerenplaat ##
 |Measurement|
 |---|
-|Temperatuur in Oppervlaktewater in oC|
 |(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
 |Geleidendheid in Oppervlaktewater in mS/m|
+|Temperatuur in Oppervlaktewater in oC|
 
 ## Spijkenisse, Oude Maas, Brug ##
 |Measurement|
 |---|
+|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
 |Temperatuur in Oppervlaktewater in oC|
 |Geleidendheid in Oppervlaktewater in mS/m|
 |Stroomsnelheid in Oppervlaktewater in m/s|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
 
 ## Stavenisse ##
 |Measurement|
 |---|
+|Windrichting in Lucht t.o.v. ware Noorden in graad|
 |Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
 
 ## Stavenisse, keeten ##
 |Measurement|
 |---|
 |Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
 |Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
 |Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
 |Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
 
 ## Stavoren gemaal Hoogland buiten ##
 |Measurement|
 |---|
-|Temperatuur in Oppervlaktewater in oC|
 |Debiet in Oppervlaktewater in m3/s|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Temperatuur in Oppervlaktewater in oC|
 |(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Stavoren IJsselmeer ##
 |Measurement|
 |---|
 |Temperatuur in Lucht in oC|
 |Windrichting in Lucht t.o.v. ware Noorden in graad|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
 
 ## Stavoren JohanFrisokanaal gemaal Hoogland inlaat ##
 |Measurement|
@@ -336,36 +351,32 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Stellendam, binnen ##
 |Measurement|
 |---|
-|Geleidendheid in Oppervlaktewater in mS/m|
 |Temperatuur in Oppervlaktewater in oC|
+|Geleidendheid in Oppervlaktewater in mS/m|
 |(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
 
 ## Stellendam, buiten ##
 |Measurement|
 |---|
 |Geleidendheid in Oppervlaktewater in mS/m|
-|Temperatuur in Oppervlaktewater in oC|
 |(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
 |Saliniteit in Oppervlaktewater|
+|Temperatuur in Oppervlaktewater in oC|
+
+## Stellendam, buitenhaven ##
+|Measurement|
+|---|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Getijextreemtype astronomisch in Oppervlaktewater|
 
 ## Stellendam, Haringvlietsluizen, schuif 1 ##
 |Measurement|
 |---|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
-|Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
 |Windrichting in Lucht t.o.v. ware Noorden in graad|
-
-## Stellendam, Haringvlietsluizen, schuif 10 ##
-|Measurement|
-|---|
+|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
 |Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Stellendam, Haringvlietsluizen, schuif 11 ##
-|Measurement|
-|---|
-|Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
-
-## Stellendam, Haringvlietsluizen, schuif 12 ##
 |Measurement|
 |---|
 |Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
@@ -390,16 +401,6 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |---|
 |Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
 
-## Stellendam, Haringvlietsluizen, schuif 17 ##
-|Measurement|
-|---|
-|Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
-
-## Stellendam, Haringvlietsluizen, schuif 2 ##
-|Measurement|
-|---|
-|Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
-
 ## Stellendam, Haringvlietsluizen, schuif 3 ##
 |Measurement|
 |---|
@@ -415,22 +416,7 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |---|
 |Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
 
-## Stellendam, Haringvlietsluizen, schuif 6 ##
-|Measurement|
-|---|
-|Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
-
-## Stellendam, Haringvlietsluizen, schuif 7 ##
-|Measurement|
-|---|
-|Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
-
 ## Stellendam, Haringvlietsluizen, schuif 8 ##
-|Measurement|
-|---|
-|Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
-
-## Stellendam, Haringvlietsluizen, schuif 9 ##
 |Measurement|
 |---|
 |Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
@@ -438,7 +424,7 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Stevensweert ##
 |Measurement|
 |---|
-|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte in Oppervlaktewater t.o.v. Tweede Algemene Waterpassing in cm|
 
 ## Steyl ##
 |Measurement|
@@ -448,21 +434,27 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Stortemelk, oost ##
 |Measurement|
 |---|
-|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
 |Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
 |Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
-|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
-|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Golfperiode bepaald uit de spectrale momenten m-1 en m0 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
 |Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
 |Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
+|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
+|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
+|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|Golfperiode bepaald uit de spectrale momenten m-1 en m0 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+
+## Suurhofbrug, noordzijde ##
+|Measurement|
+|---|
+|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Getijextreemtype astronomisch in Oppervlaktewater|
 
 
-_generated on 27-12-2025_
+_generated on 28-12-2025_

@@ -1,6 +1,6 @@
 # Codes for Rijkswaterstaat Waterinfo #
 
-To configure a sensor, you need to know the code for the location and the code for the measurement. Not all measurements are available at all locations. An overview of which measurement is available for which location is given in this folder. There are pages with the overview based on location (eg [Locations with a A](location_A.md)) and pages with the overview based on measurement (eg [Measuements with a C](measurement_C.md)).
+To configure a sensor, you need to know the location for the measurements. Not all measurements are available at all locations. An overview of which measurement is available for which location is given in this folder. There are pages with the overview based on location (eg [Locations with a A](location_A.md)) and pages with the overview based on measurement (eg [Measuements with a C](measurement_C.md)).
 
 ## Overview ##
 

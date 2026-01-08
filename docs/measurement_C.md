@@ -4,59 +4,6 @@ Measurements : C | [F](measurement_F.md) | [G](measurement_G.md) | [H](measureme
 
 # Measurements with the letter C #
 
-## (massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l ##
-|Location|
-|---|
-|Amsterdam, NDSM werf|
-|Amsterdam, Schellingwouderbrug|
-|Andijk|
-|Brouwershavensche Gat 08|
-|Bruinisse Krammersluis krammerput|
-|Bruinisse Krammersluis Oosterschelde|
-|Bruinisse Krammersluis Volkerak Noord|
-|Bruinisse Krammersluis Volkerak Zuid|
-|Den Oever, IJsselmeer binnenhaven|
-|Den Oever, Waddenzee voorhaven kolk|
-|Diemen|
-|Diemen Muiden brug|
-|Dinteloord, Volkerak|
-|Eemshaven, Waddenzee|
-|Friesekust IJsselmeer|
-|Haringvliet, 1|
-|Haringvliet, 2|
-|Haringvliet, 3|
-|Haringvliet, punt 4|
-|Kamperland, Schotsman|
-|Kinderdijk Lek|
-|Kloosterzande, Baalhoek|
-|Kornwerderzand, IJsselmeer binnenhaven|
-|Kornwerderzand, Waddenzee voorhaven kolk|
-|Kralendijk Plazabeach Terminal|
-|Lemmer Teroelsterkolk buiten|
-|Makkum sluis buiten|
-|Markermeer Trintelzand|
-|Middelharnis, meetboei|
-|Plaat van Oude Tonge, oost|
-|Rotterdamsehoek IJsselmeer|
-|Sas van Gent|
-|Sint Philipsland Slaak noord|
-|Sint Philipsland Slaak oost|
-|Sint Philipsland Slaak zuid|
-|Spijkenisse, Beerenplaat|
-|Spijkenisse, Oude Maas, Brug|
-|Stavoren gemaal Hoogland buiten|
-|Stellendam, binnen|
-|Stellendam, buiten|
-|Terneuzen, Sluiskilbrug|
-|Terneuzen, westsluis, buiten|
-|Velserkom|
-|Velsen-Zuid, Spaarndammerpolder|
-|Vlakte van de Raan|
-|Wieringen IJsselmeer oost|
-|Willemstad Hollandschdiep Volkerakspuisluis|
-|Zuidland, Spui|
 
 
-
-
-_generated on 27-12-2025_
+_generated on 28-12-2025_

@@ -8,7 +8,6 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## P11 ##
 |Measurement|
 |---|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
 |Windrichting in Lucht t.o.v. ware Noorden in graad|
 
 ## Panheel, gemaal ##
@@ -31,19 +30,46 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |---|
 |Debiet in Oppervlaktewater in m3/s|
 
+## Pannerden, Pannerdensch kanaal ##
+|Measurement|
+|---|
+|Debiet in Oppervlaktewater in m3/s|
+
+## Pannerden, regelwerk, beneden ##
+|Measurement|
+|---|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Pannerden, regelwerk, boven ##
+|Measurement|
+|---|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
+## Parksluis ##
+|Measurement|
+|---|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Getijextreemtype astronomisch in Oppervlaktewater|
+
 ## Plaat van Oude Tonge, oost ##
 |Measurement|
 |---|
 |(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Saliniteit in Oppervlaktewater|
-|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
-|Geleidendheid in Oppervlaktewater in mS/m|
 |Temperatuur in Oppervlaktewater in oC|
+|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
+|Saliniteit in Oppervlaktewater|
+|Geleidendheid in Oppervlaktewater in mS/m|
 
 ## Poeldonk, Aa, uitlaat ##
 |Measurement|
 |---|
 |Debiet in Oppervlaktewater in m3/s|
 
+## Pogum ##
+|Measurement|
+|---|
+|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Getijextreemtype astronomisch in Oppervlaktewater|
 
-_generated on 27-12-2025_
+
+_generated on 28-12-2025_

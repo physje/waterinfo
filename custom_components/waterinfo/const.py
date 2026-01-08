@@ -21,13 +21,22 @@ CONST_SENSOR_UNIQUE = "sensor_ID"
 CONST_DEVICE_UNIQUE = "device_ID"
 CONST_SENSOR = "sensoren"
 CONST_MULTIPLIER = "multiplier"
+CONST_EXPEC_TYPE = "expectation_type"
 
 ATTR_LAST_DATA = "last_data"
 ATTR_LAST_CHECK = "last_check"
+ATTR_PREDICT_TIME = "predicted_time"
 
 OPT_TIMEDELTA = "time_delta"
 DEFAULT_TIMEDELTA = 14
 MIN_TIMEDELTA = 1
+API_TIMEZONE = 1
+
+PEAK_DISTANCE = (
+    30  # Minimum points between tides (5 hours, 10-min intervals = 5*6 = 30)
+)
+PEAK_PROMINENCE = 5  # Minimum height difference in cm
+CACHE_DURATION = 300
 
 CONF_LOC_SELECTOR = "Selecteer plaats"
 

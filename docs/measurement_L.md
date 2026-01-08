@@ -4,14 +4,6 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 
 # Measurements with the letter L #
 
-## Luchtdruk in Lucht in hPa ##
-|Location|
-|---|
-|Borssele Windpark Alpha platform|
-|Hollandse Kust Noord Alpha|
-|Hollandse Kust Zuid platform Alpha|
 
 
-
-
-_generated on 27-12-2025_
+_generated on 28-12-2025_

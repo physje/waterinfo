@@ -59,48 +59,55 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Bommenede ##
 |Measurement|
 |---|
-|Saliniteit in Oppervlaktewater|
 |Geleidendheid in Oppervlaktewater in mS/m|
+|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
 |Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
-|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 |Temperatuur in Oppervlaktewater in oC|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Saliniteit in Oppervlaktewater|
 
 ## Borgsweer stuw ##
 |Measurement|
 |---|
 |Debiet in Oppervlaktewater in m3/s|
 
+## Borssele ##
+|Measurement|
+|---|
+|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
 ## Borssele Windpark Alpha platform ##
 |Measurement|
 |---|
-|Luchtdruk in Lucht in hPa|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
-|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Temperatuur in Lucht in oC|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
-|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
 |Waterhoogte in Oppervlaktewater t.o.v. Mean Sea Level in cm|
-|Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
-|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Windrichting in Lucht t.o.v. ware Noorden in graad|
-|Golfperiode bepaald uit de spectrale momenten m-1 en m0 in Oppervlaktewater golffrequentie tussen 30 en 1000 mHz in s|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
 |Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Temperatuur in Oppervlaktewater in oC|
-|Doorzicht in Lucht in m|
+|Windrichting in Lucht t.o.v. ware Noorden in graad|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
 |Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
+|Golfperiode bepaald uit de spectrale momenten m-1 en m0 in Oppervlaktewater golffrequentie tussen 30 en 1000 mHz in s|
+|Luchtdruk in Lucht in hPa|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
+|Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
+|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
+|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Doorzicht in Lucht in m|
+|Temperatuur in Lucht in oC|
+|Temperatuur in Oppervlaktewater in oC|
+|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
 
 ## Botlek Geulhaven ##
 |Measurement|
 |---|
-|Doorzicht in Lucht in m|
-|Windrichting in Lucht t.o.v. ware Noorden in graad|
+|Getijextreemtype astronomisch in Oppervlaktewater|
 |Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Windrichting in Lucht t.o.v. ware Noorden in graad|
 |Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
+|Doorzicht in Lucht in m|
 
 ## Botlek Rozenburgsesluis Calandkanaal ##
 |Measurement|
@@ -115,17 +122,16 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Breskens, Handelshaven ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Brouwersdam Brouwershavense Gat 2 ##
 |Measurement|
 |---|
-|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Temperatuur in Oppervlaktewater in oC|
-|Saliniteit in Oppervlaktewater|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
 |Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
+|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
+|Temperatuur in Oppervlaktewater in oC|
+|Geleidendheid in Oppervlaktewater in mS/m|
+|Saliniteit in Oppervlaktewater|
 
 ## Brouwersdam spuisluis binnen schuif6 ##
 |Measurement|
@@ -140,11 +146,11 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Brouwershavensche Gat 08 ##
 |Measurement|
 |---|
-|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Temperatuur in Oppervlaktewater in oC|
 |Geleidendheid in Oppervlaktewater in mS/m|
-|Saliniteit in Oppervlaktewater|
 |Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
+|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Saliniteit in Oppervlaktewater|
+|Temperatuur in Oppervlaktewater in oC|
 |(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
 
 ## Bruinisse Grevelingensluis ##
@@ -156,61 +162,64 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Bruinisse Krammersluis krammerput ##
 |Measurement|
 |---|
+|Geleidendheid in Oppervlaktewater in mS/m|
 |Temperatuur in Oppervlaktewater in oC|
 |(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Geleidendheid in Oppervlaktewater in mS/m|
+|Saliniteit in Oppervlaktewater|
 
 ## Bruinisse Krammersluis laagbekken ##
 |Measurement|
 |---|
-|Temperatuur in Oppervlaktewater in oC|
 |Geleidendheid in Oppervlaktewater in mS/m|
-|Saliniteit in Oppervlaktewater|
-|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
-
-## Bruinisse Krammersluis Oosterschelde ##
-|Measurement|
-|---|
 |(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Temperatuur in Oppervlaktewater in oC|
 |Saliniteit in Oppervlaktewater|
-|Geleidendheid in Oppervlaktewater in mS/m|
+|Temperatuur in Oppervlaktewater in oC|
 |Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
 
 ## Bruinisse Krammersluis Oosterschelde ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
+|Temperatuur in Oppervlaktewater in oC|
+|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
+|Geleidendheid in Oppervlaktewater in mS/m|
+|Saliniteit in Oppervlaktewater|
+
+## Bruinisse Krammersluis Oosterschelde ##
+|Measurement|
+|---|
+|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Bruinisse Krammersluis Volkerak Noord ##
 |Measurement|
 |---|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Geleidendheid in Oppervlaktewater in mS/m|
 |Saliniteit in Oppervlaktewater|
 |Temperatuur in Oppervlaktewater in oC|
+|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
+|Geleidendheid in Oppervlaktewater in mS/m|
 
 ## Bruinisse Krammersluis Volkerak Zuid ##
 |Measurement|
 |---|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Temperatuur in Oppervlaktewater in oC|
 |Geleidendheid in Oppervlaktewater in mS/m|
+|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
+|Saliniteit in Oppervlaktewater|
+|Temperatuur in Oppervlaktewater in oC|
 
 ## Buitenbanken west ##
 |Measurement|
 |---|
-|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Temperatuur in Oppervlaktewater in oC|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Stroomrichting in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
 |Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
+|Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
 |Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Stroomsnelheid in Oppervlaktewater in m/s|
+|Stroomrichting in Oppervlaktewater t.o.v. ware Noorden in graad|
+|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
 |Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Stroomsnelheid in Oppervlaktewater in m/s|
+|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
+|Temperatuur in Oppervlaktewater in oC|
 
 ## Buitenhuizen ##
 |Measurement|
@@ -220,9 +229,8 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Bunde, kanaal ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Debiet in Oppervlaktewater in m3/s|
 |Stroomsnelheid in Oppervlaktewater in m/s|
+|Debiet in Oppervlaktewater in m3/s|
 
 ## Burgum Burgumerdaam boezem ##
 |Measurement|
@@ -230,4 +238,4 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 
-_generated on 27-12-2025_
+_generated on 28-12-2025_

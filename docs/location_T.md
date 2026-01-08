@@ -5,6 +5,11 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 # Locations with the letter T #
 
 
+## Tennesseehaven ##
+|Measurement|
+|---|
+|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+
 ## Terherne beneden ##
 |Measurement|
 |---|
@@ -15,52 +20,60 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |---|
 |Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
+## Terneuzen ##
+|Measurement|
+|---|
+|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Getijextreemtype astronomisch in Oppervlaktewater|
+
 ## Terneuzen Pas van Terneuzen boei ##
 |Measurement|
 |---|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
 |Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
 |Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
 |Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
+|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
 
 ## Terneuzen, Sluiskilbrug ##
 |Measurement|
 |---|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Saliniteit in Oppervlaktewater|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
 |Temperatuur in Oppervlaktewater in oC|
-
-## Terneuzen, westsluis ##
-|Measurement|
-|---|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
+|Geleidendheid in Oppervlaktewater in mS/m|
+|Saliniteit in Oppervlaktewater|
+|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Terneuzen, westsluis, buiten ##
 |Measurement|
 |---|
-|Temperatuur in Oppervlaktewater in oC|
-|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 |Geleidendheid in Oppervlaktewater in mS/m|
 |(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
 |Saliniteit in Oppervlaktewater|
+|Temperatuur in Oppervlaktewater in oC|
+|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
 
 ## Terschelling, Hoorn ##
 |Measurement|
 |---|
-|Temperatuur in Lucht in oC|
 |Windrichting in Lucht t.o.v. ware Noorden in graad|
+|Temperatuur in Lucht in oC|
+|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
 
 ## Terschelling, Noordzee ##
 |Measurement|
 |---|
-|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 |Windrichting in Lucht t.o.v. ware Noorden in graad|
+|Getijextreemtype astronomisch in Oppervlaktewater|
+|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
 |Temperatuur in Lucht in oC|
+
+## Terschelling, west ##
+|Measurement|
+|---|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Texelhors ##
 |Measurement|
@@ -68,10 +81,10 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Windrichting in Lucht t.o.v. ware Noorden in graad|
 |Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
 
-## Texel, Noordzee ##
+## Texel, Oudeschild ##
 |Measurement|
 |---|
-|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Tholen Bergsediepsluis ##
 |Measurement|
@@ -82,7 +95,8 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Tholen, Bergse Diepsluis, buiten ##
 |Measurement|
 |---|
-|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Getijextreemtype astronomisch in Oppervlaktewater|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Tiel, kanaal ##
 |Measurement|
@@ -92,8 +106,7 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 ## Tiel, Waal ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
-|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
 
 ## Tilburg, sluis 2, beneden ##
 |Measurement|
@@ -126,4 +139,4 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 |Debiet in Oppervlaktewater in m3/s|
 
 
-_generated on 27-12-2025_
+_generated on 28-12-2025_

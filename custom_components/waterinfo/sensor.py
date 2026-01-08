@@ -2,11 +2,17 @@
 
 from __future__ import annotations
 
-from datetime import datetime as dt, timedelta, timezone
 import logging
 
 import ddlpy
 import pandas as pd
+
+import numpy as np
+import numpy.typing as npt
+from scipy.signal import find_peaks
+
+from datetime import datetime as dt
+from datetime import timedelta, timezone
 
 from homeassistant.components.sensor import (
     SensorDeviceClass,
@@ -22,10 +28,12 @@ from homeassistant.helpers.entity_platform import AddEntitiesCallback
 from .const import (
     ATTR_LAST_CHECK,
     ATTR_LAST_DATA,
+    ATTR_PREDICT_TIME,
     CONST_COMP_CODE,
     CONST_COORD,
     CONST_DEVICE_UNIQUE,
     CONST_ENABLE,
+    CONST_EXPEC_TYPE,
     CONST_LAT,
     CONST_LOC_CODE,
     CONST_LOC_NAME,
@@ -33,11 +41,14 @@ from .const import (
     CONST_MEAS_CODE,
     CONST_MEAS_DESCR,
     CONST_MEAS_NAME,
+    CONST_PROCES_TYPE,
     CONST_PROP,
     CONST_SENSOR,
     CONST_SENSOR_UNIQUE,
     CONST_UNIT,
     DOMAIN,
+    PEAK_DISTANCE,
+    PEAK_PROMINENCE,
 )
 
 _LOGGER = logging.getLogger(__name__)
@@ -92,6 +103,14 @@ class WaterInfoMetingSensor(SensorEntity):
         else:
             self._attr_name = entry[CONST_MEAS_NAME]
 
+        if entry[CONST_PROCES_TYPE] == "verwachting":
+            self._attr_name = self._attr_name + " (verwachting)"
+
+        if CONST_EXPEC_TYPE in entry:
+            self._expectation_type = entry[CONST_EXPEC_TYPE]
+        else:
+            self._expectation_type = "meting"
+
         # Original
         self._id = entry[CONST_LOC_CODE]
         self._long = entry[CONST_LONG]
@@ -102,6 +121,7 @@ class WaterInfoMetingSensor(SensorEntity):
         self._name = entry[CONST_LOC_NAME]
         self._comp_code = entry[CONST_COMP_CODE]
         self._attr_unique_id = entry[CONST_DEVICE_UNIQUE] + entry[CONST_SENSOR_UNIQUE]
+        self._procestype = entry[CONST_PROCES_TYPE]
 
         self._attr_state_class = SensorStateClass.MEASUREMENT
 
@@ -134,8 +154,17 @@ class WaterInfoMetingSensor(SensorEntity):
             self._attr_device_class = SensorDeviceClass.DISTANCE
         elif entry[CONST_MEAS_CODE] == "WATHTE":
             self._attr_native_unit_of_measurement = entry[CONST_UNIT]
-            self._attr_icon = "mdi:format-line-height"
             self._attr_device_class = SensorDeviceClass.DISTANCE
+
+            """
+            if entry[CONST_PROCES_TYPE] == "verwachting":
+                if entry[CONST_EXPEC_TYPE] == "max":
+                    self._attr_icon = "mdi:wave-arrow-up"
+                elif entry[CONST_EXPEC_TYPE] == "min":
+                    self._attr_icon = "mdi:wave-arrow-down"
+            else:
+                self._attr_icon = "mdi:format-line-height"
+            """
         else:
             self._attr_native_unit_of_measurement = entry[CONST_UNIT]
             self._attr_icon = "mdi:water-circle"
@@ -147,45 +176,89 @@ class WaterInfoMetingSensor(SensorEntity):
             entry_type=DeviceEntryType.SERVICE,
         )
 
-        self._last_data = 0
+        if self._expectation_type == "verwachting":
+            self._predict_time = 0
+        else:
+            self._last_data = 0
+
         self._last_check = 0
         self._attrs = {}
 
     @property
     def extra_state_attributes(self) -> None:
         """Add extra attributes with time of last data and time of last check."""
-        self._attrs = {
-            ATTR_LAST_DATA: self._last_data,
-            ATTR_LAST_CHECK: self._last_check,
-        }
+
+        if self._expectation_type == "verwachting":
+            self._attrs = {
+                ATTR_LAST_CHECK: self._last_check,
+                ATTR_PREDICT_TIME: self._predict_time,
+            }
+        else:
+            self._attrs = {
+                ATTR_LAST_CHECK: self._last_check,
+                ATTR_LAST_DATA: self._last_data,
+            }
+
         return self._attrs
 
     async def async_update(self) -> None:
         """Get the time and updates the states."""
 
-        selected = {
-            "Compartiment.Code": self._comp_code,
-            "Grootheid.Code": self._grootheid,
-            "Code": self._id,
-            "Lat": self._lat,
-            "Lon": self._long,
-            "Coordinatenstelsel": self._coord,
-            "Naam": self._name,
-        }
+        if self._procestype == "verwachting":
+            selected = {
+                "Compartiment.Code": self._comp_code,
+                "Grootheid.Code": self._grootheid,
+                "Code": self._id,
+                "Lat": self._lat,
+                "Lon": self._long,
+                "Coordinatenstelsel": self._coord,
+                "Naam": self._name,
+                "ProcesType": self._procestype,
+            }
 
-        location = pd.Series(selected)
+            location = pd.Series(selected)
 
-        await self.hass.async_add_executor_job(collectObservation, location)
-
-        # if location["observation"] is not None and location["observation"] != "nan":
-        if isinstance(location["observation"], float):
-            self._attr_native_value = location["observation"]
-            self._last_data = location["tijdstip"]
-            self._last_check = dt.now(timezone.utc)
-
-            _LOGGER.debug(
-                "Observation %s at %s", location["observation"], location["tijdstip"]
+            await self.hass.async_add_executor_job(
+                collectExpectation, location, self._expectation_type
             )
+
+            # if location["observation"] is not None and location["observation"] != "nan":
+            if isinstance(location["expectation"], float):
+                self._attr_native_value = location["expectation"]
+                self._predict_time = location["tijdstip"]
+                self._last_check = dt.now(timezone.utc)
+
+                _LOGGER.debug(
+                    "Prediction %s at %s",
+                    location["expectation"],
+                    location["tijdstip"],
+                )
+        else:
+            selected = {
+                "Compartiment.Code": self._comp_code,
+                "Grootheid.Code": self._grootheid,
+                "Code": self._id,
+                "Lat": self._lat,
+                "Lon": self._long,
+                "Coordinatenstelsel": self._coord,
+                "Naam": self._name,
+            }
+
+            location = pd.Series(selected)
+
+            await self.hass.async_add_executor_job(collectObservation, location)
+
+            # if location["observation"] is not None and location["observation"] != "nan":
+            if isinstance(location["observation"], float):
+                self._attr_native_value = location["observation"]
+                self._last_data = location["tijdstip"]
+                self._last_check = dt.now(timezone.utc)
+
+                _LOGGER.debug(
+                    "Observation %s at %s",
+                    location["observation"],
+                    location["tijdstip"],
+                )
 
 
 def collectObservation(data) -> dict:
@@ -194,35 +267,120 @@ def collectObservation(data) -> dict:
     try:
         observation = ddlpy.measurements_latest(data)
 
-        # t is list of all observation times, m is a list of all measurements
-        t = []
-        m = []
+        records = []
+        for index, row in observation.iterrows():
+            timestamp = pd.to_datetime(row.get("Tijdstip")).tz_convert("UTC")
+            waarde = row.get("Meetwaarde.Waarde_Numeriek")
 
-        # walk through all measurements
-        for y in range(len(observation)):
-            if "Meetwaarde.Waarde_Numeriek" in observation.columns:
-                meetwaarde = observation["Meetwaarde.Waarde_Numeriek"].iloc[y]
-            else:
-                meetwaarde = observation["Meetwaarde.Waarde_Alfanumeriek"].iloc[y]
+            if waarde is not None:
+                records.append({"Tijdstip": timestamp, "Waarde": waarde})
 
-            tijdstip = observation["Tijdstip"].iloc[y]
+        df = pd.DataFrame(records)
+        df.set_index("Tijdstip", inplace=True)
+        df = df.sort_index(ascending=False)
 
-            t.append(tijdstip)
-            m.append(meetwaarde)
-
-        # find the index of the latest observation
-        # this measurement will be returned
-        max_t = max(t)
-        index_t = t.index(max_t)
-
-        tijdstip_datetime = dt.strptime(t[index_t], "%Y-%m-%dT%H:%M:%S.%f%z")
-
-        data["observation"] = m[index_t]
-        data["tijdstip"] = tijdstip_datetime
+        data["observation"] = df.head(1)["Waarde"].to_numpy()[0]
+        data["tijdstip"] = df.head(1).index.to_numpy()[0]
     except:
         data["observation"] = None
         data["tijdstip"] = None
 
-        _LOGGER.error("No data for %s at %s", data["Grootheid.Code"], data["Naam"])
+        _LOGGER.debug("No data for %s at %s", data["Grootheid.Code"], data["Naam"])
 
     return data
+
+
+def collectExpectation(data, type) -> dict:
+    """Collect expected values for given location/measurement."""
+
+    try:
+        start_date = dt.today() - timedelta(hours=1)
+        end_date = start_date + timedelta(days=7)
+
+        ddlpy_data = ddlpy.measurements(data, start_date=start_date, end_date=end_date)
+
+        records = []
+        for index, row in ddlpy_data.iterrows():
+            timestamp = pd.to_datetime(index).tz_convert("UTC")
+            waarde = row.get("Meetwaarde.Waarde_Numeriek")
+
+            if waarde is not None:
+                records.append({"Tijdstip": timestamp, "Waarde": waarde})
+
+            df = pd.DataFrame(records)
+            df.set_index("Tijdstip", inplace=True)
+
+        data["expectation"] = None
+        data["tijdstip"] = None
+
+        _LOGGER.debug(
+            "%s predicted elements for %s at %s",
+            len(df),
+            data["Grootheid.Code"],
+            data["Naam"],
+        )
+
+        if data["Grootheid.Code"] == "WATHTE":
+            high_tides, low_tides = find_tide_extremes(df)
+
+            if not high_tides.empty or not low_tides.empty:
+                if type == "max":
+                    tide = high_tides.head(1)
+                elif type == "min":
+                    tide = low_tides.head(1)
+
+                data["expectation"] = tide["Waarde"].to_numpy()[0]
+                data["tijdstip"] = tide.index.to_numpy()[0]
+            else:
+                if type == "max":
+                    data["expectation"] = max(df["Waarde"]).to_numpy()[0]
+                elif type == "min":
+                    data["expectation"] = min(df["Waarde"]).to_numpy()[0]
+
+                data["tijdstip"] = (
+                    df.where(df["Waarde"] == data["expectation"])
+                    .dropna()
+                    .index.to_numpy()[0]
+                )
+
+    except:
+        data["expectation"] = None
+        data["tijdstip"] = None
+
+        _LOGGER.debug("No data for %s at %s", data["Grootheid.Code"], data["Naam"])
+
+    return data
+
+
+def find_tide_extremes(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
+    """
+    @leondeklerk
+    https://github.com/leondeklerk/waterinfo
+
+    Find tide extremes using scipy.signal.find_peaks.
+
+    Args:
+        df: DataFrame with 'Waarde' column containing water level predictions and datetime index
+
+    Returns:
+        Tuple of (high_tides, low_tides) DataFrames
+    """
+    if df.empty or "Waarde" not in df.columns:
+        return pd.DataFrame(), pd.DataFrame()
+
+    values: npt.NDArray[np.float64] = df["Waarde"].to_numpy()
+
+    # Find peaks (high tides)
+    high_indices, _ = find_peaks(
+        values, distance=PEAK_DISTANCE, prominence=PEAK_PROMINENCE
+    )
+
+    # Find troughs (low tides) by inverting the signal
+    low_indices, _ = find_peaks(
+        -values, distance=PEAK_DISTANCE, prominence=PEAK_PROMINENCE
+    )
+
+    high_tides = df.iloc[high_indices]
+    low_tides = df.iloc[low_indices]
+
+    return high_tides, low_tides

@@ -4,26 +4,6 @@ Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G
 
 # Measurements with the letter Z #
 
-## Doorzicht in Lucht in m ##
-|Location|
-|---|
-|Borssele Windpark Alpha platform|
-|Botlek Geulhaven|
-|Botlek Rozenburgsesluis Calandkanaal|
-|Dishoek|
-|Europoort Calandkanaal west|
-|Europoort Calandkanaal midden|
-|Europoort Calandkanaal oost|
-|Hollandse Kust Zuid platform Alpha|
-|Maasvlakte Beergat|
-|Maasvlakte Papegaaiebek|
-|Maasvlakte Slufter|
-|Rilland, Bath|
-|Rotterdam IJzerwerkerkade|
-|Rotterdam Waalhaven 1|
-|Rozenburg Het Scheur|
 
 
-
-
-_generated on 27-12-2025_
+_generated on 28-12-2025_
