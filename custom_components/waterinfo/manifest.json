@@ -7,7 +7,7 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/physje/waterinfo/issues",
   "loggers": ["waterinfo"],
-  "requirements": ["rws-ddlpy==0.10.0", "scipy==1.16.3"],
+  "requirements": ["rws-ddlpy==0.10.0"],
   "version": "3.0.3",
   "quality_scale": "bronze"
 }
