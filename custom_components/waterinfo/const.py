@@ -21,22 +21,20 @@ CONST_SENSOR_UNIQUE = "sensor_ID"
 CONST_DEVICE_UNIQUE = "device_ID"
 CONST_SENSOR = "sensoren"
 CONST_MULTIPLIER = "multiplier"
-CONST_EXPEC_TYPE = "expectation_type"
+CONST_GROUP_CODE = "group_code"  # Groepering.Code
 
-ATTR_LAST_DATA = "last_data"
-ATTR_LAST_CHECK = "last_check"
-ATTR_PREDICT_TIME = "predicted_time"
+ATTR_LAST_DATA = "Last_Data"
+ATTR_LAST_CHECK = "Last_Check"
+ATTR_EXPECTED_TIME = "Expected_Peak_Time"
 
 OPT_TIMEDELTA = "time_delta"
 DEFAULT_TIMEDELTA = 14
 MIN_TIMEDELTA = 1
-API_TIMEZONE = 1
 
-PEAK_DISTANCE = (
-    30  # Minimum points between tides (5 hours, 10-min intervals = 5*6 = 30)
-)
-PEAK_PROMINENCE = 5  # Minimum height difference in cm
-CACHE_DURATION = 300
+TIDE_TIMEDELTA_MINUTES = 10
+TIDE_TIMEDELTA_DAYS = 2
+TIDE_SENSOR_CALCULATED = "GET_WATHTEBRKD"
+TIDE_SENSOR_FORECAST = "GET_WATHTEVERWACHT"
 
 CONF_LOC_SELECTOR = "Selecteer plaats"
 

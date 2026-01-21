@@ -20,12 +20,11 @@ from homeassistant.exceptions import HomeAssistantError
 from homeassistant.helpers.selector import selector
 
 from .const import (
-    API_TIMEZONE,
     CONF_LOC_SELECTOR,
     CONST_COMP_CODE,
     CONST_COORD,
     CONST_ENABLE,
-    CONST_EXPEC_TYPE,
+    CONST_GROUP_CODE,
     CONST_LAT,
     CONST_LOC_CODE,
     CONST_LOC_NAME,
@@ -43,6 +42,8 @@ from .const import (
     DOMAIN,
     MIN_TIMEDELTA,
     OPT_TIMEDELTA,
+    TIDE_SENSOR_CALCULATED,
+    TIDE_SENSOR_FORECAST,
 )
 from .locations import CONF_LOC_OPTIONS
 
@@ -70,6 +71,7 @@ def validate_location(data) -> dict:
 
     sensoren = []
     seen = []
+    disabled = 0
 
     # Usually, the most recent datapoint are in the last part of the array
     # So walk backwards in the array
@@ -78,6 +80,7 @@ def validate_location(data) -> dict:
         code = location.index
         grootheid = location["Grootheid.Code"]
         hoedanigheid = location["Hoedanigheid.Code"]
+        groepering = location["Groepering.Code"]
         procestype = location["ProcesType"]
 
         if hoedanigheid != "NVT":
@@ -85,29 +88,44 @@ def validate_location(data) -> dict:
         else:
             sensorKey = grootheid + "_" + procestype
 
+        # If there are tide calculations, update the key as the grootheid and hoedanigheid are the same
+        # This is only present for WATHTE astronomisch
+        # If this is present we need to retrieve data differently and for two sensors (low/high tide)
+        if (
+            grootheid == "WATHTE"
+            and procestype == "astronomisch"
+            and groepering == "GETETBRKD2"
+        ):
+            sensorKey = TIDE_SENSOR_CALCULATED
+
+        # For the WATHTE verwachting there are no pre-calculated tide points.
+        # If verwachting is available we need to calculate it manually, so we add a unique name
+        if grootheid == "WATHTE" and procestype == "verwachting":
+            sensorKey = TIDE_SENSOR_FORECAST
+
         # Store all nessecary data for later
         # There are some weird measurements and some measurements are duplicates
         if grootheid != "NVT" and sensorKey not in seen:
             device_info = {}
             device_info[CONST_PROCES_TYPE] = procestype
             device_info[CONST_LOC_CODE] = code
-            device_info[CONST_LOC_NAME] = location["Naam"]
             device_info[CONST_MEAS_CODE] = grootheid
+            device_info[CONST_PROP] = hoedanigheid
+            device_info[CONST_LOC_NAME] = location["Naam"]
             device_info[CONST_MEAS_NAME] = location["Grootheid.Omschrijving"]
             device_info[CONST_MEAS_DESCR] = location["Parameter_Wat_Omschrijving"]
             device_info[CONST_UNIT] = location["Eenheid.Code"]
             device_info[CONST_LONG] = location["Lon"]
             device_info[CONST_LAT] = location["Lat"]
             device_info[CONST_COMP_CODE] = location["Compartiment.Code"]
-            device_info[CONST_PROP] = hoedanigheid
             device_info[CONST_COORD] = location["Coordinatenstelsel"]
 
             if procestype in ("verwachting"):
                 device_info[CONST_SENSOR_UNIQUE] = grootheid + "_verwacht"
-                device_info[CONST_ENABLE] = 0
+                device_info[CONST_ENABLE] = 1
             elif procestype in ("astronomisch"):
                 device_info[CONST_SENSOR_UNIQUE] = grootheid + "_astronomisch"
-                device_info[CONST_ENABLE] = 0
+                device_info[CONST_ENABLE] = 1
             else:
                 device_info[CONST_SENSOR_UNIQUE] = grootheid
                 device_info[CONST_ENABLE] = 1
@@ -128,68 +146,56 @@ def validate_location(data) -> dict:
                 if procestype in ("meting"):
                     end_date = dt.today()
                     start_date = end_date - timedelta(days=DEFAULT_TIMEDELTA)
-                    measurements = ddlpy.measurements(
+                    measurement_available = ddlpy.measurements_available(
                         location, start_date=start_date, end_date=end_date
                     )
 
                     # if not, disabled
-                    if measurements.empty:
+                    if not measurement_available:
+                        disabled = disabled + 1
                         device_info[CONST_ENABLE] = 0
                         _LOGGER.info(
                             "Sensor %s is disabled because it has no data",
                             location["Grootheid.Code"],
                         )
 
-                    """
-                    elif procestype in ("verwachting"):
-                    start_date = dt.now(
-                        timezone(timedelta(hours=API_TIMEZONE))
-                    ) - timedelta(hours=2)
-                    end_date = start_date + timedelta(hours=24)
+            # If it is a GET_WATHTBRKD or GET_WATHTEVERWACHT sensor we need to add two sensors instead
+            if sensorKey in (TIDE_SENSOR_CALCULATED, TIDE_SENSOR_FORECAST):
+                if groepering not in {"NVT", ""}:
+                    device_info[CONST_GROUP_CODE] = groepering
 
-                    measurements = ddlpy.measurements_available(
-                        location, start_date=start_date, end_date=end_date
-                    )
+                code_lw = sensorKey + "_LW"
+                code_hw = sensorKey + "_HW"
 
-                    # if not, disabled
-                    if not measurements:
-                        device_info[CONST_ENABLE] = 0
-                        _LOGGER.info(
-                            "Expected sensor %s is disabled because it has no data",
-                            location["Grootheid.Code"],
-                        )
-                    elif grootheid in ("WATHTE"):
-                        # Create high tide sensor
-                        high_tide_info = device_info.copy()
-                        high_tide_info[CONST_MEAS_NAME] = "Hoogwater"
-                        high_tide_info[CONST_MEAS_DESCR] = (
-                            "Astronomische hoogwater voorspelling"
-                        )
-                        high_tide_info[CONST_SENSOR_UNIQUE] = "WATHTEVERWACHT_HW"
-                        high_tide_info[CONST_EXPEC_TYPE] = "max"
-                        high_tide_info[CONST_ENABLE] = 1
+                tide_name_prefix = (
+                    "Astronomisch"
+                    if sensorKey == TIDE_SENSOR_CALCULATED
+                    else "Verwacht"
+                )
+                tide_description_type = (
+                    "astronomische berekeningen"
+                    if sensorKey == TIDE_SENSOR_CALCULATED
+                    else "weersvoorspellingen"
+                )
 
-                        seen.append("WATHTEVERWACHT_HW")
-                        sensoren.append(high_tide_info)
+                device_info_low = device_info.copy()
+                device_info_low[CONST_MEAS_NAME] = tide_name_prefix + " Laagwater"
+                device_info_low[CONST_MEAS_DESCR] = (
+                    "Voorspelt laagwater op basis van " + tide_description_type
+                )
+                device_info_low[CONST_SENSOR_UNIQUE] = code_lw
+                sensoren.append(device_info_low)
 
-                        # Create low tide height sensor
-                        low_tide_info = device_info.copy()
-                        low_tide_info[CONST_MEAS_NAME] = "Laagwater"
-                        low_tide_info[CONST_MEAS_DESCR] = (
-                            "Astronomische laagwater voorspelling"
-                        )
-                        low_tide_info[CONST_SENSOR_UNIQUE] = "WATHTEVERWACHT_LW"
-                        low_tide_info[CONST_EXPEC_TYPE] = "min"
-                        low_tide_info[CONST_ENABLE] = 1
-                        seen.append("WATHTEVERWACHT_LW")
-                        sensoren.append(low_tide_info)
-                        device_info = {}
-                    else:
-                        device_info[CONST_EXPEC_TYPE] = "max"
-                    """
-
-            if len(device_info) > 1:
+                device_info_high = device_info.copy()
+                device_info_high[CONST_MEAS_NAME] = tide_name_prefix + " Hoogwater"
+                device_info_high[CONST_MEAS_DESCR] = (
+                    "Voorspelt hoogwater op basis van " + tide_description_type
+                )
+                device_info_high[CONST_SENSOR_UNIQUE] = code_hw
+                sensoren.append(device_info_high)
+            elif len(device_info) > 1:
                 sensoren.append(device_info)
+
             seen.append(sensorKey)
 
         elif sensorKey in seen:
@@ -199,10 +205,11 @@ def validate_location(data) -> dict:
     data[CONST_LOC_NAME] = location["Naam"]
 
     _LOGGER.info(
-        "Made %s sensors for %s (location %s)",
+        "Made %s sensors for %s (location %s) of which %s are disabled",
         len(sensoren),
         data[CONST_LOC_NAME],
         data[CONST_LOC_CODE],
+        disabled,
     )
 
     return data
@@ -264,10 +271,9 @@ class WaterinfoConfigFlow(ConfigFlow, domain=DOMAIN):
             ),
         )
 
-    # Reconfigure makes no sense
+    # Reconfigure makes usually no sense
     # Reconfigure means a new location, which is new data
     # So instead of reconfigure, just make a new entry
-
     async def async_step_reconfigure(
         self, user_input: dict[str, Any] | None = None
     ) -> ConfigFlowResult:
