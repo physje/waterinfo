@@ -26,6 +26,8 @@ from .const import (
     ATTR_EXPECTED_TIME,
     ATTR_LAST_CHECK,
     ATTR_LAST_DATA,
+    ATTR_TIMES,
+    ATTR_VALUES,
     CONST_COMP_CODE,
     CONST_COORD,
     CONST_DEVICE_UNIQUE,
@@ -100,10 +102,12 @@ class WaterInfoMetingSensor(SensorEntity):
         else:
             self._attr_name = entry[CONST_MEAS_NAME]
 
-        if entry[CONST_PROCES_TYPE] == "verwachting":
+        if entry[CONST_PROCES_TYPE] in ["verwachting"] and entry[
+            CONST_MEAS_CODE
+        ] not in ["WATHTE"]:
             self._attr_name = self._attr_name + " (verwachting)"
 
-        if entry[CONST_PROCES_TYPE] == "astronomisch":
+        if entry[CONST_PROCES_TYPE] in ["astronomisch"]:
             self._attr_name = self._attr_name + " (astronomisch)"
 
         # self._attr_name = self._attr_name + entry[CONST_GROUP_CODE]
@@ -186,20 +190,33 @@ class WaterInfoMetingSensor(SensorEntity):
         self._last_data = 0
         self._last_check = 0
         self._expec_time = 0
+        self._times = {}
+        self._valies = {}
         self._attrs = {}
 
     @property
     def extra_state_attributes(self) -> None:
         """Add extra attributes with time of last data and time of last check."""
 
+        # For measurements, put last data & last check in the attributes
         if self._procestype == "meting":
             self._attrs = {
                 ATTR_LAST_DATA: self._last_data,
                 ATTR_LAST_CHECK: self._last_check,
             }
-        else:
+        # If it's not a measurement, but it's water-height : put expected peak time & last check in the attributes
+        elif self._sensor_unique.startswith(
+            TIDE_SENSOR_CALCULATED
+        ) or self._sensor_unique.startswith(TIDE_SENSOR_FORECAST):
             self._attrs = {
                 ATTR_EXPECTED_TIME: self._expec_time,
+                ATTR_LAST_CHECK: self._last_check,
+            }
+        # Else (so no measurement and no calculated or forecasted sensor) list with times and values
+        else:
+            self._attrs = {
+                ATTR_TIMES: self._times,
+                ATTR_VALUES: self._values,
                 ATTR_LAST_CHECK: self._last_check,
             }
 
@@ -241,10 +258,11 @@ class WaterInfoMetingSensor(SensorEntity):
                 location,
                 self._sensor_unique.endswith("_LW"),
             )
+        elif self._procestype not in ["meting"]:
+            await self.hass.async_add_executor_job(collectExpectation, location)
         else:
             await self.hass.async_add_executor_job(collectObservation, location)
 
-        # if location["observation"] is not None and location["observation"] != "nan":
         if isinstance(location["observation"], float):
             self._attr_native_value = location["observation"]
             self._last_check = dt.now(timezone.utc)
@@ -259,6 +277,11 @@ class WaterInfoMetingSensor(SensorEntity):
                 location["observation"],
                 location["tijdstip"],
             )
+        elif isinstance(location["observation"], list):
+            self._attr_native_value = location["observation"][-1]
+            self._times = location["times"]
+            self._values = location["observation"]
+            self._last_check = dt.now(timezone.utc)
 
 
 def collectObservation(data) -> dict:
@@ -386,64 +409,46 @@ def collectForecastTideObservation(data, is_low_tide: bool) -> dict:
     return data
 
 
-def collectExpectation(data, type) -> dict:
+def collectExpectation(data) -> dict:
     """Collect expected values for given location/measurement."""
 
     try:
         start_date = dt.today() - timedelta(hours=1)
-        end_date = start_date + timedelta(days=7)
+        end_date = start_date + timedelta(days=1)
 
         ddlpy_data = ddlpy.measurements(data, start_date=start_date, end_date=end_date)
 
-        records = []
+        times = []
+        values = []
         for index, row in ddlpy_data.iterrows():
             timestamp = pd.to_datetime(index).tz_convert("UTC")
             waarde = row.get("Meetwaarde.Waarde_Numeriek")
 
             if waarde is not None:
-                records.append({"Tijdstip": timestamp, "Waarde": waarde})
+                times.append(timestamp)
+                values.append(waarde)
+                # records.append({"Tijdstip": timestamp, "Waarde": waarde})
 
-            df = pd.DataFrame(records)
-            df.set_index("Tijdstip", inplace=True)
+        # df = pd.DataFrame(records)
+        # df.set_index("Tijdstip", inplace=True)
+        # df = df.sort_index(ascending=False)
 
-        data["expectation"] = None
-        data["tijdstip"] = None
+        data["observation"] = values
+        data["times"] = times
 
-        _LOGGER.debug(
+        _LOGGER.info(
             "%s predicted elements for %s at %s",
-            len(df),
+            len(values),
             data["Grootheid.Code"],
             data["Naam"],
         )
-
-        if data["Grootheid.Code"] == "WATHTE":
-            high_tides, low_tides = find_tide_extremes(df)
-
-            if not high_tides.empty or not low_tides.empty:
-                if type == "max":
-                    tide = high_tides.head(1)
-                elif type == "min":
-                    tide = low_tides.head(1)
-
-                data["expectation"] = tide["Waarde"].to_numpy()[0]
-                data["tijdstip"] = tide.index.to_numpy()[0]
-            else:
-                if type == "max":
-                    data["expectation"] = max(df["Waarde"]).to_numpy()[0]
-                elif type == "min":
-                    data["expectation"] = min(df["Waarde"]).to_numpy()[0]
-
-                data["tijdstip"] = (
-                    df.where(df["Waarde"] == data["expectation"])
-                    .dropna()
-                    .index.to_numpy()[0]
-                )
-
     except:
-        data["expectation"] = None
+        data["observation"] = None
         data["tijdstip"] = None
 
-        _LOGGER.debug("No data for %s at %s", data["Grootheid.Code"], data["Naam"])
+        _LOGGER.info(
+            "No predicted elements for %s at %s", data["Grootheid.Code"], data["Naam"]
+        )
 
     return data
 

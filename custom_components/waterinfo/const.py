@@ -26,6 +26,9 @@ CONST_GROUP_CODE = "group_code"  # Groepering.Code
 ATTR_LAST_DATA = "Last_Data"
 ATTR_LAST_CHECK = "Last_Check"
 ATTR_EXPECTED_TIME = "Expected_Peak_Time"
+ATTR_FORECAST = "Forecast"
+ATTR_TIMES = "Time"
+ATTR_VALUES = "Value"
 
 OPT_TIMEDELTA = "time_delta"
 DEFAULT_TIMEDELTA = 14

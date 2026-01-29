@@ -96,6 +96,7 @@ def validate_location(data) -> dict:
             and procestype == "astronomisch"
             and groepering == "GETETBRKD2"
         ):
+            seen.append(sensorKey)
             sensorKey = TIDE_SENSOR_CALCULATED
 
         # For the WATHTE verwachting there are no pre-calculated tide points.
@@ -122,10 +123,10 @@ def validate_location(data) -> dict:
 
             if procestype in ("verwachting"):
                 device_info[CONST_SENSOR_UNIQUE] = grootheid + "_verwacht"
-                device_info[CONST_ENABLE] = 1
+                device_info[CONST_ENABLE] = 0
             elif procestype in ("astronomisch"):
                 device_info[CONST_SENSOR_UNIQUE] = grootheid + "_astronomisch"
-                device_info[CONST_ENABLE] = 1
+                device_info[CONST_ENABLE] = 0
             else:
                 device_info[CONST_SENSOR_UNIQUE] = grootheid
                 device_info[CONST_ENABLE] = 1
@@ -184,6 +185,7 @@ def validate_location(data) -> dict:
                     "Voorspelt laagwater op basis van " + tide_description_type
                 )
                 device_info_low[CONST_SENSOR_UNIQUE] = code_lw
+                device_info_low[CONST_ENABLE] = 1
                 sensoren.append(device_info_low)
 
                 device_info_high = device_info.copy()
@@ -192,7 +194,22 @@ def validate_location(data) -> dict:
                     "Voorspelt hoogwater op basis van " + tide_description_type
                 )
                 device_info_high[CONST_SENSOR_UNIQUE] = code_hw
+                device_info_high[CONST_ENABLE] = 1
                 sensoren.append(device_info_high)
+
+                device_info_all = device_info.copy()
+                device_info_all[CONST_MEAS_DESCR] = (
+                    "Voorspelt "
+                    + device_info_all[CONST_MEAS_NAME]
+                    + " op basis van "
+                    + tide_description_type
+                )
+                device_info_all[CONST_MEAS_NAME] = (
+                    device_info_all[CONST_MEAS_NAME] + " (verwacht)"
+                )
+                # device_info_all[CONST_SENSOR_UNIQUE] = code_hw
+                device_info_all[CONST_ENABLE] = 1
+                sensoren.append(device_info_all)
             elif len(device_info) > 1:
                 sensoren.append(device_info)
 
