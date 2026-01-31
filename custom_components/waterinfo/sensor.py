@@ -102,13 +102,15 @@ class WaterInfoMetingSensor(SensorEntity):
         else:
             self._attr_name = entry[CONST_MEAS_NAME]
 
-        if entry[CONST_PROCES_TYPE] in ["verwachting"] and entry[
-            CONST_MEAS_CODE
-        ] not in ["WATHTE"]:
-            self._attr_name = self._attr_name + " (verwachting)"
+        if entry[CONST_PROCES_TYPE] in ["verwachting"] and not entry[
+            CONST_SENSOR_UNIQUE
+        ].startswith(TIDE_SENSOR_FORECAST):
+            self._attr_name = self._attr_name + " (verwacht)"
 
-        if entry[CONST_PROCES_TYPE] in ["astronomisch"]:
-            self._attr_name = self._attr_name + " (astronomisch)"
+        if entry[CONST_PROCES_TYPE] in ["astronomisch"] and not entry[
+            CONST_SENSOR_UNIQUE
+        ].startswith(TIDE_SENSOR_CALCULATED):
+            self._attr_name = self._attr_name + " (berekend)"
 
         # self._attr_name = self._attr_name + entry[CONST_GROUP_CODE]
 

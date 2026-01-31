@@ -204,9 +204,9 @@ def validate_location(data) -> dict:
                     + " op basis van "
                     + tide_description_type
                 )
-                device_info_all[CONST_MEAS_NAME] = (
-                    device_info_all[CONST_MEAS_NAME] + " (verwacht)"
-                )
+                # device_info_all[CONST_MEAS_NAME] = (
+                #    device_info_all[CONST_MEAS_NAME] + " (verwacht)"
+                # )
                 # device_info_all[CONST_SENSOR_UNIQUE] = code_hw
                 device_info_all[CONST_ENABLE] = 1
                 sensoren.append(device_info_all)
@@ -237,13 +237,13 @@ class WaterinfoConfigFlow(ConfigFlow, domain=DOMAIN):
 
     VERSION = 1
 
-    @staticmethod
-    # @callback
-    def async_get_options_flow(config_entry):
-        """Get the options flow for this handler."""
-        # Remove this method and the ExampleOptionsFlowHandler class
-        # if you do not want any options for your integration.
-        return WaterInfoFlowHandler(config_entry)
+    # @staticmethod
+    # # @callback
+    # def async_get_options_flow(config_entry):
+    #     """Get the options flow for this handler."""
+    #     # Remove this method and the ExampleOptionsFlowHandler class
+    #     # if you do not want any options for your integration.
+    #     return WaterInfoFlowHandler(config_entry)
 
     async def async_step_user(
         self, user_input: dict[str, Any] | None = None
@@ -336,32 +336,32 @@ class WaterinfoConfigFlow(ConfigFlow, domain=DOMAIN):
         )
 
 
-class WaterInfoFlowHandler(OptionsFlow):
-    """Handles the options flow."""
+# class WaterInfoFlowHandler(OptionsFlow):
+#     """Handles the options flow."""
 
-    def __init__(self, config_entry: ConfigEntry) -> None:
-        """Initialize options flow."""
-        self.options = dict(config_entry.options)
+#     def __init__(self, config_entry: ConfigEntry) -> None:
+#         """Initialize options flow."""
+#         self.options = dict(config_entry.options)
 
-    async def async_step_init(self, user_input=None):
-        """Handle options flow."""
-        if user_input is not None:
-            options = self.config_entry.options | user_input
-            return self.async_create_entry(title="", data=options)
+#     async def async_step_init(self, user_input=None):
+#         """Handle options flow."""
+#         if user_input is not None:
+#             options = self.config_entry.options | user_input
+#             return self.async_create_entry(title="", data=options)
 
-        # It is recommended to prepopulate options fields with default values if available.
-        # These will be the same default values you use on your coordinator for setting variable values
-        # if the option has not been set.
-        data_schema = vol.Schema(
-            {
-                vol.Required(
-                    OPT_TIMEDELTA,
-                    default=self.options.get(OPT_TIMEDELTA, DEFAULT_TIMEDELTA),
-                ): (vol.All(vol.Coerce(int), vol.Clamp(min=MIN_TIMEDELTA))),
-            }
-        )
+#         # It is recommended to prepopulate options fields with default values if available.
+#         # These will be the same default values you use on your coordinator for setting variable values
+#         # if the option has not been set.
+#         data_schema = vol.Schema(
+#             {
+#                 vol.Required(
+#                     OPT_TIMEDELTA,
+#                     default=self.options.get(OPT_TIMEDELTA, DEFAULT_TIMEDELTA),
+#                 ): (vol.All(vol.Coerce(int), vol.Clamp(min=MIN_TIMEDELTA))),
+#             }
+#         )
 
-        return self.async_show_form(step_id="init", data_schema=data_schema)
+#         return self.async_show_form(step_id="init", data_schema=data_schema)
 
 
 class InvalidData(HomeAssistantError):
