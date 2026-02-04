@@ -1,142 +1,175 @@
-Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | T | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | T | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [Y](location_Y.md) | [Z](location_Z.md)
 
-Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [L](measurement_L.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | [T](measurement_T.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
+Measurements : [9](measurement_9.md) | [A](measurement_A.md) | [B](measurement_B.md) | [C](measurement_C.md) | [D](measurement_D.md) | [E](measurement_E.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [I](measurement_I.md) | [K](measurement_K.md) | [L](measurement_L.md) | [M](measurement_M.md) | [N](measurement_N.md) | [P](measurement_P.md) | [Q](measurement_Q.md) | [R](measurement_R.md) | [S](measurement_S.md) | [T](measurement_T.md) | [V](measurement_V.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
 
 # Locations with the letter T #
 
 
-## Tennesseehaven ##
+## <a name='terhernebeneden'></a>Terherne beneden ##
 |Measurement|
 |---|
-|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Terherne beneden ##
+## <a name='terherneboven'></a>Terherne boven ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Terherne boven ##
+## <a name='terneuzen'></a>Terneuzen ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Terneuzen ##
+## <a name='terneuzenboei20'></a>Terneuzen, boei 20 ##
 |Measurement|
 |---|
-|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Getijextreemtype astronomisch in Oppervlaktewater|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_bzv5a)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_112tclc2a)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_acny)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_mzcl)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_u)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_t12dclc2e)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_linrn)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_simzne)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_deet)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cu)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Doorzicht](measurement_D.md#zicht_ow)|
 
-## Terneuzen Pas van Terneuzen boei ##
+## <a name='terneuzenpasvanterneuzen1'></a>Terneuzen Pas van Terneuzen boei ##
 |Measurement|
 |---|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
+|[Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#t1/3_ow)|
+|[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
+|[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
 
-## Terneuzen, Sluiskilbrug ##
+## <a name='terneuzensluiskilbrug'></a>Terneuzen, Sluiskilbrug ##
 |Measurement|
 |---|
-|Temperatuur in Oppervlaktewater in oC|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|Saliniteit in Oppervlaktewater|
-|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_gr)|
+|[Dichtheid (soortelijke massa)](measurement_D.md#dichthd_ow)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_smbas)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_ptot)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_sio2)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Geleidendheid](measurement_G.md#geldhd_ow)|
+|[Saliniteit](measurement_S.md#salntt_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
 
-## Terneuzen, westsluis, buiten ##
+## <a name='terneuzenwestsluis'></a>Terneuzen, westsluis ##
 |Measurement|
 |---|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Saliniteit in Oppervlaktewater|
-|Temperatuur in Oppervlaktewater in oC|
-|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
+|[Windsnelheid](measurement_W.md#windshd_lt)|
+|[Windrichting](measurement_W.md#windrtg_lt)|
 
-## Terschelling, Hoorn ##
+## <a name='terneuzenwestsluisbuiten'></a>Terneuzen, westsluis, buiten ##
 |Measurement|
 |---|
-|Windrichting in Lucht t.o.v. ware Noorden in graad|
-|Temperatuur in Lucht in oC|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Dichtheid (soortelijke massa)](measurement_D.md#dichthd_ow)|
+|[Geleidendheid](measurement_G.md#geldhd_ow)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Saliniteit](measurement_S.md#salntt_ow)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
 
-## Terschelling, Noordzee ##
+## <a name='terschelling10kmuitdekust'></a>Terschelling, 10 km uit de kust ##
 |Measurement|
 |---|
-|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Windrichting in Lucht t.o.v. ware Noorden in graad|
-|Getijextreemtype astronomisch in Oppervlaktewater|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
-|Temperatuur in Lucht in oC|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
 
-## Terschelling, west ##
+## <a name='terschellinghoorn'></a>Terschelling, Hoorn ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Temperatuur](measurement_T.md#t_lt)|
+|[Windsnelheid](measurement_W.md#windshd_lt)|
+|[Windsnelheid](measurement_W.md#windshd_lt)|
+|[Windrichting](measurement_W.md#windrtg_lt)|
 
-## Texelhors ##
+## <a name='terschellingnoordzee'></a>Terschelling, Noordzee ##
 |Measurement|
 |---|
-|Windrichting in Lucht t.o.v. ware Noorden in graad|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
+|[Windsnelheid](measurement_W.md#windshd_lt)|
+|[Windrichting](measurement_W.md#windrtg_lt)|
+|[Temperatuur](measurement_T.md#t_lt)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Texel, Oudeschild ##
+## <a name='terschellingwest'></a>Terschelling, west ##
 |Measurement|
 |---|
-|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Tholen Bergsediepsluis ##
+## <a name='texelhors'></a>Texelhors ##
 |Measurement|
 |---|
-|Windrichting in Lucht t.o.v. ware Noorden in graad|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
+|[Windrichting](measurement_W.md#windrtg_lt)|
+|[Windsnelheid](measurement_W.md#windshd_lt)|
 
-## Tholen, Bergse Diepsluis, buiten ##
+## <a name='texelnoordzee'></a>Texel, Noordzee ##
 |Measurement|
 |---|
-|Getijextreemtype astronomisch in Oppervlaktewater|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Tiel, kanaal ##
+## <a name='texeloudeschild'></a>Texel, Oudeschild ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Tiel, Waal ##
+## <a name='tholenbergsediepsluis'></a>Tholen Bergsediepsluis ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Windrichting](measurement_W.md#windrtg_lt)|
+|[Windsnelheid](measurement_W.md#windshd_lt)|
 
-## Tilburg, sluis 2, beneden ##
+## <a name='tholenbergsediepsluisbuiten'></a>Tholen, Bergse Diepsluis, buiten ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Tilburg, sluis 2, boven ##
+## <a name='tielkanaal'></a>Tiel, kanaal ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Tilburg Sluis 3 ##
+## <a name='tielwaal'></a>Tiel, Waal ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
+|[Debiet](measurement_D.md#q_ow_verwachting)|
+|[Debiet](measurement_D.md#q_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Tilburg, sluis 3, beneden ##
+## <a name='tilburgsluis2beneden'></a>Tilburg, sluis 2, beneden ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Tilburg, sluis 3, boven ##
+## <a name='tilburgsluis2boven'></a>Tilburg, sluis 2, boven ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Tilburg Sluis 3 kolk ##
+## <a name='tilburgsluis3'></a>Tilburg Sluis 3 ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
+|[Debiet](measurement_D.md#q_ow)|
+
+## <a name='tilburgsluis3beneden'></a>Tilburg, sluis 3, beneden ##
+|Measurement|
+|---|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+
+## <a name='tilburgsluis3boven'></a>Tilburg, sluis 3, boven ##
+|Measurement|
+|---|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+
+## <a name='tilburgsluis3kolk'></a>Tilburg Sluis 3 kolk ##
+|Measurement|
+|---|
+|[Debiet](measurement_D.md#q_ow)|
 
 
-_generated on 28-12-2025_
+_generated on 04-02-2026_

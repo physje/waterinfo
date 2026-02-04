@@ -1,460 +1,587 @@
-Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | S | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | S | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [Y](location_Y.md) | [Z](location_Z.md)
 
-Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [L](measurement_L.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | [T](measurement_T.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
+Measurements : [9](measurement_9.md) | [A](measurement_A.md) | [B](measurement_B.md) | [C](measurement_C.md) | [D](measurement_D.md) | [E](measurement_E.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [I](measurement_I.md) | [K](measurement_K.md) | [L](measurement_L.md) | [M](measurement_M.md) | [N](measurement_N.md) | [P](measurement_P.md) | [Q](measurement_Q.md) | [R](measurement_R.md) | [S](measurement_S.md) | [T](measurement_T.md) | [V](measurement_V.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
 
 # Locations with the letter S #
 
 
-## Sambeek, beneden ##
+## <a name='sambeekbeneden'></a>Sambeek, beneden ##
 |Measurement|
 |---|
-|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Sambeek, boven ##
+## <a name='sambeekboven'></a>Sambeek, boven ##
 |Measurement|
 |---|
-|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Temperatuur in Oppervlaktewater in oC|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Temperatuur](measurement_T.md#t_ow)|
 
-## Sas van Gent ##
+## <a name='sanktarnual'></a>Sankt Arnual ##
 |Measurement|
 |---|
-|Saliniteit in Oppervlaktewater|
-|Temperatuur in Oppervlaktewater in oC|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|(massa)Concentratie zuurstof in Oppervlaktewater in mg/l|
-|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Schaar Stroomgat ##
+## <a name='sasvangent'></a>Sas van Gent ##
 |Measurement|
 |---|
-|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Stroomrichting in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Stroomsnelheid in Oppervlaktewater in m/s|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
-|Temperatuur in Oppervlaktewater in oC|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
+|[Dichtheid (soortelijke massa)](measurement_D.md#dichthd_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Saliniteit](measurement_S.md#salntt_ow)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_o2)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
+|[Geleidendheid](measurement_G.md#geldhd_ow)|
+|[Temperatuur](measurement_T.md#t_ow)|
 
-## Schaar van de Noord ##
+## <a name='sasvangentgrens'></a>Sas van Gent, grens ##
 |Measurement|
 |---|
-|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Getijextreemtype astronomisch in Oppervlaktewater|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_ant)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_ni)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_czv)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_lcyhltn)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_tl)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_ta)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cltlrn)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_24dp)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_yb)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_quinoxfn)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_candstn)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_primdn)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_ce)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_propxr)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
 
-## Schiermonnikoog, noord ##
+## <a name='schaarstroomgat'></a>Schaar Stroomgat ##
 |Measurement|
 |---|
-|Temperatuur in Oppervlaktewater in oC|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
-|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
-|Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
-|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Golfperiode bepaald uit de spectrale momenten m-1 en m0 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
-|Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
+|[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
+|[Gemiddelde golfrichting in het spectrale domein](measurement_G.md#th0_ow)|
+|[Stroomsnelheid](measurement_S.md#stroomshd_ow)|
+|[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Stroomrichting](measurement_S.md#stroomrtg_ow)|
+|[Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#t1/3_ow)|
+|[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
+|[Gem. richting deining tov ware noorden in spectrale domein](measurement_G.md#th3_ow)|
 
-## Schiermonnikoog, Waddenzee ##
+## <a name='schaarvandenoord'></a>Schaar van de Noord ##
 |Measurement|
 |---|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Schiermonnikoog, Westgat ##
+## <a name='schaarvanoudendoel'></a>Schaar van Ouden Doel ##
 |Measurement|
 |---|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Golfperiode bepaald uit de spectrale momenten m-1 en m0 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
-|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
-|Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
-|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
-|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_demtns)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_s23x6t4clfol)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_26dc1yprdne)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_dic3yetr)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_3clc3e)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_tfysn)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_2479t4c1y5dc)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_omtat)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_dc4ysn)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_bzv5a)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_spo4)|
+|[Saliniteit](measurement_S.md#salntt_ow)|
+|[Zuurgraad](measurement_Z.md#ph_ow)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
 
-## Schijndel ##
+## <a name='scheelhoek'></a>Scheelhoek ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
 
-## Schijndel, sluis, beneden ##
+## <a name='schermbeck'></a>Schermbeck ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Schijndel, sluis, boven ##
+## <a name='scheveningen'></a>Scheveningen ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Schijndel, sluis, inlaat ##
+## <a name='schiermonnikoognoord'></a>Schiermonnikoog, noord ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
+|[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
+|[Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/10_ow)|
+|[Golfperiode die hoort bij H1/3](measurement_G.md#t_h1/3_ow)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
+|[Maximale golfperiode in het tijdsdomein](measurement_M.md#tmax_ow)|
+|[Gem. richting deining tov ware noorden in spectrale domein](measurement_G.md#th3_ow)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/50_ow)|
+|[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
+|[Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#t1/3_ow)|
+|[Maximale golfhoogte in het tijdsdomein](measurement_M.md#hmax_ow)|
+|[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
+|[Gemiddelde golfrichting in het spectrale domein](measurement_G.md#th0_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m-1 en m0](measurement_G.md#tm-10_ow)|
 
-## Schijndel sluis kolk ##
+## <a name='schiermonnikoogwaddenzee'></a>Schiermonnikoog, Waddenzee ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
+|[Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#t1/3_ow)|
+|[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
+|[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
 
-## Schijndel, sluis, spuikanaal ##
+## <a name='schiermonnikoogwestgat'></a>Schiermonnikoog, Westgat ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
+|[Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/10_ow)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
+|[Gemiddelde golfrichting in het spectrale domein](measurement_G.md#th0_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m-1 en m0](measurement_G.md#tm-10_ow)|
+|[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
+|[Maximale golfhoogte in het tijdsdomein](measurement_M.md#hmax_ow)|
+|[Maximale golfperiode in het tijdsdomein](measurement_M.md#tmax_ow)|
+|[Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#t1/3_ow)|
+|[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
+|[Gem. richting deining tov ware noorden in spectrale domein](measurement_G.md#th3_ow)|
+|[Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/50_ow)|
 
-## Schoonhoven ##
+## <a name='schijndel'></a>Schijndel ##
 |Measurement|
 |---|
-|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Getijextreemtype astronomisch in Oppervlaktewater|
+|[Debiet](measurement_D.md#q_ow)|
 
-## Schouwenbank, 1 ##
+## <a name='schijndelsluisbeneden'></a>Schijndel, sluis, beneden ##
 |Measurement|
 |---|
-|Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
-|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
-|Aantal vrijheidsgraden bij het variantiedichtheidspectrum in Oppervlaktewater|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
-|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Schouwenbank, 2 ##
+## <a name='schijndelsluisboven'></a>Schijndel, sluis, boven ##
 |Measurement|
 |---|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
-|Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## 's-Hertogenbosch Crevecoeur ##
+## <a name='schijndelsluisinlaat'></a>Schijndel, sluis, inlaat ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Debiet](measurement_D.md#q_ow)|
 
-## Empel, kanaal ##
+## <a name='schijndelsluiskolk'></a>Schijndel sluis kolk ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Debiet](measurement_D.md#q_ow)|
 
-## Empel, Maas ##
+## <a name='schijndelsluisspuikanaal'></a>Schijndel, sluis, spuikanaal ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## 's-Hertogenbosch Engelen ##
+## <a name='schoonhoven'></a>Schoonhoven ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## 's-Hertogenbosch Engelen Dieze ##
+## <a name='schouwen10kmuitdekust'></a>Schouwen, 10 km uit de kust ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
 
-## 's-Hertogenbosch, Poeldonk, aa ##
+## <a name='schouwenbank1'></a>Schouwenbank, 1 ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Maximale golfhoogte in het tijdsdomein](measurement_M.md#hmax_ow)|
+|[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
+|[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
+|[Gem. richting deining tov ware noorden in spectrale domein](measurement_G.md#th3_ow)|
+|[Maximale golfperiode in het tijdsdomein](measurement_M.md#tmax_ow)|
+|[Gemiddelde golfrichting in het spectrale domein](measurement_G.md#th0_ow)|
+|[Aantal vrijheidsgraden bij het variantiedichtheidspectrum](measurement_A.md#av10_h_ow)|
+|[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
 
-## Sint Annaland, Haven Steiger ##
+## <a name='schouwenbank2'></a>Schouwenbank, 2 ##
 |Measurement|
 |---|
-|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Getijextreemtype astronomisch in Oppervlaktewater|
+|[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
+|[Gemiddelde golfrichting in het spectrale domein](measurement_G.md#th0_ow)|
+|[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
+|[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
+|[Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#t1/3_ow)|
+|[Gem. richting deining tov ware noorden in spectrale domein](measurement_G.md#th3_ow)|
 
-## Sint Annaland haven ##
+## <a name='shertogenboschempelkanaal'></a>Empel, kanaal ##
 |Measurement|
 |---|
-|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Sint Philipsland Slaak noord ##
+## <a name='shertogenboschempelmaas'></a>Empel, Maas ##
 |Measurement|
 |---|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Temperatuur in Oppervlaktewater in oC|
-|Saliniteit in Oppervlaktewater|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Sint Philipsland Slaak oost ##
+## <a name='sintannalandoosterschelde'></a>Sint Annaland haven ##
 |Measurement|
 |---|
-|Saliniteit in Oppervlaktewater|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|Temperatuur in Oppervlaktewater in oC|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Sint Philipsland Slaak zuid ##
+## <a name='sintphilipslandslaaknoord'></a>Sint Philipsland Slaak noord ##
 |Measurement|
 |---|
-|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
-|Saliniteit in Oppervlaktewater|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|Temperatuur in Oppervlaktewater in oC|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
+|[Saliniteit](measurement_S.md#salntt_ow)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
+|[Geleidendheid](measurement_G.md#geldhd_ow)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Dichtheid (soortelijke massa)](measurement_D.md#dichthd_ow)|
 
-## Slochtersluis ##
+## <a name='sintphilipslandslaakoost'></a>Sint Philipsland Slaak oost ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
+|[Geleidendheid](measurement_G.md#geldhd_ow)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Dichtheid (soortelijke massa)](measurement_D.md#dichthd_ow)|
+|[Saliniteit](measurement_S.md#salntt_ow)|
 
-## Smeermaas, Zuid-Willemsvaart ##
+## <a name='sintphilipslandslaakzuid'></a>Sint Philipsland Slaak zuid ##
 |Measurement|
 |---|
-|Stroomsnelheid in Oppervlaktewater in m/s|
+|[Dichtheid (soortelijke massa)](measurement_D.md#dichthd_ow)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
+|[Saliniteit](measurement_S.md#salntt_ow)|
+|[Geleidendheid](measurement_G.md#geldhd_ow)|
 
-## Someren, sluis 11, beneden ##
+## <a name='sliedrecht'></a>Sliedrecht ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Someren, sluis 11, boven ##
+## <a name='slochtersluisboven'></a>Slochtersluis ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Someren, sluis 12, beneden ##
+## <a name='smeermaaszuidwillemsvaart'></a>Smeermaas, Zuid-Willemsvaart ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Debiet](measurement_D.md#q_ow)|
+|[Stroomsnelheid](measurement_S.md#stroomshd_ow)|
+|[Debiet](measurement_D.md#q_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Someren, sluis 12, boven ##
+## <a name='soelekerkepolderoost'></a>Soelekerkepolder, oost ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_3cltol)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_pfees)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_pirmcb)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_pyr)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_sb)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
 
-## Someren, sluis 13 ##
+## <a name='somerensluis11beneden'></a>Someren, sluis 11, beneden ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Someren, sluis 13, beneden ##
+## <a name='somerensluis11boven'></a>Someren, sluis 11, boven ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Someren, sluis 13, boven ##
+## <a name='somerensluis12beneden'></a>Someren, sluis 12, beneden ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Son en Breugel inlaat Beekse Waterloop ##
+## <a name='somerensluis12boven'></a>Someren, sluis 12, boven ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Son en Breugel inlaat Wilhelminakanaal ##
+## <a name='somerensluis13'></a>Someren, sluis 13 ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Debiet](measurement_D.md#q_ow)|
 
-## Spaanjerd ##
+## <a name='somerensluis13beneden'></a>Someren, sluis 13, beneden ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Spaarndam, Zijkanaal C ##
+## <a name='somerensluis13boven'></a>Someren, sluis 13, boven ##
 |Measurement|
 |---|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Temperatuur in Oppervlaktewater in oC|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|Saliniteit in Oppervlaktewater|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Spijkenisse, Beerenplaat ##
+## <a name='sonenbreugelbeeksewaterloop'></a>Son en Breugel inlaat Beekse Waterloop ##
 |Measurement|
 |---|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|Temperatuur in Oppervlaktewater in oC|
+|[Debiet](measurement_D.md#q_ow)|
 
-## Spijkenisse, Oude Maas, Brug ##
+## <a name='sonenbreugelwilhelminakanaal'></a>Son en Breugel inlaat Wilhelminakanaal ##
 |Measurement|
 |---|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Temperatuur in Oppervlaktewater in oC|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|Stroomsnelheid in Oppervlaktewater in m/s|
+|[Debiet](measurement_D.md#q_ow)|
 
-## Stavenisse ##
+## <a name='spaanjerd'></a>Spaanjerd ##
 |Measurement|
 |---|
-|Windrichting in Lucht t.o.v. ware Noorden in graad|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Stavenisse, keeten ##
+## <a name='spaarndamzijkanaalc'></a>Spaarndam, Zijkanaal C ##
 |Measurement|
 |---|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_bzv5a)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_nh4)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_o2)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_po4)|
+|[Saliniteit](measurement_S.md#salntt_ow)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Geleidendheid](measurement_G.md#geldhd_ow)|
 
-## Stavoren gemaal Hoogland buiten ##
+## <a name='speyer'></a>Speyer ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
-|Temperatuur in Oppervlaktewater in oC|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Stavoren IJsselmeer ##
+## <a name='spijkenissebeerenplaat'></a>Spijkenisse, Beerenplaat ##
 |Measurement|
 |---|
-|Temperatuur in Lucht in oC|
-|Windrichting in Lucht t.o.v. ware Noorden in graad|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
+|[Geleidendheid](measurement_G.md#geldhd_ow)|
 
-## Stavoren JohanFrisokanaal gemaal Hoogland inlaat ##
+## <a name='spijkenisseoudemaas'></a>Spijkenisse, Oude Maas ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Stellendam, binnen ##
+## <a name='spijkenisseoudemaasbrug'></a>Spijkenisse, Oude Maas, Brug ##
 |Measurement|
 |---|
-|Temperatuur in Oppervlaktewater in oC|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
+|[Geleidendheid](measurement_G.md#geldhd_ow)|
+|[Stroomsnelheid](measurement_S.md#stroomshd_ow)|
+|[Temperatuur](measurement_T.md#t_ow)|
 
-## Stellendam, buiten ##
+## <a name='stavenisse'></a>Stavenisse ##
 |Measurement|
 |---|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Saliniteit in Oppervlaktewater|
-|Temperatuur in Oppervlaktewater in oC|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Windsnelheid](measurement_W.md#windshd_lt)|
+|[Windrichting](measurement_W.md#windrtg_lt)|
 
-## Stellendam, buitenhaven ##
+## <a name='stavenissekeeten'></a>Stavenisse, keeten ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Getijextreemtype astronomisch in Oppervlaktewater|
+|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
+|[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
+|[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
+|[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
+|[Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#t1/3_ow)|
 
-## Stellendam, Haringvlietsluizen, schuif 1 ##
+## <a name='stavorengemaalhooglandbuiten'></a>Stavoren gemaal Hoogland buiten ##
 |Measurement|
 |---|
-|Windrichting in Lucht t.o.v. ware Noorden in graad|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
-|Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Debiet](measurement_D.md#q_ow)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
 
-## Stellendam, Haringvlietsluizen, schuif 11 ##
+## <a name='stavorenijsselmeer'></a>Stavoren IJsselmeer ##
 |Measurement|
 |---|
-|Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
+|[Windrichting](measurement_W.md#windrtg_lt)|
+|[Temperatuur](measurement_T.md#t_lt)|
+|[Windsnelheid](measurement_W.md#windshd_lt)|
 
-## Stellendam, Haringvlietsluizen, schuif 13 ##
+## <a name='stavorenjohanfrisokanaal'></a>Stavoren JohanFrisokanaal gemaal Hoogland inlaat ##
 |Measurement|
 |---|
-|Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
+|[Debiet](measurement_D.md#q_ow)|
 
-## Stellendam, Haringvlietsluizen, schuif 14 ##
+## <a name='steenbergenroosendaalsevliet'></a>Steenbergen, Roosendaalsevliet ##
 |Measurement|
 |---|
-|Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
 
-## Stellendam, Haringvlietsluizen, schuif 15 ##
+## <a name='steilebank'></a>Steile Bank ##
 |Measurement|
 |---|
-|Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Saliniteit](measurement_S.md#salntt_ow)|
 
-## Stellendam, Haringvlietsluizen, schuif 16 ##
+## <a name='steinbach'></a>Steinbach ##
 |Measurement|
 |---|
-|Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Stellendam, Haringvlietsluizen, schuif 3 ##
+## <a name='stellendambinnen'></a>Stellendam, binnen ##
 |Measurement|
 |---|
-|Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Geleidendheid](measurement_G.md#geldhd_ow)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
 
-## Stellendam, Haringvlietsluizen, schuif 4 ##
+## <a name='stellendambuiten'></a>Stellendam, buiten ##
 |Measurement|
 |---|
-|Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
+|[Geleidendheid](measurement_G.md#geldhd_ow)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Saliniteit](measurement_S.md#salntt_ow)|
 
-## Stellendam, Haringvlietsluizen, schuif 5 ##
+## <a name='stellendambuitenhaven'></a>Stellendam, buitenhaven ##
 |Measurement|
 |---|
-|Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Stellendam, Haringvlietsluizen, schuif 8 ##
+## <a name='stellendamharingvlietsluizenschuif1'></a>Stellendam, Haringvlietsluizen, schuif 1 ##
 |Measurement|
 |---|
-|Hefhoogte in t.o.v. Normaal Amsterdams Peil in cm|
+|[Windsnelheid](measurement_W.md#windshd_lt)|
+|[Hefhoogte](measurement_H.md#hefhte_nvt)|
+|[Windrichting](measurement_W.md#windrtg_lt)|
 
-## Stevensweert ##
+## <a name='stellendamharingvlietsluizenschuif10'></a>Stellendam, Haringvlietsluizen, schuif 10 ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Tweede Algemene Waterpassing in cm|
+|[Hefhoogte](measurement_H.md#hefhte_nvt)|
 
-## Steyl ##
+## <a name='stellendamharingvlietsluizenschuif11'></a>Stellendam, Haringvlietsluizen, schuif 11 ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Hefhoogte](measurement_H.md#hefhte_nvt)|
 
-## Stortemelk, oost ##
+## <a name='stellendamharingvlietsluizenschuif12'></a>Stellendam, Haringvlietsluizen, schuif 12 ##
 |Measurement|
 |---|
-|Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
-|Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
-|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
-|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Golfperiode bepaald uit de spectrale momenten m-1 en m0 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
+|[Hefhoogte](measurement_H.md#hefhte_nvt)|
 
-## Suurhofbrug, noordzijde ##
+## <a name='stellendamharingvlietsluizenschuif13'></a>Stellendam, Haringvlietsluizen, schuif 13 ##
 |Measurement|
 |---|
-|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Getijextreemtype astronomisch in Oppervlaktewater|
+|[Hefhoogte](measurement_H.md#hefhte_nvt)|
 
+## <a name='stellendamharingvlietsluizenschuif14'></a>Stellendam, Haringvlietsluizen, schuif 14 ##
+|Measurement|
+|---|
+|[Hefhoogte](measurement_H.md#hefhte_nvt)|
+
+## <a name='stellendamharingvlietsluizenschuif15'></a>Stellendam, Haringvlietsluizen, schuif 15 ##
+|Measurement|
+|---|
+|[Hefhoogte](measurement_H.md#hefhte_nvt)|
+
+## <a name='stellendamharingvlietsluizenschuif16'></a>Stellendam, Haringvlietsluizen, schuif 16 ##
+|Measurement|
+|---|
+|[Hefhoogte](measurement_H.md#hefhte_nvt)|
+
+## <a name='stellendamharingvlietsluizenschuif17'></a>Stellendam, Haringvlietsluizen, schuif 17 ##
+|Measurement|
+|---|
+|[Hefhoogte](measurement_H.md#hefhte_nvt)|
+
+## <a name='stellendamharingvlietsluizenschuif2'></a>Stellendam, Haringvlietsluizen, schuif 2 ##
+|Measurement|
+|---|
+|[Hefhoogte](measurement_H.md#hefhte_nvt)|
+
+## <a name='stellendamharingvlietsluizenschuif3'></a>Stellendam, Haringvlietsluizen, schuif 3 ##
+|Measurement|
+|---|
+|[Hefhoogte](measurement_H.md#hefhte_nvt)|
+
+## <a name='stellendamharingvlietsluizenschuif4'></a>Stellendam, Haringvlietsluizen, schuif 4 ##
+|Measurement|
+|---|
+|[Hefhoogte](measurement_H.md#hefhte_nvt)|
+
+## <a name='stellendamharingvlietsluizenschuif5'></a>Stellendam, Haringvlietsluizen, schuif 5 ##
+|Measurement|
+|---|
+|[Hefhoogte](measurement_H.md#hefhte_nvt)|
+
+## <a name='stellendamharingvlietsluizenschuif6'></a>Stellendam, Haringvlietsluizen, schuif 6 ##
+|Measurement|
+|---|
+|[Hefhoogte](measurement_H.md#hefhte_nvt)|
+
+## <a name='stellendamharingvlietsluizenschuif7'></a>Stellendam, Haringvlietsluizen, schuif 7 ##
+|Measurement|
+|---|
+|[Hefhoogte](measurement_H.md#hefhte_nvt)|
+
+## <a name='stellendamharingvlietsluizenschuif8'></a>Stellendam, Haringvlietsluizen, schuif 8 ##
+|Measurement|
+|---|
+|[Hefhoogte](measurement_H.md#hefhte_nvt)|
+
+## <a name='stellendamharingvlietsluizenschuif9'></a>Stellendam, Haringvlietsluizen, schuif 9 ##
+|Measurement|
+|---|
+|[Hefhoogte](measurement_H.md#hefhte_nvt)|
+
+## <a name='stevensweert'></a>Stevensweert ##
+|Measurement|
+|---|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+
+## <a name='steyl'></a>Steyl ##
+|Measurement|
+|---|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+
+## <a name='stortemelkoost'></a>Stortemelk, oost ##
+|Measurement|
+|---|
+|[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
+|[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
+|[Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/10_ow)|
+|[Gemiddelde golfrichting in het spectrale domein](measurement_G.md#th0_ow)|
+|[Gemiddelde golfrichtingspreiding in het spectrale domein](measurement_G.md#s0bh_ow)|
+|[Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/50_ow)|
+|[Maximale golfperiode in het tijdsdomein](measurement_M.md#tmax_ow)|
+|[Maximale golfhoogte in het tijdsdomein](measurement_M.md#hmax_ow)|
+|[Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#t1/3_ow)|
+|[Gem. richting deining tov ware noorden in spectrale domein](measurement_G.md#th3_ow)|
+|[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m-1 en m0](measurement_G.md#tm-10_ow)|
+
+## <a name='stortemelkwest'></a>Stortemelk, west ##
+|Measurement|
+|---|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
+|[Maximale golfperiode in het tijdsdomein](measurement_M.md#tmax_ow)|
+|[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
+|[Gemiddelde golfrichting in het spectrale domein](measurement_G.md#th0_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
+|[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
+|[Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/50_ow)|
+|[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
+
+## <a name='suurhofbrugnoordzijde'></a>Suurhofbrug, noordzijde ##
+|Measurement|
+|---|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+
 
-_generated on 28-12-2025_
+_generated on 04-02-2026_

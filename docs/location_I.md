@@ -1,115 +1,133 @@
-Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | I | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | I | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [Y](location_Y.md) | [Z](location_Z.md)
 
-Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [L](measurement_L.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | [T](measurement_T.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
+Measurements : [9](measurement_9.md) | [A](measurement_A.md) | [B](measurement_B.md) | [C](measurement_C.md) | [D](measurement_D.md) | [E](measurement_E.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [I](measurement_I.md) | [K](measurement_K.md) | [L](measurement_L.md) | [M](measurement_M.md) | [N](measurement_N.md) | [P](measurement_P.md) | [Q](measurement_Q.md) | [R](measurement_R.md) | [S](measurement_S.md) | [T](measurement_T.md) | [V](measurement_V.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
 
 # Locations with the letter I #
 
 
-## IJGeul, 1 ##
+## <a name='ijgeul1'></a>IJGeul, 1 ##
 |Measurement|
 |---|
-|Stroomsnelheid in Oppervlaktewater in m/s|
-|Golfperiode bepaald uit de spectrale momenten m-1 en m0 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
-|Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
-|Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
-|Stroomrichting in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Windrichting in Lucht t.o.v. ware Noorden in graad|
+|[Golfperiode bepaald uit de spectrale momenten m-1 en m0](measurement_G.md#tm-10_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
+|[Golfperiode die hoort bij H1/3](measurement_G.md#t_h1/3_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Windsnelheid](measurement_W.md#windshd_lt)|
+|[Stroomsnelheid](measurement_S.md#stroomshd_ow)|
+|[Windrichting](measurement_W.md#windrtg_lt)|
+|[Maximale golfperiode in het tijdsdomein](measurement_M.md#tmax_ow)|
+|[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m-1 en m0](measurement_G.md#tm-10_ow)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
+|[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
+|[Maximale golfhoogte in het tijdsdomein](measurement_M.md#hmax_ow)|
+|[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
+|[Stroomrichting](measurement_S.md#stroomrtg_ow)|
 
-## IJgeul, 2 ##
+## <a name='ijgeul2'></a>IJgeul, 2 ##
 |Measurement|
 |---|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
-|Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Golfperiode bepaald uit de spectrale momenten m-1 en m0 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
-|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
-|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
-|Significante golfhoogte in het spectrale domein verwachting in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|[Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/10_ow)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
+|[Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/50_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m-1 en m0](measurement_G.md#tm-10_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m-1 en m0](measurement_G.md#tm-10_ow)|
+|[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
+|[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
+|[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
+|[Maximale golfhoogte in het tijdsdomein](measurement_M.md#hmax_ow)|
+|[Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#t1/3_ow)|
+|[Maximale golfperiode in het tijdsdomein](measurement_M.md#tmax_ow)|
 
-## IJgeul, 3 ##
+## <a name='ijgeul3'></a>IJgeul, 3 ##
 |Measurement|
 |---|
-|Golfperiode bepaald uit de spectrale momenten m-1 en m0 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
-|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
-|Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
-|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
+|[Golfperiode bepaald uit de spectrale momenten m-1 en m0](measurement_G.md#tm-10_ow)|
+|[Maximale golfperiode in het tijdsdomein](measurement_M.md#tmax_ow)|
+|[Golfperiode die hoort bij H1/3](measurement_G.md#t_h1/3_ow)|
+|[Gemiddelde golfrichting in het spectrale domein](measurement_G.md#th0_ow)|
+|[Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#t1/3_ow)|
+|[Golfperiode die hoort bij Hmax](measurement_G.md#t_hmax_ow)|
+|[Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/50_ow)|
+|[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
+|[Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/10_ow)|
+|[Gem. richting deining tov ware noorden in spectrale domein](measurement_G.md#th3_ow)|
+|[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
+|[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
+|[Maximale golfhoogte in het tijdsdomein](measurement_M.md#hmax_ow)|
 
-## IJmuiden, buitenhaven ##
+## <a name='ijmuidenbinnentoeleidingskanaal'></a>IJmuiden, binnen toeleidingskanaal ##
 |Measurement|
 |---|
-|Getijextreemtype astronomisch in Oppervlaktewater|
-|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Windrichting in Lucht t.o.v. ware Noorden in graad|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
 
-## IJmuiden, havenhoofd, zuid ##
+## <a name='ijmuidenbuitenhaven'></a>IJmuiden, buitenhaven ##
 |Measurement|
 |---|
-|Windrichting in Lucht t.o.v. ware Noorden in graad|
+|[Windsnelheid](measurement_W.md#windshd_lt)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Windrichting](measurement_W.md#windrtg_lt)|
+|[Temperatuur](measurement_T.md#t_ow)|
 
-## IJmuiden, munitiestort, 1 ##
+## <a name='ijmuidenbuitenhaven8'></a>IJmuiden, Buitenhaven, 8 ##
 |Measurement|
 |---|
-|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
-|Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
-|Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
-|Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
 
-## IJmuiden Munitiestort 2 ##
+## <a name='ijmuidenhavenhoofdzuid'></a>IJmuiden, havenhoofd, zuid ##
 |Measurement|
 |---|
-|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
-|Golfperiode bepaald uit de spectrale momenten m-1 en m0 in Oppervlaktewater golffrequentie tussen 30 en 1000 mHz in s|
-|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
-|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
+|[Windsnelheid](measurement_W.md#windshd_lt)|
+|[Windrichting](measurement_W.md#windrtg_lt)|
 
-## IJmuiden, noordersluis, oost ##
+## <a name='ijmuidenmunitiestort1'></a>IJmuiden, munitiestort, 1 ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
+|[Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/10_ow)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Gemiddelde golfrichting in het spectrale domein](measurement_G.md#th0_ow)|
+|[Maximale golfperiode in het tijdsdomein](measurement_M.md#tmax_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m-1 en m0](measurement_G.md#tm-10_ow)|
+|[Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#t1/3_ow)|
+|[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
+|[Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/50_ow)|
+|[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
+|[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
+|[Gem. richting deining tov ware noorden in spectrale domein](measurement_G.md#th3_ow)|
+|[Maximale golfhoogte in het tijdsdomein](measurement_M.md#hmax_ow)|
+
+## <a name='ijmuidenmunitiestort2'></a>IJmuiden Munitiestort 2 ##
+|Measurement|
+|---|
+|[Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/50_ow)|
+|[Golfperiode die hoort bij Hmax](measurement_G.md#t_hmax_ow)|
+|[Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#t1/3_ow)|
+|[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
+|[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
+|[Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/10_ow)|
+|[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m-1 en m0](measurement_G.md#tm-10_ow)|
+|[Maximale golfperiode in het tijdsdomein](measurement_M.md#tmax_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m-1 en m0](measurement_G.md#tm-10_ow)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
+|[Maximale golfhoogte in het tijdsdomein](measurement_M.md#hmax_ow)|
+
+## <a name='ijmuidennoordersluisoost'></a>IJmuiden, noordersluis, oost ##
+|Measurement|
+|---|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+
+## <a name='ijmuidennoordersluiswest'></a>IJmuiden, noordersluis, west ##
+|Measurement|
+|---|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
 
-_generated on 28-12-2025_
+_generated on 04-02-2026_

@@ -1,241 +1,327 @@
-Locations : [A](location_A.md) | B | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [X](location_X.md) | [Y](location_Y.md) | [Z](location_Z.md)
+Locations : [A](location_A.md) | B | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | [H](location_H.md) | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [Y](location_Y.md) | [Z](location_Z.md)
 
-Measurements : [C](measurement_C.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [L](measurement_L.md) | [Q](measurement_Q.md) | [S](measurement_S.md) | [T](measurement_T.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
+Measurements : [9](measurement_9.md) | [A](measurement_A.md) | [B](measurement_B.md) | [C](measurement_C.md) | [D](measurement_D.md) | [E](measurement_E.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [I](measurement_I.md) | [K](measurement_K.md) | [L](measurement_L.md) | [M](measurement_M.md) | [N](measurement_N.md) | [P](measurement_P.md) | [Q](measurement_Q.md) | [R](measurement_R.md) | [S](measurement_S.md) | [T](measurement_T.md) | [V](measurement_V.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
 
 # Locations with the letter B #
 
 
-## Beek en Donk, Biezenloop ##
+## <a name='bamberg'></a>Bamberg ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Beek en donk, sluis 6, beneden ##
+## <a name='beekendonkbiezenloop'></a>Beek en Donk, Biezenloop ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Debiet](measurement_D.md#q_ow)|
 
-## Beek en donk, sluis 6, boven ##
+## <a name='beekendonksluis6beneden'></a>Beek en donk, sluis 6, beneden ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Beek en Donk, Sluis 6, inlaat ##
+## <a name='beekendonksluis6boven'></a>Beek en donk, sluis 6, boven ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Beek En Donk Sluis6 kolk ##
+## <a name='beekendonksluis6inlaat'></a>Beek en Donk, Sluis 6, inlaat ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
+|[Debiet](measurement_D.md#q_ow)|
 
-## Beek en Donk, Sluis 6, uitlaat ##
+## <a name='beekendonksluis6kolk'></a>Beek En Donk Sluis6 kolk ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
+|[Debiet](measurement_D.md#q_ow)|
 
-## Belfeld, boven ##
+## <a name='beekendonksluis6uitlaat'></a>Beek en Donk, Sluis 6, uitlaat ##
 |Measurement|
 |---|
-|Temperatuur in Oppervlaktewater in oC|
+|[Debiet](measurement_D.md#q_ow)|
 
-## Berkhout ##
+## <a name='belfeldboven'></a>Belfeld, boven ##
 |Measurement|
 |---|
-|Windrichting in Lucht t.o.v. ware Noorden in graad|
-|Temperatuur in Lucht in oC|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Temperatuur](measurement_T.md#t_ow)|
 
-## Berlicum Schijndelseloop ##
+## <a name='berkhout'></a>Berkhout ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
+|[Temperatuur](measurement_T.md#t_lt)|
+|[Windsnelheid](measurement_W.md#windshd_lt)|
+|[Windsnelheid](measurement_W.md#windshd_lt)|
+|[Windrichting](measurement_W.md#windrtg_lt)|
 
-## Blaarthem, Dommel ##
+## <a name='berlicumschijndelseloop'></a>Berlicum Schijndelseloop ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
+|[Debiet](measurement_D.md#q_ow)|
 
-## Bommenede ##
+## <a name='bingen'></a>Bingen ##
 |Measurement|
 |---|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
-|Temperatuur in Oppervlaktewater in oC|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Saliniteit in Oppervlaktewater|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Borgsweer stuw ##
+## <a name='blaarthemdommel'></a>Blaarthem, Dommel ##
 |Measurement|
 |---|
-|Debiet in Oppervlaktewater in m3/s|
+|[Debiet](measurement_D.md#q_ow)|
 
-## Borssele ##
+## <a name='bochtvanwatum'></a>Bocht van Watum ##
 |Measurement|
 |---|
-|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
 
-## Borssele Windpark Alpha platform ##
+## <a name='bommenede'></a>Bommenede ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Mean Sea Level in cm|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Windrichting in Lucht t.o.v. ware Noorden in graad|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Golfperiode die hoort bij Hmax in Oppervlaktewater in s|
-|Maximale golfhoogte in het tijdsdomein in Oppervlaktewater in cm|
-|Golfperiode bepaald uit de spectrale momenten m-1 en m0 in Oppervlaktewater golffrequentie tussen 30 en 1000 mHz in s|
-|Luchtdruk in Lucht in hPa|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Golfperiode die hoort bij H1/3 in Oppervlaktewater in s|
-|Maximale golfperiode in het tijdsdomein in Oppervlaktewater in s|
-|Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Doorzicht in Lucht in m|
-|Temperatuur in Lucht in oC|
-|Temperatuur in Oppervlaktewater in oC|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
+|[Dichtheid (soortelijke massa)](measurement_D.md#dichthd_ow)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
+|[Waterhoogte](measurement_W.md#wathte_ow_verwachting)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Geleidendheid](measurement_G.md#geldhd_ow)|
+|[Saliniteit](measurement_S.md#salntt_ow)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Botlek Geulhaven ##
+## <a name='bonn'></a>Bonn ##
 |Measurement|
 |---|
-|Getijextreemtype astronomisch in Oppervlaktewater|
-|Waterhoogte astronomisch in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Windrichting in Lucht t.o.v. ware Noorden in graad|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
-|Doorzicht in Lucht in m|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Botlek Rozenburgsesluis Calandkanaal ##
+## <a name='boomkensdiep'></a>Boomkensdiep ##
 |Measurement|
 |---|
-|Doorzicht in Lucht in m|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
 
-## Breda ##
+## <a name='borgsweerverbindingskanaal'></a>Borgsweer stuw ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Debiet](measurement_D.md#q_ow)|
 
-## Breskens, Handelshaven ##
+## <a name='borssele'></a>Borssele ##
 |Measurement|
 |---|
-|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Brouwersdam Brouwershavense Gat 2 ##
+## <a name='borsselealpha'></a>Borssele Windpark Alpha platform ##
 |Measurement|
 |---|
-|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
-|Temperatuur in Oppervlaktewater in oC|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|Saliniteit in Oppervlaktewater|
+|[Luchtdruk](measurement_L.md#luchtdk_lt)|
+|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
+|[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
+|[Temperatuur](measurement_T.md#t_lt)|
+|[Maximale golfhoogte in het tijdsdomein](measurement_M.md#hmax_ow)|
+|[Windsnelheid](measurement_W.md#windshd_lt)|
+|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
+|[Windrichting](measurement_W.md#windrtg_lt)|
+|[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
+|[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
+|[Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/10_ow)|
+|[Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#t1/3_ow)|
+|[Maximale golfperiode in het tijdsdomein](measurement_M.md#tmax_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m-1 en m0](measurement_G.md#tm-10_ow)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m-1 en m0](measurement_G.md#tm-10_ow)|
+|[Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/50_ow)|
+|[Doorzicht](measurement_D.md#zicht_lt)|
 
-## Brouwersdam spuisluis binnen schuif6 ##
+## <a name='botlekgeulhaven'></a>Botlek Geulhaven ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Windrichting](measurement_W.md#windrtg_lt)|
+|[Waterhoogte](measurement_W.md#wathte_ow_astronomisch)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Doorzicht](measurement_D.md#zicht_lt)|
+|[Windsnelheid](measurement_W.md#windshd_lt)|
 
-## Brouwersdam spuisluis buiten schuif2 ##
+## <a name='botlekrozenburgsesluiscalandkanaal'></a>Botlek Rozenburgsesluis Calandkanaal ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Doorzicht](measurement_D.md#zicht_lt)|
 
-## Brouwershavensche Gat 08 ##
+## <a name='bovensluis'></a>Bovensluis ##
 |Measurement|
 |---|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
-|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
-|Saliniteit in Oppervlaktewater|
-|Temperatuur in Oppervlaktewater in oC|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
 
-## Bruinisse Grevelingensluis ##
+## <a name='brakel'></a>Brakel ##
 |Measurement|
 |---|
-|Windsnelheid in Lucht t.o.v. Mean Sea Level in m/s|
-|Windrichting in Lucht t.o.v. ware Noorden in graad|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
 
-## Bruinisse Krammersluis krammerput ##
+## <a name='breda'></a>Breda ##
 |Measurement|
 |---|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|Temperatuur in Oppervlaktewater in oC|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Saliniteit in Oppervlaktewater|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Bruinisse Krammersluis laagbekken ##
+## <a name='breskenshandelshaven'></a>Breskens, Handelshaven ##
 |Measurement|
 |---|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Saliniteit in Oppervlaktewater|
-|Temperatuur in Oppervlaktewater in oC|
-|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Bruinisse Krammersluis Oosterschelde ##
+## <a name='brienenoord'></a>Brienenoord ##
 |Measurement|
 |---|
-|Dichtheid (soortelijke massa) in Oppervlaktewater in kg/m3|
-|Temperatuur in Oppervlaktewater in oC|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|Saliniteit in Oppervlaktewater|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_dc2yae)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_2pfc6yc2a1sf)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_pt)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_4clfol)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_dnsb)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_135tc1yben)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_245tclfol)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_mfysn)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_hxclc2a)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cumfs)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_ptot)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_bap)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_pfba)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_al)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Verzadigingsgraad](measurement_V.md#verzdggd_ow_o2)|
+|[Saliniteit](measurement_S.md#salntt_ow)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
 
-## Bruinisse Krammersluis Oosterschelde ##
+## <a name='broekerhavenrecreatiepark'></a>Broekerhaven, recreatiepark ##
 |Measurement|
 |---|
-|Waterhoogte verwachting in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Aanwezigheid](measurement_A.md#aanwzhd_ow_geur)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_o2)|
 
-## Bruinisse Krammersluis Volkerak Noord ##
+## <a name='brouwersdambrouwershavensegat2'></a>Brouwersdam Brouwershavense Gat 2 ##
 |Measurement|
 |---|
-|Saliniteit in Oppervlaktewater|
-|Temperatuur in Oppervlaktewater in oC|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Geleidendheid in Oppervlaktewater in mS/m|
+|[Windsnelheid](measurement_W.md#windshd_lt)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
+|[Windrichting](measurement_W.md#windrtg_lt)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Dichtheid (soortelijke massa)](measurement_D.md#dichthd_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[NVT](measurement_N.md#nvt_ow_astronomisch)|
+|[Saliniteit](measurement_S.md#salntt_ow)|
 
-## Bruinisse Krammersluis Volkerak Zuid ##
+## <a name='brouwersdambrouwershavensegat8'></a>Brouwersdam Brouwershavense Gat 8 ##
 |Measurement|
 |---|
-|Geleidendheid in Oppervlaktewater in mS/m|
-|(massa)Concentratie chloride in Oppervlaktewater uitgedrukt in chloor in mg/l|
-|Saliniteit in Oppervlaktewater|
-|Temperatuur in Oppervlaktewater in oC|
+|[Waterhoogte](measurement_W.md#wathte_ow_astronomisch)|
 
-## Buitenbanken west ##
+## <a name='brouwersdamspuibinnenschuif6'></a>Brouwersdam spuisluis binnen schuif6 ##
 |Measurement|
 |---|
-|Significante deiningshoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 100 mHz in cm|
-|Gemiddelde golfrichting in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in graad|
-|Gem. richting deining tov ware noorden in spectrale domein in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Golfperiode bepaald uit de spectrale momenten m0 en m2 in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in s|
-|Stroomrichting in Oppervlaktewater t.o.v. ware Noorden in graad|
-|Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in s|
-|Significante golfhoogte in het spectrale domein in Oppervlaktewater golffrequentie tussen 30 en 500 mHz in cm|
-|Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein) in Oppervlaktewater in cm|
-|Stroomsnelheid in Oppervlaktewater in m/s|
-|Golffrequentie bij maximum v.h. variantiedichtheidspectrum in Oppervlaktewater in Hz|
-|Temperatuur in Oppervlaktewater in oC|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Buitenhuizen ##
+## <a name='brouwersdamspuibuitenschuif2'></a>Brouwersdam spuisluis buiten schuif2 ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## Bunde, kanaal ##
+## <a name='brouwershavenschegat08'></a>Brouwershavensche Gat 08 ##
 |Measurement|
 |---|
-|Stroomsnelheid in Oppervlaktewater in m/s|
-|Debiet in Oppervlaktewater in m3/s|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Saliniteit](measurement_S.md#salntt_ow)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
+|[Geleidendheid](measurement_G.md#geldhd_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Dichtheid (soortelijke massa)](measurement_D.md#dichthd_ow)|
 
-## Burgum Burgumerdaam boezem ##
+## <a name='bruinissegrevelingensluis'></a>Bruinisse Grevelingensluis ##
 |Measurement|
 |---|
-|Waterhoogte in Oppervlaktewater t.o.v. Normaal Amsterdams Peil in cm|
+|[Windsnelheid](measurement_W.md#windshd_lt)|
+|[Windrichting](measurement_W.md#windrtg_lt)|
+
+## <a name='bruinissekrammersluiskrammerput'></a>Bruinisse Krammersluis krammerput ##
+|Measurement|
+|---|
+|[Saliniteit](measurement_S.md#salntt_ow)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Geleidendheid](measurement_G.md#geldhd_ow)|
+
+## <a name='bruinissekrammersluislaagbekken'></a>Bruinisse Krammersluis laagbekken ##
+|Measurement|
+|---|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Saliniteit](measurement_S.md#salntt_ow)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
+|[Geleidendheid](measurement_G.md#geldhd_ow)|
+|[Dichtheid (soortelijke massa)](measurement_D.md#dichthd_ow)|
+
+## <a name='bruinissekrammersluisoosterschelde1'></a>Bruinisse Krammersluis Oosterschelde ##
+|Measurement|
+|---|
+|[Saliniteit](measurement_S.md#salntt_ow)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
+|[Geleidendheid](measurement_G.md#geldhd_ow)|
+|[Dichtheid (soortelijke massa)](measurement_D.md#dichthd_ow)|
+|[Temperatuur](measurement_T.md#t_ow)|
+
+## <a name='bruinissekrammersluisoosterschelde2'></a>Bruinisse Krammersluis Oosterschelde ##
+|Measurement|
+|---|
+|[Waterhoogte](measurement_W.md#wathte_ow_verwachting)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+
+## <a name='bruinissekrammersluisvolkeraknoord'></a>Bruinisse Krammersluis Volkerak Noord ##
+|Measurement|
+|---|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
+|[Geleidendheid](measurement_G.md#geldhd_ow)|
+|[Saliniteit](measurement_S.md#salntt_ow)|
+|[Temperatuur](measurement_T.md#t_ow)|
+
+## <a name='bruinissekrammersluisvolkerakzuid'></a>Bruinisse Krammersluis Volkerak Zuid ##
+|Measurement|
+|---|
+|[Geleidendheid](measurement_G.md#geldhd_ow)|
+|[Saliniteit](measurement_S.md#salntt_ow)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
+|[Temperatuur](measurement_T.md#t_ow)|
+
+## <a name='buggenum'></a>Buggenum ##
+|Measurement|
+|---|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+
+## <a name='buitenbankenwest'></a>Buitenbanken west ##
+|Measurement|
+|---|
+|[Gemiddelde golfrichting in het spectrale domein](measurement_G.md#th0_ow)|
+|[Stroomrichting](measurement_S.md#stroomrtg_ow)|
+|[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
+|[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
+|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
+|[Gem. richting deining tov ware noorden in spectrale domein](measurement_G.md#th3_ow)|
+|[Stroomsnelheid](measurement_S.md#stroomshd_ow)|
+|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
+|[Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#t1/3_ow)|
+
+## <a name='buitenhuizen'></a>Buitenhuizen ##
+|Measurement|
+|---|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+
+## <a name='bundekanaal'></a>Bunde, kanaal ##
+|Measurement|
+|---|
+|[Stroomsnelheid](measurement_S.md#stroomshd_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Debiet](measurement_D.md#q_ow)|
+
+## <a name='burgumburgumerdaamboezem'></a>Burgum Burgumerdaam boezem ##
+|Measurement|
+|---|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
 
-_generated on 28-12-2025_
+_generated on 04-02-2026_
