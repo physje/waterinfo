@@ -1,74 +1,65 @@
 Locations : [A](location_A.md) | [B](location_B.md) | [C](location_C.md) | [D](location_D.md) | [E](location_E.md) | [F](location_F.md) | [G](location_G.md) | H | [I](location_I.md) | [J](location_J.md) | [K](location_K.md) | [L](location_L.md) | [M](location_M.md) | [N](location_N.md) | [O](location_O.md) | [P](location_P.md) | [Q](location_Q.md) | [R](location_R.md) | [S](location_S.md) | [T](location_T.md) | [U](location_U.md) | [V](location_V.md) | [W](location_W.md) | [Y](location_Y.md) | [Z](location_Z.md)
 
-Measurements : [9](measurement_9.md) | [A](measurement_A.md) | [B](measurement_B.md) | [C](measurement_C.md) | [D](measurement_D.md) | [E](measurement_E.md) | [F](measurement_F.md) | [G](measurement_G.md) | [H](measurement_H.md) | [I](measurement_I.md) | [K](measurement_K.md) | [L](measurement_L.md) | [M](measurement_M.md) | [N](measurement_N.md) | [P](measurement_P.md) | [Q](measurement_Q.md) | [R](measurement_R.md) | [S](measurement_S.md) | [T](measurement_T.md) | [V](measurement_V.md) | [W](measurement_W.md) | [Z](measurement_Z.md)
+Measurements : [A](measurement_A.md) | [D](measurement_D.md) | [G](measurement_G.md) | [H](measurement_H.md) | [L](measurement_L.md) | [M](measurement_M.md) | [S](measurement_S.md) | [T](measurement_T.md) | [V](measurement_V.md) | [W](measurement_W.md)
 
 # Locations with the letter H #
 
 
-## <a name='hagestein'></a>Hagestein ##
+## <a name='hagestein_beneden'></a>Hagestein, beneden ##
 |Measurement|
 |---|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_rb)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_as)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_pb)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_mg)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_1cl4no2ben)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_tc4ysn)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_in)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_ce)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_hpcl)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_dc1yaszr)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_aso4)|
-
-## <a name='hagesteinbeneden'></a>Hagestein, beneden ##
-|Measurement|
-|---|
+|[Waterhoogte](measurement_W.md#wathte_ow_verwachting) (verwachting)|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow_astronomisch) (astronomisch)|
 
-## <a name='hagesteinboven'></a>Hagestein, boven ##
+## <a name='hagestein_boven'></a>Hagestein, boven ##
 |Measurement|
 |---|
 |[Debiet](measurement_D.md#q_ow)|
-|[Stroomsnelheid](measurement_S.md#stroomshd_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow_verwachting) (verwachting)|
+|[Debiet](measurement_D.md#q_ow)|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
 |[Temperatuur](measurement_T.md#t_ow)|
 
-## <a name='haghorstsluis4beneden'></a>Haghorst, sluis 4, beneden ##
+## <a name='haghorst_sluis4_beneden'></a>Haghorst, sluis 4, beneden ##
 |Measurement|
 |---|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## <a name='haghorstsluis4boven'></a>Haghorst, sluis 4, boven ##
+## <a name='haghorst_sluis4_boven'></a>Haghorst, sluis 4, boven ##
 |Measurement|
 |---|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## <a name='haghorstsluis4kolk'></a>Haghorst Sluis 4 kolk ##
+## <a name='haghorst_sluis4_kolk'></a>Haghorst Sluis 4 kolk ##
 |Measurement|
 |---|
 |[Debiet](measurement_D.md#q_ow)|
 
-## <a name='haghorstsluis4schuif'></a>Haghorst Sluis 4 schuif ##
+## <a name='haghorst_sluis4_schuif'></a>Haghorst Sluis 4 schuif ##
 |Measurement|
 |---|
 |[Debiet](measurement_D.md#q_ow)|
 
-## <a name='haghorstsluis4schuif1'></a>Haghorst, sluis 4, schuif1 ##
+## <a name='haghorst_sluis4_schuif1'></a>Haghorst, sluis 4, schuif1 ##
 |Measurement|
 |---|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## <a name='haghorstsluis4uitlaat'></a>Haghorst, Sluis 4, uitlaat ##
+## <a name='haghorst_sluis4_uitlaat'></a>Haghorst, Sluis 4, uitlaat ##
 |Measurement|
 |---|
 |[Debiet](measurement_D.md#q_ow)|
 
-## <a name='hankbergschemaas'></a>Hank, Bergsche Maas ##
+## <a name='hank_bergschemaas'></a>Hank, Bergsche Maas ##
 |Measurement|
 |---|
 |[Temperatuur](measurement_T.md#t_ow)|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
-|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
+|[Waterhoogte](measurement_W.md#wathte_ow_astronomisch) (astronomisch)|
+|[Temperatuur](measurement_T.md#t_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow_verwachting) (verwachting)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
 ## <a name='hansweert'></a>Hansweert ##
 |Measurement|
@@ -77,89 +68,66 @@ Measurements : [9](measurement_9.md) | [A](measurement_A.md) | [B](measurement_B
 |[Temperatuur](measurement_T.md#t_lt)|
 |[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
 |[Windrichting](measurement_W.md#windrtg_lt)|
+|[Waterhoogte](measurement_W.md#wathte_ow_verwachting) (verwachting)|
 |[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
 |[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
 |[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
-|[Windsnelheid](measurement_W.md#windshd_lt)|
+|[Waterhoogte](measurement_W.md#wathte_ow_astronomisch) (astronomisch)|
 |[Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#t1/3_ow)|
+|[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
 
-## <a name='hansweertgeul'></a>Hansweert, geul ##
-|Measurement|
-|---|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_pyrazfs)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_1245t4clben)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_frd-903)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_dcbnl)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_eu)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_14dclben)|
-|[Extinctie](measurement_E.md#e_ow)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_dbahant)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_pfosa)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_cu)|
-|[Verzadigingsgraad](measurement_V.md#verzdggd_ow_o2)|
-|[Saliniteit](measurement_S.md#salntt_ow)|
-
-## <a name='haringvliet1'></a>Haringvliet, 1 ##
+## <a name='haringvliet_1'></a>Haringvliet, 1 ##
 |Measurement|
 |---|
 |[Geleidendheid](measurement_G.md#geldhd_ow)|
 |[Temperatuur](measurement_T.md#t_ow)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
 
-## <a name='haringvliet10'></a>Haringvliet, punt 10 ##
+## <a name='haringvliet_10'></a>Haringvliet, punt 10 ##
 |Measurement|
 |---|
-|[Saliniteit](measurement_S.md#salntt_ow)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
-|[Dichtheid (soortelijke massa)](measurement_D.md#dichthd_ow)|
-|[NVT](measurement_N.md#nvt_ow_astronomisch)|
+|[Waterhoogte](measurement_W.md#wathte_ow_verwachting) (verwachting)|
+|[Waterhoogte](measurement_W.md#wathte_ow_astronomisch) (astronomisch)|
 
-## <a name='haringvliet2'></a>Haringvliet, 2 ##
+## <a name='haringvliet_2'></a>Haringvliet, 2 ##
 |Measurement|
 |---|
 |[Temperatuur](measurement_T.md#t_ow)|
 |[Geleidendheid](measurement_G.md#geldhd_ow)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
 
-## <a name='haringvliet3'></a>Haringvliet, 3 ##
+## <a name='haringvliet_3'></a>Haringvliet, 3 ##
 |Measurement|
 |---|
 |[Geleidendheid](measurement_G.md#geldhd_ow)|
 |[Temperatuur](measurement_T.md#t_ow)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
 
-## <a name='haringvliet4'></a>Haringvliet, punt 4 ##
+## <a name='haringvliet_4'></a>Haringvliet, punt 4 ##
 |Measurement|
 |---|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
 |[Geleidendheid](measurement_G.md#geldhd_ow)|
 |[Temperatuur](measurement_T.md#t_ow)|
 
-## <a name='haringvlietsluizen'></a>Haringvlietsluizen ##
+## <a name='harlingen_waddenzee'></a>Harlingen, Waddenzee ##
 |Measurement|
 |---|
-|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
-
-## <a name='harlingenwaddenzee'></a>Harlingen, Waddenzee ##
-|Measurement|
-|---|
-|[Waterhoogte](measurement_W.md#wathte_ow_verwachting)|
+|[Waterhoogte](measurement_W.md#wathte_ow_verwachting) (verwachting)|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow_astronomisch) (astronomisch)|
 
-## <a name='hasseltzwartewater'></a>Hasselt, Zwarte Water ##
+## <a name='hasselt_zwartewater'></a>Hasselt, Zwarte Water ##
 |Measurement|
 |---|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow_verwachting) (verwachting)|
 
-## <a name='hatokayatilburg'></a>Hato Kaya Tilburg ##
+## <a name='hato_kayatilburg'></a>Hato Kaya Tilburg ##
 |Measurement|
 |---|
 |[Geleidendheid](measurement_G.md#geldhd_ow)|
 |[Troebelheid](measurement_T.md#troebhd_ow)|
 |[Temperatuur](measurement_T.md#t_ow)|
 
-## <a name='hatomarinakralendijk'></a>Hato Marina Kralendijk ##
+## <a name='hato_marinakralendijk'></a>Hato Marina Kralendijk ##
 |Measurement|
 |---|
 |[Troebelheid](measurement_T.md#troebhd_ow)|
@@ -169,133 +137,131 @@ Measurements : [9](measurement_9.md) | [A](measurement_A.md) | [B](measurement_B
 ## <a name='hedel'></a>Hedel ##
 |Measurement|
 |---|
-|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow_verwachting) (verwachting)|
 
-## <a name='heelkanaal'></a>Heel, kanaal ##
+## <a name='heel_kanaal'></a>Heel, kanaal ##
 |Measurement|
 |---|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow_verwachting) (verwachting)|
 
-## <a name='heellateraalkanaallinnebuggenuminnamewerk'></a>Heel, Lateraal Kanaal Linne-Buggenum, innamewerk ##
+## <a name='heel_maas'></a>Heel, Maas ##
 |Measurement|
 |---|
-|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
-
-## <a name='heelmaas'></a>Heel, Maas ##
-|Measurement|
-|---|
+|[Waterhoogte](measurement_W.md#wathte_ow_verwachting) (verwachting)|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
 
 ## <a name='heesbeen'></a>Heesbeen ##
 |Measurement|
 |---|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow_verwachting) (verwachting)|
+|[Waterhoogte](measurement_W.md#wathte_ow_astronomisch) (astronomisch)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## <a name='heinenoordgoidschalxoord'></a>Heinenoord, Goidschalxoord ##
+## <a name='heinenoord_goidschalxoord'></a>Heinenoord, Goidschalxoord ##
 |Measurement|
 |---|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow_verwachting) (verwachting)|
+|[Waterhoogte](measurement_W.md#wathte_ow_astronomisch) (astronomisch)|
 
 ## <a name='hellevoetsluis'></a>Hellevoetsluis ##
 |Measurement|
 |---|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow_astronomisch) (astronomisch)|
+|[Waterhoogte](measurement_W.md#wathte_ow_verwachting) (verwachting)|
 
-## <a name='helmondaflaat'></a>Helmond RWZI aflaatwerk ##
-|Measurement|
-|---|
-|[Debiet](measurement_D.md#q_ow)|
-
-## <a name='helmondaflaatboven'></a>Helmond, aflaat, boven ##
+## <a name='helmond_aflaat_boven'></a>Helmond, aflaat, boven ##
 |Measurement|
 |---|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## <a name='helmonddevries'></a>Helmond, De Vries ##
+## <a name='helmond_devries'></a>Helmond, De Vries ##
 |Measurement|
 |---|
 |[Debiet](measurement_D.md#q_ow)|
 
-## <a name='helmondguldenaa'></a>Helmond, Gulden Aa ##
+## <a name='helmond_guldenaa'></a>Helmond, Gulden Aa ##
 |Measurement|
 |---|
 |[Debiet](measurement_D.md#q_ow)|
 
-## <a name='helmondguldenaaa'></a>Helmond, Gulden Aa, A ##
+## <a name='helmond_guldenaa_a'></a>Helmond, Gulden Aa, A ##
 |Measurement|
 |---|
 |[Debiet](measurement_D.md#q_ow)|
 
-## <a name='helmondguldenaab'></a>Helmond, Gulden Aa, B ##
+## <a name='helmond_guldenaa_b'></a>Helmond, Gulden Aa, B ##
 |Measurement|
 |---|
 |[Debiet](measurement_D.md#q_ow)|
 
-## <a name='helmondscheepstal'></a>Helmond stuw Scheepstal inlaat ##
+## <a name='helmond_scheepstal'></a>Helmond stuw Scheepstal inlaat ##
 |Measurement|
 |---|
 |[Debiet](measurement_D.md#q_ow)|
 
-## <a name='helmondschotenseloop'></a>Helmond, Schotense Loop ##
+## <a name='helmond_schotenseloop'></a>Helmond, Schotense Loop ##
 |Measurement|
 |---|
 |[Debiet](measurement_D.md#q_ow)|
 
-## <a name='helmondsluisaflaat1'></a>Helmond, sluis, aflaat 1 ##
+## <a name='helmond_sluis_aflaat1'></a>Helmond, sluis, aflaat 1 ##
 |Measurement|
 |---|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
 |[Debiet](measurement_D.md#q_ow)|
 
-## <a name='helmondsluisboven'></a>Helmond, sluis, boven ##
+## <a name='helmond_sluis_boven'></a>Helmond, sluis, boven ##
 |Measurement|
 |---|
 |[Debiet](measurement_D.md#q_ow)|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## <a name='helmondsluis7'></a>Helmond ZuidWillemsvaart Sluis 7 ##
+## <a name='helmond_sluis7'></a>Helmond ZuidWillemsvaart Sluis 7 ##
 |Measurement|
 |---|
 |[Debiet](measurement_D.md#q_ow)|
 
-## <a name='helmondsluis9inlaat'></a>Helmond, Sluis 9, inlaat ##
+## <a name='helmond_sluis9_inlaat'></a>Helmond, Sluis 9, inlaat ##
 |Measurement|
 |---|
 |[Debiet](measurement_D.md#q_ow)|
 
-## <a name='helmondsluis9uitlaat'></a>Helmond, Sluis 9, uitlaat ##
+## <a name='helmond_sluis9_uitlaat'></a>Helmond, Sluis 9, uitlaat ##
 |Measurement|
 |---|
 |[Debiet](measurement_D.md#q_ow)|
 
-## <a name='helmondspaarpand'></a>Helmond, spaarpand ##
+## <a name='helmond_spaarpand'></a>Helmond, spaarpand ##
 |Measurement|
 |---|
 |[Debiet](measurement_D.md#q_ow)|
 
-## <a name='helmondzuidwillemsvaartinlaatnieuweaa'></a>Helmond, Zuid-Willemsvaart, inlaat Nieuwe Aa ##
+## <a name='helmond_zuidwillemsvaart_inlaatnieuweaa'></a>Helmond, Zuid-Willemsvaart, inlaat Nieuwe Aa ##
 |Measurement|
 |---|
 |[Debiet](measurement_D.md#q_ow)|
 
-## <a name='hengelokoppelleiding'></a>Hengelo, Koppelleiding ##
+## <a name='hengelo_koppelleiding'></a>Hengelo, Koppelleiding ##
 |Measurement|
 |---|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## <a name='hengelooelerbrug'></a>Hengelo, Oelerbrug ##
+## <a name='hengelo_oelerbrug'></a>Hengelo, Oelerbrug ##
 |Measurement|
 |---|
 |[Temperatuur](measurement_T.md#t_ow)|
 
-## <a name='hengelosluisbeneden'></a>Hengelo, sluis, beneden ##
+## <a name='hengelo_sluis_beneden'></a>Hengelo, sluis, beneden ##
 |Measurement|
 |---|
 |[Temperatuur](measurement_T.md#t_ow)|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
-|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
 
-## <a name='hengelosluisboven'></a>Hengelo, sluis, boven ##
+## <a name='hengelo_sluis_boven'></a>Hengelo, sluis, boven ##
 |Measurement|
 |---|
 |[Temperatuur](measurement_T.md#t_ow)|
@@ -306,38 +272,42 @@ Measurements : [9](measurement_9.md) | [A](measurement_A.md) | [B](measurement_B
 |---|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
 
+## <a name='herkingen'></a>Herkingen ##
+|Measurement|
+|---|
+|[Aanwezigheid](measurement_A.md#aanwzhd_ow_schuim)|
+|[Troebelheid](measurement_T.md#troebhd_ow)|
+|[Aanwezigheid](measurement_A.md#aanwzhd_ow_geur)|
+|[Aanwezigheid](measurement_A.md#aanwzhd_ow_kleur)|
+|[Aanwezigheid](measurement_A.md#aanwzhd_ow_ole)|
+|[Aanwezigheid](measurement_A.md#aanwzhd_ow_vuil)|
+
 ## <a name='hoekvanholland'></a>Hoek van Holland ##
 |Measurement|
 |---|
 |[Geleidendheid](measurement_G.md#geldhd_ow)|
-|[Windsnelheid](measurement_W.md#windshd_lt)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_sio2)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_no2)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_ptot)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_sno3no2)|
-|[(massa)Concentratie](measurement_M.md#conctte_ow_spo4)|
-|[Waterhoogte](measurement_W.md#wathte_ow_verwachting)|
-|[NVT](measurement_N.md#nvt_ow_astronomisch)|
+|[Waterhoogte](measurement_W.md#wathte_ow_verwachting) (verwachting)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_o2)|
 |[Temperatuur](measurement_T.md#t_ow)|
 |[Windrichting](measurement_W.md#windrtg_lt)|
 |[Temperatuur](measurement_T.md#t_lt)|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
-|[Saliniteit](measurement_S.md#salntt_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow_astronomisch) (astronomisch)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_os)|
+|[(massa)Concentratie](measurement_M.md#conctte_ow_smbas)|
 |[(massa)Concentratie](measurement_M.md#conctte_ow_cl)|
 
-## <a name='hoekvanhollandlagelicht'></a>Hoek van Holland, lage licht ##
+## <a name='hoekvanholland_lagelicht'></a>Hoek van Holland, lage licht ##
 |Measurement|
 |---|
 |[Windrichting](measurement_W.md#windrtg_lt)|
-|[Windsnelheid](measurement_W.md#windshd_lt)|
 
-## <a name='hoekvanhollandmaeslantkering'></a>Hoek van Holland Maeslantkering ##
+## <a name='hoekvanholland_maeslantkering'></a>Hoek van Holland Maeslantkering ##
 |Measurement|
 |---|
-|[Windsnelheid](measurement_W.md#windshd_lt)|
 |[Windrichting](measurement_W.md#windrtg_lt)|
 
-## <a name='hoekvanhollandmaeslantkeringbenedennoord'></a>Hoek van Holland, Maeslantkering, Beneden, noord ##
+## <a name='hoekvanholland_maeslantkering_beneden_noord'></a>Hoek van Holland, Maeslantkering, Beneden, noord ##
 |Measurement|
 |---|
 |[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
@@ -345,16 +315,17 @@ Measurements : [9](measurement_9.md) | [A](measurement_A.md) | [B](measurement_B
 |[Maximale golfperiode in het tijdsdomein](measurement_M.md#tmax_ow)|
 |[Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/50_ow)|
 |[Golfperiode bepaald uit de spectrale momenten m-1 en m0](measurement_G.md#tm-10_ow)|
-|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
 |[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
-|[Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/10_ow)|
+|[Golfperiode die hoort bij Hmax](measurement_G.md#t_hmax_ow)|
 |[Maximale golfhoogte in het tijdsdomein](measurement_M.md#hmax_ow)|
 |[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow_astronomisch) (astronomisch)|
 |[Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#t1/3_ow)|
+|[Golfperiode die hoort bij H1/3](measurement_G.md#t_h1/3_ow)|
 |[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
 |[Golfperiode bepaald uit de spectrale momenten m-1 en m0](measurement_G.md#tm-10_ow)|
 
-## <a name='hollandsekustnoordalpha'></a>Hollandse Kust Noord Alpha ##
+## <a name='hollandsekust_noord_alpha'></a>Hollandse Kust Noord Alpha ##
 |Measurement|
 |---|
 |[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow)|
@@ -363,45 +334,43 @@ Measurements : [9](measurement_9.md) | [A](measurement_A.md) | [B](measurement_B
 |[Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#t1/3_ow)|
 |[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
 |[Temperatuur](measurement_T.md#t_lt)|
-|[Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/10_ow)|
 |[Temperatuur](measurement_T.md#t_ow)|
 |[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
-|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
 |[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
 |[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
 |[Golfperiode bepaald uit de spectrale momenten m-1 en m0](measurement_G.md#tm-10_ow)|
-|[Windsnelheid](measurement_W.md#windshd_lt)|
+|[Golfperiode die hoort bij Hmax](measurement_G.md#t_hmax_ow)|
+|[Golfperiode die hoort bij H1/3](measurement_G.md#t_h1/3_ow)|
 |[Golfperiode bepaald uit de spectrale momenten m-1 en m0](measurement_G.md#tm-10_ow)|
 |[Maximale golfhoogte in het tijdsdomein](measurement_M.md#hmax_ow)|
 |[Windrichting](measurement_W.md#windrtg_lt)|
 |[Maximale golfperiode in het tijdsdomein](measurement_M.md#tmax_ow)|
 |[Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/50_ow)|
 
-## <a name='hollandsekustnoordwindparknoord'></a>Hollandse Kust, Noord Windpark Noord ##
+## <a name='hollandsekust_noord_windparknoord'></a>Hollandse Kust, Noord Windpark Noord ##
 |Measurement|
 |---|
 |[Temperatuur](measurement_T.md#t_ow)|
 |[Gem. richting deining tov ware noorden in spectrale domein](measurement_G.md#th3_ow)|
 
-## <a name='hollandsekustnoordwindparkzuid'></a>Hollandse Kust, Noord Windpark Zuid ##
+## <a name='hollandsekust_noord_windparkzuid'></a>Hollandse Kust, Noord Windpark Zuid ##
 |Measurement|
 |---|
 |[Temperatuur](measurement_T.md#t_ow)|
 |[Gem. richting deining tov ware noorden in spectrale domein](measurement_G.md#th3_ow)|
 
-## <a name='hollandsekustwestalpha'></a>Hollandse Kust West Alpha ##
+## <a name='hollandsekust_west_alpha'></a>Hollandse Kust West Alpha ##
 |Measurement|
 |---|
 |[Temperatuur](measurement_T.md#t_lt)|
 
-## <a name='hollandsekustzuidalpha'></a>Hollandse Kust Zuid platform Alpha ##
+## <a name='hollandsekust_zuid_alpha'></a>Hollandse Kust Zuid platform Alpha ##
 |Measurement|
 |---|
-|[Gem. hoogte van hoogste 1/10 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/10_ow)|
 |[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
-|[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
 |[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
 |[Doorzicht](measurement_D.md#zicht_lt)|
+|[Golfperiode die hoort bij Hmax](measurement_G.md#t_hmax_ow)|
 |[Luchtdruk](measurement_L.md#luchtdk_lt)|
 |[Significante deiningshoogte in het spectrale domein](measurement_S.md#hte3_ow)|
 |[Golfperiode bepaald uit de spectrale momenten m0 en m2](measurement_G.md#tm02_ow)|
@@ -411,22 +380,23 @@ Measurements : [9](measurement_9.md) | [A](measurement_A.md) | [B](measurement_B
 |[Gem. golfperiode langste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#t1/3_ow)|
 |[Maximale golfperiode in het tijdsdomein](measurement_M.md#tmax_ow)|
 |[Golfperiode bepaald uit de spectrale momenten m-1 en m0](measurement_G.md#tm-10_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
 |[Gem. hoogte van hoogste 1/50 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/50_ow)|
 |[Temperatuur](measurement_T.md#t_lt)|
+|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Golfperiode die hoort bij H1/3](measurement_G.md#t_h1/3_ow)|
 
-## <a name='hollandsekustzuidalpha1'></a>Hollandse Kust Zuid platform Alpha 1 ##
+## <a name='hollandsekust_zuid_alpha_1'></a>Hollandse Kust Zuid platform Alpha 1 ##
 |Measurement|
 |---|
-|[Windsnelheid](measurement_W.md#windshd_lt)|
 |[Windrichting](measurement_W.md#windrtg_lt)|
 
-## <a name='hollandsekustzuidalpha2'></a>Hollandse Kust Zuid platform Alpha 2 ##
+## <a name='hollandsekust_zuid_alpha_2'></a>Hollandse Kust Zuid platform Alpha 2 ##
 |Measurement|
 |---|
-|[Windsnelheid](measurement_W.md#windshd_lt)|
 |[Windrichting](measurement_W.md#windrtg_lt)|
 
-## <a name='hollandsekustzuidwindparknoord'></a>Hollandse Kust, Zuid Windpark Noord ##
+## <a name='hollandsekust_zuid_windparknoord'></a>Hollandse Kust, Zuid Windpark Noord ##
 |Measurement|
 |---|
 |[Golffrequentie bij maximum v.h. variantiedichtheidspectrum](measurement_G.md#fp_ow)|
@@ -435,7 +405,7 @@ Measurements : [9](measurement_9.md) | [A](measurement_A.md) | [B](measurement_B
 |[Stroomrichting](measurement_S.md#stroomrtg_ow)|
 |[Gem. richting deining tov ware noorden in spectrale domein](measurement_G.md#th3_ow)|
 
-## <a name='hollandsekustzuidwindparkzuid'></a>Hollandse Kust, Zuid Windpark Zuid ##
+## <a name='hollandsekust_zuid_windparkzuid'></a>Hollandse Kust, Zuid Windpark Zuid ##
 |Measurement|
 |---|
 |[Significante golfhoogte in het spectrale domein](measurement_S.md#hm0_ow)|
@@ -444,47 +414,39 @@ Measurements : [9](measurement_9.md) | [A](measurement_A.md) | [B](measurement_B
 |[Temperatuur](measurement_T.md#t_ow)|
 |[Gem. richting deining tov ware noorden in spectrale domein](measurement_G.md#th3_ow)|
 
-## <a name='holthemevecht'></a>Holtheme Vecht ##
+## <a name='holtheme_vecht'></a>Holtheme Vecht ##
 |Measurement|
 |---|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
 
-## <a name='holwerdveersteiger'></a>Holwerd, Veersteiger ##
+## <a name='holwerd_veersteiger'></a>Holwerd, Veersteiger ##
 |Measurement|
 |---|
-|[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow_astronomisch) (astronomisch)|
 
-## <a name='hoornschehop'></a>Hoornsche Hop ##
+## <a name='hoofdplaat'></a>Hoofdplaat ##
 |Measurement|
 |---|
-|[Saliniteit](measurement_S.md#salntt_ow)|
-|[Troebelheid](measurement_T.md#troebhd_ow)|
-|[Extinctie](measurement_E.md#e_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow_verwachting) (verwachting)|
 
-## <a name='houtribdijkijsselmeer'></a>Houtribdijk, IJsselmeer ##
+## <a name='houtribdijk_ijsselmeer'></a>Houtribdijk, IJsselmeer ##
 |Measurement|
 |---|
-|[Windsnelheid](measurement_W.md#windshd_lt)|
-|[Windsnelheid](measurement_W.md#windshd_lt)|
 |[Windrichting](measurement_W.md#windrtg_lt)|
 
 ## <a name='huibertgat'></a>Huibertgat ##
 |Measurement|
 |---|
 |[Temperatuur](measurement_T.md#t_lt)|
-|[Windsnelheid](measurement_W.md#windshd_lt)|
+|[Waterhoogte](measurement_W.md#wathte_ow_verwachting) (verwachting)|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
+|[Waterhoogte](measurement_W.md#wathte_ow_astronomisch) (astronomisch)|
 |[Windrichting](measurement_W.md#windrtg_lt)|
 
-## <a name='huibertgatoost'></a>Huibertgat, oost ##
-|Measurement|
-|---|
-|[Gem. hoogte van hoogste 1/3 deel v.d. golven (tijdsdomein)](measurement_G.md#h1/3_ow_)|
-
-## <a name='huissennederrijn'></a>Huissen, Nederrijn ##
+## <a name='huissen_nederrijn'></a>Huissen, Nederrijn ##
 |Measurement|
 |---|
 |[Waterhoogte](measurement_W.md#wathte_ow)|
 
 
-_generated on 04-02-2026_
+_generated on 17-03-2026_

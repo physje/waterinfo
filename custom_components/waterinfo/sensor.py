@@ -7,7 +7,6 @@ import logging
 
 import ddlpy
 import numpy as np
-import numpy.typing as npt
 import pandas as pd
 from scipy.signal import find_peaks, savgol_filter
 
@@ -24,6 +23,7 @@ from homeassistant.helpers.entity_platform import AddEntitiesCallback
 
 from .const import (
     ATTR_EXPECTED_TIME,
+    ATTR_FORECAST,
     ATTR_LAST_CHECK,
     ATTR_LAST_DATA,
     ATTR_TIMES,
@@ -192,8 +192,7 @@ class WaterInfoMetingSensor(SensorEntity):
         self._last_data = 0
         self._last_check = 0
         self._expec_time = 0
-        self._times = {}
-        self._valies = {}
+        self._forecast = []
         self._attrs = {}
 
     @property
@@ -217,8 +216,7 @@ class WaterInfoMetingSensor(SensorEntity):
         # Else (so no measurement and no calculated or forecasted sensor) list with times and values
         else:
             self._attrs = {
-                ATTR_TIMES: self._times,
-                ATTR_VALUES: self._values,
+                ATTR_FORECAST: self._forecast,
                 ATTR_LAST_CHECK: self._last_check,
             }
 
@@ -265,7 +263,7 @@ class WaterInfoMetingSensor(SensorEntity):
         else:
             await self.hass.async_add_executor_job(collectObservation, location)
 
-        if isinstance(location["observation"], float):
+        if "observation" in location and isinstance(location["observation"], float):
             self._attr_native_value = location["observation"]
             self._last_check = dt.now(timezone.utc)
 
@@ -279,10 +277,9 @@ class WaterInfoMetingSensor(SensorEntity):
                 location["observation"],
                 location["tijdstip"],
             )
-        elif isinstance(location["observation"], list):
-            self._attr_native_value = location["observation"][-1]
-            self._times = location["times"]
-            self._values = location["observation"]
+        elif "forecast" in location and isinstance(location["forecast"], list):
+            self._attr_native_value = location["last_value"]
+            self._forecast = location["forecast"]
             self._last_check = dt.now(timezone.utc)
 
 
@@ -324,8 +321,8 @@ def collectCalculatedTideObservation(data, is_low_tide: bool) -> dict:
         # One day should be enough to get the next low and high tide
         observations = ddlpy.measurements(
             data,
-            start_date=dt.now(tz=timezone.utc) - timedelta(minutes=10),
-            end_date=dt.now(tz=timezone.utc) + timedelta(days=1),
+            start_date=dt.now(timezone.utc) - timedelta(minutes=10),
+            end_date=dt.now(timezone.utc) + timedelta(days=1),
         )
         observations = ddlpy.simplify_dataframe(observations)
 
@@ -354,8 +351,8 @@ def collectForecastTideObservation(data, is_low_tide: bool) -> dict:
         # To make sure we can catch an ongoing tide we start 6 hours back and go 1 day forward
         observations = ddlpy.measurements(
             data,
-            start_date=dt.now() - timedelta(hours=6),
-            end_date=dt.now() + timedelta(days=1),
+            start_date=dt.now(timezone.utc) - timedelta(hours=6),
+            end_date=dt.now(timezone.utc) + timedelta(days=1),
         )
         observations = ddlpy.simplify_dataframe(observations)
 
@@ -420,70 +417,32 @@ def collectExpectation(data) -> dict:
 
         ddlpy_data = ddlpy.measurements(data, start_date=start_date, end_date=end_date)
 
-        times = []
-        values = []
+        forecast = []
         for index, row in ddlpy_data.iterrows():
             timestamp = pd.to_datetime(index).tz_convert("UTC")
             waarde = row.get("Meetwaarde.Waarde_Numeriek")
 
             if waarde is not None:
-                times.append(timestamp)
-                values.append(waarde)
-                # records.append({"Tijdstip": timestamp, "Waarde": waarde})
+                forecast.append({ATTR_TIMES: timestamp, ATTR_VALUES: waarde})
 
         # df = pd.DataFrame(records)
         # df.set_index("Tijdstip", inplace=True)
         # df = df.sort_index(ascending=False)
 
-        data["observation"] = values
-        data["times"] = times
+        data["forecast"] = forecast
+        data["last_value"] = waarde
 
         _LOGGER.info(
             "%s predicted elements for %s at %s",
-            len(values),
+            len(forecast),
             data["Grootheid.Code"],
             data["Naam"],
         )
     except:
-        data["observation"] = None
-        data["tijdstip"] = None
+        data["forecast"] = None
 
         _LOGGER.info(
             "No predicted elements for %s at %s", data["Grootheid.Code"], data["Naam"]
         )
 
     return data
-
-
-def find_tide_extremes(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame]:
-    """
-    @leondeklerk
-    https://github.com/leondeklerk/waterinfo
-
-    Find tide extremes using scipy.signal.find_peaks.
-
-    Args:
-        df: DataFrame with 'Waarde' column containing water level predictions and datetime index
-
-    Returns:
-        Tuple of (high_tides, low_tides) DataFrames
-    """
-    if df.empty or "Waarde" not in df.columns:
-        return pd.DataFrame(), pd.DataFrame()
-
-    values: npt.NDArray[np.float64] = df["Waarde"].to_numpy()
-
-    # Find peaks (high tides)
-    high_indices, _ = find_peaks(
-        values, distance=PEAK_DISTANCE, prominence=PEAK_PROMINENCE
-    )
-
-    # Find troughs (low tides) by inverting the signal
-    low_indices, _ = find_peaks(
-        -values, distance=PEAK_DISTANCE, prominence=PEAK_PROMINENCE
-    )
-
-    high_tides = df.iloc[high_indices]
-    low_tides = df.iloc[low_indices]
-
-    return high_tides, low_tides
