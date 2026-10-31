@@ -1,7 +1,5 @@
 """Sensor for Rijkswaterstaat WaterInfo integration."""
 
-from __future__ import annotations
-
 from datetime import datetime as dt, timedelta, timezone
 import logging
 
@@ -103,12 +101,12 @@ class WaterInfoMetingSensor(SensorEntity):
         else:
             self._attr_name = entry[CONST_MEAS_NAME]
 
-        if entry[CONST_PROCES_TYPE] in ["verwachting"] and not entry[
+        if entry[CONST_PROCES_TYPE] == "verwachting" and not entry[
             CONST_SENSOR_UNIQUE
         ].startswith(TIDE_SENSOR_FORECAST):
             self._attr_name = self._attr_name + " (verwacht)"
 
-        if entry[CONST_PROCES_TYPE] in ["astronomisch"] and not entry[
+        if entry[CONST_PROCES_TYPE] == "astronomisch" and not entry[
             CONST_SENSOR_UNIQUE
         ].startswith(TIDE_SENSOR_CALCULATED):
             self._attr_name = self._attr_name + " (berekend)"
@@ -261,7 +259,7 @@ class WaterInfoMetingSensor(SensorEntity):
                 location,
                 self._sensor_unique.endswith("_LW"),
             )
-        elif self._procestype not in ["meting"]:
+        elif self._procestype != "meting":
             await self.hass.async_add_executor_job(collectExpectation, location)
         else:
             await self.hass.async_add_executor_job(collectObservation, location)
@@ -291,9 +289,7 @@ def _latest_numeric_observation(observations):
     if observations.empty:
         return None
 
-    values = pd.to_numeric(
-        observations["Meetwaarde.Waarde_Numeriek"], errors="coerce"
-    )
+    values = pd.to_numeric(observations["Meetwaarde.Waarde_Numeriek"], errors="coerce")
     if "Tijdstip" in observations.columns:
         timestamps = pd.to_datetime(observations["Tijdstip"], utc=True, errors="coerce")
     else:
@@ -322,9 +318,7 @@ def collectObservation(data) -> dict:
             _LOGGER.debug("Unable to retrieve latest observations: %s", err)
 
         now = dt.now(timezone.utc)
-        freshness_cutoff = pd.Timestamp(
-            now - timedelta(days=DEFAULT_TIMEDELTA)
-        )
+        freshness_cutoff = pd.Timestamp(now - timedelta(days=DEFAULT_TIMEDELTA))
 
         # OphalenLaatsteWaarnemingen can omit the active series and return only
         # historical series. Fall back to a bounded observations request when
