@@ -45,6 +45,7 @@ from .const import (
     CONST_SENSOR,
     CONST_SENSOR_UNIQUE,
     CONST_UNIT,
+    DEFAULT_TIMEDELTA,
     DOMAIN,
     TIDE_SENSOR_CALCULATED,
     TIDE_SENSOR_FORECAST,
@@ -228,6 +229,8 @@ class WaterInfoMetingSensor(SensorEntity):
         selected = {
             "Compartiment.Code": self._comp_code,
             "Grootheid.Code": self._grootheid,
+            "Hoedanigheid.Code": self._property,
+            "ProcesType": self._procestype,
             "Code": self._id,
             "Lat": self._lat,
             "Lon": self._long,
@@ -283,32 +286,76 @@ class WaterInfoMetingSensor(SensorEntity):
             self._last_check = dt.now(timezone.utc)
 
 
+def _latest_numeric_observation(observations):
+    """Return the newest numeric value and timestamp from a ddlpy response."""
+    if observations.empty:
+        return None
+
+    values = pd.to_numeric(
+        observations["Meetwaarde.Waarde_Numeriek"], errors="coerce"
+    )
+    if "Tijdstip" in observations.columns:
+        timestamps = pd.to_datetime(observations["Tijdstip"], utc=True, errors="coerce")
+    else:
+        timestamps = pd.to_datetime(observations.index, utc=True, errors="coerce")
+
+    records = pd.DataFrame(
+        {
+            "Tijdstip": timestamps.to_numpy(),
+            "Waarde": values.to_numpy(),
+        }
+    ).dropna()
+    if records.empty:
+        return None
+
+    latest = records.sort_values("Tijdstip").iloc[-1]
+    return float(latest["Waarde"]), pd.Timestamp(latest["Tijdstip"])
+
+
 def collectObservation(data) -> dict:
-    """Collect last measurement for given location/measurement."""
-
+    """Collect the newest recent measurement for a location/measurement."""
     try:
-        observation = ddlpy.measurements_latest(data)
+        latest = None
+        try:
+            latest = _latest_numeric_observation(ddlpy.measurements_latest(data))
+        except Exception as err:
+            _LOGGER.debug("Unable to retrieve latest observations: %s", err)
 
-        records = []
-        for index, row in observation.iterrows():
-            timestamp = pd.to_datetime(row.get("Tijdstip")).tz_convert("UTC")
-            waarde = row.get("Meetwaarde.Waarde_Numeriek")
+        now = dt.now(timezone.utc)
+        freshness_cutoff = pd.Timestamp(
+            now - timedelta(days=DEFAULT_TIMEDELTA)
+        )
 
-            if waarde is not None:
-                records.append({"Tijdstip": timestamp, "Waarde": waarde})
+        # OphalenLaatsteWaarnemingen can omit the active series and return only
+        # historical series. Fall back to a bounded observations request when
+        # its newest result is missing or older than the integration's active
+        # measurement window.
+        if latest is None or latest[1] < freshness_cutoff:
+            recent = ddlpy.measurements(
+                data,
+                start_date=now - timedelta(days=DEFAULT_TIMEDELTA),
+                end_date=now,
+            )
+            recent_latest = _latest_numeric_observation(recent)
+            if recent_latest is not None and (
+                latest is None or recent_latest[1] > latest[1]
+            ):
+                latest = recent_latest
 
-        df = pd.DataFrame(records)
-        df.set_index("Tijdstip", inplace=True)
-        df = df.sort_index(ascending=False)
+        if latest is None:
+            raise ValueError("No numeric observations available")
 
-        data["observation"] = df.head(1)["Waarde"].to_numpy()[0]
-        data["tijdstip"] = df.head(1).index.to_numpy()[0]
-    except:
+        data["observation"] = latest[0]
+        data["tijdstip"] = latest[1].to_pydatetime()
+    except Exception as err:
         data["observation"] = None
         data["tijdstip"] = None
 
         _LOGGER.debug(
-            "No observations for %s at %s", data["Grootheid.Code"], data["Naam"]
+            "No observations for %s at %s: %s",
+            data["Grootheid.Code"],
+            data["Naam"],
+            err,
         )
 
     return data
